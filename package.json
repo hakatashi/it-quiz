@@ -1,0 +1,15 @@
+{
+  "name": "it-quiz",
+  "description": "it-quiz",
+  "version": "0.0.0",
+  "author": "Koki Takahashi <hakatasiloving@gmail.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "CC0-1.0",
+  "private": true
+}

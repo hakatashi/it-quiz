@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "it-quiz",
+  "author": "Koki Takahashi <hakatasiloving@gmail.com>",
+  "dateModified": "2024-06-22T06:57:29.167Z",
+  "readingOrder": [
+    {
+      "url": "manuscript.html",
+      "name": "吾輩は猫である。"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
