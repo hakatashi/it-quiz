@@ -7,11 +7,12 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "name": "it-quiz",
   "author": "Koki Takahashi <hakatasiloving@gmail.com>",
-  "dateModified": "2024-06-22T06:57:29.167Z",
+  "inLanguage": "ja",
+  "dateModified": "2024-06-23T17:06:58.309Z",
   "readingOrder": [
     {
       "url": "manuscript.html",
-      "name": "吾輩は猫である。"
+      "name": "クイズ問題集"
     }
   ],
   "resources": [],

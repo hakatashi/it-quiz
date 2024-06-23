@@ -1,0 +1,64 @@
+
+:root {
+  --vs-font-family: 'Noto Sans CJK JP';
+
+  --vs-spacing-rlh: calc(var(--vs-line-height) * 0.2rem);
+
+  --vs-page--margin-top: 8mm;
+  --vs-page--margin-bottom: 8mm;
+  --vs-page--margin-inner: 14mm;
+  --vs-page--margin-outer: 8mm;
+
+  --vs--table-border-width: calc(var(--vs-border-width) * 0.3);
+  --vs--table-break-inside: avoid;
+  --vs--table-font-size: 100%;
+  --vs--table-margin-block: var(--vs-spacing-rlh);
+  --vs--table-margin-inline: auto;
+
+  --vs--table-container-overflow-x-on-screen: auto;
+  --vs--table-container-overflow-x-on-print: visible;
+
+  --vs--table-cell-padding-block: 0.2rem;
+  --vs--table-cell-padding-inline: 0.5rem;
+}
+
+.quizzes {
+  font-size: 2.6mm;
+  font-weight: 400;
+}
+
+.quizzes {
+  border-width: 0;
+}
+
+.quizzes td, .quizzes th, .quizzes tr {
+  border-block-start-width: 0;
+  border-block-end-width: 0;
+}
+
+.quizzes tbody tr:nth-child(odd) {
+  background-color: #f0f0f0;
+}
+
+.quizzes .alternative-answers {
+  /* font-family: 'Noto Serif CJK JP'; */
+  font-family: 'BIZ UDPMincho', sans-serif;
+  font-size: 2.2mm;
+  line-height: 3mm;
+}
+
+.quizzes .alternative-answers::before {
+  content: '別解';
+
+  display: inline-block;
+  background: black;
+  color: white;
+
+  font-weight: bold;
+  font-size: 0.8em;
+  font-family: var(--vs-font-family);
+
+  padding: 0em 0.4em;
+  margin-inline-end: 0.4em;
+  border-radius: 0.2em;
+}
