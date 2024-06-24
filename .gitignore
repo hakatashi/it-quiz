@@ -132,3 +132,5 @@ dist
 # Output
 *.pdf
 /book
+/manuscript.html
+google_application_credentials*

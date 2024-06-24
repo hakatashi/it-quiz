@@ -1,0 +1,32 @@
+doctype html
+html(lang="ja")
+  head
+    meta(charset="utf-8")
+    title クイズ問題集
+    meta(name="viewport", content="width=device-width, initial-scale=1")
+    link(rel="stylesheet", type="text/css", href="themes/packages/@vivliostyle/theme-base/theme-all.css")
+    link(rel="stylesheet", type="text/css", href="styles.css")
+  body
+    section.level1(aria-labelledby="クイズ問題集")
+      h1(id="ITクイズ2000問") ITクイズ2000問
+      table.quizzes
+        thead
+          tr
+            th #
+            th 問題文
+            th 正答
+        tbody
+          each quiz, index in quizzes
+            tr.quiz
+              td.quiz-index= index
+              td.quiz-question
+                | !{quiz.question}
+              td
+                strong.main-answer= quiz.answer
+                br
+                if quiz.alternativeAnswers.length > 0
+                  div.alternative-answers
+                    each alternativeAnswer, answerIndex in quiz.alternativeAnswers
+                      if answerIndex > 0
+                        | !{' / '}
+                      span.alternative-answer= alternativeAnswer

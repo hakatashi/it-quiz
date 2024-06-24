@@ -8,7 +8,13 @@
     "preview": "vivliostyle preview"
   },
   "dependencies": {
-    "@vivliostyle/cli": "latest"
+    "@vivliostyle/cli": "latest",
+    "aozora-ruby-parser": "^0.0.4",
+    "dotenv": "^16.4.5",
+    "eta": "^3.4.0",
+    "googleapis": "^140.0.0",
+    "pug": "^3.0.3",
+    "tsx": "^4.15.7"
   },
   "license": "CC0-1.0",
   "private": true

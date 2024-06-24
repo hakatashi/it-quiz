@@ -25,9 +25,6 @@
 .quizzes {
   font-size: 2.6mm;
   font-weight: 400;
-}
-
-.quizzes {
   border-width: 0;
 }
 
@@ -40,9 +37,31 @@
   background-color: #f0f0f0;
 }
 
+.quizzes .quiz-index {
+  width: 4em;
+  text-align: right;
+}
+
+.quizzes .quiz-question {
+  text-autospace: ideograph-alpha ideograph-numeric;
+}
+
+.quizzes .quiz-question em {
+  display: inline-block;
+
+  font-style: normal;
+  text-decoration: underline;
+  text-underline-position: under;
+  text-decoration-color: black;
+  text-decoration-style: wavy;
+}
+
+.quizzes .main-answer {
+  font-weight: 700;
+}
+
 .quizzes .alternative-answers {
-  /* font-family: 'Noto Serif CJK JP'; */
-  font-family: 'BIZ UDPMincho', sans-serif;
+  font-family: 'BIZ UDPMincho';
   font-size: 2.2mm;
   line-height: 3mm;
 }
