@@ -1,14 +1,8 @@
-# It Quiz
+# ITクイズ メンテナンス用リポジトリ
 
-ITクイズ
+アプリ「みんなで早押しクイズ」で出題したITクイズの過去問をまとめたものです。
 
-> created by [create-book](https://github.com/vivliostyle/create-book).
+見やすく編集したデータ版/紙版の問題集も合わせてご利用ください。
 
-## References
-
-- VFM <https://vivliostyle.github.io/vfm/#/vfm>
-- Vivliostyle CLI <https://github.com/vivliostyle/vivliostyle-cli#readme>
-- Vivliostyle Themes <https://github.com/vivliostyle/themes#readme>
-- Awesome Vivliostyle <https://github.com/vivliostyle/awesome-vivliostyle#readme>
-- Vivliostyle (GitHub) <https://github.com/vivliostyle>
-- Vivliostyle <https://vivliostyle.org>
+- データ版: https://hakatashi.booth.pm/items/5866918
+- 紙版: https://hakatashi.booth.pm/items/5867193
