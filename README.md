@@ -6,3 +6,11 @@
 
 - データ版: https://hakatashi.booth.pm/items/5866918
 - 紙版: https://hakatashi.booth.pm/items/5867193
+
+## 問題データの構造
+
+WIP
+
+## 問題不備などを見つけた場合は
+
+WIP
