@@ -1,0 +1,1084 @@
+- question: 「やりらふぃー」「きゅんです」「ぴえんヶ丘」など多くの流行語を2020年に生み出した、ByteDance社が運営するショート動画共有サービスは何でしょう？
+  answer: TikTok
+  alternativeAnswers:
+    - ティックトック
+  description: (時事)
+- question: AT&Tとの訴訟により公開が停止されたものの2016年に22年ぶりにソースコードが公開されたことでも話題となった、現在のFreeBSDやNetBSDの源流となったBSDシリーズのOSの名前は何でしょう？
+  answer: 386BSD
+  description: (時事)
+- question: egrep、yacc、lex、awkなど、形式言語にまつわる多くのツールを生み出し、2020年度チューリング賞を受賞したカナダの計算機科学者は誰でしょう？
+  answer: アルフレッド・エイホ
+  alternativeAnswers:
+    - Alfred Aho
+  description: (時事)
+- question: 2020年11月にリリースされた最新版ではARMベースへの大規模な変更が行われたことでも話題となった、Apple社が開発するデスクトップPC向けオペレーティングシステムは何でしょう？
+  answer: macOS
+  description: 旧称「Macintosh」「Mac OS X」「OS X」は△ (時事)
+- question: 2021年には漫画連載も開始した、本名を暮井慧というプログラミングコミュニティ「プログラミング生放送」のマスコットキャラクターは誰でしょう？
+  answer: プロ生ちゃん
+  description: (時事)
+- question: 2020年の「top500」で1位を獲得した、スーパーコンピューター「<ruby><rb>京</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby>」の後継となる日本のコンピューターは何でしょう？
+  answer: 富岳
+  description: 「富嶽」ではない (時事)
+- question: 2021年から発行されたイギリスの新50ポンド紙幣の肖像にも選ばれた、「現代計算機科学の父」とも呼ばれる科学者は誰でしょう？
+  answer: アラン・チューリング
+  alternativeAnswers:
+    - Alan Turing
+  description: (時事)
+- question: 正式名称を「高度情報通信ネットワーク社会形成基本法」という、2021年9月にいわゆるデジタル改革関連法によって廃止された法律は何でしょう？
+  answer: IT基本法
+  description: (時事)
+- question: 2021年9月に新たに設立された、行政サービスのIT化などを推進する日本の省庁は何でしょう？
+  answer: デジタル庁
+  description: (時事)
+- question: 2020年に世界保健機関が命名した、まるで感染症のように誤った情報が爆発的に拡散する様子を指す造語は何でしょう？
+  answer: インフォデミック
+  alternativeAnswers:
+    - infodemic
+  description: (時事)
+- question: 2020年にはフォートナイトによるパロディ映像も作られた、初代マッキントッシュの発売を記念して制作されたアップル社の伝説的なテレビCMは何でしょう？
+  answer: '1984'
+  description: (時事)
+- question: 2020年9月にロゴを変更し、トレードマークの青い楕円がなくなった、CPUの製造などで知られるアメリカの電子機器メーカーは何でしょう？
+  answer: Intel
+  alternativeAnswers:
+    - インテル
+  description: (時事)
+- question: 2020年11月にマイクロソフトへの入社を発表した、プログラミング言語Pythonの作者は誰でしょう？
+  answer: グイド・ヴァン・ロッサム
+  alternativeAnswers:
+    - Guido van Rossum
+  description: (時事)
+- question: 「世界最年少のプログラマー」として2020年にギネスに登録された、アルハム・タルサニアが習得したと認定されたプログラミング言語は何でしょう？
+  answer: Python
+  description: (時事)
+- question: 2020年6月に日本の「MN-3」が世界一を達成した、スーパーコンピューターの消費電力あたりの性能効率ランキングは何でしょう？
+  answer: Green500
+  description: (時事)
+- question: 2021年1月に富豪ランキングでイーロン・マスクに1位の座を譲った、Amazon.comの共同設立者は誰でしょう？
+  answer: ジェフ・ベゾス
+  alternativeAnswers:
+    - ジェフ・ベイゾス
+    - ジェフリー・プレストン・ベゾス
+    - Jeff Bezos
+  description: (時事)
+- question: シャーマン法、クレイトン法、連邦取引委員会法などから構成される、2020年に連邦取引委員会がGoogleやFacebookを提訴する根拠法となった一連の法律を総称して何というでしょう？
+  answer: 反トラスト法
+  alternativeAnswers:
+    - アンチトラスト法
+  description: (時事)
+- question: Facebookが収集した個人情報を大統領選挙のトランプ陣営のマーケティングに利用したという疑惑が報じられた、イギリスの選挙コンサルティング会社は何でしょう？
+  answer: ケンブリッジ・アナリティカ
+  alternativeAnswers:
+    - Cambridge Analytica
+  description: (時事)
+- question: 2021年に専用キーボードが販売終了した、左右に分割されたスペースキーを用いることが特徴のかな入力方式は何でしょう？
+  answer: 親指シフト
+  alternativeAnswers:
+    - NICOLA配列
+  description: (時事)
+- question: 「ロボットは東大に入れるか」という研究プロジェクトで開発され、2021年度東大入試に合格することを目標としていた人工知能の名前は何でしょう？
+  answer: 東ロボくん
+  description: (時事)
+- question: 2021年10月にHIKAKINが入手したことを公表した、YouTube登録者数が1000万人を超えたチャンネルに送られる賞品は「何の盾」でしょう？
+  answer: ダイヤモンドの盾
+  alternativeAnswers:
+    - ダイヤモンド
+  description: (時事)
+- question: 箱に向かって勢いよく滑り込むなど、奇想天外な行動を収めた動画がYouTubeを中心に爆発的に流行した、日本のタレント猫の名前は何でしょう？
+  answer: まる
+  description: (時事)
+- question: URLが多く投稿されることからその名がついた、成人向けの画像全般を投稿することを目的としていたものの、2020年に閉鎖され話題となった掲示板は何でしょう？
+  answer: 半角文字列板
+  alternativeAnswers:
+    - 半角文字列
+    - 半角板
+  description: (時事)
+- question: 2021年3月にサービス終了した、Twitter社がかつて運営していたライブ動画共有サービスは何でしょう？
+  answer: Periscope
+  alternativeAnswers:
+    - ペリスコープ
+  description: (時事)
+- question: 群青ちきんによる企画でえっちな画像を生成するのに用いられたことでも知られる、交配や突然変異を繰り返して近似解を探索する進化的アルゴリズムの一種は何でしょう？
+  answer: 遺伝的アルゴリズム
+  alternativeAnswers:
+    - genetic algorithm
+  description: (時事)
+- question: 「魔女が拾った男の子が、成長して魔女より大きくなる」というストーリーをコンセプトとする、2018年に流行したTwitterハッシュタグは何でしょう？
+  answer: '#魔女集会で会いましょう'
+  description: (時事)
+- question: 2020年のYouTubeチャンネル総再生数日本1位、TikTokのフォロワー数日本1位などの記録を持つ、日本のTikTokerは誰でしょう？
+  answer: じゅんや
+  alternativeAnswers:
+    - Junya
+  description: (時事)
+- question: 2020年12月に同社のソフトウェアOrionがサイバー攻撃を受け、米国政府に甚大な被害をもたらしたことで話題となった、テキサスに本社を置くIT企業は何でしょう？
+  answer: ソーラーウィンズ社
+  alternativeAnswers:
+    - ソーラーウィンズ
+    - SolarWinds
+    - SolarWinds Inc.
+  description: (時事)
+- question: 2020年にはその機能の大部分が「Meet」と「Chat」に分離された、Googleが提供するメッセージアプリケーションは何でしょう？
+  answer: Google Hangouts
+  alternativeAnswers:
+    - Hangouts
+    - Googleハングアウト
+    - ハングアウト
+  description: (時事)
+- question: 2021年6月、京コンピュータの運用終了とともに「京コンピュータ前駅」から名称変更した、神戸新交通ポートアイランド線の駅は何でしょう？
+  answer: 計算科学センター〈神戸どうぶつ王国・「富岳」前〉駅
+  alternativeAnswers:
+    - 計算科学センター駅
+    - 計算科学センター
+  description: (時事)
+- question: 日経新聞社の調査で2020年にFacebookを抜き、ダウンロード数世界1位のアプリとなった、中国のバイトダンス社が運営するショート動画共有サービスは何でしょう？
+  answer: TikTok
+  alternativeAnswers:
+    - ティックトック
+  description: (時事)
+- question: 「見つける天才。」というキャッチコピーで2021年4月に発表された、iPhoneなどと接続して忘れ物防止タグとして機能するAppleの製品は何でしょう？
+  answer: AirTag
+  alternativeAnswers:
+    - エアータグ
+  description: (時事)
+- question: 2020年10月に世界初の中央銀行デジタル通貨「サンドダラー」を発行した国はどこでしょう？
+  answer: バハマ
+  alternativeAnswers:
+    - バハマ国
+  description: (時事)
+- question: その社名は「インテグレーテッドエレクトロニクス」を略したものである、2022年に会社としては約20年ぶりとなるグラフィックボード製品を発売したアメリカの半導体メーカーは何でしょう？
+  answer: Intel
+  alternativeAnswers:
+    - インテル
+  description: (時事)
+- question: 2021年3月には第4世代となるマシンが新たに運用開始した、世界規模の自然現象の解析を目的として開発されたNECのベクトル型スーパーコンピュータは何でしょう？
+  answer: 地球シミュレータ
+  description: 「ベクトル型スーパーコンピュータとしては世界一位」と言いたいが、そもそもベクトル型って定義曖昧？要調査 (時事)
+- question: 2021年8月に新メンバー3名を加えて再始動した、「Hello World」「走れ☆駆け出しエンジニア」などの代表曲を持つプログラミング拡散系アイドルは何でしょう？
+  answer: 電脳カプセル
+  description: (時事)
+- question: 約1年半に及ぶ買収闘争の末、2021年4月に富士フイルムとの提携を解除し日本市場から看板を下ろした、プリンターや複合機の製造で知られるアメリカのIT企業は何でしょう？
+  answer: ゼロックス
+  alternativeAnswers:
+    - ゼロックスコーポレーション
+    - Xerox
+    - Xerox Corporation
+  description: (時事)
+- question: 2021年3月から3大キャリアが提供する、月20GBのデータ容量を基準とするいわゆる「新料金プラン」といえば、auのpovo、ソフトバンクのLINEMOとドコモの何でしょう？
+  answer: ahamo
+  alternativeAnswers:
+    - アハモ
+  description: (時事)
+- question: Twitterが2021年9月頃から一般提供している、クリエイターが購読者限定の投稿を行い、収益を得られる機能は何でしょう？
+  answer: スーパーフォロー
+  alternativeAnswers:
+    - super follow
+  description: (時事)
+- question: 2015年に採択された「2030アジェンダ」の前文に由来する言葉で、2021年9月に新設されたデジタル庁のミッションにもリミックスされて採用されたことで知られる有名なフレーズは何でしょう？
+  answer: 「誰一人取り残さない」
+  description: デジタル庁のHPに掲載されている同庁のミッションは「誰一人取り残さない、人に優しいデジタル化を。」 (時事)
+- question: 2021年9月に開設20周年を迎えた、Googleの初めての海外拠点が置かれた国はどこでしょう？
+  answer: 日本
+  description: (時事)
+- question: 2020年に多くの有名ゲームタイトルと多額の独占配信契約を結んだほか、8月にはAppleやGoogleに対する提訴を起こすなど、PCゲーム業界における寡占市場の切り崩しを積極的に行っているアメリカのIT企業は何でしょう？
+  answer: Epic Games, Inc.
+  alternativeAnswers:
+    - エピックゲームズ
+    - Epic Games
+  description: (時事)
+- question: 2021年5月にアメリカの石油パイプラインに対するハッキングを行い、約5億円相当のビットコインを身代金として受け取った著名なハッカー集団の名前は何でしょう？
+  answer: ダークサイド
+  alternativeAnswers:
+    - DarkSide
+  description: (時事)
+- question: 2021年にはExcelの関数としても実装された、プログラミング言語において無名関数を定義するための文法や機能のことを、計算機科学で関数を表すギリシャ文字を用いて何式というでしょう？
+  answer: ラムダ式
+  alternativeAnswers:
+    - ラムダ
+    - lambda expression
+    - lambda
+  description: ExcelのLAMBDA()関数が告知されたのは2020年12月、実装されたのは翌年 (時事)
+- question: 2021年にみずほ銀行で発生した半年間で7度にわたる障害の原因とされる、2019年に稼働開始した同銀行の勘定系基幹システムの名前は何でしょう？
+  answer: MINORI
+  alternativeAnswers:
+    - みのり
+  description: 開発には8年かかったらしい (時事)
+- question: 2021年8月にマイクロソフトが提供開始した、リモートの仮想環境の上でWindowsを利用することができるクラウドサービスは何でしょう？
+  answer: Windows 365
+  alternativeAnswers:
+    - '365'
+  description: (時事)
+- question: 2021年7月にキズナアイを抜き登録者数1位のバーチャルYouTuberとなった、ホロライブEnglish所属のライバーは誰でしょう？
+  answer: Gawr Gura
+  alternativeAnswers:
+    - がうるぐら
+  description: (時事)
+- question: 何もない真っ白な島「ブラウザ」を舞台に、擬人化したHTMLタグやプログラミング言語たちがウェブページを作り上げていく様子を描いた、2020年発売のとりたす作の漫画は何でしょう？
+  answer: 『はたらくプログラミング』
+  description: (時事)
+- question: かつての情報通信局を改組し2022年に設置された、コンピューターに関連する犯罪や攻撃に対処するための警察庁の部局は何でしょう？
+  answer: サイバー警察局
+  description: (時事)
+- question: 本名を藤川真一という、Twitterクライアント「モバツイ」の開発者であり、現在はBASE株式会社のCTOを務める日本のエンジニアは誰でしょう？
+  answer: えふしん
+  description: (時事)
+- question: 2021年にはHTTPステータスコードとしても予約された、コーヒーポット制御プロトコルHTCPCPにおいて「I'm a teapot」を表すとされているステータスコードは何でしょう？
+  answer: '418'
+  description: https://asnokaze.hatenablog.com/entry/2021/06/07/010727 (時事)
+- question: 知人どうしで会話をしている様子をリスナーに対して配信することができる、日本では2021年初頭に大流行したアルファ・エクスプロレーション社の音声SNSは何でしょう？
+  answer: Clubhouse
+  alternativeAnswers:
+    - クラブハウス
+  description: Twitterのスペース機能のさきがけとして知られる (時事)
+- question: 2021年10月28日に「Facebook」から社名変更を行った、カリフォルニア州メンローパークに本社を置くIT企業は何でしょう？
+  answer: Meta
+  alternativeAnswers:
+    - メタ
+    - Meta, Inc.
+  description: (時事)
+- question: ボリバル・ソベラノをデノミネーションする形で2021年10月から発行された、ベネズエラの新しい通貨単位であり同国初の中央銀行デジタル通貨となるものは何でしょう？
+  answer: ボリバル・デジタル
+  alternativeAnswers:
+    - bolívar digital
+  description: (時事)
+- question: 過激な保守主義者の温床になっているとして2021年1月にGoogleなどから配信停止処分を受けた、「表現の自由」をモットーに掲げるアメリカのSNSは何でしょう？
+  answer: Parler
+  alternativeAnswers:
+    - パーラー
+  description: (時事)
+- question: 2021年8月にTikTokでの流行をきっかけに再ブレイクした、「世界から使える文字が消えていく」という内容の筒井康隆のSF小説は何でしょう？
+  answer: 『残像に口紅を』
+  description: (時事)
+- question: 先ごろ300万再生を達成したエンジニアチャンネルの動画「一般人とプログラマーの違い」において、プログラマーを演じる男性が書いているプログラミング言語は何でしょう？
+  answer: JavaScript
+  description: (時事)
+- question: 2021年10月に発売された「Pixel 6」で採用されている、Googleによって開発されたモバイル機器向けCPUチップは何でしょう？
+  answer: Google Tensor
+  alternativeAnswers:
+    - Tensor
+  description: (時事)
+- question: 正体不明ながら2021年9月にはブダペストに彼を表す覆面の銅像が建設された、2008年に暗号通貨ビットコインを発明し世界を大きく変えた匿名の人物は誰でしょう？
+  answer: サトシ・ナカモト
+  description: (時事)
+- question: Excelの関数を用いて高度なプログラミングを行うことができる、2021年11月にMicrosoftが公開した関数型プログラミング言語は「Microsoft 何」でしょう？
+  answer: Microsoft Power Fx
+  alternativeAnswers:
+    - Power Fx
+  description: (時事)
+- question: 「スザンヌ」という名前のチンパンジーのマスコットキャラクターでも知られる、2021年12月にバージョン3.0がリリースされたオープンソース3DCGソフトウェアは何でしょう？
+  answer: Blender
+  description: (時事)
+- question: 2021年12月に公表された脆弱性により多くのアプリケーションに深刻な影響をもたらした、Apacheによって開発されたJava向けのロギングライブラリは何でしょう？
+  answer: Apache Log4j
+  alternativeAnswers:
+    - Log4j
+    - Apache Log4j 2
+    - Log4j 2
+  description: (時事)
+- question: 2021年にRFC 9000として標準化された、HTTP/3のベースとして用いられUDP上で動作する暗号化通信プロトコルは何でしょう？
+  answer: QUIC
+  alternativeAnswers:
+    - Quick UDP Internet Connections
+  description: (時事)
+- question: 2021年にはLINE株式会社の運営により第11回大会が開催された、ウェブサーバーの動作速度を高速化する技術を競い合うコンテストは何でしょう？
+  answer: ISUCON
+  description: 「いい感じにスピードアップコンテスト」の略 (時事)
+- question: 2022年1月にはラスベガス・コンベンションセンターにて2年ぶりとなる現地開催が行われた、アメリカ最大のIT機器の見本市は何でしょう？
+  answer: CES
+  alternativeAnswers:
+    - Consumer Electronics Show
+  description: (時事)
+- question: 2021年11月に発売され、1台10万円を超える価格設定により大きな話題を呼んだ、トースターの製造で有名な家電メーカーが手掛ける高級スマートフォンブランドは何でしょう？
+  answer: バルミューダフォン
+  alternativeAnswers:
+    - BALMUDA Phone
+  description: バルミューダは2023年5月にスマートフォン事業から撤退 (時事)
+- question: 1968年に独立したミクロネシアの小国家であり、2020年には同国の政府観光局のXアカウントが人気を博し「国民よりもフォロワーが多い」と話題になった島国は何でしょう？
+  answer: ナウル共和国
+  alternativeAnswers:
+    - ナウル
+  description: (時事)
+- question: 近年ではラテン文字の「オー」を代用文字として用いることが多いものの、「Ο(nlogn)」や「Ο(1)」といった計算量のオーダー記法で用いられるほか、最近ではなぜか特に耳にする機会が多くなった15番目のギリシャ文字といえば何でしょう？
+  answer: オミクロン
+  description: (時事)
+- question: 2022年1月にYouTube史上初となる100億回再生を達成した、ピンクフォンカンパニーが制作した教育向けダンス動画は何でしょう？
+  answer: 「サメのかぞく」
+  minhayaQuestion: 2022年1月にYouTube史上初となる100億回再生を達成した、ピンクフォンカンパニーが制作した教育向けダンス動画の邦題は何でしょう？
+  alternativeAnswers:
+    - Baby Shark Dance
+  description: (時事)
+- question: バージョン番号では12にあたる、2021年10月にリリースされたmacOSファミリーのコードネームは「macOS 何」でしょう？
+  answer: macOS Monterey
+  alternativeAnswers:
+    - Monterey
+  description: (時事)
+- question: 2021年には中学校技術の教科書にも採用された、2005年にクジラ飛行机が「ひまわり」の後継として開発した日本語プログラミング言語は何でしょう？
+  answer: なでしこ
+  description: (時事)
+- question: 2023年に開始される日本の「インボイス制度」において導入が予定されている、企業間の請求業務で国際的に用いられている電子インボイスの標準仕様は何でしょう？
+  answer: peppol
+  alternativeAnswers:
+    - ペポル
+  description: (時事)
+- question: 2022年2月にリリースされた最新版ではZoom起動時に変換候補を表示しない「プロテクトモード」などが搭載された、ジャストシステム社が開発する日本語入力システムは何でしょう？
+  answer: ATOK
+  description: (時事)
+- question: 中国本土では「Douyin」という名前で提供されている、2021年にトラフィック量世界一を記録したバイトダンス社のショート動画共有SNSは何でしょう？
+  answer: TikTok
+  alternativeAnswers:
+    - ティックトック
+  description: (時事)
+- question: 2021年には日本でもクイックコマース事業を開始した、「韓国のAmazon」とも呼ばれるウェブサービスは何でしょう？
+  answer: クーパン
+  alternativeAnswers:
+    - Coupang
+    - 쿠팡
+  description: (時事)
+- question: 2022年2月にサービス開始した、ドナルド・トランプ元大統領が立ち上げた「魅力的で検閲のない」SNSは「何 Social」でしょう？
+  answer: TRUTH Social
+  alternativeAnswers:
+    - TRUTH
+  description: (時事)
+- question: カナダのスタートアップ企業WOMBOが開発した、指定した単語を題材にしたアートを作成してくれる無料AIサービスの名前は何でしょう？
+  answer: Dream
+  alternativeAnswers:
+    - Dream by WOMBO
+  description: (時事)
+- question: 2020年に新型コロナウイルスの流行を受けてFacebookに追加された、いいね！、超いいね！、うけるね、すごいね、悲しいね、ひどいねに次ぐ7つ目のリアクションは何でしょう？
+  answer: 大切だね
+  alternativeAnswers:
+    - care
+  description: (時事)
+- question: 2022年3月発売の「Mac Studio」によって新たに「Ultra」がシリーズに加わった、Appleが設計したMac向けチップファミリーは何でしょう？
+  answer: Apple M1
+  alternativeAnswers:
+    - M1
+  description: 前振りがあるので「Apple Silicon」「Apple Mシリーズ」などは不可 (時事)
+- question: 2019年に「東芝メモリ株式会社」から社名変更を行った、NAND型フラッシュメモリの世界シェアで2位を占めるほか、2022年にはクイズ大会abcのスポンサーに名を連ねたことでも話題となった日本の企業は何でしょう？
+  answer: キオクシア株式会社
+  alternativeAnswers:
+    - キオクシア
+  description: (時事)
+- question: 2022年3月末をもって実演ショーを引退した、本田技研が2000年に発表し社会的ブームとなった人型二足歩行ロボットは何でしょう？
+  answer: ASIMO
+  alternativeAnswers:
+    - アシモ
+  description: (時事)
+- question: アルファベット3文字で「DSA」と略される、大手SNSなどにおける誤情報の拡散防止やターゲティング広告の排除を目的とし2022年4月に合意されたEUの法律は何法でしょう？
+  answer: デジタルサービス法
+  alternativeAnswers:
+    - デジタルサービス
+    - Digital Services Act
+  description: (時事)
+- question: デンソーウェーブが2022年5月に発表した、細長い長方形の形をした新しいQRコードの規格は「何コード」でしょう？
+  answer: rMQRコード
+  alternativeAnswers:
+    - rMQR
+  description: (時事)
+- question: 2021年度チューリング賞を受賞した、スーパーコンピューターの世界ランキング「TOP500」の創始者は誰でしょう？
+  answer: ジャック・ドンガラ
+  alternativeAnswers:
+    - Jack Dongarra
+  description: (時事)
+- question: 「ギャル流行語大賞2020」では9位に入賞した、生配信などに親が乱入するトラブルのことを指すネットスラングは何でしょう？
+  answer: 親フラ
+  description: (時事)
+- question: 「対話アプリケーションのための言語モデル」という意味を持つ、2021年5月にGoogleが発表した対話用AIシステムであり、2022年6月には同社のエンジニアが「このAIは知性を有している」と主張し話題となったものは何でしょう？
+  answer: LaMDA
+  description: 「LAMBDA」ではない (時事)
+- question: 2021年10月に前任の平井卓也を引き継ぐ形で就任した、日本のデジタル大臣は誰でしょう？
+  answer: 牧島かれん
+  alternativeAnswers:
+    - まきしまかれん
+  description: みんはや要修正 (時事)
+- question: 2022年4月にエルサルバドルに次いで世界で2番目にビットコインを法定通貨として採用した、首都をバンギにおくアフリカの国はどこでしょう？
+  answer: 中央アフリカ共和国
+  alternativeAnswers:
+    - 中央アフリカ
+  description: (時事)
+- question: 2022年8月に組閣された第2次岸田内閣でデジタル大臣に就任した、現職の国会議員で最もフォロワーの多いXアカウントを持つ日本の政治家は誰でしょう？
+  answer: 河野太郎
+  alternativeAnswers:
+    - こうのたろう
+  description: 現職でない人も含めると安倍晋三元衆議院議員か (時事)
+- question: 囲碁対戦AIのAlphaGoによって編み出された、対局の極めて早い段階から相手の星に対して三々に打ち込んでいく囲碁の布石は何でしょう？
+  answer: ダイレクト三々
+  alternativeAnswers:
+    - ダイレクト三三
+  description: (時事)
+- question: 2022年8月にリリースされたAndroid 13のコードネームとして用いられた、アルファベットのTで始まるお菓子は何でしょう？
+  answer: ティラミス
+  alternativeAnswers:
+    - Tiramisu
+  description: (時事)
+- question: 2022年7月発売のゲーム『ANONYMOUS;CODE』では世界的大災害の発端となった、時刻同期プロトコルNTPにおける時刻が32ビット整数で表現できなくなることによって発生すると考えられている問題を「何年問題」というでしょう？
+  answer: 2036年問題
+  alternativeAnswers:
+    - 2036年
+    - '2036'
+  description: 2038年問題と混同しないよう注意 (時事)
+- question: 2018年に当時7歳でYouTubeの収入ランキング1位となった、日本人の父とベトナム人の母を持つアメリカのYouTuberは誰でしょう？
+  answer: ライアン・カジ
+  alternativeAnswers:
+    - Ryan Kaji
+  description: 現在は違う (時事)
+- question: 画像データセット「LAION-5B」をもとに学習したモデルが無償で公開されている、2022年8月にStability AIが発表したオープンソースの画像描画AIは何でしょう？
+  answer: Stable Diffusion
+  alternativeAnswers:
+    - ステーブルディフュージョン
+  description: 正確には「LAION-5B」のサブセットである「LAION-Aesthetics」から学習した (時事)
+- question: 2020年にアフリカツメガエルの幹細胞から生成された、「プログラム可能な生物」や「生殖可能なロボット」などと呼ばれるマイクロサイズの合成生物は何でしょう？
+  answer: ゼノボット
+  alternativeAnswers:
+    - Xenobot
+  description: (時事)
+- question: バージョン番号では13にあたる、2022年10月にリリースされる予定のmacOSファミリーのコードネームは「macOS 何」でしょう？
+  answer: macOS Ventura
+  alternativeAnswers:
+    - Ventura
+    - ベンチュラ
+  description: (時事)
+- question: 2022年9月にアドビ社が約3兆円で買収することを発表した、Web上でデザインを行いシェアすることができるデザインコラボツールを提供するアメリカの企業は何でしょう？
+  answer: Figma, Inc.
+  alternativeAnswers:
+    - Figma
+    - フィグマ
+  description: (時事)
+- question: 2022年9月にテスラ社が試作機のデモンストレーションを行い話題を博した、人間の命令をもとに自動操縦で作業を行うヒューマノイド型ロボットは何でしょう？
+  answer: オプティマス
+  alternativeAnswers:
+    - Optimus
+  description: (時事)
+- question: 2022年10月末にサービス終了した、インターネット黎明期に登場し「先生」という愛称で親しまれた無料の機械翻訳サービスは何でしょう？
+  answer: エキサイト翻訳
+  alternativeAnswers:
+    - エキサイト
+    - excite翻訳
+    - excite
+  description: (時事)
+- question: 2022年9月には日清食品による替え歌CMが作られたことでも話題となった、ゲーム『アイドルマスター』シリーズに登場するアイドル・辻野あかりをイメージして製作され2020年に爆発的に流行した楽曲は何でしょう？
+  answer: 『たべるんごのうた』
+  description: (時事)
+- question: 2022年9月に公開されたUSBの新規格「USB4 Version 2.0」において、データ転送の最大速度は何Gbpsとされているでしょう？
+  answer: 80Gbps
+  alternativeAnswers:
+    - '80'
+  description: (時事)
+- question: 正式名称を「マルチデバイス対応FIDO認証資格情報」といい、生体認証デバイスをパスワードの代わりに使用することができる、2022年にAppleやGoogleが相次いで対応を発表したことで話題となった認証規格の通称は何でしょう？
+  answer: パスキー
+  alternativeAnswers:
+    - Passkeys
+  description: (時事)
+- question: 「White」というハンドルネームの少年が首謀者とされている、マイクロソフトやサムスンなどへのハッキングで業界を揺るがしたブラジルを拠点とするハッカー集団は何でしょう？
+  answer: LAPSUS$
+  description: (時事)
+- question: 2022年10月にはGit本体に統合されたことでも話題となった、大規模リポジトリの容量最適化やコマンド高速化を行うことができるMicrosoft社のコマンドラインユーティリティは何でしょう？
+  answer: scalar
+  description: (時事)
+- question: 2021年11月にTwitter社のCEOに就任するも、2022年10月に同社を買収したイーロン・マスクによってCEOの座を追われた、インド出身のエンジニアは誰でしょう？
+  answer: パラグ・アグラワル
+  alternativeAnswers:
+    - Parag Agrawal
+  description: (時事)
+- question: 2022年10月にサービス名の決定と告知が行われ話題を博した、Twitter創業者のジャック・ドーシーが開発を先導する分散型SNSは何でしょう？
+  answer: Bluesky
+  alternativeAnswers:
+    - ブルースカイ
+  description: (時事)
+- question: 2022年度以降は10月の第一日曜日・月曜日がこれにあたる、DXの推進や普及を目的として2021年に定められた日本の記念日は「何の日」でしょう？
+  answer: デジタルの日
+  alternativeAnswers:
+    - デジタル
+    - digital
+  description: |-
+    > 2023年以降もデジタルの日・デジタル月間は継続しますが、デジタル庁ではオンラインイベント、賛同企業・団体募集、good digital award等の実施は予定しておりません。
+    とのこと (時事)
+- question: 第1世代となる「A770」と「A750」が2022年10月にアメリカなどで発売開始した、Intel社が約20年ぶりに開発したグラフィックボードのシリーズは「Intel 何」でしょう？
+  answer: Intel Arc
+  alternativeAnswers:
+    - Arc
+  description: (時事)
+- question: 2022年7月の参議院選挙ではNHK党から立候補した、米IT企業「FC2」の創業者であり現在も国際指名手配を受けている日本の実業家は誰でしょう？
+  answer: 高橋理洋
+  alternativeAnswers:
+    - たかはしりよう
+  description: (時事)
+- question: TikTokではタイガによる振り付け動画が、ニコニコ動画ではロポリこんとティグリなすによるフェイスダンス動画がともに2022年に大流行した、広瀬香美の3枚目のシングル曲は何でしょう？
+  answer: 『ロマンスの神様』
+  description: (時事)
+- question: 2022年ネット流行語大賞にもノミネートされた、延々と続くオフィスルームのような空間を舞台とする、アメリカの画像掲示板「4chan」発祥のシェアードワールドは何でしょう？
+  answer: The Backrooms
+  alternativeAnswers:
+    - ザ・バックルームズ
+    - バックルームズ
+  description: (時事)
+- question: 言語モデル「InstructGPT」の対話特化版として2022年11月に公開され話題を呼んだ、OpenAI社が開発した自然言語処理ツールは何でしょう？
+  answer: ChatGPT
+  description: (時事)
+- question: 2022年11月に日本初のショールームがオープンしたオンライン販売専門の激安ファッションブランドであり、中国に本社を置く時価総額世界一のアパレル企業は何でしょう？
+  answer: SHEIN
+  alternativeAnswers:
+    - シーイン
+  description: (時事)
+- question: 2022年11月に起きたスキャンダルと経営破綻によってビットコイン暴落の原因となった、サム・バンクマンフリードによって創業された世界有数の仮想通貨取引所は何でしょう？
+  answer: FTX
+  description: (時事)
+- question: 2022年3月に行われた結婚披露宴で「最初で最後のスパチャ配信」を行い、わずか1配信で2022年のスパチャ獲得額世界一を達成した、かつて「うんこちゃん」というハンドルネームで活動していた日本のゲーム実況者は誰でしょう？
+  answer: 加藤純一
+  alternativeAnswers:
+    - かとうじゅんいち
+  description: (時事)
+- question: 2022年12月には3Dアニメの主人公としてデビューし話題を博した、トークアプリ「LINE」のマスコットとして人気のクマのキャラクターは何でしょう？
+  answer: ブラウン
+  alternativeAnswers:
+    - Brown
+  description: (時事)
+- question: 2022年12月に行われた第3回大会では「水匠」が優勝した、2020年から毎年開催されているコンピューター将棋のオンライン大会は何でしょう？
+  answer: 電竜戦
+  description: (時事)
+- question: 2022年北京オリンピックの開会式でもパフォーマンスを披露し話題となった、世界初の中国語ボーカロイド歌手としても知られるバーチャルシンガーは誰でしょう？
+  answer: 洛天依
+  alternativeAnswers:
+    - ルォ・テンイ
+  description: (時事)
+- question: 2022年には「あなたへ、一歩進んだ日常を。」をキャッチコピーとする第3世代がローンチされた、元富士通グループのFCNT社が展開するスマートフォンのブランドは何でしょう？
+  answer: arrows
+  alternativeAnswers:
+    - アローズ
+  description: (時事)
+- question: 1日で価値が42億分の1になるという歴史的大暴落が2021年6月に発生した、Iron FinanceがステーブルコインIRONの補助通貨として発行した仮想通貨の通称は何でしょう？
+  answer: TITAN
+  alternativeAnswers:
+    - Iron Titanium
+    - チタン
+    - タイタン
+    - アイアン チタニウム
+    - アイアン タイタニウム
+  description: (時事)
+- question: 2021年12月に北米地域でサービス開始された、Meta社が提供するメタバースプラットフォームサービスは何でしょう？
+  answer: ホライゾンワールド
+  alternativeAnswers:
+    - Horizon Worlds
+  description: (時事)
+- question: 将棋電王戦にて21手で投了した同名の将棋AIを題材とした、2020年に公開された山田篤宏監督の映画作品は何でしょう？
+  answer: 『AWAKE』
+  description: (時事)
+- question: 2022年11月にピューディパイを抜き世界で最もチャンネル登録者の多い個人YouTuberとなった、本名をジミー・ドナルドソンというアメリカのYouTuberは誰でしょう？
+  answer: MrBeast
+  alternativeAnswers:
+    - ミスタービースト
+  description: (時事)
+- question: そのデモ動画の不正確な内容がGoogleの株価下落の要因になったともいわれている、2023年2月にGoogleが発表した対話型AIは何でしょう？
+  answer: Bard
+  description: (時事)
+- question: 2022年には最新モデルとなる「7」がリリースされた、Amazon社が販売するメディアタブレットのシリーズは「Amazon 何」でしょう？
+  answer: Amazon Fire
+  alternativeAnswers:
+    - Fire
+    - Fireタブレット
+  description: (時事)
+- question: 2022年インスタ流行語大賞では1位を獲得している、「嫌なことは嫌と言ってOK」などと歌うサビがInstagramやTikTokを中心に大流行したTHE SUPER FRUITの楽曲は何でしょう？
+  answer: 『チグハグ』
+  description: (時事)
+- question: その名前はインターネットのドメインに広く使われる文字列「.com」をもじったものである、チャンネル登録者400万人を擁しフジテレビ系で冠番組を持つ男性5人組YouTuberは誰でしょう？
+  answer: コムドット
+  description: (時事)
+- question: 2022年11月から日本語版に対応した、コンテンツの閲覧履歴をトピックごとにグループ化して表示してくれるGoogle Chromeの機能は何でしょう？
+  answer: ジャーニー
+  alternativeAnswers:
+    - Journeys
+  description: (時事)
+- question: 遠く離れた映像から個人を特定できることから科学捜査への応用が期待されている、人間の歩き方の個性に基づいた電子認証の方式を日本語で「何認証」というでしょう？
+  answer: 歩容認証
+  alternativeAnswers:
+    - 歩容
+  description: (時事)
+- question: 2023年2月に渡辺直美を抜き、アカウント開設から8ヶ月で日本人インスタグラマーのフォロワー数1位の座に輝いた、K-POPアイドルグループTWICEのメインダンサーは誰でしょう？
+  answer: モモ
+  alternativeAnswers:
+    - 모모
+    - MOMO
+    - 平井もも
+  description: メインダンサーはリードダンサー (ナヨン・ツウィが担当) とは異なる。(時事)
+- question: これを題材とした映画が2023年3月に公開された、その匿名性の高さから違法ファイルの交換にも使われたため社会問題にもなった2002年公開のファイル共有ソフトは何でしょう？
+  answer: Winny
+  alternativeAnswers:
+    - ウィニー
+  description: (時事)
+- question: 2023年2月、Googleのプログラミングコンテスト事業からの撤退を受けその約20年の歴史に幕を閉じることとなった、Googleにより年1回開催されていた世界最大規模のコーディングコンテストといえば「Google 何」でしょう？
+  answer: Google Code Jam
+  alternativeAnswers:
+    - Code Jam
+    - グーグルコードジャム
+    - コードジャム
+  description: (時事)
+- question: Androidキーボード「Gboard」に搭載されている、異なる複数の絵文字をミックスした新しいデザインの絵文字を入力することができる機能は何でしょう？
+  answer: 絵文字キッチン
+  alternativeAnswers:
+    - Emoji Kitchen
+  description: (時事)
+- question: これを題材とした映画が2022年6月に公開された、2004年に2ちゃんねるのオカルト板に書き込まれた投稿に由来する都市伝説で語られる架空の駅といえば「何駅」でしょう？
+  answer: きさらぎ駅
+  alternativeAnswers:
+    - きさらぎ
+  description: (時事)
+- question: 2023年3月にはChatGPTと連携したAIキャラクターの開発を行うクラウドファンディングプロジェクトが話題を集めた、プロジェクション技術を用いてキャラクターをボックス内に呼び出し、コミュニケーションを行うことができる「キャラクター召喚装置」は何でしょう？
+  answer: Gatebox
+  alternativeAnswers:
+    - ゲートボックス
+  description: (時事)
+- question: 2022年度チューリング賞を受賞した、「インターネット崩壊論」の予言やイーサネットの発明などで知られるアメリカの工学者は誰でしょう？
+  answer: ロバート・メトカーフ
+  alternativeAnswers:
+    - ボブ・メトカーフ
+    - Robert Metcalfe
+    - Bob Metcalfe
+  description: (時事)
+- question: 2023年3月に判明した、同シリーズに搭載されたスクリーンショット機能の脆弱性は「aCropalypse」と呼ばれ大きな波紋を呼んだ、Googleが2016年から販売しているスマートフォンのブランドは何でしょう？
+  answer: Pixel
+  alternativeAnswers:
+    - ピクセル
+  description: (時事)
+- question: 2023年3月にAdobeが発表した、データセットの著作権の透明性を重視し商用利用に特化した画像生成AIの名前は何でしょう？
+  answer: Firefly
+  alternativeAnswers:
+    - ファイアフライ
+  description: (時事)
+- question: 2023年4月4日から4月7日にかけてTwitterのアイコンがこれの顔に置き換えられたことでも知られる、2013年ごろに欧米圏で流行した柴犬の画像の通称は何でしょう？
+  answer: doge
+  alternativeAnswers:
+    - ドージ
+    - ドージェ
+  description: (時事)
+- question: 2023年4月にTwitterの運営を引き継いだことが明らかにされた企業をはじめ、イーロン・マスクの保有する宇宙開発企業やAI開発企業などの名称に共通して用いられているアルファベットは何でしょう？
+  answer: X
+  description: (時事)
+- question: 2023年4月にはこの機能を使って監督を消すフワちゃんのCMも大きな話題となった、Googleのスマートフォンシリーズ「Pixel」の目玉機能の1つは何でしょう？
+  answer: 消しゴムマジック
+  description: (時事)
+- question: 2023年4月にリリースされたセガのスマートフォン向けゲームではこれに「エラー」というルビが振られている、HTTPにおいて要求されたリソースが見つからないときに返される数字3桁のステータスコードは何でしょう？
+  answer: '404'
+  description: (時事)
+- question: 2023年6月から施行される改正電気通信事業法によって定められる、ウェブサイトでのCookieの適正利用や利用者への通知の義務化などを定めた規律は「何規律」でしょう？
+  answer: 外部送信規律
+  alternativeAnswers:
+    - 外部送信
+  description: (時事)
+- question: 2023年5月に年内の休刊が発表された、技術評論社のWebアプリケーション向けプログラミング技術情報誌は「何 PRESS」でしょう？
+  answer: Web+DB PRESS
+  alternativeAnswers:
+    - Web+DB
+  description: (時事)
+- question: 映画『トイ・ストーリー』の主人公ウッディの愛馬から名前がつけられた、Debianのバージョン11のコードネームは何でしょう？
+  answer: ブルズアイ
+  alternativeAnswers:
+    - bull's eye
+  description: (時事)
+- question: 2023年5月にマイクロン社が新工場の建設を発表し、同月にG7サミットが開催された都道府県はどこでしょう？
+  answer: 広島県
+  alternativeAnswers:
+    - 広島
+  description: G7サミットは広島市、マイクロンの工場の現在の所在地は東広島市 (時事)
+- question: 2023年5月にはバージョン3.0がリリースされた、モバイルアプリフレームワークFlutterなどで利用される、Googleによって開発されたプログラミング言語は何でしょう？
+  answer: Dart
+  alternativeAnswers:
+    - ダート
+  description: (時事)
+- question: 2023年5月にマイクロソフト社が発表した、GPTなどの大規模言語モデルに対するプロンプトエンジニアリングを行うためのプログラミング言語フレームワークは何でしょう？
+  answer: guidance
+  alternativeAnswers:
+    - ガイダンス
+  description: (時事)
+- question: 2023年6月にDeepmind社が発表した、ソートアルゴリズムやハッシュ関数など新たなコンピューターアルゴリズムを発見するとされる人工知能の名前は何でしょう？
+  answer: AlphaDev
+  description: (時事)
+- question: 2023年6月のWWDCで発表された、macOSの最新バージョン「macOS 14」のコードネームは「macOS 何」でしょう？
+  answer: macOS Sonoma
+  alternativeAnswers:
+    - Sonoma
+    - ソノマ
+  description: (時事)
+- question: 外部ディスプレイに装着者の目元を表示する「EyeSight」などの機能を備える、Appleが2023年6月に発表したヘッドマウントディスプレイの製品名は「何 Pro」でしょう？
+  answer: Vision Pro
+  alternativeAnswers:
+    - Vision
+    - ビジョンプロ
+    - ビジョン
+  description: (時事)
+- question: 2023年6月から提供されている、ChatGPTベースのWindowsのAIチャット機能は「Windows 何」でしょう？
+  answer: Windows Copilot
+  alternativeAnswers:
+    - Copilot
+    - コパイロット
+  description: (時事)
+- question: 2023年4月に発生した経営破綻はアメリカ史上3番目の規模の銀行破綻となった、ベイエリアのIT系スタートアップ企業のほぼ半数が優先して利用していたとされるテクノロジー系銀行は何銀行でしょう？
+  answer: シリコンバレー銀行
+  alternativeAnswers:
+    - シリコンバレー
+    - Sillicon Valley Bank
+    - Sillicon Valley
+    - SVB
+  description: (時事)
+- question: 2023年6月にインテル社が「Intel Core」シリーズの上位モデルとして新たに発表した、現在のところ「5」「7」「9」の3シリーズで展開されているCPUのシリーズ名は「Intel Core 何」でしょう？
+  answer: Intel Core Ultra
+  alternativeAnswers:
+    - Ultra
+    - インテルコアウルトラ
+    - ウルトラ
+  description: (時事)
+- question: 月額550円の「0.5GBプラン」などの廉価プランを取り揃えている、2023年7月から「eximo」とともに提供されるドコモのデータ通信料金プランは何でしょう？
+  answer: irumo
+  alternativeAnswers:
+    - イルモ
+  description: (時事)
+- question: 2024年2月に熊本県菊陽町に大規模な工場を建設した、現在半導体製造のシェアで世界1位を占める台湾の企業は何でしょう？
+  answer: TSMC
+  alternativeAnswers:
+    - Taiwan Semiconductor Manufacturing Company
+    - 台灣積體電路製造股份有限公司
+  description: (時事)
+- question: 「これが自由に生きるコツ」をキャッチコピーとするウェブCMを2023年に放映していた、2012年に鶴岡裕太によってリリースされた日本最大のネットショップ作成サービスは何でしょう？
+  answer: BASE
+  alternativeAnswers:
+    - ベース
+  description: (時事)
+- question: 2023年6月にインテル社が完成させた、現在世界一のスパコン「Frontier」の後継となる見込みのアメリカのスーパーコンピューターは何でしょう？
+  answer: Aurora
+  alternativeAnswers:
+    - オーロラ
+  description: 2024年現在もスパコンランキング1位はFrontier Auroraは2位 (時事)
+- question: 2023年にはGoogleがこの会社にドメイン登録事業を売却したことでも話題になった、ニューヨーク発のウェブサイト作成サービスは何でしょう？
+  answer: Squarespace
+  alternativeAnswers:
+    - スクエアスペース
+  description: (時事)
+- question: CentOSの初代創始者であるグレゴリー・クルツァーによって開発され2021年4月にリリースされた、主に同OSの後継となることを目指すLinuxディストリビューションは「何 Linux」でしょう？
+  answer: Rocky Linux
+  alternativeAnswers:
+    - Rocky
+    - ロッキーリナックス
+    - ロッキー
+  description: (時事)
+- question: 2023年6月からU-NEXTと経営統合し同サービスのコンテンツレーベルとなった、『-50kgのシンデレラ』や『悪魔はそこに居る』などのオリジナルドラマの配信で知られる合同動画配信サービスは何でしょう？
+  answer: Paravi
+  alternativeAnswers:
+    - パラビ
+  description: (時事)
+- question: 2023年7月に新たに開設され「5ちゃんねる」との分裂騒動が勃発した、同掲示板の後継となることを目指している匿名掲示板は何でしょう？
+  answer: Talk
+  alternativeAnswers:
+    - トーク
+  description: (時事)
+- question: 2023年8月にOpenAIのサム・アルトマンCEOによってローンチされた、ユーザーの生体認証情報を用いてトークンの身元確認を行う仮想通貨プロジェクトは何でしょう？
+  answer: ワールドコイン
+  alternativeAnswers:
+    - Worldcoin
+  description: (時事)
+- question: 2023年5月には登録者数世界一のYouTuber・MrBeastとのコラボを行った、現在日本一のフォロワーを持つmobb所属のTikTokerは誰でしょう？
+  answer: バヤシ
+  description: (時事)
+- question: 2023年10月にはストックホルムで初の世界大会が行われた、Googleマップのストリートビューの映像を元に場所を推測するスウェーデン発のブラウザゲームは何でしょう？
+  answer: GeoGuessr
+  alternativeAnswers:
+    - ジオゲッサー
+  description: (時事)
+- question: 2023年5月に「LINK」から名称変更した、LINE株式会社が発行し「LINE NFT」などのウェブサービスで用いられる仮想通貨は何でしょう？
+  answer: フィンシア
+  alternativeAnswers:
+    - ‎FINSCHIA
+    - FNSA
+  description: (時事)
+- question: 2023年8月に生産終了となった、マイクロソフト社が2010年にXbox向けコントローラーとして発売しエンジニアの間で人気を博したモーション追跡カメラセンサーのシリーズは何でしょう？
+  answer: Kinect
+  alternativeAnswers:
+    - キネクト
+  description: (時事)
+- question: メンバーの「ひき肉」によるテンションの高い挨拶などが話題となり、わずか4週間でチャンネル登録者を100万人伸ばす大ブームとなった、中学生6人組のYouTuberグループは何でしょう？
+  answer: ちょんまげ小僧
+  description: (時事)
+- question: iPhoneどうしを近づけることでお互いの連絡先を交換することができる、2023年9月リリースの「iOS 17」で新たに搭載されたAirDropの拡張機能は何でしょう？
+  answer: NameDrop
+  alternativeAnswers:
+    - ネームドロップ
+  description: (時事)
+- question: 2024年リリースの「Android 15」のコードネームになっており、またソフトウェア用語としては「改変やカスタマイズがされていないこと」の比喩として用いられるものといえば、「何味のアイスクリーム」でしょう？
+  answer: バニラ味
+  alternativeAnswers:
+    - バニラ
+    - Vanilla Ice Cream
+    - Vanilla
+  description: (時事)
+- question: 2023年7月にはGovTech東京を創立するなど行政のDX化に積極的に取り組んでいる、2012年から2018年までヤフーの社長を務めていた現在の東京都副知事は誰でしょう？
+  answer: 宮坂学
+  alternativeAnswers:
+    - みやさかまなぶ
+  description: (時事)
+- question: 2023年8月にYouTuberのヴァンビがその正体であることを明かした、YouTubeのチャンネル登録者数1000万人突破の日本最速記録を持つYouTuberは誰でしょう？
+  answer: スパイダーメーン
+  alternativeAnswers:
+    - spider-maaaaaaan
+  description: (時事)
+- question: 2023年4月に「dTV」からリニューアルした、『放課後ていぼう日誌』や『夢で見たあの子のために』などのドラマ化作品を独占配信しているドコモの動画配信サービスは何でしょう？
+  answer: Lemino
+  alternativeAnswers:
+    - レミノ
+  description: (時事)
+- question: 1つのファイルに複数の解像度の画像を埋め込める「レスポンシブ画像」機能などで注目を集めていたものの、2022年10月にChromeが予告なくサポートを終了し物議を醸したJPEGの次世代フォーマットといえば「JPEG 何」でしょう？
+  answer: JPEG XL
+  alternativeAnswers:
+    - XL
+  description: (時事)
+- question: 2024年6月に約20年ぶりとなる「最新刊」が発売される、パーソナルワークステーションのX68000シリーズなどを特集していた往年のパソコン雑誌は何でしょう？
+  answer: Oh!X
+  alternativeAnswers:
+    - Oh!MZ
+  description: (時事)
+- question: 2024年1月にはiOSでもEU限定で可能になった、スマートフォンにおいて公式のアプリストア以外からアプリケーションをダウンロードしてインストールする機能を何というでしょう？
+  answer: サイドローディング
+  alternativeAnswers:
+    - side loading
+  description: (時事)
+- question: 2023年10月には最新モデルの「Studio」が発売された、矢印キーなどが排除されたシンプルなデザインが人気のPFU社のキーボード製品のシリーズは「何 Keyboard」でしょう？
+  answer: Happy Hacking Keyboard
+  alternativeAnswers:
+    - ハッピーハッキングキーボード
+    - HHKB
+    - Happy Hacking
+    - ハッピーハッキング
+  description: (時事)
+- question: 2023年に発売されたiPhone 15 Proで新たに対応した、カメラのセンサーから得られた明暗情報を通常より広い範囲で保存する撮影機能のことを、映像に含まれる階調をある関数で処理して保存することから「何撮影」というでしょう？
+  answer: Log撮影
+  alternativeAnswers:
+    - ログ撮影
+    - Log
+    - ログ
+  description: (時事)
+- question: 2023年の新語・流行語大賞で「生成AI」が入賞した際の受賞者としても選ばれた、『魔法の世紀』や『デジタルネイチャー』などの著書で知られる日本のメディアアーティストは誰でしょう？
+  answer: 落合陽一
+  alternativeAnswers:
+    - おちあいよういち
+  description: (時事)
+- question: 従来の「Pコア」「Eコア」に加えて新たに「LP Eコア」が採用される予定の、2023年12月に製品化されるインテルの第14世代プロセッサーのコードネームといえば「何 Lake」でしょう？
+  answer: Meteor Lake
+  alternativeAnswers:
+    - Meteor
+    - メテオレイク
+    - メテオ
+  description: (時事)
+- question: 2020年にはカプコン社を攻撃し11億円もの身代金を要求した事件で、2023年には組織の首謀者が逮捕されたことで話題となった、世界的なランサムウェア犯罪集団は何でしょう？
+  answer: ラグナロッカー
+  alternativeAnswers:
+    - Ragnar Locker
+  description: (時事)
+- question: 2023年11月にはOpenAI社からの突然の解任騒動で世間を賑わせた、ワールドコインの設立やChatGPTの開発などで知られるOpenAI社の現CEOは誰でしょう？
+  answer: サム・アルトマン
+  alternativeAnswers:
+    - サミュエル・アルトマン
+    - Sam Altman
+    - Samuel Altman
+  description: (時事)
+- question: 最上位のUltra、メインユースのPro、エッジデバイス向けのNanoという3種類のモデルによって構成される、2023年12月にGoogle社が発表したマルチモーダル生成AIの名前は何でしょう？
+  answer: Gemini
+  alternativeAnswers:
+    - ジェミニ
+  description: (時事)
+- question: 2023年のネット流行語年間大賞を受賞した、ED曲「メフィスト」を使用したMAD動画や、OP曲「アイドル」とゲッターロボを組み合わせたネットミームなどでも話題となった赤坂アカ原作の漫画・アニメ作品は何でしょう？
+  answer: 【推しの子】
+  alternativeAnswers:
+    - 推しの子
+  description: (時事)
+- question: 2023年には「神パソコン。」をキャッチコピーとするCMキャンペーンなどを新たに展開した、富士通グループの個人向けパソコン製品ブランドは何でしょう？
+  answer: FMV
+  description: (時事)
+- question: 立憲民主党の議員に関する虚偽の投稿をしたとして2023年には運営会社による損害賠償が確定した、かつて16万人を超えるフォロワーを持ちSNS上で大きな政治的影響力を持っていたXのアカウントは何でしょう？
+  answer: Dappi
+  description: (時事)
+- question: 2023年にはGoogleアカウントへの標準ログイン方法としても採用された、生体認証など従来の多要素認証情報をクラウド経由で同期し複数端末で使えるようにした、パスワードレス認証の代表的技術といえば何でしょう？
+  answer: パスキー
+  alternativeAnswers:
+    - Passkeys
+  description: (時事)
+- question: 2023年12月に発売されたインテルの「Core Ultra」に新たに搭載されているプロセッサー「NPU」の「N」は、何という言葉の略でしょう？
+  answer: ニューラル
+  alternativeAnswers:
+    - neural
+  description: (時事)
+- question: 2024年1月、電話回線のインターネット網移行とともにサービス開始した、NTT東西のツイストペアケーブルを利用した固定電話サービスは「何電話」でしょう？
+  answer: メタルIP電話
+  alternativeAnswers:
+    - メタルIP
+  description: (時事)
+- question: その独特なポーズで「Z世代トレンドアワード2023」の年間トレンド大賞を受賞した、中学生YouTuber集団「ちょんまげ小僧」のメンバーは誰でしょう？
+  answer: ひき肉
+  description: (時事)
+- question: 2024年1月にGoogleの研究チームによって発表された、テキストや画像を入力することで短い動画を出力することができる生成AIモデルは何でしょう？
+  answer: Lumiere
+  alternativeAnswers:
+    - ルミエール
+  description: (時事)
+- question: 2021年の単行本年間ベストセラーで1位を獲得した、スマートフォンを利用する生活が人間にもたらす影響について論じたアンデシュ・ハンセンの著作は何でしょう？
+  answer: 『スマホ脳』
+  alternativeAnswers:
+    - Skärmhjärnan
+    - Insta-Brain
+  description: (時事)
+- question: 2024年2月からはWindowsでも利用可能となる、LinuxなどのOSにおいてroot権限でコマンドを実行する際などに用いられるユーティリティコマンドは何でしょう？
+  answer: sudo
+  description: (時事)
+- question: 2024年2月にOpenAI社が発表した、テキストから動画を生成することができる生成AIのモデルは何でしょう？
+  answer: Sora
+  description: (時事)
+- question: 超電導方式、イオントラップ方式に続く「第3の量子コンピューター」として現在注目を集めている、絶対零度に近い原子を量子ビットとして扱う量子コンピューターの動作方式を「何方式」というでしょう？
+  answer: 冷却原子方式
+  alternativeAnswers:
+    - 冷却原子
+    - 中性原子方式
+    - 中性原子
+  description: (時事)
+- question: 日本の「エンジニアオリンピックゲームス」やドイツの「CloudFest」といったイベントで行われる陸上競技で、砲丸やハンマーの代わりに投げられるものは何でしょう？
+  answer: サーバー
+  alternativeAnswers:
+    - server
+  description: (時事)
+- question: 2024年3月に「いらすとや」とのコラボを発表し、全ての素材が無制限で利用可能となった、ブラウザ上で動作するオーストラリア発のグラフィックデザインツールは何でしょう？
+  answer: Canva
+  alternativeAnswers:
+    - キャンバ
+  description: (時事)
+- question: 2024年2月には東京都庁によるものが「常設のものでは世界最大」と認定された、建築物などをスクリーンとしてプロジェクターから映像を投影する技術のことを何というでしょう？
+  answer: プロジェクションマッピング
+  alternativeAnswers:
+    - projection mapping
+  description: (時事)
+- question: |-
+    穴埋めクイズです。〇〇に入る単語を答えてください。
+    『え、社内システム全て〇〇している私を解雇ですか?』は、2023年に伊於によるコミカライズが行われ「ネット流行語100」にもノミネートされた下城米雪の人気小説です。
+  answer: え、社内システム全てワンオペしている私を解雇ですか?
+  alternativeAnswers:
+    - ワンオペ
+  description: (時事)
+- question: 声優の民安ともえが音声を担当しており、2024年1月にはAI歌唱ソフトとしてのデビューも果たしている、2014年にソフトバンク社が発表した家庭向け人型ロボットは何でしょう？
+  answer: Pepper
+  alternativeAnswers:
+    - ペッパー
+    - ペッパーくん
+  description: (時事)
+- question: 2024年4月にはこれを作成するためのユーティリティコマンドにバックドアが仕掛けられたことで業界に大きな影響を与えた、LZMAを採用した高い圧縮率で知られる圧縮ファイルフォーマットは何でしょう？
+  answer: XZ
+  description: (時事)
+- question: 2024年4月に運営者の星野ロミに対する損害賠償判決が下された、2018年頃に漫画の海賊版掲載を行い広く利用されたことから社会問題にも発展したウェブサイトは何でしょう？
+  answer: 漫画村
+  description: (時事)
+- question: 2024年3月からJR山手線池袋駅の発車メロディに採用されている、「ふくふくふくろう いけぶくろ でんでんでんしゃが8路線」という歌い出しで始まる曲は『何のテーマソング』でしょう？
+  answer: ビックカメラのテーマソング
+  alternativeAnswers:
+    - ビックカメラ
+    - bic camera
+  description: (時事)
+- question: 2024年3月にサービス開始20周年を迎えた、フレンドに近況を報告できる「日記」機能などが特徴的な日本のSNSは何でしょう？
+  answer: mixi
+  alternativeAnswers:
+    - ミクシィ
+  description: (時事)
+- question: ITエンジニアの男性と足に障がいを持つ女性の恋愛を描いた上田慎一郎のショートフィルム『みらいの婚活』で、女性が習得を目指している趣味は何でしょう？
+  answer: タップダンス
+  minhayaQuestion: 【早押し注意】ITエンジニアの男性と足に障がいを持つ女性の恋愛を描いた上田慎一郎のショートフィルム『みらいの婚活』で、女性が習得を目指している趣味は何でしょう？
+  description: (時事)
+- question: 正式な和名を「フクロアリクイ」という、2024年4月にリリースされたUbuntuの長期サポートバージョンのコードネームに用いられているオーストラリア固有の有袋類は何でしょう？
+  answer: ナンバット
+  alternativeAnswers:
+    - numbat
+  description: (時事)
+- question: 2024年はAdobe社から「百舌鳥」、モリサワ社から「DriveFlux」という新フォントが発表された、プロ・アマチュア問わず様々なフォントが一斉に公開される「フォントの日」といえば何月何日でしょう？
+  answer: 4月10日
+  alternativeAnswers:
+    - 4/10
+  description: (時事)
+- question: 2023年にModular社によって開発された、Pythonを拡張した文法でありながらPythonの3.5万倍の速度で動作する人工知能開発プログラミング言語は何でしょう？
+  answer: Mojo
+  description: (時事)
+- question: 2024年5月には声優の大和田仁美を起用した彼女のASMR作品が発売され話題となった、そのあまりのワーカホリックぶりに名前を由来する、ビタワン原作の漫画に登場するピンク髪のITエンジニアは誰でしょう？
+  answer: 社畜ちゃん
+  alternativeAnswers:
+    - 佐倉桜花
+  description: (時事)
+- question: セキュリティ機能「CCA」やSIMD命令セット「SVE2」などの新機能を搭載している、AppleのM4チップに採用されたことでも話題となった現在のArmアーキテクチャーの最新バージョンは「Armv何」でしょう？
+  answer: Armv9
+  alternativeAnswers:
+    - '9'
+  description: (時事)
+- question: 「Fun Mode」と「Regular Mode」の2つの動作モードを持ち、他のAIが敬遠するような物を含めたあらゆる質問に回答することを目的としている、2024年5月からXのプレミアム会員向けに利用が解禁されたxAI社の対話型AIは何でしょう？
+  answer: Grok
+  alternativeAnswers:
+    - Grok-1.5V
+  description: (時事)
+- question: 「万能」を意味する英語の「omni」から名付けられた、OpenAI社が2024年5月に「GPT-4」の後継として発表したマルチモーダルのAIモデルは何でしょう？
+  answer: GPT-4o
+  alternativeAnswers:
+    - 4o
+  description: (時事)
+- question: サツキの楽曲「メズマライザー」ではこの単語に「きじゃくせい」という読みが与えられている、システムにおける情報セキュリティ上の欠陥のことを指す漢字三文字の言葉は何でしょう？
+  answer: 脆弱性
+  alternativeAnswers:
+    - ぜいじゃくせい
+  description: https://twitter.com/32ki_May/status/1785200840447508484 (時事)
+- question: 2024年5月にGoogleが発表した、マルチモーダルのGeminiモデルを活用したAIアシスタントシステムを開発するプロジェクトの名前は「Project 何」でしょう？
+  answer: Project Astra
+  alternativeAnswers:
+    - Astra
+  description: (時事)
+- question: 2024年9月に迎える20周年を記念して新スローガンの「ありのままが、ここにある。」を打ち立てた、ポイ活サービス「ドットマネー」やメタバースコミュニティ「ピグ」などのサービスを提供するサイバーエージェント社のサービスブランドは何でしょう？
+  answer: Ameba
+  alternativeAnswers:
+    - アメーバ
+  description: (時事)
+- question: 2024年5月にAppleがiPad Proに搭載したことで話題となった、2層の有機ELパネルを重ねることで画面の焼け付きを防ぐことができるOLEDの構造のことを「何型OLED」というでしょう？
+  answer: タンデム型OLED
+  alternativeAnswers:
+    - タンデム型
+    - タンデム
+    - tandem OLED
+    - tandem
+  description: (時事)
+- question: 2024年度から全国の小中学校の英語の授業で導入されている、紙の教科書と同一の内容を電子的に閲覧することができる学習者向け教科書のことを「何教科書」というでしょう？
+  answer: デジタル教科書
+  alternativeAnswers:
+    - デジタル
+  description: (時事)
+- question: 特技は可愛いものを見つけること、現在は服飾専門学校に通う20歳の女の子という設定を持つ、ファッションセンターしまむらが2024年6月に起用したことで話題となったAIファッションモデルは誰でしょう？
+  answer: 瑠菜
+  alternativeAnswers:
+    - るな
+    - Luna
+  description: (時事)
+- question: ニコニコ動画の全盛期に投稿された人気動画を閲覧する機能が実装されている、2024年6月にリリースされたニコニコ動画の最新バージョンは何でしょう？
+  answer: ニコニコ動画 (Re:仮)
+  minhayaQuestion: ニコニコ動画の全盛期に投稿された人気動画を閲覧する機能が実装されている、2024年6月にリリースされたニコニコ動画の最新バージョンは「ニコニコ動画 何」でしょう？
+  alternativeAnswers:
+    - (Re:仮)
+    - Re:仮
+    - りかり
+  description: (時事)
+- question: 2024年8月にリリースされるAndroid 15に搭載される予定の、機密性の高いアプリの存在や通知を隔離し、認証なしではアクセスできなくする機能は何でしょう？
+  answer: プライベートスペース
+  alternativeAnswers:
+    - private space
+  description: (時事)
+- question: 2024年6月にLTSのサポートが終了予定となっている、Debianバージョン10のコードネームは何でしょう？
+  answer: Buster
+  alternativeAnswers:
+    - バスター
+  description: (時事)
+- question: 2024年6月のWWDCで発表された、macOSの次期バージョンのコードネームは「macOS 何」でしょう？
+  answer: macOS Sequoia
+  alternativeAnswers:
+    - Sequoia
+    - マックオーエスセコイア
+    - セコイア
+  description: (時事)
+- question: 2024年6月に国内最高精度のLLMを開発したと発表した東京大学発のAIスタートアップ企業の名前にもなっている、1960年代に制作された最初期の対話プログラムは何でしょう？
+  answer: ELYZA
+  alternativeAnswers:
+    - イライザ
+  description: (時事)
