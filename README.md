@@ -26,6 +26,6 @@ TODO: JSON Schema か何かを用意する
 
 ## 問題不備などを見つけた場合は
 
-問題不備や誤植、より良い問題文にするための提案、別解の追加提案などがあれば、[GitHubのIssue機能](https://github.com/hakatashi/it-quiz/issues/new)を使って新たなIssueを作成してください。
+問題不備や誤植、より良い問題文にするための提案、別解の追加提案などがあれば、[GitHubのIssue機能](https://github.com/hakatashi/it-quiz/issues/new/choose)を使って新たなIssueを作成してください。
 
 また、直接プルリクエストを作成しても構いません (マージされないこともあります)。
