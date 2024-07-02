@@ -130,7 +130,4 @@ dist
 .pnp.*
 
 # Output
-*.pdf
-/book
-/manuscript.html
-google_application_credentials*
+release
