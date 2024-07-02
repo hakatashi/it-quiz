@@ -10,7 +10,7 @@
   answer: ラップアラウンド
   alternativeAnswers:
     - wraparound
-- question: 英語で「往復切符」という意味がある、データを送信してから返ってくるまでの時間のことを「何時間」というでしょう？
+- question: 英語で「往復切符」という意味がある、データを送信してから返ってくるまでの時間のことを指す言葉は「<ruby><rb>何</rb><rp> (</rp><rt>なに</rt><rp>)</rp></ruby>時間」でしょう？
   answer: ラウンドトリップ時間
   alternativeAnswers:
     - ラウンドトリップ
