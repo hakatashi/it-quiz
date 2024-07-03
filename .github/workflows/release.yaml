@@ -19,19 +19,19 @@ jobs:
         with:
           node-version: '20'
       - name: Install dependencies
-        run: npm install
+        run: npm --prefix .github install
       - id: build
         name: Build
-        run: npx tsx .github/bin/release.mts
+        run: npm --prefix .github exec tsx .github/bin/release.mts
       - name: Test
         run: |
           echo "version: ${{ steps.build.outputs.new_version }}"
-          cat .github/release.md
+          cat release.md
       - name: Release
         uses: softprops/action-gh-release@v2
         if: ${{ steps.build.outputs.new_version != '' }}
         with:
-          body_path: .github/release.md
+          body_path: release.md
           files: |
             release/it-quiz-v${{ steps.build.outputs.new_version }}.yaml
             release/it-quiz-v${{ steps.build.outputs.new_version }}.json

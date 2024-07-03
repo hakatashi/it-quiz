@@ -131,3 +131,5 @@ dist
 
 # Output
 release
+output.txt
+release.md
