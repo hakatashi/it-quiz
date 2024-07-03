@@ -29,10 +29,16 @@ jobs:
         run: |
           echo "version: ${{ steps.build.outputs.new_version }}"
           cat release.md
+      - name: Push new tag to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git push origin ${{ steps.build.outputs.new_version }}
       - name: Release
         uses: softprops/action-gh-release@v2
         if: ${{ steps.build.outputs.new_version != '' }}
         with:
+          tag_name: ${{ steps.build.outputs.new_version }}
           body_path: release.md
           files: |
             release/it-quiz-v${{ steps.build.outputs.new_version }}.yaml
