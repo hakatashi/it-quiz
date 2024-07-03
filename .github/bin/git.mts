@@ -359,9 +359,11 @@ const mergeReleaseTypes = (releases: ReleaseType[]) => {
 };
 
 const createNewReleaseIfNecessary = async () => {
+	console.log('Checking if a new release is necessary...');
 	const versions = await getVersions();
 	const lastVersion = versions.sort(semver.rcompare)[0];
 
+	console.log('Getting changes...');
 	const changes = await getDiff(
 		await getLastReleasedRevisionHash(),
 		await getLastRevisionHash(),
@@ -389,16 +391,24 @@ const createNewReleaseIfNecessary = async () => {
 	}
 
 	const releaseType = mergeReleaseTypes(releases);
+	console.log(`Release type: ${releaseType}`);
 
 	if (releaseType === null) {
+		console.log('No change detected. Skip creating a new release.');
 		return;
 	}
 
 	const newVersion = semver.inc(lastVersion, releaseType);
+	console.log(`New version: ${newVersion}`);
 
 	releaseText = `# ITクイズ ${newVersion}\n\n${releaseText}`;
 	
-	console.log(releaseText);
+	console.log('Tagging the new version...');
+	await git.tag({
+		fs,
+		dir: await getGitRoot(),
+		ref: newVersion,
+	});
 };
 
 createNewReleaseIfNecessary();
