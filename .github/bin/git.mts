@@ -5,6 +5,9 @@ import semver, { ReleaseType } from 'semver';
 import yaml from 'js-yaml';
 import zip from 'lodash/zip.js';
 import * as Diff from 'diff';
+import assert from 'assert';
+
+process.env.GITHUB_OUTPUT = process.env.GITHUB_OUTPUT || 'output.txt';
 
 interface Change {
 	path: string,
@@ -137,7 +140,7 @@ interface AlternativeAnswersModification {
 }
 
 interface QuizDiff {
-	release: ReleaseType,
+	release: ReleaseType | null,
 	quizAdditions: QuizAddition[],
 	questionModifications: Modification[],
 	answerModifications: Modification[],
@@ -148,10 +151,14 @@ interface QuizDiff {
 };
 
 const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
+	if (change.oldContent === null || change.newContent === null) {
+		throw new Error('oldContent and newContent must be defined');
+	}
+
 	const oldQuizzes = yaml.load(change.oldContent) as Quiz[];
 	const newQuizzes = yaml.load(change.newContent) as Quiz[];
 
-	let release: ReleaseType = null;
+	let release: ReleaseType | null = null;
 
 	const quizAdditions: QuizAddition[] = [];
 	const questionModifications: Modification[] = [];
@@ -166,11 +173,14 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 			release = 'minor';
 
 			if (oldQuiz === undefined) {
+				assert(newQuiz !== undefined, 'newQuiz must be defined if oldQuiz is undefined');
 				quizAdditions.push({
 					id,
 					quiz: newQuiz,
 				});
 			}
+
+			continue;
 		}
 
 		if (oldQuiz.question !== newQuiz.question) {
@@ -213,8 +223,8 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 		if (oldQuiz.description !== newQuiz.description) {
 			descriptionModifications.push({
 				id,
-				oldContent: oldQuiz.description,
-				newContent: newQuiz.description,
+				oldContent: oldQuiz.description ?? null,
+				newContent: newQuiz.description ?? null,
 			});
 			if (release === null) {
 				release = 'patch';
@@ -224,8 +234,8 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 		if (oldQuiz.paperQuestion !== newQuiz.paperQuestion) {
 			paperQuestionModifications.push({
 				id,
-				oldContent: oldQuiz.paperQuestion,
-				newContent: newQuiz.paperQuestion,
+				oldContent: oldQuiz.paperQuestion ?? null,
+				newContent: newQuiz.paperQuestion ?? null,
 			});
 			if (release === null) {
 				release = 'patch';
@@ -235,8 +245,8 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 		if (oldQuiz.minhayaQuestion !== newQuiz.minhayaQuestion) {
 			minhayaQuestionModifications.push({
 				id,
-				oldContent: oldQuiz.minhayaQuestion,
-				newContent: newQuiz.minhayaQuestion,
+				oldContent: oldQuiz.minhayaQuestion ?? null,
+				newContent: newQuiz.minhayaQuestion ?? null,
 			});
 			if (release === null) {
 				release = 'patch';
@@ -260,8 +270,8 @@ const stripHtmlTags = (text: string) => {
 	return text.replace(/<[^>]*>/g, '');
 };
 
-const generateDiffMarkdown = (oldText: string, newText: string) => {
-	const diff = Diff.diffChars(stripHtmlTags(oldText), stripHtmlTags(newText));
+const generateDiffMarkdown = (oldText: string | null, newText: string | null) => {
+	const diff = Diff.diffChars(stripHtmlTags(oldText ?? ''), stripHtmlTags(newText ?? ''));
 	const diffMarkdown = diff.map((part) => {
 		if (part.added) {
 			return ` **${part.value.trim()}** `;
@@ -342,73 +352,22 @@ const generateReleaseText = (quizDiff: QuizDiff) => {
 	return lines.join('\n');
 };
 
-const mergeReleaseTypes = (releases: ReleaseType[]) => {
-	if (releases.includes('major')) {
-		return 'major';
-	}
-
-	if (releases.includes('minor')) {
-		return 'minor';
-	}
-
-	if (releases.includes('patch')) {
-		return 'patch';
-	}
-
-	return null;
+export {
+	getDiff,
+	getGitRoot,
+	getTags,
+	getVersions,
+	getLastReleasedRevisionHash,
+	getLastRevisionHash,
+	setDiff,
+	Quiz,
+	Change,
+	QuizAddition,
+	Modification,
+	AlternativeAnswersModification,
+	QuizDiff,
+	getQuizDiff,
+	stripHtmlTags,
+	generateDiffMarkdown,
+	generateReleaseText,
 };
-
-const createNewReleaseIfNecessary = async () => {
-	console.log('Checking if a new release is necessary...');
-	const versions = await getVersions();
-	const lastVersion = versions.sort(semver.rcompare)[0];
-
-	console.log('Getting changes...');
-	const changes = await getDiff(
-		await getLastReleasedRevisionHash(),
-		await getLastRevisionHash(),
-	);
-
-	const releases: ReleaseType[] = [];
-	let releaseText = '';
-
-	for (const change of changes) {
-		if (change.path === 'it-quiz.yaml') {
-			const quizDiff = await getQuizDiff(change);
-			const quizReleaseText = generateReleaseText(quizDiff);
-			releaseText += `## it-quiz.yaml\n\n${quizReleaseText}\n\n`;
-
-			releases.push(quizDiff.release);
-		}
-
-		if (change.path === 'news.yaml') {
-			const quizDiff = await getQuizDiff(change);
-			const quizReleaseText = generateReleaseText(quizDiff);
-			releaseText += `## news.yaml\n\n${quizReleaseText}\n\n`;
-
-			releases.push(quizDiff.release);
-		}
-	}
-
-	const releaseType = mergeReleaseTypes(releases);
-	console.log(`Release type: ${releaseType}`);
-
-	if (releaseType === null) {
-		console.log('No change detected. Skip creating a new release.');
-		return;
-	}
-
-	const newVersion = semver.inc(lastVersion, releaseType);
-	console.log(`New version: ${newVersion}`);
-
-	releaseText = `# ITクイズ ${newVersion}\n\n${releaseText}`;
-	
-	console.log('Tagging the new version...');
-	await git.tag({
-		fs,
-		dir: await getGitRoot(),
-		ref: newVersion,
-	});
-};
-
-createNewReleaseIfNecessary();

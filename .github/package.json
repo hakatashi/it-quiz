@@ -4,6 +4,7 @@
   "description": "",
   "dependencies": {
     "@types/diff": "^5.2.1",
+    "@types/fs-extra": "^11.0.4",
     "@types/js-yaml": "^4.0.9",
     "@types/lodash": "^4.17.6",
     "@types/node": "^20.14.9",
