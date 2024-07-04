@@ -15,7 +15,7 @@ interface Change {
 	newContent: string | null,
 }
 
-interface Quiz {
+interface NormalQuiz {
 	question: string,
 	paperQuestion?: string,
 	minhayaQuestion?: string,
@@ -23,6 +23,19 @@ interface Quiz {
 	alternativeAnswers?: string[],
 	description?: string,
 }
+
+interface RemovedQuiz {
+	removed: {
+		type: 'deleted' | 'moved',
+		reason?: string,
+	},
+}
+
+type Quiz = NormalQuiz | RemovedQuiz;
+
+const isQuizRemoved = (quiz: Quiz): quiz is RemovedQuiz => {
+	return 'removed' in quiz;
+};
 
 const getDiff = async (commitHash1: string, commitHash2: string) => {
 	return git.walk({
@@ -122,9 +135,31 @@ const setDiff = <T,>(set1: Set<T>, set2: Set<T>) => {
 	};
 };
 
+export const mergeReleaseTypes = (releases: (ReleaseType | null)[]): ReleaseType | null => {
+	if (releases.includes('major')) {
+		return 'major';
+	}
+
+	if (releases.includes('minor')) {
+		return 'minor';
+	}
+
+	if (releases.includes('patch')) {
+		return 'patch';
+	}
+
+	return null;
+};
+
 interface QuizAddition {
 	id: number,
-	quiz: Quiz,
+	quiz: NormalQuiz,
+}
+
+interface QuizDeletion {
+	id: number,
+	type: 'deleted' | 'moved',
+	reason?: string,
 }
 
 interface Modification {
@@ -142,6 +177,7 @@ interface AlternativeAnswersModification {
 interface QuizDiff {
 	release: ReleaseType | null,
 	quizAdditions: QuizAddition[],
+	quizDeletions: QuizDeletion[],
 	questionModifications: Modification[],
 	answerModifications: Modification[],
 	alternativeAnswersModifications: AlternativeAnswersModification[],
@@ -158,9 +194,10 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 	const oldQuizzes = yaml.load(change.oldContent) as Quiz[];
 	const newQuizzes = yaml.load(change.newContent) as Quiz[];
 
-	let release: ReleaseType | null = null;
+	const releases: (ReleaseType | null)[] = [];
 
 	const quizAdditions: QuizAddition[] = [];
+	const quizDeletions: QuizDeletion[] = [];
 	const questionModifications: Modification[] = [];
 	const answerModifications: Modification[] = [];
 	const alternativeAnswersModifications: AlternativeAnswersModification[] = [];
@@ -169,17 +206,31 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 	const minhayaQuestionModifications: Modification[] = [];
 
 	for (const [id, [oldQuiz, newQuiz]] of zip(oldQuizzes, newQuizzes).entries()) {
-		if (oldQuiz === undefined || newQuiz === undefined) {
-			release = 'minor';
+		assert(newQuiz !== undefined, 'Quiz must not be deleted in the new version');
 
-			if (oldQuiz === undefined) {
-				assert(newQuiz !== undefined, 'newQuiz must be defined if oldQuiz is undefined');
-				quizAdditions.push({
-					id,
-					quiz: newQuiz,
-				});
-			}
+		if (oldQuiz === undefined) {
+			assert(!isQuizRemoved(newQuiz), 'Quiz must not be removed in the new version');
 
+			quizAdditions.push({
+				id,
+				quiz: newQuiz,
+			});
+			releases.push('minor');
+			continue;
+		}
+
+		if (isQuizRemoved(oldQuiz)) {
+			assert(isQuizRemoved(newQuiz), 'Quiz must be removed in the new version');
+			continue;
+		}
+
+		if (isQuizRemoved(newQuiz)) {
+			quizDeletions.push({
+				id,
+				type: newQuiz.removed.type,
+				reason: newQuiz.removed.reason,
+			});
+			releases.push('minor');
 			continue;
 		}
 
@@ -189,9 +240,7 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 				oldContent: oldQuiz.question,
 				newContent: newQuiz.question,
 			});
-			if (release === null) {
-				release = 'patch';
-			}
+			releases.push('patch');
 		}
 
 		if (oldQuiz.answer !== newQuiz.answer) {
@@ -200,9 +249,7 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 				oldContent: oldQuiz.answer,
 				newContent: newQuiz.answer,
 			});
-			if (release === null) {
-				release = 'patch';
-			}
+			releases.push('patch');
 		}
 
 		const alternativeAnswersDiff = setDiff(
@@ -215,9 +262,7 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 				deletions: Array.from(alternativeAnswersDiff.deletions),
 				additions: Array.from(alternativeAnswersDiff.additions),
 			});
-			if (release === null) {
-				release = 'patch';
-			}
+			releases.push('patch');
 		}
 
 		if (oldQuiz.description !== newQuiz.description) {
@@ -226,9 +271,7 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 				oldContent: oldQuiz.description ?? null,
 				newContent: newQuiz.description ?? null,
 			});
-			if (release === null) {
-				release = 'patch';
-			}
+			releases.push('patch');
 		}
 
 		if (oldQuiz.paperQuestion !== newQuiz.paperQuestion) {
@@ -237,9 +280,7 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 				oldContent: oldQuiz.paperQuestion ?? null,
 				newContent: newQuiz.paperQuestion ?? null,
 			});
-			if (release === null) {
-				release = 'patch';
-			}
+			releases.push('patch');
 		}
 
 		if (oldQuiz.minhayaQuestion !== newQuiz.minhayaQuestion) {
@@ -248,15 +289,14 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 				oldContent: oldQuiz.minhayaQuestion ?? null,
 				newContent: newQuiz.minhayaQuestion ?? null,
 			});
-			if (release === null) {
-				release = 'patch';
-			}
+			releases.push('patch');
 		}
 	}
 
 	return {
-		release,
+		release: mergeReleaseTypes(releases),
 		quizAdditions,
+		quizDeletions,
 		questionModifications,
 		answerModifications,
 		alternativeAnswersModifications,
@@ -297,6 +337,14 @@ const generateReleaseText = (quizDiff: QuizDiff) => {
 			lines.push(`  * Q${quizAddition.id}`);
 			lines.push(`    * Q. ${quiz.question}`);
 			lines.push(`    * A. ${quiz.answer}`);
+		}
+	}
+
+	if (quizDiff.quizDeletions.length > 0) {
+		lines.push('* 問題を削除しました');
+		for (const quizDeletion of quizDiff.quizDeletions) {
+			lines.push(`  * Q${quizDeletion.id}`);
+			lines.push(`    * 理由: ${quizDeletion.reason}`);
 		}
 	}
 

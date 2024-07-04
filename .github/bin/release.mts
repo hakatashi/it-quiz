@@ -4,7 +4,7 @@ import path from 'path';
 import semver, {ReleaseType} from 'semver';
 import git from 'isomorphic-git';
 import {fileURLToPath} from 'url';
-import {generateReleaseText, getDiff, getGitRoot, getLastReleasedRevisionHash, getLastRevisionHash, getQuizDiff, getVersions} from './git.mjs';
+import {generateReleaseText, getDiff, getGitRoot, getLastReleasedRevisionHash, getLastRevisionHash, getQuizDiff, getVersions, mergeReleaseTypes} from './git.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -19,22 +19,6 @@ const compile = async (filename: string, version: string) => {
 	await fs.ensureDir(path.join(__dirname, '../../release'));
 	await fs.writeFile(path.join(__dirname, '../../release', releaseJsonFile), JSON.stringify(jsonContent, null, 2));
 	await fs.writeFile(path.join(__dirname, '../../release', releaseYamlFile), yamlContent);
-};
-
-const mergeReleaseTypes = (releases: (ReleaseType | null)[]): ReleaseType | null => {
-	if (releases.includes('major')) {
-		return 'major';
-	}
-
-	if (releases.includes('minor')) {
-		return 'minor';
-	}
-
-	if (releases.includes('patch')) {
-		return 'patch';
-	}
-
-	return null;
 };
 
 const createNewReleaseIfNecessary = async () => {
