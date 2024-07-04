@@ -1944,7 +1944,7 @@
   alternativeAnswers:
     - レイジクイット
     - レージクイット
-- question: 「5G通信」などというときの「G」は、何という単語の略でしょう？
+- question: 「<ruby><rb>5G</rb><rp> (</rp><rt>ファイブジー</rt><rp>)</rp></ruby>通信」などというときの「G」は、何という単語の略でしょう？
   answer: ジェネレーション
   alternativeAnswers:
     - Generation
@@ -1952,7 +1952,7 @@
   answer: 阿部寛
   alternativeAnswers:
     - あべひろし
-- question: 「子供時代の思い出を懐かしむ」という由来から風車(かざぐるま)の形のロゴを持つGoogleのサービスといえば「Google 何」でしょう？
+- question: 「子供時代の思い出を懐かしむ」という由来から<ruby><rb>風車</rb><rp> (</rp><rt>かざぐるま</rt><rp>)</rp></ruby>の形のロゴを持つGoogleのサービスといえば「Google 何」でしょう？
   answer: Google フォト
   alternativeAnswers:
     - フォト
@@ -3850,17 +3850,9 @@
     - EAXレジスタとEAXレジスタ
     - AXとAX
     - EAXとEAX
-- question: |-
-    【この問題には前口上が付属しています】
-    おかげさまでITクイズは今回で100回目を迎えることができました！
-    私事になりますが、この度これまでに出題したITクイズをあらためて整理して、GitHub上で公開しました。
-    また、これらを見やすくまとめた本を電子書籍/リアル本で出版したので、こちらも合わせてご確認ください。
-    詳しくは https://it-quiz.hkt.sh をご覧ください (プロフィール欄にもリンクを書いておきます)。
-    こうして百度目のITクイズを迎えることができたのは、ひとえに参加して下さる皆様のおかげです。では、漢字で「百度」と書く中国最大の検索エンジンは何でしょう？
-  answer: Baidu
-  paperQuestion: (skip)
-  alternativeAnswers:
-    - バイドゥ
+- removed:
+    type: deleted
+    reason: アプリでの出題を想定した問題のため
 - question: 「単3電池」や「単4電池」などというときの「単」の由来となった、複数の電池を組み合わせる「積層電池」に対して1つの電池のみで動作するよう設計された電池のことを指す用語は何でしょう？
   answer: 単位電池
   alternativeAnswers:
@@ -3873,7 +3865,7 @@
     - hold-out
 - question: ロブ・パイクとケン・トンプソンによって開発された、Unicodeの1文字を1バイトから4バイトの可変長で表す符号化方式は何でしょう？
   answer: UTF-8
-- question: 日本語では「より対線」と呼ばれる、位相が逆の信号を伝える一対の電線をより合わせることによりノイズの影響を受けづらくしたケーブルを「何ケーブル」というでしょう？
+- question: 日本語では「より<ruby><rb>対</rb><rp> (</rp><rt>つい</rt><rp>)</rp></ruby>線」と呼ばれる、位相が逆の信号を伝える一対の電線をより合わせることによりノイズの影響を受けづらくしたケーブルを「何ケーブル」というでしょう？
   answer: ツイストペアケーブル
   alternativeAnswers:
     - ツイストペア
@@ -9039,7 +9031,7 @@
   alternativeAnswers:
     - カリフォルニア
     - California
-- question: unique_ptr、shared_ptr、weak_ptrといった種類が存在する、プログラミング言語C++においてメモリの解放などを自動で行ってくれる機能を持つ便利なポインタのことを「何ポインタ」というでしょう？
+- question: <ruby><rb>unique_ptr</rb><rp> (</rp><rt>ユニークポインタ</rt><rp>)</rp></ruby>、<ruby><rb>shared_ptr</rb><rp> (</rp><rt>シェアードポインタ</rt><rp>)</rp></ruby>、<ruby><rb>weak_ptr</rb><rp> (</rp><rt>ウィークポインタ</rt><rp>)</rp></ruby>といった種類が存在する、プログラミング言語C++においてメモリの解放などを自動で行ってくれる機能を持つ便利なポインタのことを「何ポインタ」というでしょう？
   answer: スマートポインタ
   alternativeAnswers:
     - スマート
@@ -9083,8 +9075,9 @@
     - イライザ
     - ELIZA
     - ELIZA effect
-- question: 「high_note」や「moon_child」などのように、単語と単語の間にアンダーバーを挿入して書く記法のことを、ある動物の名前を用いて「何ケース」というでしょう？
+- question: 複数の単語を連結するとき、単語と単語の間にアンダーバーを挿入して書く記法のことを、ある動物の名前を用いて「何ケース」というでしょう？
   answer: スネークケース
+  paperQuestion: 「high_note」や「moon_child」などのように、単語と単語の間にアンダーバーを挿入して書く記法のことを、ある動物の名前を用いて「何ケース」というでしょう？
   alternativeAnswers:
     - スネーク
     - snake case
@@ -10051,7 +10044,7 @@
   answer: Udemy
   alternativeAnswers:
     - ユーデミー
-- question: 卓球のプロリーグである「Tリーグ」の冠スポンサーを務めている、神奈川県相模原市に本店を置く日本の家電量販チェーンは何でしょう？
+- question: 卓球の「Tリーグ」の冠スポンサーを務めている、神奈川県相模原市に本店を置く日本の家電量販チェーンは何でしょう？
   answer: ノジマ
   alternativeAnswers:
     - 株式会社ノジマ
@@ -11186,7 +11179,7 @@
   alternativeAnswers:
     - Total Bytes Written
     - TeraBytes Written
-- question: 2009年に公開され、姉妹アカウントの「からしちゃん」と共に人気を博していた、タイムライン上の発言を学習してランダムな文章をつぶやくボットアカウントは何でしょう？
+- question: 姉妹アカウントの「からしちゃん」と共に大きな人気を博していた、タイムライン上の発言を学習してランダムな文章をつぶやく2009年公開のボットアカウントは何でしょう？
   answer: しゅうまい君
   alternativeAnswers:
     - しゅうまい
@@ -11562,7 +11555,7 @@
   answer: 否認防止
   alternativeAnswers:
     - non-repudiation
-- question: 70年代から80年代にかけて広く普及した、いわゆる「オフコン」とは、「何コンピューター」の略でしょう？
+- question: 70年代から80年代にかけて広く普及した「オフコン」といえば、「何コンピューター」の略でしょう？
   answer: オフィスコンピューター
   alternativeAnswers:
     - オフィス
