@@ -44,10 +44,10 @@ const createNewReleaseIfNecessary = async () => {
 			releases.push(quizDiff.release);
 		}
 
-		if (change.path === 'news.yaml') {
+		if (change.path === 'news-quiz.yaml') {
 			const quizDiff = await getQuizDiff(change);
 			const quizReleaseText = generateReleaseText(quizDiff);
-			releaseText += `## news.yaml\n\n${quizReleaseText}\n\n`;
+			releaseText += `## news-quiz.yaml\n\n${quizReleaseText}\n\n`;
 
 			releases.push(quizDiff.release);
 		}

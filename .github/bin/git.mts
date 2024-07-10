@@ -9,6 +9,8 @@ import assert from 'assert';
 
 process.env.GITHUB_OUTPUT = process.env.GITHUB_OUTPUT || 'output.txt';
 
+const releaseErrorDiffThreshold = 100;
+
 interface Change {
 	path: string,
 	oldContent: string | null,
@@ -209,7 +211,7 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 		assert(newQuiz !== undefined, 'Quiz must not be deleted in the new version');
 
 		if (oldQuiz === undefined) {
-			assert(!isQuizRemoved(newQuiz), 'Quiz must not be removed in the new version');
+			assert(!isQuizRemoved(newQuiz), 'Removed quiz must not be also removed in the new version');
 
 			quizAdditions.push({
 				id,
@@ -291,6 +293,10 @@ const getQuizDiff = async (change: Change): Promise<QuizDiff> => {
 			});
 			releases.push('patch');
 		}
+	}
+
+	if (releases.length > releaseErrorDiffThreshold) {
+		throw new Error(`Too many changes detected: ${releases.length}`);
 	}
 
 	return {
