@@ -17,10 +17,12 @@
     - round trip
     - round trip time
     - RTT
-- question: 一般的なアレニウスの法則によると、温度特性105℃・寿命2千時間の電解コンデンサを85℃で使用し続けたとき、その寿命は何千時間となるでしょう？
+- question: 一般的なアレニウスの法則によると、温度特性105℃・寿命2千時間の電解コンデンサを85℃で使用し続けたとき、その寿命は何時間となるでしょう？
   answer: 8千時間
   alternativeAnswers:
-    - '8'
+    - 8千
+    - 8000時間
+    - '8000'
 - question: 原因によって「データ」や「コンセプト」などの種類がある、機械学習においてモデルの性能が運用とともに低下していく現象を何というでしょう？
   answer: ドリフト
   alternativeAnswers:
@@ -41,7 +43,7 @@
   alternativeAnswers:
     - 富豪的
     - 富豪
-- question: 「Nitro」や「<ruby><rb>Xen</rb><rp> (</rp><rt>ゼン</rt><rp>)</rp></ruby>」といった仮想化技術を用いて構築されている、AWSで提供されるAmazonのVPSサービスは「Amazon 何」でしょう？
+- question: 「Nitro」や「<ruby><rb>Xen</rb><rp> (</rp><rt>ゼン</rt><rp>)</rp></ruby>」といった仮想化技術を用いて構築されている、AWS内で提供されるAmazonのVPSサービスは何でしょう？
   answer: Amazon EC2
   alternativeAnswers:
     - EC2
@@ -66,9 +68,9 @@
   answer: MNISTデータセット
   alternativeAnswers:
     - MNIST
-- question: ベンツ社が2016年に発表した、ネット通信・自動運転・シェアサービス・電気化という次世代乗用車が目指す4つの方針のことを、略して何というでしょう？
+- question: ベンツ社が2016年に発表した、ネット接続・自動運転・シェアサービス・電気化という次世代乗用車が目指す4つの方針のことを、略して何というでしょう？
   answer: CASE
-- question: 「chokudai」というハンドルネームでも活動を行っている、プログラミングコンテストサイト「AtCoder」の設立者であり日本を代表する競技プログラマーといえば誰でしょう？
+- question: 「<ruby><rb>chokudai</rb><rp> (</rp><rt>ちょくだい</rt><rp>)</rp></ruby>」というハンドルネームでも活動を行っている、プログラミングコンテストサイト「AtCoder」の設立者であり日本を代表する競技プログラマーといえば誰でしょう？
   answer: 高橋直大
   alternativeAnswers:
     - たかはしなおひろ
@@ -123,15 +125,16 @@
   answer: 異方性フィルタリング
   alternativeAnswers:
     - 異方性
-- question: キーボードの右側にセカンドディスプレイを配置した「Plus Gen 3」でも話題を集めている、レノボ社がThinkPadの変種ブランドとして2019年から発売しているビジネス向けノートPCのシリーズは何でしょう？
-  answer: ThinkBook
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: SNSのXを利用することができるのは、原則として何歳以上でしょう？
   answer: 13歳
   alternativeAnswers:
     - '13'
-- question: crontab、hosts、passwdなどのファイルが中に置かれることが多い、Linuxの標準ディレクトリ構成でルートディレクトリの直下に置かれるディレクトリの名前は何でしょう？
+- question: <ruby><rb>crontab</rb><rp> (</rp><rt>クロンタブ</rt><rp>)</rp></ruby>、<ruby><rb>hosts</rb><rp> (</rp><rt>ホスツ</rt><rp>)</rp></ruby>、<ruby><rb>passwd</rb><rp> (</rp><rt>パスワード</rt><rp>)</rp></ruby>などのファイルが中に置かれることが多い、Linuxの標準ディレクトリ構成でルートディレクトリの直下に置かれるディレクトリの名前は何でしょう？
   answer: /etc
-- question: キーボードなどの製造で有名な企業「ロジクール」の本社「ロジテック」は、どこの国に存在する企業でしょう？
+- question: キーボードなどの製造で有名な「ロジクール」の本社「ロジテック」は、どこの国に存在する企業でしょう？
   answer: スイス
   alternativeAnswers:
     - スイス連邦
@@ -144,6 +147,7 @@
   answer: Safari
   alternativeAnswers:
     - サファリ
+  description: 旧アイコンでは方位磁針に方角が記されており北東方向を指していたが、アップデートによりシンプルなアイコンとなり、方角の記載が削除された。
 - question: ロバート・カーンとともにTCP/IPを発明し「インターネットの父」の1人に数えられる、現在はGoogleのチーフ・インターネット・エヴァンジェリストを務めるアメリカの計算機科学者は誰でしょう？
   answer: ヴィントン・サーフ
   alternativeAnswers:
@@ -155,10 +159,9 @@
     - paradigm
     - プログラミングパラダイム
     - programming paradigm
-- question: 「Huh?」「Happy Happy Happy」「Chipi chipi chapa chapa」といった声ネタがよく使われる、ある動物の切り抜き素材を使用した一連のミーム動画といえば「何ミーム」でしょう？
-  answer: 猫ミーム
-  alternativeAnswers:
-    - 猫
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: データにノイズを加えていくことで潜在変数に落とし込み、ノイズから逆に目的のデータを生成するという機械学習のモデルの構成手法を、日本語を用いて「何モデル」というでしょう？
   answer: 拡散モデル
   alternativeAnswers:
@@ -181,7 +184,7 @@
     - グートマン
     - Gutmann method
     - Gutmann
-- question: 2017年に発売されたiPhone Xで採用され普及した、インカメラや近接センサーを埋め込むために設けられたスマートフォン画面上部の切り欠きのことを、「くぼみ」という意味の英語から何というでしょう？
+- question: 2017年に発売されたiPhone <ruby><rb>X</rb><rp> (</rp><rt>テン</rt><rp>)</rp></ruby>で採用され普及した、スマートフォン画面上部の切り欠きのことを、「くぼみ」という意味の英語から何というでしょう？
   answer: ノッチ
   alternativeAnswers:
     - ノッチデザイン
@@ -5348,7 +5351,7 @@
   answer: AUX端子
   alternativeAnswers:
     - AUX
-- question: 1994年にウルフラムの助手によってチューリング完全であることが証明された1次元セルオートマトンの、ウルフラムコードは何でしょう？
+- question: 1994年にウルフラムの助手によってチューリング完全であることが証明された1次元セルオートマトンを、そのウルフラムコードを用いて何でしょう？
   answer: ルール110
   alternativeAnswers:
     - Rule 110
@@ -5371,7 +5374,7 @@
   answer: Generation
   alternativeAnswers:
     - ジェネレーション
-- question: クレイグ・トーマスの小説、スマブラのフォックスの上必殺技、Mozillaが開発するウェブブラウザに共通する名前は何でしょう？
+- question: クレイグ・トーマスの小説、スマブラのフォックスの上必殺技、<ruby><rb>Mozilla</rb><rp> (</rp><rt>モジラ</rt><rp>)</rp></ruby>が開発するウェブブラウザに共通する名前は何でしょう？
   answer: ファイアフォックス
   alternativeAnswers:
     - firefox
@@ -5438,11 +5441,13 @@
     - あいしてる
 - question: 特にFPSなどのオンラインゲームにおいて、シーズンパスを購入することで期間中に獲得した経験値に応じた報酬を獲得することができる課金システムのことを何というでしょう？
   answer: バトルパス
+  alternativeAnswers:
+    - battle pass
 - question: SNSから少しでも離れると、何か情報を見逃しているのではないか、自分の知らないところで話が進んでいるのではないか、という恐れから不安を感じる現象を何というでしょう？
   answer: FoMO
   alternativeAnswers:
     - Fear of Missing Out
-- question: Linuxではuptimeなどのコマンドで確認することができる、CPUで実行待ちになっているプロセスの数によって表されるシステムの負荷の指標は何でしょう？
+- question: Linuxでは<ruby><rb>uptime</rb><rp> (</rp><rt>アップタイム</rt><rp>)</rp></ruby>などのコマンドで確認することができる、CPUで実行待ちになっているプロセスの数によって表されるシステムの負荷の指標は何でしょう？
   answer: ロードアベレージ
   alternativeAnswers:
     - load average
@@ -7381,6 +7386,7 @@
   alternativeAnswers:
     - イコール
     - 等号
+  description: 厳密には「+」などをタイプしても数式の入力を開始することができるが、最終的に入力される数式の先頭は常に「=」となる。
 - question: サイバーセキュリティーの用語で「RaaS」といったときの「R」は、なんという言葉の略でしょう？
   answer: ランサムウェア
   alternativeAnswers:
@@ -7396,7 +7402,7 @@
   description: 反著作権団体Piratbyrånの設立メンバーによって立ち上げられた宗教であり、その名前は同団体が掲げる反著作権のシンボルKopimiに由来する。
 - question: 漫画『NEW GAME!』の11巻で、桜ねねが「完全に理解してしまったかもしれない」と述べるシーンがあるプログラミング言語は何でしょう？
   answer: C++
-- question: ゲームコントローラーの形をした「クライド」というキャラクターがロゴに描かれている、オンライン通話やテキストチャットツールとして多くのゲーマーに使われているサービスは何でしょう？
+- question: ゲームコントローラーの形をした「クライド」というキャラクターがロゴに描かれている、ボイスチャットやテキストチャットツールとして多くのゲーマーに使われているオンラインコミュニケーションサービスは何でしょう？
   answer: Discord
   alternativeAnswers:
     - ディスコード
@@ -7620,11 +7626,11 @@
     - アクター
     - actor model
     - actor
-- question: 最新規格の2.0では最大で15360×8460までの解像度に対応している、長方形の4つの角のうち1つが欠けたデザインのプラグを持つ映像伝送インターフェイス規格は何でしょう？
+- question: 最大80Gbpsの速度でデータを転送することができる、長方形の角の1つが欠けた形のプラグを持つ映像伝送インターフェイス規格は何でしょう？
   answer: DisplayPort
   alternativeAnswers:
     - ディスプレイポート
-- question: 初期のAppleコンピューターに標準搭載されていたことでも知られている、統合開発環境Delphiのベースとなっているプログラミング言語は何でしょう？
+- question: 初期のAppleコンピューターに標準搭載されていたことでも知られている、統合開発環境<ruby><rb>Delphi</rb><rp> (</rp><rt>デルファイ</rt><rp>)</rp></ruby>のベースとなっているプログラミング言語は何でしょう？
   answer: Pascal
 - question: その正体は雑誌『プレイボーイ』に掲載されたヌード写真を切り抜いたものである、1973年ごろから画像処理の分野で広く使用されている標準的なテスト画像のことを、その被写体の名前から何というでしょう？
   answer: レナ
@@ -10747,7 +10753,7 @@
   answer: OWASP
   alternativeAnswers:
     - Open Web Application Security Project
-- question: 日本では清水貴裕がプロ選手として活躍している、定格以上の周波数を引き出しコンピューターを可能な限り早く動作させる競技は何でしょう？
+- question: 日本では<ruby><rb>清水貴裕</rb><rp> (</rp><rt>しみずたかひろ</rt><rp>)</rp></ruby>などがプロ選手として活躍している、プロセッサーを定格以上の周波数で動かし、可能な限り早く動作させる競技は何でしょう？
   answer: オーバークロック
   alternativeAnswers:
     - overclock
@@ -11185,7 +11191,7 @@
     - しゅうまい
     - shuumai
   description: 2023年6月にX上での活動を停止。現在はMisskeyにいる
-- question: 1億分の1BTCを1とする、ビットコインを発明した匿名の人物の名前に由来する通貨単位は何でしょう？
+- question: 1億分の1<ruby><rb>BTC</rb><rp> (</rp><rt>ビットコイン</rt><rp>)</rp></ruby>を1とする、ビットコインを発明した匿名の人物の名前に由来する通貨単位は何でしょう？
   answer: satoshi
   alternativeAnswers:
     - サトシ
@@ -11275,10 +11281,9 @@
   answer: ファジング
   alternativeAnswers:
     - fuzzing
-- question: フェンディの「ピーカフォン」シリーズやロエベの「ポケット」シリーズといえば、2022年の新語流行語大賞ベストテンにも選ばれた何というグッズのシリーズでしょう？
-  answer: スマホショルダー
-  alternativeAnswers:
-    - スマートフォンショルダー
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: CPUを介さずにメモリや周辺機器の間で直接データを転送することができる仕組みのことを、アルファベット3文字の略称で何というでしょう？
   answer: DMA
   alternativeAnswers:

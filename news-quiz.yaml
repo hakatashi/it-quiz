@@ -1082,3 +1082,13 @@
   alternativeAnswers:
     - イライザ
   description: (時事)
+- question: キーボードの右側にセカンドディスプレイを配置した「Plus Gen 3」でも話題を集めている、レノボ社がThinkPadの変種ブランドとして2019年から発売しているビジネス向けノートPCのシリーズは何でしょう？
+  answer: ThinkBook
+- question: 「Huh?」「Happy Happy Happy」「Chipi chipi chapa chapa」といった声ネタがよく使われる、ある動物の切り抜き素材を使用した一連のミーム動画といえば「何ミーム」でしょう？
+  answer: 猫ミーム
+  alternativeAnswers:
+    - 猫
+- question: フェンディの「ピーカフォン」シリーズやロエベの「ポケット」シリーズといえば、2022年の新語流行語大賞ベストテンにも選ばれた何というグッズのシリーズでしょう？
+  answer: スマホショルダー
+  alternativeAnswers:
+    - スマートフォンショルダー
