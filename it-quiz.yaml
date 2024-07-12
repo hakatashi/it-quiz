@@ -2721,7 +2721,7 @@
   alternativeAnswers:
     - Cascading Style Sheet
   description: |-
-    > Cascading Style Sheets does not have versions in the traditional sense; instead it has levels. 
+    > Cascading Style Sheets does not have versions in the traditional sense; instead it has levels.
     https://www.w3.org/Style/2011/CSS-process.en.html
 - question: スマートフォンでURLをクリックした際に、対応するアプリが自動的に開いて特定のページに遷移するという技術を英語で何というでしょう？
   answer: ディープリンク
@@ -11687,3 +11687,126 @@
   answer: ページビュー
   alternativeAnswers:
     - Page View
+- question: IEEE方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
+  answer: 仮数部
+  alternativeAnswers:
+    - 仮数
+    - mantissa
+- question: 初心者でも専門家と同じレベルの問題解決が可能となるよう、その領域の専門知識をもとに動作するコンピュータシステムのことを英語で「何システム」というでしょう？
+  answer: エキスパートシステム
+  alternativeAnswers:
+    - expert system
+    - エキスパート
+    - expert
+    - 専門家システム
+    - 専門家
+- question: Microsoft Officeに同梱されている「Wingdings」などに代表される、アルファベットなどの代わりに記号を収録した特殊なフォントのことを「何フォント」というでしょう？
+  answer: Dingbatフォント
+  alternativeAnswers:
+    - Dingbat
+    - ディンバットフォント
+    - ディンバット
+    - ディングバットフォント
+    - ディングバット
+- question: 略して「リアプロ」と呼ばれる、1990年代から2000年代にかけて広く普及した大型テレビの一種は「何テレビ」でしょう？
+  answer: リアプロジェクションテレビ
+  alternativeAnswers:
+    - リアプロジェクション
+    - rear projection television
+    - rear projection
+- question: Maybe、State、Listなどの種類があり、「自己関手の圏におけるモノイド対象」と説明されることもある、関数型プログラミングにおける副作用などを抽象化した概念は何でしょう？
+  answer: モナド
+  alternativeAnswers:
+    - monad
+- question: 熱転写式と直接感熱記録式の二種類の方式が存在する、熱を用いて紙に印字する仕組みのプリンタのことを英語で「何プリンター」というでしょう？
+  answer: サーマルプリンター
+  alternativeAnswers:
+    - サーマル
+    - thermal printer
+    - thermal
+- question: 2023年にサービス終了した「Zenly」の後継的サービスとしてLinQ inc.が開発した、Z世代に流行中の位置情報アプリは何でしょう？
+  answer: whoo
+- question: C言語やJavaScriptにおいて、与えられた値を指定した数値の範囲の中に収まるようにして返す関数を何というでしょう？
+  answer: clamp関数
+  alternativeAnswers:
+    - clamp
+- question: 2GHz帯と5GHz帯を併用する無線通信規格「IEEE 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
+  answer: Wi-Fi 4
+  alternativeAnswers:
+    - '4'
+- question: QRコードの切り出しシンボルに似たパターンが中央に配置されている、欧州圏の商品コードなどに用いられている二次元バーコードといえば「何コード」でしょう？
+  answer: Aztecコード
+  alternativeAnswers:
+    - Aztec code
+    - Aztec
+- question: 8ビットを意味する「バイト」からの連想で「かじる」という意味の英単語から名付けられた、4ビットを1とする情報量の単位は何でしょう？
+  answer: ニブル
+  alternativeAnswers:
+    - nibble
+    - nybble
+- question: 赤・緑・青・透明度の4つの成分で色を指定する表現形式のことを、これらを表す英単語の頭文字から何というでしょう？
+  answer: RGBA形式
+  alternativeAnswers:
+    - RGBA
+- question: 2012年に発生したいわゆる「PC遠隔操作事件」において、真犯人を名乗る人物が首輪にウイルスのデータを付けた猫を放ち、警察が回収を行った場所はどこでしょう？
+  answer: 江の島
+- question: 「ハートブリード」といえばOpenSSLの脆弱性ですが、2024年7月に報告された「リグレッション」といえば何というソフトウェアの脆弱性でしょう？
+  answer: OpenSSH
+- question: ずばり、一般的なはんだに最も多く含まれている金属は何でしょう？
+  answer: スズ
+  alternativeAnswers:
+    - 錫
+- question: アクセシビリティの観点からすべての画像に指定することが義務付けられている、画像が表示できない際の代替テキストを表すHTMLのimg要素の属性は何属性でしょう？
+  answer: alt属性
+  alternativeAnswers:
+    - alt
+- question: 池袋サンシャインシティの「プラネタリウム満天」を始めとするプラネタリウム事業でも広く知られている、2003年に東京と大阪の会社の経営統合によって発足した日本の電機メーカーは何でしょう？
+  answer: コニカミノルタ株式会社
+  alternativeAnswers:
+    - コニカミノルタ
+    - KONICA MINOLTA, INC.
+    - KONICA MINOLTA
+- question: 第一種電気工事士を取得することで従事することができる「簡易電気工事」では、最大電力が何キロワット以下の需要設備を取り扱うことができるでしょう？
+  answer: 500キロワット
+  alternativeAnswers:
+    - 500kW
+    - '500'
+    - 500000ワット
+    - 500000W
+- question: 動物の体表面などに見られるまだら模様のパターンの名前にも名を残す、生物学に対しても多大な貢献を行ったイギリスの計算機科学者といえば誰でしょう？
+  answer: アラン・チューリング
+  alternativeAnswers:
+    - Alan Turing
+- question: Google Cloud StorageやAmazon S3の耐久性を表す指標にも用いられている、半導体を製造するために必要とされる極めて高い純度のことを、数字を表す言葉2つを用いて何というでしょう？
+  answer: イレブンナイン
+  alternativeAnswers:
+    - eleven nine
+- question: 現在「アキバで見かけた萌えキャラコンテスト」で4年連続の1位を獲得している、ドライブチェックソフト「CrystalDiskInfo」の公式応援キャラクターは誰でしょう？
+  answer: 水晶雫
+  alternativeAnswers:
+    - すいしょうしずく
+- question: 視聴者が観たいときに好きな番組を観る「オンデマンド放送」に対して、放送局がリアルタイムで配信した番組を視聴する従来型のテレビ放送の仕組みのことを「何放送」というでしょう？
+  answer: リニア放送
+  alternativeAnswers:
+    - リニア
+- question: ケンジントンのExpert MouseやロジクールのERGOなどの製品に代表される、上に取り付けられた球体を手で回転させることでカーソルを操作する方式のマウスのことを「何マウス」というでしょう？
+  answer: トラックボールマウス
+  alternativeAnswers:
+    - トラックボール
+    - trackball mouse
+    - trackball
+- question: 高校の科目「情報I」で学ぶ「情報の3つの特性」とは、残存性、伝播性と何でしょう？
+  answer: 複製性
+- question: 特に検索エンジンがインデックスを作成するために動かしているものを言うことが多い、インターネットを巡回して文書や画像を自動的にデータベース化するプログラムを指す言葉は何でしょう？
+  answer: クローラー
+  alternativeAnswers:
+    - クローラ
+    - crawler
+- question: コマンドプロンプトでは環境変数を、C言語では書式指定子を、そして多くのプログラミング言語では割り算の余りの計算を表すのに用いる1文字の記号は何でしょう？
+  answer: '%'
+  alternativeAnswers:
+    - パーセント
+- question: 2019年のデザインリニューアル以降、Excelのロゴに描かれているアルファベット1文字は何でしょう？
+  answer: X
+- question: かつてのネット掲示板では、不慣れなユーザーに対して「半年これをしろ」と呼びかける言い回しも流行していた、掲示板を読むだけで書き込みを行わないユーザーを指す言葉は何でしょう？
+  answer: ROM

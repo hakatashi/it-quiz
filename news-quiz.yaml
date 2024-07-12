@@ -1092,3 +1092,7 @@
   answer: スマホショルダー
   alternativeAnswers:
     - スマートフォンショルダー
+- question: 2023年に旧称の「Royal」から名称変更をしたと考えられている、同名のランサムウェアを用いて世界中の企業にサイバー攻撃を仕掛けているほか、日本では特に2024年に行われたKADOKAWAグループに対する大規模サイバー攻撃で知られるロシアのハッカー集団は何でしょう？
+  answer: BlackSuit
+  alternativeAnswers:
+    - ブラックスーツ
