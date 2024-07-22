@@ -46,9 +46,14 @@ jobs:
         run: npm --prefix .github exec tsx .github/bin/release.mts
       - name: Test
         run: |
-          echo "version: ${{ steps.build.outputs.new_version }}"
-          cat release.md
+          if [ -z "${{ steps.build.outputs.new_version }}" ]; then
+            echo "No version released."
+          else
+            echo "version: ${{ steps.build.outputs.new_version }}"
+            cat release.md
+          fi
       - name: Push new tag to GitHub
+        if: ${{ steps.build.outputs.new_version != '' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
