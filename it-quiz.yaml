@@ -102,10 +102,14 @@
     - マイクロソフトソリティア
     - ソリティア
 - question: Python 3.5で新たに導入された「<ruby><rb>@</rb><rp> (</rp><rt>アットマーク</rt><rp>)</rp></ruby>」1文字の演算子は、何を計算する演算子でしょう？
-  answer: 行列積
-  paperQuestion: Python 3.5で導入された演算子「@」は、何の積を計算する演算子でしょう？
+  answer: 行列の積
+  paperQuestion: Python 3.5で導入された演算子「@」は、何を計算する演算子でしょう？
+  minhayaQuestion: Python 3.5で導入された演算子「@」は、何の積を計算する演算子でしょう？
   alternativeAnswers:
+    - 行列積
     - 行列
+    - 行列の内積
+    - 行列のドット積
 - question: Android端末から近くにあるAndroid端末にファイルやアプリを転送することができる、2020年にリリースされたAndroidスマートフォンの機能は何でしょう？
   answer: ニアバイシェア
   alternativeAnswers:
