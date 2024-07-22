@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "compile": "json2ts -i ../quizzes.schema.json -o bin/quizzes.d.ts"
+    "compile": "tsx bin/compile.mts",
+    "test": "tsx bin/test.mts"
   },
   "dependencies": {
     "@types/diff": "^5.2.1",
@@ -12,6 +13,7 @@
     "@types/lodash": "^4.17.6",
     "@types/node": "^20.14.9",
     "@types/semver": "^7.5.8",
+    "ajv": "^8.17.1",
     "diff": "^5.2.0",
     "fs-extra": "^11.2.0",
     "isomorphic-git": "^1.26.4",
