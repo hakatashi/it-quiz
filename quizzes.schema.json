@@ -1,0 +1,94 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"$id": "https://it-quiz.schema.hakatashi.com/quizzes.schema.json",
+	"title": "ITクイズの問題リスト",
+	"description": "ITクイズの一覧を記載したJSONファイルのスキーマです。",
+	"type": "array",
+	"items": {
+		"title": "問題",
+		"meta:name": "Quiz",
+		"anyOf": [
+			{
+				"type": "object",
+				"title": "通常の問題",
+				"meta:name": "NormalQuiz",
+				"properties": {
+					"question": {
+						"type": "string",
+						"description": "問題文。問題は特に読み上げに適した問題文になるようにしています。また、ルビや強調する部分がHTMLでマークアップされています。",
+						"examples": [
+							"Python 3.5で新たに導入された「<ruby><rb>@</rb><rp> (</rp><rt>アットマーク</rt><rp>)</rp></ruby>」1文字の演算子は、何を計算する演算子でしょう？"
+						]
+					},
+					"answer": {
+						"type": "string",
+						"description": "正答。問題に対応する模範解答を表します。別解が複数ある場合は特にメインとなるものを1つ選んでいます。",
+						"examples": [
+							"行列の積"
+						]
+					},
+					"paperQuestion": {
+						"type": "string",
+						"description": "紙面出題時の問題文。より「みんはや」出題時の問題文に近い問題文がある場合、それが記載されています。",
+						"examples": [
+							"Python 3.5で導入された演算子「@」は、何を計算する演算子でしょう？"
+						]
+					},
+					"minhayaQuestion": {
+						"type": "string",
+						"description": "「みんはや」出題時の問題文。「みんはや」出題時のみ使用する問題文がある場合、それが記載されています。",
+						"examples": [
+							"Python 3.5で導入された演算子「@」は、何の積を計算する演算子でしょう？"
+						]
+					},
+					"alternativeAnswers": {
+						"type": "array",
+						"description": "別解。別解がある場合、配列の形でそれが記載されています。",
+						"items": {
+							"type": "string"
+						},
+						"examples": [
+							["行列積", "行列", "行列の内積", "行列のドット積"]
+						]
+					},
+					"description": {
+						"type": "string",
+						"description": "補足。問題に関する追加のメモがある場合、それが記載されています。",
+						"examples": [
+							"PEP 465で提案された演算子。Python 3.5は2015年にリリースされた。"
+						]
+					}
+				},
+				"required": ["question", "answer"]
+			},
+			{
+				"type": "object",
+				"title": "削除された問題",
+				"meta:name": "RemovedQuiz",
+				"properties": {
+					"removed": {
+						"type": "object",
+						"properties": {
+							"type": {
+								"type": "string",
+								"enum": ["moved", "deleted"],
+								"title": "削除の種類",
+								"meta:name": "RemovalType",
+								"description": "削除の種類。問題が移動された場合は「moved」、問題が削除された場合は「deleted」が記載されます。"
+							},
+							"reason": {
+								"type": "string",
+								"description": "削除の理由",
+								"examples": [
+									"問題が古くなったため"
+								]
+							}
+						},
+						"required": ["type", "reason"]
+					}
+				},
+				"required": ["removed"]
+			}
+		]
+	}
+}

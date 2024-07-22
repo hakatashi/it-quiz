@@ -6,6 +6,7 @@ import yaml from 'js-yaml';
 import zip from 'lodash/zip.js';
 import * as Diff from 'diff';
 import assert from 'assert';
+import type {NormalQuiz, Quiz, RemovedQuiz} from './quizzes.d.ts';
 
 process.env.GITHUB_OUTPUT = process.env.GITHUB_OUTPUT || 'output.txt';
 
@@ -16,24 +17,6 @@ interface Change {
 	oldContent: string | null,
 	newContent: string | null,
 }
-
-interface NormalQuiz {
-	question: string,
-	paperQuestion?: string,
-	minhayaQuestion?: string,
-	answer: string,
-	alternativeAnswers?: string[],
-	description?: string,
-}
-
-interface RemovedQuiz {
-	removed: {
-		type: 'deleted' | 'moved',
-		reason?: string,
-	},
-}
-
-type Quiz = NormalQuiz | RemovedQuiz;
 
 const isQuizRemoved = (quiz: Quiz): quiz is RemovedQuiz => {
 	return 'removed' in quiz;
