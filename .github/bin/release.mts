@@ -61,6 +61,11 @@ const createNewReleaseIfNecessary = async () => {
 		return;
 	}
 
+	const githubOutput = process.env.GITHUB_OUTPUT;
+	if (githubOutput === undefined) {
+		throw new Error('GITHUB_OUTPUT is not set.');
+	}
+
 	const newVersion = semver.inc(lastVersion, releaseType);
 	if (newVersion === null) {
 		throw new Error('Failed to increment the version.');
@@ -80,7 +85,7 @@ const createNewReleaseIfNecessary = async () => {
 	await fs.writeFile('release.md', releaseText);
 
 	console.log(`Writing the new version to $GITHUB_OUTPUT...`);
-	await fs.appendFile(process.env.GITHUB_OUTPUT, `new_version=${newVersion}\n`);
+	await fs.appendFile(githubOutput, `new_version=${newVersion}\n`);
 
 	console.log('Compiling the new version...');
 
