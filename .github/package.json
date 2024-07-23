@@ -22,6 +22,6 @@
     "lodash": "^4.17.21",
     "semver": "^7.6.2",
     "tsx": "^4.16.0",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   }
 }
