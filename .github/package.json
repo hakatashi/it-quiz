@@ -21,7 +21,7 @@
     "json-schema-to-typescript": "^15.0.1",
     "lodash": "^4.17.21",
     "semver": "^7.6.3",
-    "tsx": "^4.18.0",
+    "tsx": "^4.19.0",
     "typescript": "^5.5.4"
   }
 }
