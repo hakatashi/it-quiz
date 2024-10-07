@@ -68,5 +68,7 @@ jobs:
           files: |
             release/it-quiz-v${{ steps.build.outputs.new_version }}.yaml
             release/it-quiz-v${{ steps.build.outputs.new_version }}.json
+            release/it-quiz-v${{ steps.build.outputs.new_version }}.newmonic.csv
             release/news-quiz-v${{ steps.build.outputs.new_version }}.yaml
             release/news-quiz-v${{ steps.build.outputs.new_version }}.json
+            release/news-quiz-v${{ steps.build.outputs.new_version }}.newmonic.csv

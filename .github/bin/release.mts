@@ -4,21 +4,57 @@ import path from 'path';
 import semver, {ReleaseType} from 'semver';
 import git from 'isomorphic-git';
 import {fileURLToPath} from 'url';
-import {generateReleaseText, getDiff, getGitRoot, getLastReleasedRevisionHash, getLastRevisionHash, getQuizDiff, getVersions, mergeReleaseTypes} from './git.mjs';
+import {generateReleaseText, getDiff, getGitRoot, getLastReleasedRevisionHash, getLastRevisionHash, getQuizDiff, getVersions, mergeReleaseTypes, Quiz} from './git.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const compile = async (filename: string, version: string) => {
+const escapeCsvCell = (cell: string) => {
+	if (cell.includes(',') || cell.includes('"')) {
+		return `"${cell.replaceAll('"', '""')}"`;
+	}
+	return cell;
+}
+
+const compileToNewmonicCsv = (jsonContent: Quiz[]) => {
+	type Row = [string, string, string];
+	const csvContent: Row[] = [];
+
+	for (const quiz of jsonContent) {
+		if ('removed' in quiz) {
+			continue;
+		}
+
+		let answer = quiz.answer;
+		if (quiz.alternativeAnswers !== undefined) {
+			answer += ` (${quiz.alternativeAnswers.join('、')})`;
+		}
+
+		const row: Row = [
+			escapeCsvCell(quiz.question.replaceAll(/<.+?>/g, '')),
+			escapeCsvCell(answer),
+			escapeCsvCell(quiz.description ?? ''),
+		];
+
+		csvContent.push(row);
+	}
+
+	return csvContent.map(row => row.join(',')).join('\n');
+};
+
+export const compile = async (filename: string, version: string) => {
 	const yamlFile = `${filename}.yaml`;
 	const releaseYamlFile = `${filename}-v${version}.yaml`;
 	const releaseJsonFile = `${filename}-v${version}.json`;
+	const releaseCsvFile = `${filename}-v${version}.newmonic.csv`;
 
 	const yamlContent = await fs.readFile(path.join(__dirname, '../..', yamlFile), 'utf8');
-	const jsonContent = yaml.load(yamlContent);
+	const jsonContent = yaml.load(yamlContent) as Quiz[];
+	const csvContent = compileToNewmonicCsv(jsonContent);
 
 	await fs.ensureDir(path.join(__dirname, '../../release'));
 	await fs.writeFile(path.join(__dirname, '../../release', releaseJsonFile), JSON.stringify(jsonContent, null, 2));
 	await fs.writeFile(path.join(__dirname, '../../release', releaseYamlFile), yamlContent);
+	await fs.writeFile(path.join(__dirname, '../../release', releaseCsvFile), csvContent);
 };
 
 const createNewReleaseIfNecessary = async () => {
