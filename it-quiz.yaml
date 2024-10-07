@@ -12207,7 +12207,7 @@
     - home
 - question: ネット上で異性を装う人のことを指すスラングで、女性のふりをする男性のことを「ネカマ」というのに対して、男性のふりをする女性のことをかな3文字で何というでしょう？
   answer: ネナベ
-- question: 他の言語では「連想配列」や「ハッシュマップ」などとも呼ばれる、Pythonにおいて「{}」という記号を用いて記述することができるデータ型を日本語で「何型」というでしょう？
+- question: 他の言語では「連想配列」や「ハッシュマップ」などとも呼ばれる、Pythonにおいて波括弧を用いて記述することができるデータ型を日本語で「何型」というでしょう？
   answer: 辞書型
   alternativeAnswers:
     - 辞書
@@ -12238,7 +12238,7 @@
   answer: EEPROM
   alternativeAnswers:
     - Electrically Erasable Programmable Read-Only Memory
-- question: 第42回グラミー賞授賞式で、女優ジェニファー・ロペスが着た大胆なドレスが話題となったことがきっかけで開発された、今でも多くの人に使われているGoogleの機能は「Google 何」でしょう？
+- question: 第42回グラミー賞授賞式で、女優ジェニファー・ロペスが着た大胆なドレスが話題となったことがきっかけで開発された、今でも多くの人に使われているGoogleの機能は何でしょう？
   answer: Google画像検索
   alternativeAnswers:
     - 画像検索
