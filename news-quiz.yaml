@@ -1096,3 +1096,117 @@
   answer: BlackSuit
   alternativeAnswers:
     - ブラックスーツ
+- question: 日本では「毎日に、ハジける発見」というキャッチコピーでサービスを展開し、特に若い女性からの人気を集めている、中国のByteDance社が手掛けるライフスタイル系写真投稿SNSは何でしょう？
+  answer: Lemon8
+  alternativeAnswers:
+    - レモンエイト
+- question: 2024年7月には4050億パラメーターを持つバージョン3.1が公開された、Meta社が開発するオープンソースのLLMは何でしょう？
+  answer: Llama
+- question: 2024年7月にはサイバーセキュリティ製品「ファルコン」のアップデートを配信したことにより世界中のシステム障害の原因となったことで知られる、EDR製品のシェアで世界・日本ともに1位のアメリカの企業は何でしょう？
+  answer: CrowdStrike
+  alternativeAnswers:
+    - CrowdStrike Holdings, Inc.
+    - クラウドストライク
+- question: 2024年4月にチューリング賞を「計算におけるランダム性の理解の再構築」という業績で受賞し、チューリング賞とアーベル賞をともに受賞した唯一の人物となった、イスラエルの数学者は誰でしょう？
+  answer: アヴィ・ヴィグダーソン
+  alternativeAnswers:
+    - Avi Wigderson
+    - אבי ויגדרזון‎
+- question: 2024年にEU域で施行される法律の名前にもなっている、サイバー攻撃に遭うという前提のもと、被害を最小限にとどめ迅速に回復することを目指すという考え方は何でしょう？
+  answer: サイバーレジリエンス
+  alternativeAnswers:
+    - cyber resilience
+- question: 創業者のアイバン・ザオが京都で休養中に最初のコードが開発されたことでも知られる、2024年7月に全世界のユーザー数が1億人を突破したコラボレーションツールは何でしょう？
+  answer: Notion
+  alternativeAnswers:
+    - ノーション
+- question: 2023年にGoogleらが発表した、機械学習の学習用データに悪意あるデータを混入させることで、学習後のモデルの動作を制御する攻撃手法のことを英語で何というでしょう？
+  answer: データポイズニング
+  alternativeAnswers:
+    - data poisoning
+- question: 2023年にはその成長と衰退を描いた同名のドキュメンタリー映画がカナダでヒットを記録した、その機能性からiPhoneに先駆けて「世界初のスマートフォン」と呼ばれることも多い、キーボード付きの小型携帯端末は何でしょう？
+  answer: BlackBerry
+  alternativeAnswers:
+    - ブラックベリー
+- question: 2024年8月5日にサービスを開始した、動画サービス「ニコニコ」の最新バージョンの名前は何でしょう？
+  answer: 帰ってきたニコニコ
+- question: リコール機能やコクリエーター機能など、専用のAI機能を数多く提供する、Microsoft社の「AI PC」ブランドは「何 PC」でしょう？
+  answer: Copilot+ PC
+  alternativeAnswers:
+    - Copilot+
+- question: オリンピックでは全選手に同社の最新機種を贈呈することが毎回の恒例となっている、パリ五輪ではメダリストが表彰台で自撮りをする際のスマートフォン端末を提供したことでも知られる韓国の企業は何でしょう？
+  answer: サムスン
+  alternativeAnswers:
+    - Samsung
+    - サムスン電子
+    - サムスン電子株式会社
+- question: Xの指定されたユーザーのポストを分析し、毒舌調に風刺する文章を自動で作成することができる、2024年8月に流行した、AI開発環境「Wordware」の「Twitter分析ページ」の機能の1つは何でしょう？
+  answer: Roast
+  alternativeAnswers:
+    - ロースト
+- question: 2024年7月にIOCがサウジアラビアで第1回大会を開催することを決めた「OEG」といえば、「オリンピック・何・ゲームズ」の略でしょう？
+  answer: オリンピック・eスポーツ・ゲームズ
+  alternativeAnswers:
+    - eスポーツ
+    - Olympic Esports Games
+    - Esports
+- question: 2024年には「ドラえもん」や「くら寿司」など企業の公式ワールドが多く誕生した、ユーザーが様々なゲームを作成・共有することができるメタバースプラットフォームは何でしょう？
+  answer: Roblox
+  alternativeAnswers:
+    - ロブロックス
+- question: スマホ依存を減らすために近年購入する人が増えている、通話やメールなど最低限の機能だけを備えた、かつてのガラケーに似た携帯端末のことを何というでしょう？
+  answer: ダムフォン
+  alternativeAnswers:
+    - dumb phone
+- question: 今年のイベントは2024年8月22日から2024年8月24日まで行われた、毎年早稲田大学西早稲田キャンパスで開催されるiOSエンジニアのための日本最大の技術カンファレンスは「何 Japan」でしょう？
+  answer: iOSDC Japan
+  alternativeAnswers:
+    - iOSDC
+- question: 2024年8月に創業者のパーヴェル・ドゥーロフがパリで拘束される事件が発生した、ロシアのネット検閲に対抗する手段として長年にわたり利用されてきた同国発のメッセンジャーアプリは何でしょう？
+  answer: テレグラム
+  alternativeAnswers:
+    - Telegram
+- question: 重要な通知のみを表示する「さまたげ低減」や、書いた文章を校正する「作文ツール」などが利用可能となる、iPhone 16で搭載される予定のAppleのオンデバイス生成AI機能は「Apple 何」でしょう？
+  answer: Apple Intelligence
+  alternativeAnswers:
+    - Intelligence
+    - アップルインテリジェンス
+    - インテリジェンス
+- question: ネガティブプロンプトの機能を持たず、自然な文章で高品質な画像を生成できるという特徴を持つ、2024年8月にBlack Forest Labsが発表した画像生成AIモデルは何でしょう？
+  answer: FLUX.1
+- question: デジタル庁の働きかけにより、2025年の夏までにiPhoneに電子証明書機能が搭載されることが決定した、国民に割り当てられた数字12桁の番号が記載された日本の個人認証用カードは何でしょう？
+  answer: マイナンバーカード
+  alternativeAnswers:
+    - 個人番号カード
+    - マイナカード
+- question: 2024年6月、そのアイコンをキャラクター化したイラストを「#そういう生き物ちゃん」というハッシュタグで投稿することが流行したウェブブラウザは何でしょう？
+  answer: Google Chrome
+  alternativeAnswers:
+    - Chrome
+    - グーグルクローム
+    - クローム
+- question: 2024年8月に投稿されたとあるユーザーの記事で「これを使うと会社が潰れる」と述べたフレーズがいい意味でも悪い意味でも流行した、1995年に初版がリリースされたオープンソースのリレーショナルデータベース管理システムは何でしょう？
+  answer: MySQL
+- question: 2024年8月、SNSのXが最高裁判所からのサービス停止命令を受け、事業を閉鎖したことで知られる国はどこでしょう？
+  answer: ブラジル
+  alternativeAnswers:
+    - ブラジル連邦共和国
+- question: 2024年9月に全世界のユーザー数1000万人を突破した、Twitter創業者のジャック・ドーシーが開発を先導していた分散型SNSは何でしょう？
+  answer: Bluesky
+  alternativeAnswers:
+    - ブルースカイ
+- question: 国際数学オリンピックの予選問題で満点の83%のスコアを獲得するなど、主に自然科学関連の分野で博士学生レベルの能力を有しているとも言われている、2024年9月にOpenAIが発表した高性能AI推論モデルは「OpenAI 何」でしょう？
+  answer: OpenAI o1
+  alternativeAnswers:
+    - o1
+- question: 2024年7月に三菱商事とともにローソン株を買収し、AIやDX技術を活用した「未来のコンビニ」計画を展開している日本の電気通信事業者は何でしょう？
+  answer: KDDI株式会社
+  alternativeAnswers:
+    - KDDI
+- question: 2023年11月にブロードコムによって開発企業が買収されて以降、ライセンス料金の一方的な変更を行ったとして多くの国で独占禁止法違反の捜査を受けている、8割以上の世界シェアを持つアメリカ発の仮想化ソフトウェアは何でしょう？
+  answer: VMware
+- question: 自分のカメラ映像をリアルタイムに挿入することができる「カメオ」機能や、字幕を挿入することができる「クローズドキャプション」機能などの新機能が実装されているオフィスソフトは何でしょう？
+  answer: Microsoft PowerPoint
+  alternativeAnswers:
+    - PowerPoint
+    - パワーポイント

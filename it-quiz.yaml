@@ -3556,7 +3556,7 @@
     - trashing
     - dumpster driving
   description: scavengeは「ゴミ箱から集める」、trashは「ゴミ」、dumpsterは「ゴミ箱」
-- question: 表紙にはピーテル・ブリューゲルの『バベルの塔』があしらわれている、LISPプログラマーのポール・グレアムによって表された著名なプログラミングエッセイ集は何でしょう？
+- question: 表紙にはピーテル・ブリューゲルの『バベルの塔』があしらわれている、LISPプログラマーのポール・グレアムによって著された著名なプログラミングエッセイ集は何でしょう？
   answer: 『ハッカーと画家 コンピュータ時代の創造者たち』
   alternativeAnswers:
     - ハッカーと画家
@@ -11814,3 +11814,536 @@
   answer: X
 - question: かつてのネット掲示板では、不慣れなユーザーに対して「半年これをしろ」と呼びかける言い回しも流行していた、掲示板を読むだけで書き込みを行わないユーザーを指す言葉は何でしょう？
   answer: ROM
+- question: Neuron、Sinequa、QuickSolutionなどの製品に代表される、会社の内外のデータを統合検索できるようにするためのコンピューターシステムのことを総称して何というでしょう？
+  answer: エンタープライズサーチ
+  alternativeAnswers:
+    - enterprise search
+- question: フラグシップモデルのfēnixや、エントリーモデルのForerunnerなど、現在ではランナー・アスリート向けの高機能スマートウォッチ製品の製造で知られている、アメリカのGPS機器メーカーは何でしょう？
+  answer: Garmin
+  alternativeAnswers:
+    - ガーミン
+- question: 従来のLLMと比べて小規模でありながら高い性能を持つ言語モデルのことを、LLMに対して何というでしょう？
+  answer: SLM
+  alternativeAnswers:
+    - Small Language Model
+- question: 対話型AIに与えるプロンプトにいくつかの例を含めることで回答の精度を上げるプロンプトエンジニアリングの手法のことを、「何プロンプティング」というでしょう？
+  answer: フューショットプロンプティング
+  alternativeAnswers:
+    - フューショット
+    - few-shot prompting
+    - few-shot
+- question: 「+」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
+  answer: E.164形式
+  alternativeAnswers:
+    - E.164
+- question: 別名を「CRT」などという、蛍光幕に電子線を衝突させることによって映像を映し出す装置を、1909年にノーベル物理学賞を受賞したドイツの工学者の名前から何というでしょう？
+  answer: ブラウン管
+  alternativeAnswers:
+    - Braunsche Röhre
+- question: これの搭載数が多いマザーボードほどCPU負荷に対する耐性が高い、電源ユニットから供給される電力をCPU用に変換する同期整流のスイッチング回路を搭載した電子部品を何というでしょう？
+  answer: フェーズ
+  alternativeAnswers:
+    - 電源フェーズ
+    - VRMフェーズ
+    - phase
+    - VRM phase
+- question: C++では「//」、Pythonでは「#」などを用いて記述することができる、ソースコードに説明を加えるなどの目的で、プログラムの動作に影響を与えない文字列を記述することができる機能を何というでしょう？
+  answer: コメント
+  alternativeAnswers:
+    - comment
+- question: 英語では「hue」と呼ばれる、原色ごとの色味の違いを連続的な環状の値によって表現したもののことを日本語で何というでしょう？
+  answer: 色相
+  alternativeAnswers:
+    - しきそう
+- question: 第1回チューリング賞受賞者のパリスと、チューリング賞の由来となったチューリングに共通するファーストネームは何でしょう？
+  answer: アラン
+  alternativeAnswers:
+    - Alan
+- question: ChromeやFirefoxなどのウェブブラウザのメジャーバージョン更新は、原則として何週間に1回行われるでしょう？
+  answer: 4週間
+  alternativeAnswers:
+    - '4'
+- question: いわゆる「ビッグデータの3V」とは、Volume、Varietyと何でしょう？
+  answer: Velocity
+  alternativeAnswers:
+    - ベロシティ
+    - 速度
+    - 速さ
+- question: 小説家としても『サーキット・スイッチャー』などのSF作品を出版している、AIなど情報技術を活用した施策を武器に2024年7月の都知事選を戦い約15万票を獲得したエンジニアは誰でしょう？
+  answer: 安野貴博
+  alternativeAnswers:
+    - あんのたかひろ
+- question: 「他人のプライバシーを尊重すること」「タイプする前に考えること」とともにsudoコマンドの警告文に用いられている、『スパイダーマン』における引用でも有名な欧米圏の格言といえば「何には大きな責任が伴うこと」でしょう？
+  answer: 大いなる力には大いなる責任が伴うこと
+  alternativeAnswers:
+    - 大いなる力
+    - With great power comes great responsibility
+    - great power
+- question: 「ワープロソフト」などというときの「ワープロ」とは、何という言葉の略でしょう？
+  answer: ワードプロセッサー
+  alternativeAnswers:
+    - word processor
+- question: フロッピーディスクの中でも特に広く普及した、約1.44MBの容量を持つ「両面高密度」規格のことを、アルファベットと数字を用いて何というでしょう？
+  answer: 2HD
+- question: 情報セキュリティの7要素の1つである、ある行為が誰によって行われたかを明確にできることを表す漢字五字の熟語は何でしょう？
+  answer: 責任追及性
+- question: 内閣サイバーセキュリティセンターやIPAのガイドラインによれば、パスワードは英数字記号を混合で何文字以上とするのがよいとされているでしょう？
+  answer: 10文字以上
+  alternativeAnswers:
+    - 10文字
+    - '10'
+  description: https://www.ipa.go.jp/security/chocotto/
+- question: フォン、ウォッチ、グラスなどの言葉の前について「高機能な情報処理機能を持つこと」を表す、その他の意味に「活発な」「懸命な」などがある英単語は何でしょう？
+  answer: スマート
+  alternativeAnswers:
+    - smart
+- question: Unicodeなどにおける正式な名称は「solidus」となっている、URLにおいては区切り文字を、プログラムにおいては除算記号を表すことが多い記号の一般的な名称は何でしょう？
+  answer: /
+  alternativeAnswers:
+    - スラッシュ
+- question: 「ネットワークの価値は、そのネットワークに接続するユーザー数の2乗に比例する」という法則を、イーサネットを開発したアメリカの工学者の名前から「何の法則」というでしょう？
+  answer: メトカーフの法則
+  alternativeAnswers:
+    - メトカーフ
+    - メトカルフェの法則
+    - メトカルフェ
+    - ネットワーク効果
+    - Metcalfe's law
+    - Metcalfe
+- question: 2017年にゲームアプリ「hinadan」を開発し、Appleによって「世界最高齢のアプリ開発者」と認定された、現在ではデジタル庁デジタル社会構想会議構成員などを務める日本のプログラマーは誰でしょう？
+  answer: 若宮正子
+  alternativeAnswers:
+    - わかみやまさこ
+- question: 以前のバージョンのものと区別するため、USB 3.0対応機器のコネクタに使用することが推奨されている色は何でしょう？
+  answer: 青
+  alternativeAnswers:
+    - Pantone 300C
+- question: TasteJSによって開発され、さまざまなMVCフレームワークを比較するために同じウェブアプリを違うフレームワークで実装するプロジェクトを、そのアプリの名前を用いて「何MVC」というでしょう？
+  answer: Todoアプリ
+  alternativeAnswers:
+    - Todo
+- question: 開発期間を細かなスプリントに分割し、少人数のチームで柔軟な開発を行う日本発のアジャイル開発のフレームワークを、あるラグビー用語に例えて何というでしょう？
+  answer: スクラム
+  alternativeAnswers:
+    - スクラムフレームワーク
+    - scrum
+    - scrum framework
+- question: 特にSES企業において、自分が所属する会社ではなく、クライアントの会社に出社して技術的な労働を提供する労働形態のことを、漢字四文字で何というでしょう？
+  answer: 客先常駐
+- question: JavaやRubyなどのプログラミング言語で実装されている、オブジェクトがガベージコレクターによって回収される前に自動的に呼び出されるメソッドのことを何というでしょう？
+  answer: ファイナライザー
+  alternativeAnswers:
+    - ファイナライザ
+    - finalizer
+- question: 日本では俗に「火狐」などとも呼ばれる、Mozilla Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
+  answer: Firefox
+  alternativeAnswers:
+    - ファイアフォックス
+    - ファイヤフォックス
+- question: PCケーブルなどの端子の根元付近につけられる、電磁ノイズから信号を保護するための円筒状の部品のことを、その材質から何というでしょう？
+  answer: フェライトコア
+  alternativeAnswers:
+    - ferrite core
+- question: 「単語頻度」と「逆文書頻度」をかけ合わせた値によって求められる、機械学習などにおいて文書に出現する特徴的な単語を抽出するのに用いられる指標は何でしょう？
+  answer: TF-IDF
+- question: 金属の管の内壁にウィックと呼ばれる毛細管構造が入っている、内部の液体の蒸発と凝縮により効率的に熱を伝える冷却用装置を何というでしょう？
+  answer: ヒートパイプ
+  alternativeAnswers:
+    - heat pipe
+- question: 歌やダンスを得意とし、インターネットを通して毎月新しいダンスが配信される、シャープの家庭用コミュニケーションロボットの製品名は何でしょう？
+  answer: ロボホン
+  alternativeAnswers:
+    - RoBoHoN
+- question: 2015年のサイバーセキュリティ基本法の施行に伴い設置された「内閣サイバーセキュリティセンター」のことを、アルファベット4文字の略称で何というでしょう？
+  answer: NISC
+  alternativeAnswers:
+    - National center of Incident readiness and Strategy for Cybersecurity
+- question: スマホの画面に触れていないにもかかわらず、ひとりでにタッチ操作が行われる現象のことを、俗に何というでしょう？
+  answer: ゴーストタッチ
+  alternativeAnswers:
+    - ghost touch
+- question: 日本のエンジニア業界では時間切れの際に銅鑼を鳴らす慣習があることでも知られる、5分から10分程度の短時間で行われる技術的なプレゼンテーションを何というでしょう？
+  answer: ライトニングトーク
+  alternativeAnswers:
+    - lightning talk
+    - LT
+- question: ルービックキューブなどで「目的の状態に近づけるための決められた動かし方」のことを指すのにも用いられる、一般には「目標を達成するための決められた計算手順」のことを意味するプログラミング用語は何でしょう？
+  answer: アルゴリズム
+  alternativeAnswers:
+    - algorithm
+- question: GREEの田中良和、mixiの笠原健治、はてなの近藤淳也などの創業者に代表される、青年時代をパソコンブームの中で過ごしたいわゆる「第3世代」のネット起業家のことを、その誕生年から「何世代」と呼ぶでしょう？
+  answer: ナナロク世代
+  alternativeAnswers:
+    - ナナロク
+- question: すべての動画が3分以内となっており現在500以上の講座が開講している、taguchiによって2012年にサービス開始した初心者向けプログラミング学習サイトは何でしょう？
+  answer: ドットインストール
+- question: malloc、free、abs、randなどの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
+  answer: stdlib.h
+  alternativeAnswers:
+    - stdlib
+- question: 正式には「サーマルペースト」などと呼ばれることもある、CPUなどの熱がヒートシンクに効率的に伝わるようにするゼリー状のPC部品をより一般には何というでしょう？
+  answer: グリス
+  alternativeAnswers:
+    - グリース
+    - grease
+- question: インクジェットプリンターのインクにおいて、紙に染み込んで発色するものを「染料インク」と呼ぶのに対して、紙に染み込まずに表面で発色するものを「何インク」というでしょう？
+  answer: 顔料インク
+  alternativeAnswers:
+    - 顔料
+- question: ゲーム開発会社としては「Unreal」「Gears of War」「Fortnite」などを開発している、Steamに次ぐ規模のデジタルゲームストアの運営でも有名なアメリカの企業は何でしょう？
+  answer: Epic Games, Inc.
+  alternativeAnswers:
+    - エピックゲームズ
+    - Epic Games
+- question: 食事する様子を収めた動画コンテンツのことを、韓国語の「食べる」と「番組」を組み合わせた造語で何というでしょう？
+  answer: モッパン
+  alternativeAnswers:
+    - モクバン
+    - モクパン
+    - ムクバン
+    - マクバン
+    - 먹방
+- question: 本来はファイルのタイムスタンプを変更するのに用いられる、現在ではもっぱらLinux環境で空ファイルを作成するのに用いられるコマンドは何でしょう？
+  answer: touchコマンド
+  alternativeAnswers:
+    - touch
+- question: 1秒間に1兆回の整数演算を行うことができる速度を1とする、特にNPUのAI処理性能を比較する際に用いられる単位は何でしょう？
+  answer: TOPS
+  alternativeAnswers:
+    - Tera Operations Per Second
+- question: 妹にリボンを付けた「チョコ」、恋人にうさぎの「コニー」を持つ、メッセージングアプリ「LINE」のデフォルトスタンプに登場するクマのキャラクターは誰でしょう？
+  answer: ブラウン
+  alternativeAnswers:
+    - BROWN
+- question: 最新版となるバージョン30ではYouTubeの同時視聴者数などを表示する機能が追加された、2012年にレイン・ベイリーによって開発され、現在ライブ配信ソフトウェアのデファクトスタンダードとなっているオープンソースソフトウェアといえば「何 Studio」でしょう？
+  answer: OBS Studio
+  alternativeAnswers:
+    - OBS
+- question: モバイルアプリフレームワークFlutterなどで利用される、Googleによって開発されたプログラミング言語は何でしょう？
+  answer: Dart
+- question: RFC7230に基づくと、ブラウザやサーバーがサポートするべきURLの長さは最低約何千文字以上でしょう？
+  answer: 8千文字
+  alternativeAnswers:
+    - '8'
+    - 8000バイト
+    - '8000'
+- question: C++の代わりに、独自のビジュアルプログラミング言語「Blueprint」を用いてゲーム開発を行うこともできる、1998年からEpic Games社によって無償で提供されている3Dゲームエンジンは何でしょう？
+  answer: Unreal Engine
+  alternativeAnswers:
+    - アンリアルエンジン
+- question: IntelのPentium IIIに対抗するCPUとしてAMDが1999年に開発した、同社として初めてブランド名を付けられたCPUの製品シリーズは何でしょう？
+  answer: Athlon
+  alternativeAnswers:
+    - アスロン
+- question: SNSで「スタ連」や「スタ爆」といったときの「スタ」といえば、何という言葉の略でしょう？
+  answer: スタンプ
+  alternativeAnswers:
+    - stamp
+- question: AIモデルを混乱させ、誤った分類をしてしまうように作成された特殊な入力のことを、日本語を用いて「何的サンプル」というでしょう？
+  answer: 敵対的サンプル
+  alternativeAnswers:
+    - adversarial example
+- question: 「Mini」「Mavic」「Avata」など数多くのシリーズを展開する、民間用ドローンの世界シェアで7割以上を占める中国の機械メーカーは何でしょう？
+  answer: DJI
+  alternativeAnswers:
+    - 大疆创新科技有限公司
+    - 大疆創新科技有限公司
+    - Da-Jiang Innovations Science and Technology Co., Ltd.
+- question: ナルニア国の王都の名前「ケア・パラベル」をもじって名付けられたとされている、「Web職人のための」フレームワークをうたうPHPのMVCフレームワークは何でしょう？
+  answer: Laravel
+  alternativeAnswers:
+    - ララベル
+- question: これを用いて配信者に「チアー」と呼ばれる投げ銭を行うことができる、動画配信サービス「Twitch」におけるアプリ内通貨といえば何でしょう？
+  answer: ビッツ
+  alternativeAnswers:
+    - bits
+- question: GitHubにおいて、他のユーザーが公開しているリポジトリを自分のアカウントにクローンして、自由に編集できる状態にすることを何というでしょう？
+  answer: フォーク
+  alternativeAnswers:
+    - fork
+- question: 「#ITクイズ#」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
+  answer: Weibo
+  alternativeAnswers:
+    - ウェイボ
+    - シンランウェイボー
+    - 微博
+    - 新浪微博
+- question: プリント基盤に表面実装部品を取り付けるための四角い銅箔部分のことを、英語で何というでしょう？
+  answer: パッド
+  alternativeAnswers:
+    - pad
+- question: 主にWindowsフォントの「Impact」が使用されることが多い、画像に面白い文章を重ね合わせることで作成される欧米圏でポピュラーなミーム画像の形式のことを何というでしょう？
+  answer: イメージマクロ
+  alternativeAnswers:
+    - image macro
+- question: 認証と認可のうち、HTTPの「401 Unauthorized」エラーに対応するセキュリティ手段はどちらでしょう？
+  answer: 認証
+  alternativeAnswers:
+    - authentication
+- question: 「サーバーが正常に稼働していない時間」と、「美容手術を受けたあと一時的な症状から回復するために必要な期間」に共通する言葉は何でしょう？
+  answer: ダウンタイム
+  alternativeAnswers:
+    - down time
+- question: かつて日本で広く用いられていたShift_JISやEUC-JPなどの文字コードにおいて、漢字やひらがなを表すのに必要な情報量は何バイトでしょう？
+  answer: 2バイト
+  alternativeAnswers:
+    - '2'
+- question: ブラウザのお気に入りに登録することで、ウェブサイト閲覧中にいつでも起動することができるようになる簡易的なスクリプトのことを何というでしょう？
+  answer: ブックマークレット
+  alternativeAnswers:
+    - bookmarklet
+- question: Windowsのシステムファイルの名前から名付けられた日本の同人サークルと、電子機器の中古買取・販売を行う大阪の企業の名前から連想されるかな4文字の言葉は何でしょう？
+  answer: イオシス
+- question: 日本十進分類法において「情報学」や「ジャーナリズム」などが含まれる1次分類の「総記」を表す数字は何でしょう？
+  answer: '0'
+- question: 「プレイブック」と呼ばれる手順書を定義することでサーバーへのデプロイを自動化することができる、2012年にマイケル・デハーンによって開発されたオープンソースのIaCソフトウェアは何でしょう？
+  answer: Anslble
+  alternativeAnswers:
+    - アンシブル
+- question: 「入門編」「応用編」「情報セキュリティ編」「ルーティング編」などが現在発刊されている、TCP/IPに関連する技術を基礎から細かく解説したオーム社の教科書シリーズは何でしょう？
+  answer: 『マスタリングTCP/IP』シリーズ
+  alternativeAnswers:
+    - マスタリングTCP/IP
+- question: Pixelでは「アダプティブ」、Xperiaでは「いたわり」、Aquosでは「インテリジェント」の後につくとほぼ同じ機能の名前になる、漢字二文字の用語は何でしょう？
+  answer: 充電
+  alternativeAnswers:
+    - チャージ
+    - change
+- question: オープンソースのデータベースソフトウェア「MySQL」のロゴに描かれている動物は何でしょう？
+  answer: イルカ
+- question: 現在はGoogleやAppleを始めとする100社以上によって構成され、オープンソースソフトウェアの開発者を保護することを目的とする、2020年に結成されたLinux Foundation傘下の業界横断組織は何でしょう？
+  answer: OpenSSF
+  alternativeAnswers:
+    - OSSF
+- question: 取得することで5万ボルト未満の事業用電気工作物を扱うことができる「第三種電気主任技術者試験」のことを、漢字四文字の通称で何というでしょう？
+  answer: 電験三種
+- question: 最初のWindowsのリリースバージョンから40年近く使われてきたものの、2024年8月に今後廃止する予定であることが明らかとなった、Windowsの管理系機能に一覧でアクセスすることができる設定用アプリは何でしょう？
+  answer: コントロールパネル
+  alternativeAnswers:
+    - Control Panel
+- question: 日本では「幸福の手紙」や「不幸の手紙」とも呼ばれていた、受け取った人を脅迫して同様の手紙を複数人に出すよう促す手紙や電子メールのことを、英語で「何メール」というでしょう？
+  answer: チェーンメール
+  alternativeAnswers:
+    - チェーンレター
+    - チェーン
+    - chain mail
+    - chain letter
+    - chain
+- question: IT分野では「オ」が小書きで書かれることが多い、ラテン語で「割り当て」を意味する単語は何でしょう？
+  answer: クオータ
+  alternativeAnswers:
+    - クォータ
+    - quota
+- question: アルファベット3文字で「NOC」と略される、企業や組織のITインフラやネットワークを24時間365日体制で監視し、問題が発生した際に迅速に対応する役割を持つ施設やチームは「何センター」でしょう？
+  answer: ネットワークオペレーションセンター
+  alternativeAnswers:
+    - Network Operation Center
+- question: 1989年に台湾出身のメンバーがカリフォルニアで創業し、1992年に東京に本社を移転したという経緯から自らを「トランスナショナルカンパニー」としている、アンチウイルスソフトの「ウイルスバスター」などの開発で知られるIT企業は何でしょう？
+  answer: トレンドマイクロ株式会社
+  alternativeAnswers:
+    - トレンドマイクロ
+    - Trend Micro
+- question: ディスプレイのリフレッシュレート、音声デバイスのサンプリングレート、CPUのクロックレートを表すのに共通して用いられる、秒の逆数を表す単位は何でしょう？
+  answer: Hz
+  alternativeAnswers:
+    - ヘルツ
+    - Herz
+- question: 特にCPUなどに付属するものは「IHS」と略されることもある、ICチップから効率的に熱を拡散するためにヒートシンクとの間に挟まれる金属製の板のことを何というでしょう？
+  answer: ヒートスプレッダ
+  alternativeAnswers:
+    - heat spreader
+- question: 「誰よりも君見つめてる 好きなあの子よりも長く」という歌い出しのキュウソネコカミの曲のタイトルにもなっている、実際には振動していないスマートフォンが振動したかのように感じてしまう現象を「何症候群」というでしょう？
+  answer: ファントムバイブレーション症候群
+  alternativeAnswers:
+    - ファントムバイブレーション
+    - ファントムヴァイブレーション症候群
+    - ファントムヴァイブレーション
+    - phantom vibration syndrome
+    - phantom viblation
+- question: HTMLクラスがそのままスタイルを表す「ユーティリティーファーストCSS」の代表例として知られている、2019年にアダム・ワザンらによって正式バージョンがリリースされたCSSフレームワークは何でしょう？
+  answer: Tailwind
+- question: 機械学習の中でも、問題と正解のセットを学習データとして与える学習手法のことを「何あり学習」というでしょう？
+  answer: 教師あり学習
+  alternativeAnswers:
+    - 教師
+    - supervised learning
+    - supervised
+- question: 市場取引のリアルタイム管理など、金融機関の規制対応にIT技術を活用する分野のことを「規制」と「技術」を組み合わせた単語で何というでしょう？
+  answer: レグテック
+  alternativeAnswers:
+    - RegTech
+- question: IntelのCore iシリーズやAMDのRyzenシリーズのバージョン番号に用いられる数字は、奇数・偶数のどちらでしょう？
+  answer: 奇数
+  alternativeAnswers:
+    - 奇
+- question: 日本のITベンチャー「Blue Puddle」が企画した「CODE COFFEE」は、様々なプログラミング言語をイメージしたブレンドコーヒーを作る企画です。この企画において、ブラジルやコロンビアの豆から作られた林檎のようなフレーバーを持つブレンドコーヒーは、何というプログラミング言語をイメージして作られたでしょう？
+  answer: Swift
+  alternativeAnswers:
+    - スウィフト
+- question: その名前の由来は「Quest for Curiosity and Creativity」であるとされている、株式会社サイバーエージェントの関連企業によって運営されている日本で最も教室数の多いプログラミング教室は何でしょう？
+  answer: QUREO
+  alternativeAnswers:
+    - キュレオ
+    - 株式会社キュレオ
+- question: サーバーラックにマウントして使用する、1Uや2Uなどの薄型で平たい形のサーバーのことを、ある食べ物の容器に似ていることから俗に「何サーバー」というでしょう？
+  answer: ピザボックスサーバー
+  alternativeAnswers:
+    - ビザボックス
+    - pizzabox server
+    - pizzabox
+- question: 充電器のほか、スマホリングやスタンドなどさまざまなアクセサリを取り付けるのにも用いられる、磁石で対象のデバイスを固定するという特徴を持つAppleのワイヤレス充電技術は何でしょう？
+  answer: MagSafe
+  alternativeAnswers:
+    - マグセーフ
+- question: C++などの言語では「popcount」と略される、レジスタの中の値が1であるビットの数を数える命令を「何カウント」というでしょう？
+  answer: ポピュレーションカウント
+  alternativeAnswers:
+    - population count
+- question: Linuxなどでは引数無しで「cd」コマンドを実行することで移動することができる、ユーザー固有のデータや設定ファイルなどを保存するためのディレクトリを「何ディレクトリ」というでしょう？
+  answer: ホームディレクトリ
+  alternativeAnswers:
+    - ホーム
+    - home directory
+    - home
+- question: ネット上で異性を装う人のことを指すスラングで、女性のふりをする男性のことを「ネカマ」というのに対して、男性のふりをする女性のことをかな3文字で何というでしょう？
+  answer: ネナベ
+- question: 他の言語では「連想配列」や「ハッシュマップ」などとも呼ばれる、Pythonにおいて「{}」という記号を用いて記述することができるデータ型を日本語で「何型」というでしょう？
+  answer: 辞書型
+  alternativeAnswers:
+    - 辞書
+    - dictionary type
+    - dictionary
+- question: ずばり、IPv6のアドレス長は何ビットでしょう？
+  answer: 128ビット
+  alternativeAnswers:
+    - 128 bits
+    - '128'
+- question: パスワードを入力している人を背後から覗き見ることで情報を盗み取るソーシャルハッキングの手法のことを、英語で何というでしょう？
+  answer: ショルダーハッキング
+  alternativeAnswers:
+    - shoulder hacking
+- question: 2019年にはサイト運営者に対する実刑判決が下された、ファイルがダウンロードされた回数に応じて報酬が支払われる仕組みで多数の漫画や雑誌の海賊版を掲載していた日本のリーチサイトは何でしょう？
+  answer: はるか夢の址
+- question: スパコンランキング「TOP500」においては「フロンティア」が初めて達成した、1秒間に10¹⁸回以上の浮動小数点演算を行う性能を持つコンピューターのことを、SI接頭語を用いて「何スケールコンピューター」というでしょう？
+  answer: エクサスケールコンピューター
+  alternativeAnswers:
+    - エクサスケールコンピューティング
+    - エクサスケール
+    - エクサ
+    - exa-scale computing
+    - exa-scale computer
+    - exa-scale
+    - exa
+- question: フラッシュメモリと比較して耐久性が高いことから現在でも車載デバイスなどで利用されている、その名前に反してバイト単位で電気的に書き換え可能な不揮発性メモリは何でしょう？
+  answer: EEPROM
+  alternativeAnswers:
+    - Electrically Erasable Programmable Read-Only Memory
+- question: 第42回グラミー賞授賞式で、女優ジェニファー・ロペスが着た大胆なドレスが話題となったことがきっかけで開発された、今でも多くの人に使われているGoogleの機能は「Google 何」でしょう？
+  answer: Google画像検索
+  alternativeAnswers:
+    - 画像検索
+    - Googleレンズ
+    - レンズ
+- question: 焼きなまし法などの最適化アルゴリズムや、LLMなどの生成AIにおいて、出力のランダム度を制御するのに用いられるグローバルなパラメーターの名前は何でしょう？
+  answer: 温度
+  alternativeAnswers:
+    - temperature
+- question: 1999年に登場し、特に違法映画配布の際に多用されたことから一時期「リッピング文化」の象徴とされた、MPEG-4技術をベースとするビデオ圧縮技術の名前は何でしょう？
+  answer: DivX
+  alternativeAnswers:
+    - ディブエックス
+    - Digital Video Express
+- question: 銀座のApple Storeには、ある特徴を持ったエレベーターがあります。その特徴とは、Appleの主力製品であるiPhoneと同じ「それまでは当然あったあるものが無い」というものですが、その「あるもの」とは何でしょう？
+  answer: ボタン
+  alternativeAnswers:
+    - 階数ボタン
+- question: 生体認証IDシステムの「アドハー」や中央銀行デジタル通貨の「デジタル・ルピー」などが導入されている、現在モディ政権のもとでデジタル化政策が積極的に進められている国はどこでしょう？
+  answer: インド
+- question: AIモデルに対して悪意ある入力を与えることで、入力データが学習データに含まれるかを推論する攻撃のことを「何推論攻撃」というでしょう？
+  answer: メンバーシップ推論攻撃
+  alternativeAnswers:
+    - メンバーシップ推論
+    - メンバーシップ
+    - Membership Inference Attack
+    - Membership Inference
+    - Membership
+- question: NVIDIAのGPUの機械語にコンパイルされるアセンブリ言語と、CSSにコンパイルされるスタイルシート言語に共通するアルファベット4文字の名称は何でしょう？
+  answer: SASS
+- question: 略して「M/B」などと呼ばれる、CPUやメモリなどのパーツを取り付け、パソコンの土台となる電子回路の基板のことを何というでしょう？
+  answer: マザーボード
+  alternativeAnswers:
+    - mother board
+- question: ロボット工学者の森政弘によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
+  answer: 不気味の谷現象
+  alternativeAnswers:
+    - 不気味の谷
+- question: 6つあるルートキーの名前は全て「HKEY_」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
+  answer: レジストリ
+  alternativeAnswers:
+    - registry
+- question: 「bad anatomy」「extra digit」「worst quality」などの定型句がよく用いられる、画像生成AIにおいて画像に含まれたくない要素を明示的に指定するプロンプトを「何プロンプト」というでしょう？
+  answer: ネガティブプロンプト
+  alternativeAnswers:
+    - ネガティブ
+    - negative prompt
+    - negative
+- question: データの収集、保管、利用方法などを定め、責任体制を明確にする枠組みやプロセスのことを、英語で何というでしょう？
+  answer: データガバナンス
+  alternativeAnswers:
+    - data governance
+- question: 実用上は「bps」と同じ意味で用いられる、PCI Expressなどのバスの転送速度を表すのに用いられる単位は何でしょう？
+  answer: T/s
+  alternativeAnswers:
+    - Transfer per second
+- question: オブジェクト同士がメッセージを送り合って動作する「メッセージング」の概念を初めて導入し、オブジェクト指向プログラミング言語の普及に大きく貢献したプログラミング言語は何でしょう？
+  answer: Smalltalk
+  alternativeAnswers:
+    - スモールトーク
+- question: イラン革命によってアメリカに亡命した元王族であるという経歴を持つ、「ファイナルファンタジー」シリーズの初期3作品でプログラムを担当した元スクウェア社の伝説的なプログラマーは誰でしょう？
+  answer: ナーシャ・ジベリ
+  alternativeAnswers:
+    - Nasir Gebelli
+    - ナーセル・ジェベッリー
+    - ناصر جبلی
+- question: 意味としては「探求する」や「詮索する」などがある、特にChatGPTなどの生成AIが異常な割合で多用することからAIが生成した文章の割合を判別するのにも用いられる英語の動詞は何でしょう？
+  answer: delve
+- question: ギターなどの楽器の接続ケーブルとしても広く使われている、電磁波による干渉を防ぐために導体の周りに導電性の保護層を設けたケーブルのことを「何ケーブル」というでしょう？
+  answer: シールドケーブル
+  alternativeAnswers:
+    - シールド
+    - shielded cable
+    - shielded
+- question: 近年では「特定のテーマに沿った投稿だけを行うアカウント」を指すのにも用いられる、本来はウェブサービスなどで特定のアルゴリズムに基づいて自動でアクションを行うアカウントを指す言葉は「何アカウント」でしょう？
+  answer: ボットアカウント
+  alternativeAnswers:
+    - ボット
+    - bot account
+    - bot
+- question: clog、cerr、cout、cinなどのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
+  answer: iostream
+- question: 別名を「LATCHの法則」ともいう、リチャード・S・ワーマンによって提唱された、情報を分類して整理する5つの方法を用いたフレームワークは「究極の5つの何」でしょう？
+  answer: 究極の5つの帽子掛け
+  alternativeAnswers:
+    - 帽子掛け
+    - ハットラック
+- question: フロントエンドフレームワークにおいて、サーバーがページをあらかじめレンダリングし、完成したHTMLをクライアントに送信することで、初回表示を早くする手法をアルファベット3文字でs何というでしょう？
+  answer: SSR
+  alternativeAnswers:
+    - Server-Side Rendering
+- question: Linuxにおいて、プロセスをコピーして親プロセスと子プロセスに分けることを何というでしょう？
+  answer: フォーク
+  alternativeAnswers:
+    - fork
+- question: 「Hystrix」や「Maestro」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
+  answer: Netflix, Inc.
+  alternativeAnswers:
+    - Netflix
+    - ネットフリックス
+- question: シリコンカーバイドや窒化ガリウムなどの原材料から作られる、高い電圧や電流の制御ができる半導体のことを「何半導体」というでしょう？
+  answer: パワー半導体
+  alternativeAnswers:
+    - パワー
+- question: 計画外の作業や要件が追加されることでプロジェクトが当初の目標を越えて膨張し、納期の遅延などの問題を引き起こす現象を英語で何というでしょう？
+  answer: スコープクリープ
+  alternativeAnswers:
+    - scope creep
