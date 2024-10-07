@@ -10,7 +10,7 @@ import type {NormalQuiz, Quiz, RemovedQuiz} from './quizzes.d.ts';
 
 process.env.GITHUB_OUTPUT = process.env.GITHUB_OUTPUT || 'output.txt';
 
-const releaseErrorDiffThreshold = 100;
+const releaseErrorDiffThreshold = 300;
 
 interface Change {
 	path: string,
