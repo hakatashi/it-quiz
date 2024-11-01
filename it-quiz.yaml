@@ -6400,7 +6400,7 @@
   answer: ミカエル・ウィデニウス
   alternativeAnswers:
     - Michael Widenius
-- question: 1996年に公開されたときは「バックラブ」という名前だった、100ペタバイト以上の検索インデックスを持つ世界最大の検索エンジンは何でしょう？
+- question: 1996年に公開されたときは「<ruby><rb>BackRub</rb><rp> (</rp><rt>バックラブ</rt><rp>)</rp></ruby>」という名前だった、100ペタバイト以上の検索インデックスを持つ世界最大の検索エンジンは何でしょう？
   answer: Google
   alternativeAnswers:
     - グーグル
@@ -7439,7 +7439,7 @@
     - ブルーグリーン
     - blue green deployment
     - blue green
-- question: CSSで定められた140色のカラーネームのうち、カラーコード#00FF00で表される色の名前は何でしょう？
+- question: CSSで定められた148色のカラーネームのうち、カラーコード#00FF00で表される色の名前は何でしょう？
   answer: lime
   alternativeAnswers:
     - ライム
