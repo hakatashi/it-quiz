@@ -12347,3 +12347,320 @@
   answer: スコープクリープ
   alternativeAnswers:
     - scope creep
+- question: リズムゲーム「osu!」をプレイするAIとして開発され、現在はTwitchで雑談配信やゲーム配信なども行っている、視聴者とリアルタイムでやり取り可能な人気AIストリーマーは誰でしょう？
+  answer: Neuro-sama
+  alternativeAnswers:
+    - ネウロさま
+- question: 日本では俗に「串」とも呼ばれる、クライアントからインターネットにアクセスする際に中継する役割を持つサーバーのことを「何サーバー」というでしょう？
+  answer: プロキシサーバー
+  alternativeAnswers:
+    - プロキシ
+    - proxy server
+    - proxy
+- question: 交通系ICカードなどで使われる「フェリカ」をアルファベットで書いた時、大文字で書かれる文字はFと何でしょう？
+  answer: C
+  alternativeAnswers:
+    - FとC
+- question: 2018年にGPLをベースに作成され、その内容がオープンソースの定義に適合しないことから一部では批判も呼んでいる、現在MongoDBやRedisなどが採用しているソフトウェアライセンスは何でしょう？
+  answer: SSPL
+  alternativeAnswers:
+    - Server Side Public License
+- question: 英語圏のネットスラングで、インターネット上で感情的な議論や攻撃的なコメントを繰り広げる人のことを揶揄した表現といえば「何の戦士」でしょう？
+  answer: キーボード戦士
+  alternativeAnswers:
+    - キーボードの戦士
+    - キーボード
+    - keyboard warrior
+    - keyboard
+- question: 2015年の「将棋電王戦FINAL」の第2局で永瀬拓矢六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
+  answer: 2七角不成
+  alternativeAnswers:
+    - 角不成
+    - 2七角成らず
+    - 角成らず
+- question: ブライアン・カーニハンは「最も効果的なデバッグツールとは慎重な検討と、適切に配置されたこれである」と述べたことがある、多くのプログラミング言語において標準出力に引数の内容を表示する最も単純な方法として実装されている文は何でしょう？
+  answer: print文
+  alternativeAnswers:
+    - print関数
+    - print
+- question: 「git stage」というエイリアスも存在する、バージョン管理システムGitにおいてファイルやフォルダをステージングエリアに追加するためのサブコマンドは「git 何」でしょう？
+  answer: git add
+  alternativeAnswers:
+    - add
+- question: 「マスターズ選手権」「CodeQUEEN」「World Tour Finals」「日本最強プログラマー学生選手権」といった大会を主催している、日本最大の競技プログラミングサイトは何でしょう？
+  answer: AtCoder
+  alternativeAnswers:
+    - アットコーダー
+- question: 組成式「GaN」を持つ、従来のシリコンに代わって近年では高出力な充電器やACアダプタなどに用いられている半導体素材は何でしょう？
+  answer: 窒化ガリウム
+- question: 2017年にはファーストシングル「Not Mine」をリリースするなどミュージシャンとしても活動している、現在Instagramで200万人以上のフォロワーを持つバーチャルインフルエンサーは誰でしょう？
+  answer: リル・ミケーラ
+  alternativeAnswers:
+    - Lil Miquela
+- question: 「Automation Anywhere」「blueprism」「UiPath」の3つが「世界三大」ともいわれている、定型的な業務をソフトウェアロボットに任せることで作業効率を大幅に向上させるために使われるツールを指す言葉は「何ツール」でしょう？
+  answer: RPAツール
+  alternativeAnswers:
+    - RPA
+    - Robotic Process Automation
+    - Robotic Process Automation tool
+- question: 近年では地震を検知して作動するタイプも普及している、漏電などの異常事態を検知して安全のために電流を遮断する装置を英語で何というでしょう？
+  answer: ブレーカー
+  alternativeAnswers:
+    - breaker
+    - 配線用遮断器
+- question: 2011年にはWebGLを用いた3DCGの描画もサポートされるようになった、ブラウザ上でピクセル単位の高度な描画処理を行うことができるHTML要素は何でしょう？
+  answer: canvas
+  alternativeAnswers:
+    - canvas要素
+- question: アルファベット4文字で「SACD」と略される、約4.7GBの容量に約107分の音声を記録することができるソニーの光学ディスクフォーマットは「何CD」でしょう？
+  answer: スーパーオーディオCD
+  alternativeAnswers:
+    - スーパーオーディオ
+    - Super Audio CD
+    - Super Audio
+- question: C++において、クラスのプライベートなプロパティやメソッドにアクセスすることができるようにした外部の関数のことを「何関数」というでしょう？
+  answer: フレンド関数
+  alternativeAnswers:
+    - フレンド
+    - friend function
+    - friend
+- question: GNU Autotoolsなどのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
+  answer: configure
+- question: デジタル回路設計において、レジスタレベルで記述されたハードウェア回路をゲートなどを用いた具体的な論理回路に変換するプロセスのことを日本語で何というでしょう？
+  answer: 論理合成
+  alternativeAnswers:
+    - logic synthesis
+  description: 「配置配線」とは異なる
+- question: DMDと呼ばれる微小な鏡を用いて画素ごとの明るさをコントロールする、映画館の映写機などで広く用いられているプロジェクターの映写方式のことを、アルファベット3文字を用いて「何方式」というでしょう？
+  answer: DLP方式
+  alternativeAnswers:
+    - DLP
+    - Digital Light Processing
+- question: ずばり、日本の一般的な家庭用電源の電圧は何ボルトでしょう？
+  answer: 100ボルト
+  alternativeAnswers:
+    - 100V
+    - '100'
+- question: PC機器メーカー「BUFFALO」の名前の由来にもなった、パソコンとプリンタの間でデータを一時的に蓄えるためにかつて使用されていたメモリ装置は何でしょう？
+  answer: プリンタバッファ
+  alternativeAnswers:
+    - printer buffer
+- question: 近年では「コンピュータ技術実験雑誌」をうたい、今後期待されるコンピュータ技術を実験や図解を用いて解説する特集を多く組んでいる、CQ出版社の組み込みシステム技術者向け月刊誌は何でしょう？
+  answer: 『インターフェース』
+  alternativeAnswers:
+    - interface
+- question: 当初は日産自動車が保有し、のちにGMOグループによって買い取られ2024年まで同名の個人向けサービスを提供していた、現在3つ取得されているアルファベット1文字の「.com」ドメインのうちの1つは「何.com」でしょう？
+  answer: z.com
+  alternativeAnswers:
+    - z
+- question: 引数の名前など、コードエディタにおいてプログラムに関する追加情報をコード中に表示する機能のことを、「はめ込み細工」などの意味を持つ英語を用いて何というでしょう？
+  answer: インレイヒント
+  alternativeAnswers:
+    - インレーヒント
+    - inlay hint
+- question: 自らが紀貫之の子孫であることが名前の由来である、「Python超入門コース」や「Pandas入門講座」などの動画シリーズで人気を集めるプログラミング学習系YouTuberは誰でしょう？
+  answer: キノコード
+  alternativeAnswers:
+    - kinocode
+- question: iPhoneシミュレーターなどが付属しiOSアプリの開発を行うことができるほか、MacデバイスでC++などの言語のコンパイルを行う際に必要となることも多い、Appleが提供するmacOS向けの統合開発環境は何でしょう？
+  answer: Xcode
+  alternativeAnswers:
+    - エックスコード
+- question: iPhone Xの「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
+  answer: ニューラルエンジン
+  alternativeAnswers:
+    - Neural Engine
+- question: 外部から納入された数百万行のプログラムを64ビットに移植することができなかったためWindows XPを最後に姿を消してしまった、Windows付属のゲームプログラムは「Windows 3D 何」でしょう？
+  answer: Windows 3D ピンボール
+  alternativeAnswers:
+    - ピンボール
+    - 3D Pinball for Windows
+    - Pinball
+- question: ドメイン「〇〇.com」を取得するとき、「〇〇」の部分に使うことができる文字数は最長で何文字でしょう？
+  answer: 63文字
+  alternativeAnswers:
+    - '63'
+- question: ディスプレイのボタンを押すことで画面上に表示される、画面の位置やコントラストなどを操作することができるメニューのことをアルファベット3文字で何というでしょう？
+  answer: OSD
+  alternativeAnswers:
+    - On Screen Display
+- question: iPhone内の写真ライブラリーを解析し、写っている人を識別して自動的にグループ分けしてくれる機能を「何機能」というでしょう？
+  answer: ピープル機能
+  alternativeAnswers:
+    - ピープル
+    - people
+    - ピープルとペット
+- question: Rubyでは「%w」、Perlでは「qw」という記法で定義できる配列は、どのようなデータ型を要素に持つ配列でしょう？
+  answer: 文字列型
+  alternativeAnswers:
+    - 文字列
+    - string
+- question: Pixel 6以降のスマートフォンで利用することができる、ホームボタンやナビゲーションハンドルを長押しすることで画面の中の要素を選んで検索することができる機能は「何検索」でしょう？
+  answer: かこって検索
+  alternativeAnswers:
+    - かこって
+    - Circle to Search
+- question: JavaScript、JSX、CSS、Markdownなど、さまざまな種類のファイルを整形することができ、行の長さ制限に基づく整形などの機能を特徴とする、2017年にジェームズ・ロングによって開発されたコードフォーマッターは何でしょう？
+  answer: Prettier
+- question: 2024年10月にはAndroidエコシステムから完全に離脱した最新バージョンが正式にリリースされた、iOS系、Android系に次ぐ第3のモバイルデバイス向けOSになると考えられているファーウェイ社のOSは「何OS」でしょう？
+  answer: HarmonyOS
+  alternativeAnswers:
+    - ハーモニーOS
+- question: 当初は「Apple Intermediate Codec」の後継として開発され、現在ではiPhone 13 Pro以降の機種でも対応している、高い色忠実度と低い圧縮率を特徴とするプロフェッショナル向け動画コーデックは何でしょう？
+  answer: ProRes
+- question: 英語圏のネットスラング「LOL」「ROFL」「LMAO」を略さず書いたとき、共通して用いられる英単語は何でしょう？
+  answer: laugh
+  alternativeAnswers:
+    - laughing
+- question: アニメなどのストーリーやセリフを詳しく文字起こしし、著作権者に無断で公開するウェブサイトのことを、特にそれを摘発する立場から俗に何というでしょう？
+  answer: ネタバレサイト
+- question: 大手企業向けの「SUMMIT」、中堅企業向けの「iZ」、業種特化の「smart」などのシリーズが展開されている、富士通グループが1996年から開発しているERPパッケージソフトウェアのシリーズは何でしょう？
+  answer: GLOVIA
+  alternativeAnswers:
+    - グロービア
+- question: その形が芝生に植えられた植物のように見えることから「草」「大草原」「芝」などという別名で呼ばれることもある、ネットスラングにおいて書き手が笑っていることを表現するアルファベットは何でしょう？
+  answer: w
+  alternativeAnswers:
+    - ダブリュー
+- question: ネットワーク機器が一定時間内に処理したり転送したりできるデータ量のことを、英語で何というでしょう？
+  answer: スループット
+  alternativeAnswers:
+    - throughput
+- question: 新規データベースサーバの開発・導入をともなう「新館引越作業」を現在実施している、主に日本で著作権が消滅した作品を公開しているデジタルアーカイヴサイトは何でしょう？
+  answer: 青空文庫
+- question: 開発者であるエイホ、ワインバーガー、カーニハンの頭文字から名付けられた、行やフィールドごとの操作を効率的に行えるLinux向けテキスト処理ツールは何でしょう？
+  answer: awk
+- question: いわゆるイノベーター理論においては「アーリーアダプター」と「アーリーマジョリティー」の間に存在する、先端技術が市場に普及する際に乗り越えなければならない壁のことを何というでしょう？
+  answer: キャズム
+  alternativeAnswers:
+    - chasm
+- question: 人種差別への配慮から近年では「allowlist」という単語への置き換えも進んでいる、禁止を原則とするシステムにおいて許可する対象の一覧を指定するリストのことを指す言葉は何でしょう？
+  answer: ホワイトリスト
+  alternativeAnswers:
+    - whitelist
+- question: ラリー・ペイジが初期のGoogleロゴを作成するのにも使用したといわれている、GNUプロジェクトによって開発が進められている画像編集フリーソフトウェアは何でしょう？
+  answer: GIMP
+- question: TCPの22番ポートを標準で使用する、リモートサーバーの管理や安全なファイル転送などに広く利用される暗号化通信プロトコルは何でしょう？
+  answer: SSH
+  alternativeAnswers:
+    - Secure SHell
+- question: CSSで定められたカラーネームのうち、赤・青・緑の色成分がすべて等しい色といえば、black、white、silver、gray、darkgray、lightgray、dimgrayと何でしょう？
+  answer: gainsboro
+  alternativeAnswers:
+    - ゲインズボロ
+- question: アルファベット1文字で「S」と表記される、電気抵抗を表すオームの逆数の次元を持つSI組立単位は何でしょう？
+  answer: ジーメンス
+  alternativeAnswers:
+    - siemens
+- question: 略して「CMS」と呼ばれる、ウェブサイトに掲載する画像や文章などのデータを作成したり編集することを容易にするシステムのことを「何システム」というでしょう？
+  answer: コンテンツマネジメントシステム
+  alternativeAnswers:
+    - コンテンツマネジメント
+    - Content Management System
+    - Content Management
+- question: シマンテックやVMWareなど著名な企業をこれまでに数多く買収したほか、2018年にはクアルコムの買収をトランプ政権の介入により断念したことでも話題となった、通信向けの半導体製品の製造・販売で知られるアメリカのIT企業は何でしょう？
+  answer: ブロードコム
+  alternativeAnswers:
+    - Broadcom Inc.
+    - Broadcom
+- question: 日本の法律で「送信元識別符号」といえば、一般にはアルファベット3文字で何と呼ばれるもののことでしょう？
+  answer: URL
+- question: C言語で「short型」「long型」といえば、ともにどのような値を表現するデータ型でしょう？
+  answer: 整数
+  alternativeAnswers:
+    - integer
+- question: ビジネスで「PJ管理」などというときの「PJ」は、何という言葉の略でしょう？
+  answer: プロジェクト
+  alternativeAnswers:
+    - project
+- question: 世界最速のスーパーコンピューター「フロンティア」にも採用されている、複数のNVidiaのGPUを専用のアダプタで接続することによりGPU間の通信速度を大幅に向上させるインターコネクト技術は何でしょう？
+  answer: NVLink
+- question: Rubyではコロンを先頭につけることでリテラルとしても表現することができる、変更不可能でメモリ効率のいい、文字列に似たデータ型は何でしょう？
+  answer: シンボル
+  alternativeAnswers:
+    - symbol
+- question: ソフトウェア技術者のマーティン・ファウラーが広めたともいわれている、プログラミングにおいて機能はそのままでコードの内部構造を改善することを指す用語は何でしょう？
+  answer: リファクタリング
+  alternativeAnswers:
+    - refactoring
+- question: オフショア開発において日本と海外の開発チームの間でコミュニケーションを取り、プロジェクトを円滑に進行させるSEのことを「何SE」というでしょう？
+  answer: ブリッジSE
+  alternativeAnswers:
+    - ブリッジ
+    - bridge SE
+    - bridge
+- question: 1980年代に開発された通信ソフト「PC-Talk」が発祥の一つであるといわれている、機能制限付きで無料提供され、継続利用するためには料金を支払う必要があるソフトウェアのことを何というでしょう？
+  answer: シェアウェア
+  alternativeAnswers:
+    - shareware
+- question: 配列の探索やループの終了条件を簡素化するために、特定の場所に目印として置かれる特殊な値のことを日本語で何というでしょう？
+  answer: 番兵
+  alternativeAnswers:
+    - sentry
+- question: 現在国土交通省が策定を推進している「不動産ID」は、住所ごとに何桁の数字またはアルファベット(特定コードを含む)を割り振るシステムでしょう？
+  answer: 17桁
+  alternativeAnswers:
+    - '17'
+  description: https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/content/001594268.pdf
+- question: DNSレコードの中でも、ドメイン名に対応するIPv4アドレスを定義するためのレコードを「何レコード」というでしょう？
+  answer: Aレコード
+  alternativeAnswers:
+    - A
+    - A record
+- question: 英語では「stored XSS」と呼ばれる、XSSの中でもウェブサイトに保存されたデータを読み込んだ際に悪意あるスクリプトが実行されるタイプのことを「何型XSS」というでしょう？
+  answer: 蓄積型XSS
+  alternativeAnswers:
+    - 蓄積型
+    - 蓄積
+- question: 「億万長者気分でお買い物」というキャッチコピーでも有名な、入札型の販売方式による過剰な廉価販売と大々的な広告戦略で話題を博している中国発の越境ECサービスは何でしょう？
+  answer: Temu
+  alternativeAnswers:
+    - テム
+    - ティームー
+- question: フリマアプリ「メルカリ」で、短期間に大量出品や再出品の繰り返しなどによって商品が検索結果に表示されなくなるペナルティのことを、俗に何というでしょう？
+  answer: 圏外飛ばし
+- question: 5ちゃんねるなどの日本の掲示板において、パスワードを入力することで名前欄に「★」のついたハンドルネームが表示されて本人を証明することができる機能は何でしょう？
+  answer: キャップ
+- question: 企業で利用されるモバイル端末を管理するためのサービスの中でも、特に業務関連のデータの制御や監視を行うもののことを、アルファベット3文字の略称で何と言うでしょう？
+  answer: MCM
+  alternativeAnswers:
+    - Mobile Contents Management
+- question: 正式名称を「京東方科技集団」という、液晶ディスプレイの市場シェアで世界1位となっている中国の電子機器メーカーは何でしょう？
+  answer: BOE
+  alternativeAnswers:
+    - Beijing Oriental Electronics
+- question: 逆さまにすると「logs」を小文字で綴っているように見えることから、ログ分析アプリケーション「Kibana」がデフォルトで使用するポート番号は何番でしょう？
+  answer: 5601番
+  alternativeAnswers:
+    - '5601'
+- question: 企業のビジネスモデルを表す用語「BtoG」の「G」とは、何という英単語の略でしょう？
+  answer: Government
+- question: 「ハァ？」「…ってコト！？」「なんとかなれーッ」などネットミームとしても多くの台詞が流行した、2020年から専用アカウントで連載されているナガノのウェブ漫画作品は何でしょう？
+  answer: ちいかわ
+  alternativeAnswers:
+    - なんか小さくてかわいいやつ
+- question: ブログサービスの「ファンブログ」などの関連サービスからも利用することができる、株式会社ファンコミュニケーションズが運営する日本最大級のアフィリエイトプラットフォームは何でしょう？
+  answer: A8.net
+  alternativeAnswers:
+    - エーハチネット
+- question: 公開鍵暗号で使用される2種類の暗号鍵といえば、公開鍵と何鍵でしょう？
+  answer: 秘密鍵
+  alternativeAnswers:
+    - 秘密
+    - private key
+    - private
+- question: 「Pop」「Show」「Dot」といった製品シリーズが展開されている、AIアシスタント「Alexa」を搭載したAmazonのスマートスピーカーのブランドといえば「Amazon 何」でしょう？
+  answer: Amazon Echo
+  alternativeAnswers:
+    - Echo
+- question: 「右クリック」と「左クリック」のうち、単に「クリック」といったときに指すことが多いのはどちらのクリックでしょう？
+  answer: 左クリック
+  alternativeAnswers:
+    - 左
+- question: データの中でも、そのままのテキストデータとして解釈することができないデータのことを、「2進数」を意味する言葉を用いて「何データ」というでしょう？
+  answer: バイナリデータ
+  alternativeAnswers:
+    - バイナリ
+    - binary data
+    - binary
+

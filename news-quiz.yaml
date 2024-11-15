@@ -1211,3 +1211,53 @@
   alternativeAnswers:
     - PowerPoint
     - パワーポイント
+- question: イギリスのチャゴス諸島返還にともない現在その存続が危ぶまれている、コンピューター関連のウェブサイトで広く使用されているイギリス領インド洋地域の国別コードトップレベルドメインは「.何」でしょう？
+  answer: .io
+  alternativeAnswers:
+    - io
+- question: 1985年にラメルハートなどとともにニューラルネットの誤差逆伝播法を提唱し、2024年のノーベル物理学賞を受賞した、「AI界のゴッドファーザー」などの異名を取るイギリス生まれの情報科学者は誰でしょう？
+  answer: ジェフリー・ヒントン
+  alternativeAnswers:
+    - Geoffrey Everest Hinton
+- question: 2024年10月には初のカラーモデルである「Colorsoft」の発表でも話題を集めた、その他の機種にScribeやPaperwhiteなどがあるAmazonの電子書籍リーダーは何でしょう？
+  answer: Kindle
+  alternativeAnswers:
+    - キンドル
+- question: 囲碁AI「AlphaGo」を開発したDeepMind社の設立者であり、自身も12歳でチェスのグランドマスターを獲得するなど多くのボードゲームで天才的な成績を残している、2024年のノーベル化学賞受賞者は誰でしょう？
+  answer: デミス・ハサビス
+  alternativeAnswers:
+    - Demis Hassabis
+- question: 2024年10月にテスラ社が発表し、2026年までに生産開始することを予定している、完全自動運転のロボットタクシーは何でしょう？
+  answer: サイバーキャブ
+  alternativeAnswers:
+    - Cybercab
+- question: 2024年7月には「Python初心者のコード／プロのコード」と題した技術書を技術評論社から出版した、Pythonを中心にDockerやGitなどの解説動画で人気を集めているプログラミング系VTuberは誰でしょう？
+  answer: サプー
+- question: 2024年10月の石破内閣の組閣に伴いデジタル大臣に就任した、「AIホワイトペーパー2024」などを取りまとめたプロジェクトチームの座長としても活動している日本の政治家は誰でしょう？
+  answer: 平将明
+  alternativeAnswers:
+    - たいらまさあき
+- question: 2025年4月開設予定となっている、インターネット上の学習のみで単位を修得し卒業することが可能な、ドワンゴ社と日本財団の提携によって作られる「日本発の本格的なオンライン大学」は何大学でしょう？
+  answer: ZEN大学
+  alternativeAnswers:
+    - ZEN
+- question: 2024年10月に行われたイベントで10周年を迎えた、GitHub社が毎年サンフランシスコで開催し、新機能に関する発表などを行う開発者向けイベントの名前は「GitHub 何」でしょう？
+  answer: GitHub Universe
+  alternativeAnswers:
+    - Universe
+- question: 2024年9月にリリースされたiOS 18で搭載された、画面上に移動する黒い点を表示することにより乗り物酔いを軽減することができる機能は何でしょう？
+  answer: 車両モーションキュー
+- question: 2022年4月、訴訟手続をIT化するいわゆる「3つのe」政策によって大幅に改正された日本の法律は何でしょう？
+  answer: 民事訴訟法
+- question: 2024年10月にリリースされた、GeminiからGoogle検索を利用できる機能の名前にもなっている、AIが具体的なものや実際の世界の情報と結びつけて概念を理解する能力のことを指す用語は何でしょう？
+  answer: グラウンディング
+  alternativeAnswers:
+    - grounding
+- question: 金沢村田製作所やTOPPANなど多くの電子機器メーカーの工場が存在するほか、2024年5月には加賀東芝エレクトロニクスが日本企業として最大級の半導体工場を竣工したことでも知られる石川県の都市はどこでしょう？
+  answer: 能美市
+  alternativeAnswers:
+    - 能美
+- question: 2024年8月に日本人として初めてのYouTube登録者数4000万人を達成した、「世界の英雄になる男」という肩書きを自称する日本のTikToker・YouTuberは誰でしょう？
+  answer: いっせい
+  alternativeAnswers:
+    - ISSEI
