@@ -320,7 +320,7 @@ const generateReleaseText = (quizDiff: QuizDiff) => {
 	const lines: string[] = [];
 
 	if (quizDiff.quizAdditions.length > 0) {
-		lines.push('* 問題を追加しました');
+		lines.push(`* 問題を${quizDiff.quizAdditions.length}問追加しました`);
 		for (const quizAddition of quizDiff.quizAdditions) {
 			const quiz = quizAddition.quiz;
 			lines.push(`  * Q${quizAddition.id}`);
