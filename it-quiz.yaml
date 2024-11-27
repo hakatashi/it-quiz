@@ -1824,6 +1824,7 @@
     - multi-tenant
     - マルチテナンシー
     - multi-tenancy
+    - multinant
 - question: 「Command+スペース」というショートカットで起動できる、デバイス上のアプリケーションやファイルを素早く検索して開くことができるMac標準ツールの名前は何でしょう？
   answer: Spotlight
   alternativeAnswers:
