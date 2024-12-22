@@ -316,7 +316,7 @@
 - question: 2021年には中学校技術の教科書にも採用された、2005年にクジラ飛行机が「ひまわり」の後継として開発した日本語プログラミング言語は何でしょう？
   answer: なでしこ
   description: (時事)
-- question: 2023年に開始される日本の「インボイス制度」において導入が予定されている、企業間の請求業務で国際的に用いられている電子インボイスの標準仕様は何でしょう？
+- question: 2023年に開始される日本の「インボイス制度」において導入された、企業間の請求業務で国際的に用いられている電子インボイスの標準仕様は何でしょう？
   answer: peppol
   alternativeAnswers:
     - ペポル
@@ -433,7 +433,7 @@
   alternativeAnswers:
     - Xenobot
   description: (時事)
-- question: バージョン番号では13にあたる、2022年10月にリリースされる予定のmacOSファミリーのコードネームは「macOS 何」でしょう？
+- question: バージョン番号では13にあたる、2022年10月にリリースされたmacOSファミリーのコードネームは「macOS 何」でしょう？
   answer: macOS Ventura
   alternativeAnswers:
     - Ventura
@@ -860,7 +860,7 @@
   alternativeAnswers:
     - おちあいよういち
   description: (時事)
-- question: 従来の「Pコア」「Eコア」に加えて新たに「LP Eコア」が採用される予定の、2023年12月に製品化されるインテルの第14世代プロセッサーのコードネームといえば「何 Lake」でしょう？
+- question: 従来の「Pコア」「Eコア」に加えて新たに「LP Eコア」が採用された、2023年12月に製品化したインテルの第14世代プロセッサーのコードネームといえば「何 Lake」でしょう？
   answer: Meteor Lake
   alternativeAnswers:
     - Meteor
@@ -1061,12 +1061,12 @@
     - Re:仮
     - りかり
   description: (時事)
-- question: 2024年8月にリリースされるAndroid 15に搭載される予定の、機密性の高いアプリの存在や通知を隔離し、認証なしではアクセスできなくする機能は何でしょう？
+- question: 2024年8月にリリースされるAndroid 15に搭載されている、機密性の高いアプリの存在や通知を隔離し、認証なしではアクセスできなくする機能は何でしょう？
   answer: プライベートスペース
   alternativeAnswers:
     - private space
   description: (時事)
-- question: 2024年6月にLTSのサポートが終了予定となっている、Debianバージョン10のコードネームは何でしょう？
+- question: 2024年6月にLTSのサポートが終了した、Debianバージョン10のコードネームは何でしょう？
   answer: Buster
   alternativeAnswers:
     - バスター
@@ -1167,7 +1167,7 @@
   answer: テレグラム
   alternativeAnswers:
     - Telegram
-- question: 重要な通知のみを表示する「さまたげ低減」や、書いた文章を校正する「作文ツール」などが利用可能となる、iPhone 16で搭載される予定のAppleのオンデバイス生成AI機能は「Apple 何」でしょう？
+- question: 重要な通知のみを表示する「さまたげ低減」や、書いた文章を校正する「作文ツール」などが利用可能となる、iPhone 16で搭載されたAppleのオンデバイス生成AI機能は「Apple 何」でしょう？
   answer: Apple Intelligence
   alternativeAnswers:
     - Intelligence
@@ -1261,3 +1261,36 @@
   answer: いっせい
   alternativeAnswers:
     - ISSEI
+- question: 2023年2月にシカゴ大学の研究者によって発表された、特定のアートスタイルの追加学習から画像を保護するための画像生成AIプロテクト技術は何でしょう？
+  answer: GLAZE
+- question: 2024年11月にはクライアント向け製品にも導入されることが発表された、Windowsを再起動することなくセキュリティアップデートなどの更新を適用することができる機能は「Windows 何」でしょう？
+  answer: Windows Hotpatch
+  alternativeAnswers:
+    - Hotpatch
+    - ウィンドウズホットパッチ
+    - ホットパッチ
+- question: 2024年11月のスパコンランキング「TOP500」で世界最速を記録した、ヒューレット・パッカードやAMDなどにより共同開発されたアメリカのスーパーコンピューターは何でしょう？
+  answer: El Capitan
+  alternativeAnswers:
+    - エル・キャピタン
+- question: 日本では2024年10月に発売された、「Meta Quest」シリーズ初の廉価版モデルといえば「Meta Quest 何」でしょう？
+  answer: Meta Quest 3S
+  alternativeAnswers:
+    - Quest 3S
+    - 3S
+- question: 2024年12月にGoogleが発表した、コード生成やバグフィックスなど、Geminiの技術を用いてコーディングを支援するAIエージェントサービスは何でしょう？
+  answer: Jules
+- question: 投稿した文字をアニメーションできる「エモテキ」機能などが特徴的な、2024年12月にサービス開始したマイクロブログSNSは何でしょう？
+  answer: mixi2
+- question: 2024年10月にリリースされたPython 3.13でも新たに導入された、プログラムの実行時に中間コードを機械語に変換して高速に実行するコンパイラのことを、アルファベット3文字を用いて「何コンパイラ」というでしょう？
+  answer: JITコンパイラ
+  alternativeAnswers:
+    - JIT
+    - Just-In-Time compiler
+    - Just-In-Time
+- question: 2025年3月にサービス終了を予定している、「プログラミングという魔法を学ぶ」というコンセプトのもとディズニー作品をテーマとしたレッスンを収録するライフイズテック社のプログラミング教材サービスは何でしょう？
+  answer: テクノロジア魔法学校
+- question: 2024年12月には初の海外展開である日本での導入を目指すことが発表された、自動車の自動運転技術の開発・研究を行うGoogleの兄弟会社は何でしょう？
+  answer: Waymo
+  alternativeAnswers:
+    - ウェイモ

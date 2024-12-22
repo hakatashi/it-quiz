@@ -12664,4 +12664,239 @@
     - バイナリ
     - binary data
     - binary
+- question: 日本のラーメン店「九州じゃんがら」の大ファンで来日時にはかならず訪れるというエピソードも知られている、現在のNVIDIA社のCEOは誰でしょう？
+  answer: ジェンスン・フアン
+  alternativeAnswers:
+    - ジェンセン・ファン
+    - Jen-Hsun Huang
+    - 黃仁勳
+    - こうじんくん
+- question: 自己啓発書などでたびたび引用される「後悔最小化フレームワーク」の由来となったことでも知られている、Amazon社を創業したアメリカの実業家は誰でしょう？
+  answer: ジェフ・ベゾス
+  alternativeAnswers:
+    - Jeff Bezos
+- question: 「.jp」や「.us」など、アルファベット2文字で表され特定の国や地域を表すのに用いられるトップレベルドメインのことを「何TLD」というでしょう？
+  answer: ccTLD
+  alternativeAnswers:
+    - cc
+    - Country Code Top-Level Domain
+    - 国別トップレベルドメイン
+- question: 現在2.5インチや3.5インチのディスクドライブを接続する際の標準的なインターフェイス規格となっている、最大6Gbpsの転送速度を持つデータ通信規格をアルファベット4文字で何というでしょう？
+  answer: SATA
+  alternativeAnswers:
+    - シリアルATA
+    - Serial ATA
+    - SATA3
+- question: このゲームの研究が古くからAIの発展に寄与してきたことから「人工知能のショウジョウバエ」と呼ばれることがある、1996年にIBMのコンピューターが世界チャンピオンを打ち負かしたことで有名なボードゲームは何でしょう？
+  answer: チェス
+  alternativeAnswers:
+    - chess
+- question: Apache MesosやKubernetesなどに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
+  answer: コンテナオーケストレーションツール
+  alternativeAnswers:
+    - コンテナオーケストレーション
+    - container orchestration tool
+    - container orchestration
+- question: 独自のAndroid派生OSである「ColorOS」を搭載したモデルを多くリリースしている、スマホの世界シェアで4位を占めるBBKエレクトロニクス社傘下のスマートフォンメーカーは何でしょう？
+  answer: OPPO
+  alternativeAnswers:
+    - オッポ
+- question: 日本政府が制定した「サイバーセキュリティ月間」は、「サイバーセキュリティ」からの連想で、毎年2月1日から何月何日まで続くでしょう？
+  answer: 3月18日
+  alternativeAnswers:
+    - 3/18
+- question: 正式な英語ではrが4つ含まれるものの、HTTPの規格では誤字を由来としてrが1つ少ないスペルが採用されている、「参照元」といった意味を持つ英単語は何でしょう？
+  answer: リファラ
+  alternativeAnswers:
+    - referrer
+    - referer
+- question: 特にIT関係の話題において、相手の発表した内容に対して鋭い技術的な指摘を行うことを、ある刃物の名前を用いて俗に「何を投げる」というでしょう？
+  answer: マサカリを投げる
+  alternativeAnswers:
+    - マサカリ
+    - まさかり
+    - 鉞
+- question: 近年ではプライバシー保護の観点から廃止の動きが進んでいる、ウェブサイトのクッキーの中でも、ユーザーがアクセスしているサイトとは異なるドメインが発行するもののことを「何クッキー」というでしょう？
+  answer: サードパーティクッキー
+  alternativeAnswers:
+    - サードパーティ
+    - third-party cookie
+    - third-party
+- question: 転職エージェントサービスの「キャリア」や、スカウト型求人メディアの「ダイレクト」といった関連サービスを多く展開している、レバレジーズグループの子会社が運営するITエンジニア向け転職サービス事業は何でしょう？
+  answer: レバテック
+  alternativeAnswers:
+    - levtech
+- question: ラテン語や英語で「柱」を意味する単語に由来する、リレーショナルデータベースにおいて表の縦方向のデータ構造を表す用語は何でしょう？
+  answer: カラム
+  alternativeAnswers:
+    - column
+- question: 【早押し注意】通常のストレージクラスに加えて「Nearline」「Coldline」といった低コストなデータ保管手段も提供されているクラウドストレージサービスの「Cloud Storage」は、何という企業によって運営されているでしょう？
+  answer: Google
+  alternativeAnswers:
+    - グーグル
+- question: 漢字二文字で「電験」と略される、ビルなどに設置されている電気設備の保守・監督を行うための資格を認定する国家試験は「何試験」でしょう？
+  answer: 電気主任技術者試験
+  alternativeAnswers:
+    - 電気主任技術者
+- question: ラテン語で「貴重な石」という意味を持つ、「Gemini」と同じ技術を用いて構築されたGoogle社のオープンな生成AIモデルは何でしょう？
+  answer: Gemma
+  alternativeAnswers:
+    - ジェンマ
+- question: キーボードを多彩なデザインに変更できる「きせかえ」機能や、多様な顔文字を収録する「クラウド超変換」などの機能で人気を博している、バイドゥ株式会社のスマートフォン向け日本語入力キーボードは何でしょう？
+  answer: Simeji
+- question: |
+    以下の書名は、すべてオライリー社から販売された書籍の邦訳です。〇〇に共通して入る英単語は何でしょう？
 
+    『〇〇 C++ ～ プログラムとデザインを改良するための55項目』
+    『〇〇 Modern C++ ～ C++11/14プログラムを進化させる42項目』
+    『〇〇 Python ～ Pythonプログラムを改良する59項目』
+    『〇〇 Rust ～ Rustコードを改善し、エコシステムを最大限に活用するための35項目』
+  answer: Effective
+- question: 「実際に必要になるまで機能は追加しないほうがよい」というエクストリームプログラミングにおける原則を、アルファベット5文字を用いて「何原則」というでしょう？
+  answer: YAGNI原則
+  alternativeAnswers:
+    - YAGNIの原則
+    - YAGNI
+    - You Aren't Gonna Need It
+- question: 自国のインフラ設備を利用してデータ運用を行えるように設計されたクラウドサービスのことを、「主権」などといった意味を持つ英語を用いて「何クラウド」というでしょう？
+  answer: ソブリンクラウド
+  alternativeAnswers:
+    - ソブリン
+    - sovereign cloud
+    - sovereign
+- question: さまざまなソースから収集した構造化データや非構造化データを一元的に保存するリポジトリのことを、ある自然物に例えた英語で何というでしょう？
+  answer: データレイク
+  alternativeAnswers:
+    - data lake
+- question: アルファベット2文字で「LP」と略される、外部からウェブサイトに流入した人が最初にアクセスするために設計されたウェブページのことを指す言葉は何でしょう？
+  answer: ランディングページ
+  alternativeAnswers:
+    - Landing Page
+- question: 海外に開発を委託することを「オフショア開発」と呼ぶのに対して、国内の地方都市に開発を委託することを「何開発」というでしょう？
+  answer: ニアショア開発
+  alternativeAnswers:
+    - ニアショア
+- question: アメリカのエンジニア向けQ&Aコミュニティサイトの名前にもなっている、関数の呼び出しの階層が深すぎることでプログラムに不具合が発生することを指す用語は何でしょう？
+  answer: スタックオーバーフロー
+  alternativeAnswers:
+    - stack overflow
+- question: 特にVSCodeやSublimeTextなどの高機能なテキストエディタにおいて、実行したい操作をテキストで検索して実行することができる対話的なUIのことを何というでしょう？
+  answer: コマンドパレット
+  alternativeAnswers:
+    - command palette
+- question: チェスや将棋の対戦プログラムの計算速度を表す「NPS」の「N」は、何という言葉の略でしょう？
+  answer: Nodes
+  alternativeAnswers:
+    - Node
+    - ノード
+    - ノーズ
+- question: ハードディスクドライブの内部で、データの記録媒体として使用される薄い円盤状の部品を何と呼ぶでしょう？
+  answer: プラッタ
+  alternativeAnswers:
+    - platter
+- question: 2014年にGoogleがレジストリとなって登録受付を開始した、ひらがなによって表記される唯一のトップレベルドメインといえば「.何」でしょう？
+  answer: .みんな
+  alternativeAnswers:
+    - みんな
+- question: 【主観クイズ】C言語においては「#include <stdio.h>」が特にこう呼ばれることが多い、プログラミングにおいて記述する理由を説明することが難しいために理由を知らされず書くように教わる特定の処理のことを俗に指す言葉は何でしょう？
+  answer: おまじない
+- question: アルファベット4文字で「PITR」と略される、障害や操作ミスなどでデータが消失した場合に備えてデータベースやインスタンスを特定の時点まで復元する機能を何というでしょう？
+  answer: ポイントインタイムリカバリ
+  alternativeAnswers:
+    - Point-In-Time Recovery
+- question: 「ブラウン」や「コニー」といったオリジナルキャラクターでも広く知られている、元ネイバージャパン株式会社によって開発されたスマホ向けメッセンジャーアプリは何でしょう？
+  answer: LINE
+  alternativeAnswers:
+    - ライン
+- question: 初期不良などの理由で返品された商品を、メーカーや業者が整備して新品と同様に使える状態で再販売される商品のことを、「改修する」という意味の英語を用いて「何品」というでしょう？
+  answer: リファービッシュ品
+  alternativeAnswers:
+    - リファービッシュ
+    - refurbish
+- question: IT転職サービスの「レバテック」が運営している、プログラミング関連の質問を日本語で投稿可能なエンジニア向けQ&Aサイトは何でしょう？
+  answer: teratail
+- question: Wordのショートカットで、段落を右揃えにするのはCtrl+R、左揃えにするのはCtrl+Lですが、中央揃えにするのはCtrl+何でしょう？
+  answer: Ctrl+E
+  alternativeAnswers:
+    - E
+- question: 外部から持ち込んだ機器を一時的に接続してウイルスなどに感染していないかを検査する、他から隔離されたネットワーク領域のことを、日本語を用いて「何ネットワーク」というでしょう？
+  answer: 検疫ネットワーク
+  alternativeAnswers:
+    - 検疫
+    - quarantine network
+    - quarantine
+- question: 英語で「黒曜石」という意味の名前を持つ、ローカルで動作しインターネットに接続しなくても利用できる特徴を持つ個人用メモアプリケーションは何でしょう？
+  answer: Obsidian
+  alternativeAnswers:
+    - オブシディアン
+- question: EU圏で広く使用されている、Windows Media Playerなどの機能が削除されたWindowsのエディションのことを、アルファベット1文字を用いて「何エディション」というでしょう？
+  answer: Nエディション
+  alternativeAnswers:
+    - N
+- question: ゲームなどの早期アクセスバージョンを招待した人にプレイしてもらうことと、資格試験などをコンピュータを利用して実施することから連想されるアルファベット3文字の言葉は何でしょう？
+  answer: CBT
+- question: 当初は二酸化クロムを原材料としていたことから「クローム」という別名も存在する、かつてのカセットテープにおいて中高域の録再特性に秀でたハイグレード品のことをカタカナ4文字で何といったでしょう？
+  answer: ハイポジ
+- question: 定型詩の一種「ソネット」と同じ名前のモデルよりも軽快に動作することから名付けられた、AIチャットサービス「Claude」の軽量版モデルは「Claude 何」でしょう？
+  answer: Claude Haiku
+  alternativeAnswers:
+    - Haiku
+- question: 「*.example.com」のように、あるドメインのすべてのサブドメインに対して発行されるTLS証明書のことを、英語を用いて「何証明書」というでしょう？
+  answer: ワイルドカード証明書
+  alternativeAnswers:
+    - ワイルドカード
+    - wildcard certificate
+    - wildcard
+- question: 正規表現やVimのコマンドにおいては「行末」を表現する、一般的には通貨記号として用いられることが多い1文字の記号は何でしょう？
+  answer: $
+  alternativeAnswers:
+    - ドル
+- question: 特にコンピューターゲームにおいて、プレイを中断する際、現在の進行状態を保存して続きから遊べるようにするためのデータのことを、「蓄える」などの意味を持つ英語を用いて「何データ」というでしょう？
+  answer: セーブデータ
+  alternativeAnswers:
+    - セーブ
+    - save data
+    - save
+- question: 2019年のHDMI 2.1で新たに対応した、8Kの約1.5倍の画素数を持つ動画解像度といえば「何K」でしょう？
+  answer: 10K
+  alternativeAnswers:
+    - 10
+- question: アンチウイルスソフトの「ZERO」や年賀状ソフトの「筆まめ」を開発している日本のIT企業は何でしょう？
+  answer: ソースネクスト株式会社
+  alternativeAnswers:
+    - ソースネクスト
+    - SOURCENEXT
+- question: 「スケールイン」といえば、一般にサーバーの台数を「増やす」「減らす」のどちらを指す用語でしょう？
+  answer: 減らす
+  alternativeAnswers:
+    - サーバーの台数を減らす
+- question: ブロックチェーンにおいて、利用者が膨大な計算量のマイニングを行うことによって取引情報の正当性を確保する仕組みのことを何というでしょう？
+  answer: プルーフ・オブ・ワーク
+  alternativeAnswers:
+    - Proof of Work
+    - PoW
+- question: 救急相談センターに電話するためのものが特に広く知られている、ある記号と4桁の数字をダイヤルすることであらかじめ登録した電話番号に接続することができるNTTのサービスを、その記号の名前を用いて「何ダイヤル」というでしょう？
+  answer: シャープダイヤル
+  alternativeAnswers:
+    - シャープ
+    - '#ダイヤル'
+    - '#'
+    - ♯ダイヤル
+    - ♯
+    - 着信短縮ダイヤル
+    - 着信短縮
+    - シャープ特番
+    - '#特番'
+    - クイックダイヤル
+    - クイック
+    - クイックナンバー
+- question: プログラミング言語Pythonでも変数名に用いることが推奨されているがそれは「Python」だからではない、単語をアンダースコアで連結し、すべて小文字で記述する記法は「何ケース」でしょう？
+  answer: スネークケース
+  alternativeAnswers:
+    - snake case
+- question: アルファベット4文字で「UMPC」と略される、一般的なノートパソコンよりもさらに小さい携帯用ラップトップPCのことを指す用語は「何PC」でしょう？
+  answer: ウルトラモバイルPC
+  alternativeAnswers:
+    - ウルトラモバイル
+    - Ultra Mobile PC
+    - Ultra Mobile
