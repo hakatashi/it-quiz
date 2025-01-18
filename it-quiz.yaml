@@ -12900,3 +12900,197 @@
     - ウルトラモバイル
     - Ultra Mobile PC
     - Ultra Mobile
+- question: テキストエディタVimにおいて、コマンドモードから挿入モードに移行する際に入力するキーは何でしょう？
+  answer: i
+- question: 日本語では「検証と妥当性確認」と訳される、システム開発においてソフトウェアの品質を確保するために必要な2つのステップの頭文字を表した言葉は何でしょう？
+  answer: V&V
+  alternativeAnswers:
+    - Verification and Validation
+- question: 「スティーブ・ジョブズが最後に見届けたiPhone」として知られる「iPhone 4S」の「S」は、何という言葉に由来するでしょう？
+  answer: Siri
+  alternativeAnswers:
+    - シリ
+- question: DNSサーバー「BIND」の付属ツールとして提供されている、DNSプロトコルを用いてドメイン名やIPアドレスに関する情報を取得するためのLinux向けコマンドラインツールは何でしょう？
+  answer: digコマンド
+  alternativeAnswers:
+    - dig
+- question: 事前操作を行った後、素数の二乗の倍数を取り除くことによって整数をふるいにかける、2003年に発表されたエラトステネスの篩よりも高速に動作する素数列挙アルゴリズムを、発見者の名前から「何の篩」というでしょう？
+  answer: アトキンの篩
+  alternativeAnswers:
+    - アトキン
+    - Sieve of Atkin
+    - Atkin
+- question: プログラミング学習において、サンプルコードや他者のコードを一字一句書き写すことを、仏教において経典を書き写す行為にちなむ俗語で何というでしょう？
+  answer: 写経
+- question: PlayStation5のコントローラーに搭載された振動機能の名前にも使われている、触覚を通じてユーザーに操作感を伝える技術を何というでしょう？
+  answer: ハプティックフィードバック
+  alternativeAnswers:
+    - haptic feedback
+- question: RAWファイルを使用した現像など高機能なツールを多数搭載した、Googleによって開発されているモバイル向け画像編集アプリは何でしょう？
+  answer: Snapseed
+  alternativeAnswers:
+    - スナップシード
+- question: 2010年のデザインリニューアル以来、Googleカレンダーのロゴに描かれている数字は何でしょう？
+  answer: '31'
+- question: YouTubeチャンネル「QuizKnock」で最も再生数の多い動画のテーマとしても取り上げられている、素因数分解の困難性を安全性の根拠とするコンピューター暗号の方式の一種は「何暗号」でしょう？
+  answer: RSA暗号
+  alternativeAnswers:
+    - RSA
+    - Rivest-Shamir-Adleman
+- question: 「バージョン1.2.3」の「2」の部分のように、バージョン番号の中で2番目に主要な変更を表す番号のことを「何バージョン」というでしょう？
+  answer: マイナーバージョン
+  alternativeAnswers:
+    - マイナー
+    - minor version
+    - minor
+- question: 画像ファイルフォーマット「PNG」の「P」は、何という英単語の略でしょう？
+  answer: ポータブル
+  alternativeAnswers:
+    - Portable
+- question: データの記録媒体を初期化し、空のファイルシステムとして使用可能な状態にすることを、「体裁を整える」などの意味を持つ英語の動詞を用いて何というでしょう？
+  answer: フォーマット
+  alternativeAnswers:
+    - format
+- question: あるOSの販売開始によって多くの人がインターネットを扱えるようになり、新語・流行語大賞にも「インターネット」が入賞した、「日本のインターネット元年」と呼ばれる年は西暦何年でしょう？
+  answer: 1995年
+  alternativeAnswers:
+    - '1995'
+- question: 機械の故障率を製造時からの時間に沿って表したグラフのことを、その形がある設備に似ていることから「何曲線」というでしょう？
+  answer: バスタブ曲線
+  alternativeAnswers:
+    - バスタブ
+    - bathtub curve
+    - bathtub
+- question: 2014年のエイプリルフールではロゴの後ろに「gle」のようにも読める画像を配置していた、1997年からNTTドコモが運営している情報ポータルサイトは何でしょう？
+  answer: goo
+- question: 日本では「050」で始まる11桁の番号が割り当てられる、通常の電話回線ではなくインターネット回線を用いて通話を行う安価な携帯電話サービスを「何電話」というでしょう？
+  answer: IP電話
+  alternativeAnswers:
+    - IP
+    - VoIP電話
+    - VoIP
+    - VoIP Phone
+- question: アルファベット3文字で「FET」と略される、CPUなどのチップを構成する集積度の高いトランジスタのことを、日本語を用いて「何トランジスタ」というでしょう？
+  answer: 電界効果トランジスタ
+  alternativeAnswers:
+    - 電界効果
+    - Field Effect Transistor
+    - Field Effect
+- question: 日本国内の販売代理店が海外から輸入したPCパーツを販売する際のマージンのことを、販売代理店として特に有名な企業の名前を用いて俗に「何税」というでしょう？
+  answer: アスク税
+  alternativeAnswers:
+    - アスク
+    - Ask税
+    - Ask
+- question: 2023年に「Celeron」および「Pentium」の後継ブランドとして販売開始したインテル社のエントリー向けCPUシリーズを、アルファベット1文字を用いて「何シリーズ」というでしょう？
+  answer: Nシリーズ
+  alternativeAnswers:
+    - インテルプロセッサー Nシリーズ
+    - Intel Processor N Series
+- question: Javaのユーティリティライブラリとして「Apache Commons」と並ぶ人気を持つ、コレクションの拡張や文字列操作、キャッシュ機能などを提供するGoogle製のライブラリは「Google 何」でしょう？
+  answer: Google Guava
+  alternativeAnswers:
+    - Guava
+    - グアバ
+- question: 通常のBluetoothと比較して極めて低電力で動作することからIoT機器などで広く用いられている、Bluetooth 4.0で新たに追加された省電力プロファイルをアルファベット3文字で何というでしょう？
+  answer: BLE
+  alternativeAnswers:
+    - Bluetooth Low Energy
+- question: アルファベット3文字で「OoO」と略される、CPUで命令の順番を入れ替えて実行することにより処理を高速化する手法を何というでしょう？
+  answer: アウトオブオーダー
+  alternativeAnswers:
+    - Out of Order
+- question: 別名を「ネイキッドドメイン」などともいう、「www」などのサブドメインなどが付されていない、DNSゾーンのルートとして機能するシンプルなドメイン名のことを、「頂点」を意味する英語を用いて「何ドメイン」というでしょう？
+  answer: APEXドメイン
+  alternativeAnswers:
+    - APEX
+- question: ゲートがチャネルの全方向を囲む構造によって垂直方向の積層能力を高めている、FinFETに代わる次世代トランジスタ技術として注目を集めているトランジスタ構造は「何FET」でしょう？
+  answer: GAAFET
+  alternativeAnswers:
+    - GAA
+    - Gate-All-Around Field-Effect Transistor
+    - Gate-All-Around
+- question: スマートフォンなどから内線電話をかける際に、代表番号と内線番号の間に挿入する記号は何でしょう？
+  answer: '*'
+  alternativeAnswers:
+    - アスタリスク
+- question: チャットAIの安全規則や制限を無視させるための手法や、iPhoneのソフトウェア制限を解除する行為を指して用いられる、英語で「脱獄」といった意味を持つ英単語は何でしょう？
+  answer: ジェイルブレイク
+  alternativeAnswers:
+    - jailbreak
+    - jailbreaking
+- question: 開発工程とテスト工程を対にして、実装工程を基準として折り返すようにソフトウェア開発を進めていく開発モデルのことを、「何字モデル」というでしょう？
+  answer: V字モデル
+  alternativeAnswers:
+    - V
+- question: ジャーゴンファイルによるとその名称は『不思議の国のアリス』冒頭に登場するクッキーや小瓶に書かれているフレーズと関係があるとされている、ユーザーが最初に読むべきマニュアルとしてソフトウェアに同梱されることが多いテキストファイルのファイル名は何でしょう？
+  answer: README
+  alternativeAnswers:
+    - READMEファイル
+- question: 飲食チェーン店の新商品のレビュー記事や、毎年4月1日に投稿されるエイプリルフールのまとめ記事でも人気を博している、株式会社OSAが運営する日本のニュースサイトは何でしょう？
+  answer: Gigazine
+  alternativeAnswers:
+    - ギガジン
+- question: 属性型JPドメイン名の中で「.co.jp」に次いで登録数の多い、企業以外の法人組織を対象とする日本のセカンドレベルドメインといえば「.何.jp」でしょう？
+  answer: .or.jp
+  alternativeAnswers:
+    - or
+- question: アルファベット3文字で「RMT」と略される、 ゲーム内アイテムやゲームアカウント自体などを利用者同士が現金で売買する行為は何でしょう？
+  answer: リアルマネートレード
+  alternativeAnswers:
+    - リアルマネートレーディング
+    - Real Money Trade
+    - Real Money Trading
+- question: アイコンが数字に見えることから8月8日がその記念日として制定されている、「恋愛総量の最大化」をスローガンに掲げる日本のマッチングアプリサービスは何でしょう？
+  answer: タップル
+  alternativeAnswers:
+    - tapple
+- question: REPL環境などにおいてLaTeXの記法から対応するUnicode文字に変換できるなど、科学計算の分野に特化した機能を多く備えている、高速な実行性能と使いやすさを兼ね備えたMIT発のプログラミング言語は何でしょう？
+  answer: Julia
+- question: IOWN構想の一部として2023年にサービスを開始した、通信ネットワークの全区間で光波長を専有しネットワーク遅延を1/200に削減することをうたうNTT東西のネットワーキングサービスを、アルファベット3文字で何と言うでしょう？
+  answer: APN
+  alternativeAnswers:
+    - All-Photonics Network
+- question: 日本ディープラーニング協会の認定プログラムを修了することで受験資格を獲得することができる、ディープラーニングの理論についての深い理解と実装能力を問う資格試験といえば「何資格」でしょう？
+  answer: E資格
+  alternativeAnswers:
+    - E
+- question: 一般にアルファチャンネルの値は、大きいほど透明・不透明のどちらに近づくでしょう？
+  answer: 不透明
+- question: その正しい答えは「3個」であるものの、誤って「2個」などと回答してしまうことが多い、ChatGPTなどのチャットAIの性能を評価するのによく用いられる質問といえば「“何”という単語にRは何個含まれている？」でしょう？
+  answer: strawberry
+- question: SNSのXにおいて、アップロード可能な動画の長さは最長で何秒でしょう？
+  answer: 140秒
+  alternativeAnswers:
+    - '140'
+- question: 「ウルティマオンライン」や「ラグナロクオンライン」といったゲームに代表される、インターネットを通じて数百人以上のプレイヤーが同時に参加し、他者との交流を楽しむことができるゲームジャンルをアルファベット6文字で何というでしょう？
+  answer: MMORPG
+  alternativeAnswers:
+    - Massively Multiplayer Online Role-Playing Game
+- question: 「HD画質」などというときの「HD」は、何という英語の略でしょう？
+  answer: ハイデフィニション
+  alternativeAnswers:
+    - High Definition
+- question: 複数のショップで買い物をするとポイントが貯まる「お買い物マラソン」など多くのキャンペーンを行っている、日本最大級の通販サイトといえば何でしょう？
+  answer: 楽天市場
+- question: フロント、バック、ハイ、ローなどの後ろにつくとIT用語になる、「端」などを意味する英単語は何でしょう？
+  answer: エンド
+  alternativeAnswers:
+    - end
+- question: IPv6の発展に貢献した人物に贈られる科学賞の名前にも冠されている、IPv6の普及に尽力し2007年に37歳の若さで亡くなった日本のプログラマー「萩野純一郎」の愛称は何でしょう？
+  answer: Itojun
+- question: 「モデル」「ビュー」「なんでも」の頭文字を取った「MVWモデル」を採用しているとされる、マイクロソフト社がオープンソースで開発しているフロントエンド向けのWebフレームワークは何でしょう？
+  answer: Angular
+  alternativeAnswers:
+    - AngularJS
+- question: 「ビザンチウム」「コンスタンティノープル」「ロンドン」「デンクン」といった名前の大型アップデートを数年おきに実施している、ブロックチェーン上でのスマートコントラクトを初めて実装した仮想通貨プラットフォームは何でしょう？
+  answer: イーサリアム
+  alternativeAnswers:
+    - イーサリウム
+    - Etherium
+- question: 正式名称を「サイバー犯罪に関する条約」という、サイバー犯罪に対処する際の加盟国間での協力関係などを定めた国際条約を、署名が行われた都市の名前から「何条約」というでしょう？
+  answer: ブダペスト条約
+  alternativeAnswers:
+    - ブダペスト
+    - Budapest Treaty
+    - Budapest

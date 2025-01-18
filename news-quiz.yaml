@@ -1294,3 +1294,55 @@
   answer: Waymo
   alternativeAnswers:
     - ウェイモ
+- question: 石英ガラスに超高速レーザーでデータを記録し、数千年単位でデータを保存できるクラウドアーカイブストレージの構築を目指す、マイクロソフト社の情報保存プロジェクトは「プロジェクト何」でしょう？
+  answer: プロジェクトシリカ
+  alternativeAnswers:
+    - シリカ
+    - Project Silica
+    - Silica
+- question: 同名のイギリスの携帯通信会社と混同するおそれから「o2」という名称は採用されなかった、「競技プログラミングで世界175位と同等の能力を持つ」として2025年12月に発表されたOpenAI社の人工知能システムは「ChatGPT 何」でしょう？
+  answer: ChatGPT o3
+  alternativeAnswers:
+    - o3
+- question: 2024年には「ニアバイシェア」から名称を変更した、Androidなどの近距離の端末同士でのファイル転送を可能にする機能は何でしょう？
+  answer: クイックシェア
+  alternativeAnswers:
+    - クイック共有
+    - Quick Share
+- question: その危険性から現在社会問題にもなっている、数人の仲間が手を広げて待ち受ける中に助走をつけて飛び込み、受けたメンバーがその反動で上に押し出すことで体を起こすというTikTokなどで流行のチャレンジは「何チャレンジ」でしょう？
+  answer: スーパーマンチャレンジ
+  alternativeAnswers:
+    - スーパーマン
+- question: 2024年に「プロバイダ責任制限法」から改正され成立した、インターネット上の情報に関してプロバイダが持つ責任とその対処について定めた法律は「何対処法」でしょう？
+  answer: 情報流通プラットフォーム対処法
+  alternativeAnswers:
+    - 情報流通プラットフォーム対処
+    - 情報流通プラットフォーム
+    - 特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律
+- question: 2024年に最もGitHubでコントリビューターの多かった公開リポジトリとして選ばれた、オープンソースのホームオートメーションプロジェクトの名前は何でしょう？
+  answer: Home Assistant
+  alternativeAnswers:
+    - ホームアシスタント
+- question: 2024年度ネット流行語100の「ネット新語賞」を受賞した、「からあげ」や「おひたし」など、ドラゴンが好みの料理を次々と発表していくという内容の、ンバヂによる楽曲は「何発表ドラゴン」でしょう？
+  answer: 「好きな惣菜発表ドラゴン」
+  alternativeAnswers:
+    - 好きな惣菜
+- question: Proモデルの廉価版という位置づけでありながら、最新版となるGemini 2.0ではこちらのバージョンのみがリリースされている、GoogleのチャットAIサービス「Gemini」で利用することができる軽量モデルは「Gemini 何」でしょう？
+  answer: Gemini Flash
+  alternativeAnswers:
+    - Flash
+- question: 「Alienwarre」「Inspiron」「Latitude」といった独自PCブランドを廃止してリニューアルすることを2025年1月に発表した、アメリカのPCメーカーは何でしょう？
+  answer: Dell
+  alternativeAnswers:
+    - デル
+- question: 別名を「Earth Kasha」などという、2024年にJAXAや外務省など日本の主要機関に対する大規模なサイバー攻撃を行ったとされている中国系ハッカー集団といえば何でしょう？
+  answer: MirrorFace
+- question: 「理科」「数学①」「数学②」に続く2日目の最後に実施される、2025年度共通テストで新たに出題教科として追加される科目は何でしょう？
+  answer: 情報
+- question: 自律的にソフトウェア開発を行い、プルリクエストの作成とレビューに応じた修正を行うことができる、MicrosoftとCognition社の提携により2024年12月に正式サービスを開始したAIソフトウェアエンジニアサービスは「何 AI」でしょう？
+  answer: Devin AI
+  alternativeAnswers:
+    - Devin
+- question: VRゲーム「キングス・シーカー・オンライン」のデバッガーとして“世界"をデバッグしながらゲーム世界からの脱出を目指す株式会社ニシマテックの社員「羽賀誠」を主人公とする、2024年秋にTVアニメ化した左藤真通の漫画作品は何でしょう？
+  answer: 『この世界は不完全すぎる』
+
