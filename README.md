@@ -2,6 +2,7 @@
 
 [![Test and Release](https://github.com/hakatashi/it-quiz/actions/workflows/release.yaml/badge.svg?branch=main&event=push)](https://github.com/hakatashi/it-quiz/actions/workflows/release.yaml)
 
+[![GitHub Release](https://img.shields.io/github/v/release/hakatashi/it-quiz)](https://github.com/hakatashi/it-quiz/releases/latest)
 ![IT Quiz Count](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/hakatashi/aa01f1504a83ba2df07c92c6550d2f42/raw/it-quiz-count.json)
 ![News Quiz Count](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/hakatashi/aa01f1504a83ba2df07c92c6550d2f42/raw/news-quiz-count.json)
 
