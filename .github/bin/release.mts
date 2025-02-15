@@ -120,7 +120,7 @@ const createNewReleaseIfNecessary = async () => {
 	console.log('Writing the release note to release.md...');
 	await fs.writeFile('release.md', releaseText);
 
-	console.log(`Writing the new version to $GITHUB_OUTPUT...`);
+	console.log('Writing the new version to $GITHUB_OUTPUT...');
 	await fs.appendFile(githubOutput, `new_version=${newVersion}\n`);
 
 	console.log('Compiling the new version...');

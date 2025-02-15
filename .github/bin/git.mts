@@ -22,7 +22,7 @@ const isQuizRemoved = (quiz: Quiz): quiz is RemovedQuiz => {
 	return 'removed' in quiz;
 };
 
-const getDiff = async (commitHash1: string, commitHash2: string) => {
+const getDiff = async (commitHash1: string, commitHash2: string): Promise<Change[]> => {
 	return git.walk({
 		fs,
 		dir: await getGitRoot(),

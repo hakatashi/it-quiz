@@ -24,7 +24,28 @@ jobs:
       - name: Install dependencies
         run: npm --prefix .github install
       - name: Test
+        id: test
         run: npm --prefix .github test
+      - name: Generate dynamic badge (IT Quiz)
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GIST_SECRET }}
+          gistID: aa01f1504a83ba2df07c92c6550d2f42
+          filename: it-quiz-count.json
+          label: IT Quiz
+          message: ${{ steps.test.outputs.it_quiz_count }} quizzes
+          color: chocolate
+      - name: Generate dynamic badge (News Quiz)
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GIST_SECRET }}
+          gistID: aa01f1504a83ba2df07c92c6550d2f42
+          filename: news-quiz-count.json
+          label: News Quiz
+          message: ${{ steps.test.outputs.news_quiz_count }} quizzes
+          color: tomato
 
   release:
     name: Release
