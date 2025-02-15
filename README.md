@@ -1,5 +1,8 @@
 # ITクイズ メンテナンス用リポジトリ
 
+![IT Quiz Count](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/hakatashi/aa01f1504a83ba2df07c92c6550d2f42/raw/it-quiz-count.json)
+![News Quiz Count](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/hakatashi/aa01f1504a83ba2df07c92c6550d2f42/raw/news-quiz-count.json)
+
 アプリ「みんなで早押しクイズ」で出題したITクイズの過去問をまとめたものです。
 
 見やすく編集したデータ版/紙版の問題集も合わせてご利用ください。
@@ -22,7 +25,7 @@
 - `alternativeAnswers` (optional): 別解がある場合、配列の形でそれが記載されています。
 - `description` (optional): 問題に関する追加のメモがある場合、それが記載されています。
 
-TODO: JSON Schema か何かを用意する
+スキーマは [JSON Schema](https://json-schema.org/) で定義されています。[quizzes.schema.json](quizzes.schema.json)をご覧ください。
 
 ## 問題不備などを見つけた場合は
 
