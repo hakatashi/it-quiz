@@ -3039,9 +3039,11 @@
   answer: バナー広告
   alternativeAnswers:
     - バナー
-- question: 2021年にマイクロソフト社によって買収され、現在Windows 11に標準搭載されている基本無料の動画編集アプリは何でしょう？
-  answer: Clipchamp
+- question: 2021年にマイクロソフト社によって買収され、現在Windows 11に標準搭載されている基本無料の動画編集アプリは「Microsoft 何」でしょう？
+  answer: Microsoft Clipchamp
   alternativeAnswers:
+    - Clipchamp
+    - マイクロソフトクリップチャンプ
     - クリップチャンプ
 - question: 彼の著書の誤りを指摘した者には2.56ドルが支払われることでも有名な、組版システムTeXの開発や文芸的プログラミングの提唱などで知られるアメリカの科学者は誰でしょう？
   answer: ドナルド・クヌース
