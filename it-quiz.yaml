@@ -13096,3 +13096,200 @@
     - ブダペスト
     - Budapest Treaty
     - Budapest
+- question: 字幕を意味する「CC」は、ずばり何という英語の略でしょう？
+  answer: クローズドキャプション
+  alternativeAnswers:
+    - Closed Caption
+- question: ハードディスクにおいては5400や7200といった値のものが多い、物体の回転速度を表すアルファベット3文字の単位は何でしょう？
+  answer: rpm
+  alternativeAnswers:
+    - rotations per minute
+    - revolutions per minute
+- question: 統計データの尺度の中でも、血液型や性別など、データがどのグループに属しているかを示す尺度のことを、漢字4文字で何というでしょう？
+  answer: 名義尺度
+- question: 2022年には新しいマスコットキャラクターの「パソべぇ」も誕生した、「プログラミング部門」「モバイル部門」の2つの競技部門が開催され情報処理技術を競う、高校生向けの全国大会といえば何でしょう？
+  answer: パソコン甲子園
+  alternativeAnswers:
+    - PCK
+- question: 月110GBまで利用可能となる「大盛り」オプションも提供されている、NTTドコモが2021年から導入している携帯電話向け定額料金プランは何でしょう？
+  answer: ahamo
+  alternativeAnswers:
+    - アハモ
+- question: ドミノのような形の7種類の「ブロック」によって様々なセンサーを利用することができる、プログラミング学習者向けのIoTデバイス作成キットは何でしょう？
+  answer: MESH
+  alternativeAnswers:
+    - メッシュ
+- question: TRUMP、PEPE、DOGEなどに代表される、インターネット上で流行したものごとをテーマとする、ユーモアを重視した仮想通貨のことを「何コイン」というでしょう？
+  answer: ミームコイン
+  alternativeAnswers:
+    - ミーム
+    - meme coin
+    - meme
+- question: そのサービスが著作権侵害に当たるとして全米作家協会と2005年から10年以上にわたる訴訟を行ったことで知られるGoogleのウェブサービスといえば「Google 何」でしょう？
+  answer: Googleブックス
+  alternativeAnswers:
+    - ブックス
+    - Google Books
+    - Books
+- question: マイコンなどのコンピューターシステムにおいて、定期的に起動し、システムが正常に動作しているかを確認するタイマーのことを、「番犬」を意味する英語を用いて「何タイマー」というでしょう？
+  answer: ウォッチドッグタイマー
+  alternativeAnswers:
+    - ウォッチドッグ
+    - watchdog timer
+    - watchdog
+- question: Unity、Docker、Gitなどのあとにつくと、そのアプリケーションを利用するための補助ツールやウェブサイトの名前になる、ネットワークの中継機器を意味する英単語は何でしょう？
+  answer: Hub
+  alternativeAnswers:
+    - ハブ
+- question: Twitterの「t」やGoogleの「g」などアルファベット1文字の短縮ドメイン名として使用されることも多い、コロンビアを表す国別コードトップレベルドメインは「.何」でしょう？
+  answer: .co
+  alternativeAnswers:
+    - co
+- question: Wordにおいて段落の先頭の文字を自動で大文字にするなどを行う機能の名前にもなっている、コンピューターで文字を入力する際の誤入力を自動的に訂正する機能を指す言葉は何でしょう？
+  answer: オートコレクト
+  alternativeAnswers:
+    - auto correct
+- question: 特に低価格帯のWindowsパソコンに多く採用されている、Microsoftストア経由で入手できる軽量なアプリのみがインストールできるWindowsの特殊なモードを、アルファベット1文字を用いて「何モード」というでしょう？
+  answer: Sモード
+  alternativeAnswers:
+    - S
+- question: サブネットマスクにおける「1」の部分に相当する、IPアドレスにおいてそのアドレスが属する大まかなグループについて表した部分のことを「何部」というでしょう？
+  answer: ネットワーク部
+  alternativeAnswers:
+    - ネットワーク
+    - network
+- question: 機械やシステムに異常が発生した際であっても、なるべく危険な動作が発生しないように設計することを、英語で何というでしょう？
+  answer: フェールセーフ
+  alternativeAnswers:
+    - fail safe
+    - フェイルセーフ
+- question: アルファベット4文字で「HCAI」と略されることもある、2018年に日本政府が策定したAI開発の7つの原則においては根本原則にもなっているAIの基本開発指針といえば、「何中心のAI」でしょう？
+  answer: 人間中心のAI
+  alternativeAnswers:
+    - 人間
+    - Human-Centered AI
+    - Human
+- question: 自社の事業を分析して、強み、弱み、機会、脅威の4つの要素に整理するフレームワークのことを、アルファベット4文字を用いて「何分析」というでしょう？
+  answer: SWOT分析
+  alternativeAnswers:
+    - SWOT
+- question: 仮想空間上に現実世界とそっくりなモデルを再現し、分析やシミュレーションを行うことを、英語で何というでしょう？
+  answer: デジタルツイン
+  alternativeAnswers:
+    - digital twin
+- question: 回路図において電界効果トランジスタのプラス電源を表すのに用いる、電子工作においてはICチップの電源電圧を表す端子において見かけることが多いアルファベット3文字の表記は何でしょう？
+  answer: Vdd
+  alternativeAnswers:
+    - VDD
+- question: 音声の非破壊編集を特徴とし、編集内容を後からやり直すことができるという特色を持っている、現在はアメリカのMuseグループによって提供されているオープンソースの音声エディタは何でしょう？
+  answer: Audacity
+  alternativeAnswers:
+    - オーダシティ
+- question: 1945年にヴァネヴァー・ブッシュによって提唱され、後のインターネットやハイパーテキストシステムの着想元になった先駆的アイデアとして知られる、個人が所有する情報を保存し取り出すことができる空想上のデバイスは何でしょう？
+  answer: メメックス
+  alternativeAnswers:
+    - memex
+- question: 「CRAN」と呼ばれるサイトで処理系本体やライブラリなどをダウンロードすることができる、GNUプロジェクトの支援によって開発されている統計解析に特化したプログラミング言語は何でしょう？
+  answer: R言語
+  alternativeAnswers:
+    - R
+    - GNU R
+- question: ChatGPT o1などの高度な推論を目的とするAIシステムにも応用されている、論理的な推論をAIに段階的に進めさせることで精度を上げるプロンプトエンジニアリングのテクニックを、アルファベット3文字を用いて「何プロンプティング」というでしょう？
+  answer: CoTプロンプティング
+  alternativeAnswers:
+    - CoT
+    - Chain-of-Thought prompting
+    - Chain-of-Thought
+- question: 単に「LCD」といった場合、カラーフィルターとして何を用いたディスプレイのことを指すでしょう？
+  answer: 液晶
+  alternativeAnswers:
+    - Liquid Crystal
+- question: かな入力において、「ぁ」などの小書き文字を入力する際に用いる修飾キーは何でしょう？
+  answer: Shiftキー
+  alternativeAnswers:
+    - シフトキー
+    - Shift
+    - シフト
+- question: 日本語では「第三者中継」などと呼ばれることもある、制限なく外部からの送信依頼を受け付ける設定が行われたメールサーバーのことを英語で何というでしょう？
+  answer: オープンリレー
+  alternativeAnswers:
+    - open relay
+- question: 特にサーバーのストレージ転送速度の指標として用いられることが多い、記憶装置が1秒当たりに処理する読み込み・書き込みアクセスの回数を表すアルファベット4文字の単位は何でしょう？
+  answer: IOPS
+- question: 11桁の電話番号システムが導入された際にはPHS向けの番号として利用されていたものの、2013年に携帯電話としての利用が開始され、現在も広く使われている電話番号の上三桁の数字は何でしょう？
+  answer: '070'
+- question: スイッチングハブの中でもネットワーク層のルーティング機能を搭載したもののことを、OSI参照モデルにおけるネットワーク層の番号から「何スイッチ」というでしょう？
+  answer: L3スイッチ
+  alternativeAnswers:
+    - L3
+- question: 停電の際にサーバーに電源を供給する「無停電電源装置」を、アルファベット3文字の略称で何というでしょう？
+  answer: UPS
+- question: 1979年にIBMのアラン・アルブレクトによって考案された、開発したいソフトウェアの複雑さによって点数を付け、定量的な工数の算出を行う見積もり手法を「何法」というでしょう？
+  answer: ファンクションポイント法
+  alternativeAnswers:
+    - ファンクションポイント
+    - function point method
+    - function point
+- question: 「技術がよい」という意味が込められた「技嘉科技」という社名に由来する、マザーボードの製造シェアで現在世界4位となっている台湾のPCパーツメーカーの国際ブランド名は何でしょう？
+  answer: ギガバイト
+  alternativeAnswers:
+    - GIGABYTE
+  description: https://x.com/AORUS_JP/status/1568875432472363008
+- question: 未来学者のレイ・カーツワイルによると、AIが人間の知能を超える「シンギュラリティ」は西暦何年に訪れると予測されているでしょう？
+  answer: 2045年
+  alternativeAnswers:
+    - '2045'
+- question: 「メーカー販売員のいない唯一の家電専門店」をキャッチフレーズに掲げ、「ノルマなし」「マニュアルなし」の接客をコンセプトにしている、横浜市に本社を置く日本の家電量販店は何でしょう？
+  answer: ノジマ
+  alternativeAnswers:
+    - Nojima
+- question: TikTokアプリを開いた際に表示されるTikTokのロゴの文字のうち、左右にブレたようなエフェクトがかけられている文字はどれでしょう？
+  answer: o
+- question: サンフランシスコに本社を置くAnysphere社によって開発されている、VSCodeのフォークによって作られ自動コード記述機能などを備えた「AIコードエディタ」は何でしょう？
+  answer: Cursor
+  alternativeAnswers:
+    - カーソル
+- question: 【早押し注意】プログラミング言語「Scratch」でプロジェクトを作成すると自動で配置される、同言語のマスコットキャラクターといえば、どんな動物をモチーフにしたキャラクターでしょう？
+  answer: 猫
+- question: Python、PHP、Excelの組み込み関数のいずれにおいてもアルファベット順で最初に位置する、ある数学の初等関数に対応する関数の名称は何でしょう？
+  answer: abs
+- question: 一般的には「Local」「LocalLow」「Roaming」の3つのフォルダが格納されている、Vista以降のWindowsにおいてユーザーごとのアプリケーションの設定データなどを保存する固有のフォルダの名前は何でしょう？
+  answer: AppData
+- question: 特にLLMが知っている最新の情報の日付のことを表すのに用いられる、AIの学習データを時間などの条件で意図的に切り捨てることを指す英語の用語は何でしょう？
+  answer: カットオフ
+  alternativeAnswers:
+    - cut-off
+- question: オンラインゲームなどでサーバーとの通信遅延時間のことを表すのにも用いられる、ICMPというプロトコルを用いてネットワークの疎通状況などを確認するためのプログラムの名前は何でしょう？
+  answer: ping
+  alternativeAnswers:
+    - ピン
+    - ピング
+- question: アルファベットで「EULA」と略される、特定のソフトウェアを使用する際の利用者の権利と制限について規定する法的文書のことを「何ライセンス契約」というでしょう？
+  answer: エンドユーザーライセンス契約
+  alternativeAnswers:
+    - エンドユーザー
+    - End User License Agreement
+    - End User
+- question: 横軸に演算強度、縦軸に演算性能をとった、コンピューターの演算性能がデータ転送の速度によってどの程度制限されているかを解析するためのグラフを、その概形があるものに似ていることから英語で「何モデル」というでしょう？
+  answer: ルーフラインモデル
+  alternativeAnswers:
+    - ルーフライン解析
+    - ルーフライン
+    - roofline model
+    - roofline analysis
+    - roofline
+- question: 秋葉原と八潮の全国2ヶ所に直売店を構えている、2000年代のインターネットを彷彿とさせるオンラインショップのデザインでも有名な電子部品販売店は何でしょう？
+  answer: 秋月電子通商
+  alternativeAnswers:
+    - 秋月電子
+    - 秋月
+- question: アルファベット3文字で「OTP」と略される、ユーザー認証のたびに生成される使い捨てのパスワードのことを「何パスワード」というでしょう？
+  answer: ワンタイムパスワード
+  alternativeAnswers:
+    - ワンタイム
+    - One-Time Password
+    - One-Time
+- question: C言語において標準ライブラリをインクルードする際、ファイル名の末尾に必ずつけられる拡張子は「.何」でしょう？
+  answer: .h
+  alternativeAnswers:
+    - h
