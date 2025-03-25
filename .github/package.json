@@ -7,7 +7,7 @@
     "test": "tsx bin/test.mts"
   },
   "dependencies": {
-    "@types/diff": "^7.0.1",
+    "@types/diff": "^7.0.2",
     "@types/fs-extra": "^11.0.4",
     "@types/js-yaml": "^4.0.9",
     "@types/lodash": "^4.17.16",
