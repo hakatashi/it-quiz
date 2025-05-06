@@ -11,7 +11,7 @@
     "@types/fs-extra": "^11.0.4",
     "@types/js-yaml": "^4.0.9",
     "@types/lodash": "^4.17.16",
-    "@types/node": "^22.15.9",
+    "@types/node": "^22.15.14",
     "@types/semver": "^7.7.0",
     "ajv": "^8.17.1",
     "diff": "^7.0.0",
