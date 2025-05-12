@@ -1402,3 +1402,80 @@
   answer: Coq
   alternativeAnswers:
     - コック
+- question: 2025年2月にアップルがiPhone SEシリーズの後継機として発表した、iPhone 16のエントリーモデルの名前は「iPhone 何」でしょう？
+  answer: iPhone 16e
+  alternativeAnswers:
+    - 16e
+- question: 2025年2月に埼玉県の理化学研究所和光キャンパスに設置された、日本初となる20量子ビットのイオントラップ型量子コンピュータの名前は何でしょう？
+  answer: 黎明
+- question: 2025年2月にバージョン3が発表され、従来のxAI社のロゴからブラックホールをイメージしたロゴにアイコンが一新されたほか、「DeepSearch」や「Think」といった新機能も追加された、xAI社のAIチャットサービスは何でしょう？
+  answer: Grok
+  alternativeAnswers:
+    - グロック
+- question: 2025年2月、営業基幹システムの開発プロジェクト中止に伴って日本IBMに対し約54億円の損害賠償を求める訴訟を提起したことが大きな話題となった、日本の法人は何でしょう？
+  answer: NHK
+  alternativeAnswers:
+    - 日本放送協会
+- question: 2016年にWestern Digitalによって190億ドルで買収され、2025年2月に再び独立した企業となった、フラッシュメモリ製品で知られるアメリカの多国籍会社はどこでしょう？
+  answer: Sandisk
+  alternativeAnswers:
+    - サンディスク
+- question: スタートアップ企業Bolt Graphicsが2025年3月に発表した、RTX 5090の最大10倍の性能をうたう高性能GPUの名前は何でしょう？
+  answer: Zeus
+  alternativeAnswers:
+    - ゼウス
+- question: C言語から「goto」や「union」などを削除し、新たに「alias」などのキーワードを追加することで、未定義動作をなくしメモリ安全性を向上させた、2025年に発表されたC言語の拡張コンパイラは何でしょう？
+  answer: TrapC
+- question: 2025年3月にGoogleが、同社の過去最高額となる320億ドルで買収すると発表した、クラウドネイティブアプリケーション保護プラットフォームの製品を提供しているアメリカのセキュリティ企業は何でしょう？
+  answer: Wiz
+  alternativeAnswers:
+    - ウィズ
+- question: 2025年3月にソフトバンクグループが約9700億円で買収すると発表した、最大192のコアを持つ超高性能CPUモデルの設計・販売でも知られるアメリカの半導体設計会社は「何コンピューティング」でしょう？
+  answer: アンペアコンピューティング
+  alternativeAnswers:
+    - アンペア
+    - Ampere Computing
+    - Ampere
+- question: 「Planモード」と「Actモード」を切り替えながら安定して開発を進めることができるほか、2025年2月には「全部賭けろ」と題する記事がエンジニアの間で大きな話題となった、VSCodeの拡張機能として提供されるAIエージェント型の開発支援ツールは何でしょう？
+  answer: CLINE
+- question: 2025年1月にはバージョン12.7を飛ばして12.8がリリースされる珍事も発生した、NVIDIA社のGPUを利用して機械学習などを行う際に必要になることも多い同社のGPGPUツールキットを、アルファベット4文字の名称で何というでしょう？
+  answer: CUDA
+  alternativeAnswers:
+    - CUDA Toolkit
+- question: 2025年6月発売のニンテンドースイッチ2でも採用されていることが発表された、AI技術を用いて画像を高解像度に変換するNVIDIAの超解像技術を、アルファベット4文字で何というでしょう？
+  answer: DLSS
+  alternativeAnswers:
+    - Deep learning super sampling
+    - ディープ・ラーニング・スーパー・サンプリング
+- question: 2025年4月4日に創業50周年を迎え、特別デザインの「ソリティア」を配布するなどのキャンペーンを行った、1975年にポール・アレンとビル・ゲイツによって設立されたアメリカのIT企業は何でしょう？
+  answer: マイクロソフト
+  alternativeAnswers:
+    - Microsoft Corporation
+    - Microsoft
+- question: 2024年12月にリリースされたRuby 3.4からデフォルトで使用されるようになったほか、他の多くのRuby実装で既に採用されている、エラートレラント性や移植性を重視して設計された新しいパーサーの名前は何でしょう？
+  answer: PRISM
+  alternativeAnswers:
+    - プリズム
+- question: 韓国語で「アパート」を意味する言葉を連発するサビが2025年にインターネット上で広く流行し、K-POP史上最短で再生回数10億回を達成した、BLACKPINKのロゼとブルーノ・マーズの楽曲は何でしょう？
+  answer: 「APT.」
+  alternativeAnswers:
+    - アパトゥ
+    - アパツ
+- question: 2025年4月に個人向けNAS製品「NASync」のクラウドファンディングで10億円を集め、クラウドファンディングの支援額日本一の記録を更新した、USBハブや急速充電器などのデジタルアクセサリーを手がける深圳発の企業は何でしょう？
+  answer: UGREEN
+  alternativeAnswers:
+    - 株式会社ユーグリーン・ジャパン
+    - ユーグリーン・ジャパン
+    - ユーグリーン
+- question: 2025年5月にサービスを終了し、Microsoft Teamsに統合されることが予定されている、00年代から10年代にかけて広く使われたインターネット通話アプリは何でしょう？
+  answer: Skype
+  alternativeAnswers:
+    - スカイプ
+- question: 2025年1月には「遊びを見つけよう。」をテーマにリニューアルしたロゴのもとで新しいブランディングを開始した、2007年からサービスが提供されている日本のイラスト投稿SNSは何でしょう？
+  answer: pixiv
+  alternativeAnswers:
+    - ピクシブ
+- question: 2025年5月には総額約8億円の懸賞金プロジェクトも告知され話題となった、 2024年2月に経済産業省とNEDOが開始した、国内の生成AI開発力を強化するための支援プロジェクトは何でしょう？
+  answer: GENIAC
+  alternativeAnswers:
+    - ジェニアック

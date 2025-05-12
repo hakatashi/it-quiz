@@ -13292,3 +13292,750 @@
   answer: .h
   alternativeAnswers:
     - h
+- question: 日本語では「製品情報管理システム」などと呼ばれる、図面や仕様書といった製品の設計情報を一元的に管理し、企業内での効率的な運用を実現するシステムのことを、アルファベット3文字を用いて「何システム」というでしょう？
+  answer: PDMシステム
+  alternativeAnswers:
+    - PDM
+    - Product Data Management System
+    - Product Data Management
+- question: 落雷やスイッチの開閉などによって発生する、電子機器を損傷するおそれのある電圧の急激な上昇のことを英語で何というでしょう？
+  answer: サージ
+  alternativeAnswers:
+    - surge
+    - サージ電圧
+    - 大波電圧
+- question: 2012年ごろにLightningケーブルに置き換えられるまでiPhoneなどのApple製品に広く用いられていた、30個のピンを持つ横長の接続端子を「何コネクター」といったでしょう？
+  answer: ドックコネクター
+  alternativeAnswers:
+    - ドック
+    - Dock Connector
+    - Dock
+- question: アルファベット3文字で「HUD」と略される、操縦席などから外を見るガラスの上に情報を投影する装置のことであり、転じてゲームにおいては画面に常に表示されるUIのことを指すのに用いられる用語は「何ディスプレイ」でしょう？
+  answer: ヘッドアップディスプレイ
+  alternativeAnswers:
+    - ヘッドアップ
+    - Head-Up Display
+    - Head-Up
+- question: PythonやJavaScriptなど多くのプログラミング言語で、現在のクラスの親クラスの同名のメソッドを呼び出すために使用されるキーワードは何でしょう？
+  answer: super
+- question: グラフィックボード「GeForce RTX」の「RT」はこれを略したものである、光線の反射や屈折をシミュレートして、現実に近いリアルな光源を再現するコンピューターグラフィックスの手法は何でしょう？
+  answer: レイトレーシング
+  alternativeAnswers:
+    - レイトレース
+    - ray tracing
+    - ray trace
+- question: C++との相互運用性を重視しつつ、メモリ安全性やコードの可読性を向上させることを目的としている、Googleのエンジニアによって開発され、現在C++の後継となることを目指しているプログラミング言語は何でしょう？
+  answer: Carbon
+- question: 公式マスコットキャラクターの「いいなちゃん」はミドリ電化の「ミドリちゃん」の娘という設定もある、2002年にエイデンとデオデオの経営統合により設立された日本の家電量販店は何でしょう？
+  answer: エディオン
+  alternativeAnswers:
+    - EDION
+- question: 歴史的経緯から「Mozilla/5.0」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
+  answer: ユーザーエージェント
+  alternativeAnswers:
+    - User-Agent
+- question: 日本語では「人工超知能」などと訳される、人間の知能をはるかに超え、自ら改良を続けることでシンギュラリティを引き起こす可能性があるとされる人工知能のことをアルファベット3文字で何というでしょう？
+  answer: ASI
+  alternativeAnswers:
+    - Artificial Superintelligence
+- question: Windows NTカーネル、macOSカーネル、Linuxカーネルは、いずれも大部分が何というプログラミング言語で書かれているでしょう？
+  answer: C言語
+  alternativeAnswers:
+    - C
+- question: マウスはアメリカで、コンピューターはイギリスで生まれましたが、マウスコンピューターはどこの国で生まれたでしょう？
+  answer: 日本
+- question: チェスプログラム「ディープブルー」の前身となったソフトウェアの名前にもなっている、SF作品『銀河ヒッチハイク・ガイド』において「生命、宇宙、そして万物についての究極の疑問の答え」を750万年かけて計算するスーパーコンピューターは何でしょう？
+  answer: ディープ・ソート
+  alternativeAnswers:
+    - deep thought
+- question: 「静的に生成されたサイト」から「JavaScript」を用いて「API」を呼び出すことでウェブページを構築する手法のことを、これら3つの要素の頭文字を用いて「何stack」というでしょう？
+  answer: JAMstack
+  alternativeAnswers:
+    - JAM
+    - ジャムスタック
+    - ジャム
+- question: 1983年にリチャード・ストールマンがGNUプロジェクトを立ち上げたことをきっかけに始まった、ソフトウェアのユーザーがプログラムを自由に利用できることを推進する社会運動を、英語を用いて「何運動」というでしょう？
+  answer: フリーソフトウェア運動
+  alternativeAnswers:
+    - フリーソフトウェア
+    - 自由ソフトウェア運動
+    - 自由ソフトウェア
+    - free software movement
+    - free software
+- question: ビッグテックなどの多国籍企業が、自社の拠点を持たない国で得た収益に対して課税を行おうという考え方のことを、一般的に「何課税」というでしょう？
+  answer: デジタル課税
+  alternativeAnswers:
+    - デジタル
+    - デジタルサービス税
+- question: Googleのとあるガイドラインでは「依存関係のアップグレードなどの日常的/自動的なタスクを完了するコミット」に対して用いるとされている、コミットメッセージの中でよく用いられる「雑用」といった意味の英単語は何でしょう？
+  answer: chore
+  description: https://developers.google.com/blockly/guides/contribute/get-started/commits
+- question: 2021以降のExcelで利用することができる、複数の行や列を含むデータを返す数式をセルに入力することで、数式を入力していないセルにもデータを表示させることができる機能を何というでしょう？
+  answer: スピル機能
+  alternativeAnswers:
+    - スピル
+    - spill
+- question: 当時のアメリカ副大統領であるアル・ゴアの発言が元となって広まったとされている、情報技術を利用できる人とできない人の間に生じる情報格差を指す英語の用語は何でしょう？
+  answer: デジタルデバイド
+  alternativeAnswers:
+    - ディジタルディバイド
+    - デジタルディバイド
+    - digital devide
+- question: 相手の携帯番号を送り先として最大2,730文字のメッセージや写真などをやりとりすることができる、ドコモ・au・ソフトバンクの3社が提供する加入者向けメッセージサービスは「何メッセージ」でしょう？
+  answer: ＋メッセージ
+  alternativeAnswers:
+    - プラスメッセージ
+    - +メッセージ
+    - +
+    - ＋
+    - プラス
+- question: 同じAtlassian社が提供するJiraやTrelloとの強力な連携機能でも知られる、Gitベースのリポジトリホスティングサービスは何でしょう？
+  answer: BitBucket
+  alternativeAnswers:
+    - ビットバケット
+- question: 「Tableau」や「QlikView」などのツールに代表される、企業がデータを収集し、意思決定をすることを支援するためのソフトウェアのことを、アルファベット2文字を用いて「何ツール」というでしょう？
+  answer: BIツール
+  alternativeAnswers:
+    - BI
+- question: オンラインゲームで1つのキャラや武器を使い続けるプレイヤーと、ウェブサービスなどで1度しか使われないパスワードに共通するアルファベット3文字の略語は何でしょう？
+  answer: OTP
+  description: ワン・トリック・ポニー/ワンタイムパスワード
+- question: マッチングアプリなどでは「黄色」という隠語で呼ばれる、チャットAI「KoGPT」を搭載した韓国発のモバイルメッセンジャーアプリは何でしょう？
+  answer: カカオトーク
+  alternativeAnswers:
+    - KakaoTalk
+- question: RFIDやWi-Fiの電波強度を表すのによく用いられる、電力の大きさを1mWを基準に対数レベルで表したアルファベット3文字の単位は何でしょう？
+  answer: dBm
+- question: 2014年にカミングアウトを行い、フォーチュン500企業のCEOとして初めて同性愛者であることを公表したことで知られる、現在のアップルのCEOは誰でしょう？
+  answer: ティム・クック
+  alternativeAnswers:
+    - Tim Cook
+- question: ユーザーがアプリをインストールしたり、アンケートに回答したりすることでゲーム内アイテムなどの見返りを獲得することができるという広告手法のことを、一般に「何広告」というでしょう？
+  answer: リワード広告
+  alternativeAnswers:
+    - リワード
+    - rewarded ad
+    - rewarded
+- question: 別名を「Live Match」ともいう、TikTokにおいて、コラボ配信中の配信者と対戦中に送られたギフトやいいねの数で競い合う対戦機能のことを、一般に「何バトル」というでしょう？
+  answer: PKバトル
+  alternativeAnswers:
+    - PK
+- question: 国際化ドメイン名のエンコード方式として用いられる場合は先頭に「xn--」というプレフィックスがつけられる、Unicode文字列をDNSで使用可能なアルファベットに変換する文字列エンコード方式といえば何でしょう？
+  answer: punycode
+  alternativeAnswers:
+    - ピュニコード
+    - プニコード
+- question: Windowsのファイルエクスプローラーの左側のエリアに表示される、よく使うフォルダやファイルが自動で登録され簡単に開くことができる機能を何というでしょう？
+  answer: クイックアクセス
+  alternativeAnswers:
+    - Quick access
+- question: AIは、内部で使用する記号と現実世界の物体や概念がどのように結びついているかを理解できているのか、という問題のことを、英語を用いて「何問題」というでしょう？
+  answer: シンボルグラウンディング問題
+  alternativeAnswers:
+    - シンボルグラウンディング
+    - シンボルグランディング問題
+    - シンボルグランディング
+    - 記号接地問題
+    - 記号接地
+    - symbol grounding problem
+    - symbol grounding
+- question: 「NASDAQで3文字コードの代わりに絵文字が使われる最初の企業になろう」という冗談からつけられた「🤗」という名前が現在の社名の由来である、Transformersライブラリの開発やAIモデル共有プラットフォームの運営で知られるアメリカのスタートアップ企業は何でしょう？
+  answer: Hugging Face
+  alternativeAnswers:
+    - ハギングフェイス
+- question: 共同創業者の名前である「ミッチェル・ハシモト」が社名の由来となっている、TerraformやVaultなどインフラを支える製品を多く開発していることで知られるアメリカの企業は何でしょう？
+  answer: HashiCorp
+  alternativeAnswers:
+    - ハシコープ
+- question: ウメオ大学のエリック・ストルターマン教授が「デジタル技術が人間の生活のあらゆる側面に及ぼす、あるいは影響を与える変化」として提唱したのが由来とされる、一般に「デジタル化」などと似た意味で用いられるIT用語は何でしょう？
+  answer: デジタルトランスフォーメーション
+  alternativeAnswers:
+    - ディジタルトランスフォーメーション
+    - digital transformation
+    - DX
+- question: 毎年12月にラスベガスで開催される「re:Invent」といえば、何というプラットフォームに関する技術が発表されるカンファレンスイベントでしょう？
+  answer: AWS
+  alternativeAnswers:
+    - Amazon Web Services
+- question: 本来は冷戦時代に航空機や船舶の位置情報をリアルタイムで把握するための軍事技術であった、一般的に数メートル程度の精度で地球上の位置情報を特定することが出来る衛星測位システムをアルファベット3文字で何というでしょう？
+  answer: GPS
+  alternativeAnswers:
+    - Global Positioning System
+- question: 一般的な「タイプA」に加えて、miniと呼ばれる「タイプC」やmicroと呼ばれる「タイプD」などのコネクタ形状も存在する、音声や映像を圧縮なしで伝送することが可能なインターフェース規格は何でしょう？
+  answer: HDMI
+  alternativeAnswers:
+    - High-Definition Multimedia Interface
+- question: 英語の多義性の問題から、フランス語などで「自由」を意味する単語をその名前に含めている、自由ソフトウェアとオープンソースソフトウェアを総称するアルファベット5文字の用語は何でしょう？
+  answer: FLOSS
+  alternativeAnswers:
+    - Free/Libre and Open Source Software
+- question: 青と白の市松模様にロゴがあしらわれた壁は、グラビアアイドルのプロモーション会場として広く使われてきたことからグラビア界隈での定番の背景にもなっている、秋葉原を中心に多くの店舗を展開する日本のパソコンショップは何でしょう？
+  answer: ソフマップ
+  alternativeAnswers:
+    - Sofmap
+- question: インターネット接続サービスにおいて、回線業者が提示した理想的な条件での最大通信速度を上限とし、特定の通信速度の保証を行わない方式のことを「何型」というでしょう？
+  answer: ベストエフォート型
+  alternativeAnswers:
+    - ベストエフォート
+- question: コンピュータが起動しないなどのトラブル時に、マザーボード上のジャンパーピンを操作したり、ボタン電池を一時的に取り外したりして、BIOS設定を初期化する作業を俗に「何クリア」というでしょう？
+  answer: CMOSクリア
+  alternativeAnswers:
+    - CMOS
+- question: 一列に並べたLEDを高速で回転させることで、人間の目の残像効果を利用して空中に画像や文字を表示する装置を何というでしょう？
+  answer: バーサライタ
+  alternativeAnswers:
+    - バーサライト
+    - versa-writer
+    - versa-write
+    - POVディスプレイ
+    - POV display
+- question: SeleniumやPuppeteerなどといったライブラリから利用することができる、GUIを持たず、ウェブページの自動テストやスクレイピングなどに利用されるブラウザを「何ブラウザ」と呼ぶでしょう？
+  answer: ヘッドレスブラウザ
+  alternativeAnswers:
+    - ヘッドレス
+    - headless browser
+    - headless
+- question: アルファベット2文字で「TL」と略される、 SNSなどにおいて、自分や他人の投稿を時間順に表示した一覧のことを指す用語は何でしょう？
+  answer: タイムライン
+  alternativeAnswers:
+    - timeline
+- question: フォトダイオードなどの受光素子において、光が照射されていない時にも流れている微弱な電流のことを、漢字3文字で何というでしょう？
+  answer: 暗電流
+- question: Googleの検索結果でウェブサイトのタイトルの下に表示される、ページの説明などが記載された文章のことを何というでしょう？
+  answer: スニペット
+  alternativeAnswers:
+    - descrpition
+- question: iOSアプリのベータバージョンを、テスターに限定公開してインストールしてもらうことができる、Apple社のテストアプリ配信システムを何というでしょう？
+  answer: TestFlight
+  alternativeAnswers:
+    - テストフライト
+- question: Javaなどのオブジェクト指向プログラミング言語で、メソッド名などの前に記述することで、自クラスおよび同一パッケージのクラスと、 自身の子クラスからのアクセスを可能にするアクセス修飾子は何でしょう？
+  answer: protected
+- question: 18歳未満の児童が自ら撮影した性的な画像などを、本人が申請することで取組に参加するSNSから排除することができる、アメリカのMeta社などの協力によって運営されるプライバシー保護プラットフォームは何でしょう？
+  answer: Take It Down
+  alternativeAnswers:
+    - テイク・イット・ダウン
+- question: 古瀬あいや安藤ユウといったキャラクターたちが、会話を通してユーザーの心身の健康をサポートしてくれる、2017年に日本の企業からリリースされたメンタルケアAIチャットアプリは何でしょう？
+  answer: SELF
+- question: 無線通信の基地局と基地局の間で構成されるネットワークのことを指す「無線アクセスネットワーク」のことを、アルファベット3文字の略称で何というでしょう？
+  answer: RAN
+  alternativeAnswers:
+    - Radio Access Network
+- question: LINEヤフー株式会社が提供する月額課金サービス「LYPプレミアム」のプレミアム機能が利用できる3つのサービスとは、LINE、ヤフーと何でしょう？
+  answer: PayPay
+  alternativeAnswers:
+    - ペイペイ
+- question: JSONと全く異なる文法を採用していながらJSONとの上位互換性も持っている、2001年にクラーク・エバンスらによって提案された可読性の高いデータフォーマットは何でしょう？
+  answer: YAML
+- question: 本来はテレタイプ端末において現在の位置を同じ行の先頭に移動させるコマンドとして用いられていた、Windowsにおいてラインフィードとともに使われ改行を表すのに用いられる記号のことを、英語で何というでしょう？
+  answer: キャリッジリターン
+  alternativeAnswers:
+    - Carrige Return
+- question: ISO27001に準拠した組織やシステムに対して認証される、組織内の情報資産を保護するための体系的な情報セキュリティ管理体制のことを、アルファベット4文字の略称で何というでしょう？
+  answer: ISMS
+  alternativeAnswers:
+    - Information Security Management System
+- question: iOS 15からはAndroidやWindowsのユーザーとも通話ができるようになった、macOSやiOSに標準搭載されているAppleのビデオ通話・音声通話アプリケーションは何でしょう？
+  answer: FaceTime
+  alternativeAnswers:
+    - フェイスタイム
+- question: 液晶ディスプレイの技術方式で現在主流となっている「薄膜トランジスタ液晶」のことを、アルファベット3文字の略称を用いて「何液晶」というでしょう？
+  answer: TFT液晶
+  alternativeAnswers:
+    - TFT
+- question: 公式CLIクライアントの「psql」では「l」や「d」などのショートカットコマンドを多く利用することができる、「Slonik」というゾウのマスコットのロゴマークでもおなじみのSQLデータベースシステムは「何SQL」でしょう？
+  answer: PostgreSQL
+  alternativeAnswers:
+    - Postgre
+    - Postgres
+    - ポストグレSQL
+    - ポストグレ
+    - ポストグレス
+- question: 3DCGにおいて、テクスチャを構成する最小単位のことを、「テクスチャ」と「ピクセル」をかけあわせた造語から何というでしょう？
+  answer: テクセル
+  alternativeAnswers:
+    - texel
+- question: アルファベット3文字で「SOA」と略される、システムを「各機能を提供するコンポーネントの集合」とみなしてビジネスアプリケーションを作成するソフトウェア開発の方法を、日本語と英語を用いて「何アーキテクチャ」というでしょう？
+  answer: サービス指向アーキテクチャ
+  alternativeAnswers:
+    - サービスオリエンテッドアーキテクチャ
+    - サービス指向
+    - サービスオリエンテッド
+    - Service Oriented Architecture
+    - Service Oriented
+- question: プログラムの繰り返し実行されるメソッドのみを最適化することでオーバーヘッドを最小限に抑える工夫がされている、1999年に導入されたJava仮想マシンのJITコンパイラの名前は「何 VM」でしょう？
+  answer: Hotspot VM
+  alternativeAnswers:
+    - Hotspot
+    - ホットスポットVM
+    - ホットスポット
+- question: アップロードされたドキュメントをAIが分析し、情報整理や検索を効率化する、Googleが開発したAIベースのリサーチアシスタントツールは何でしょう？
+  answer: NotebookLM
+  alternativeAnswers:
+    - ノートブックLM
+- question: 宇多田ヒカルの「traveling」を起用したCMでも大きな話題を呼んだ、2001年にサービス開始し携帯電話の普及に大きな役割を果たしたことで知られる、ドコモの3G通信サービスの名称は何でしょう？
+  answer: FOMA
+  alternativeAnswers:
+    - Freedom of Mobile Multimedia Access
+- question: 「マジックパケット」と呼ばれる特殊なパケットを送信することで遠隔でコンピュータの電源を投入する、AMDが提唱した技術を英語で何というでしょう？
+  answer: Wake on LAN
+  alternativeAnswers:
+    - WOL
+    - ウェクオンラン
+- question: Firefoxで最も更新の激しいアルファ版にも名前が冠されている、プロジェクトの最新のソースコードを用いて毎日生成されるビルドデータのことを「毎晩」を意味する英語を用いて「何ビルド」というでしょう？
+  answer: ナイトリービルド
+  alternativeAnswers:
+    - ナイトリー
+    - nightly build
+    - nightly
+- question: オブジェクト指向プログラミングにおいて、特定のクラスのインスタンスがアプリケーション内で唯一つしか存在しないことを保証する設計パターンのことを「何パターン」というでしょう？
+  answer: シングルトンパターン
+  alternativeAnswers:
+    - シングルトン
+    - singleton pattern
+    - singleton
+- question: ビーチサンダルで歩く際の「パタパタ」という音を表す英語の擬音から名付けられた、1ビットのデジタル情報を保持できる順序論理回路の一種は「何回路」でしょう？
+  answer: フリップフロップ回路
+  alternativeAnswers:
+    - フリップフロップ
+    - flip-flop回路
+    - flip-flop
+  description: SRAMはフリップフロップ回路で構成される
+- question: 別名を「コンバーチブルパソコン」ともいう、ノートPCとしてもタブレットとしても使用することができるパソコンのことを、2つの数字を用いて「何パソコン」というでしょう？
+  answer: 2-in-1パソコン
+  alternativeAnswers:
+    - 2in1パソコン
+    - 2-in-1
+    - 2in1
+    - ツーインワンパソコン
+    - ツーインワン
+- question: パッケージマネージャーの「Cargo」を用いてさまざまなライブラリなどを利用することができる、強力な型システムとメモリ安全性を持つプログラミング言語は何でしょう？
+  answer: Rust
+  alternativeAnswers:
+    - ラスト
+- question: 同社の代表的な技術である「群知能型アプローチ」を、ある生き物の群れに例えて会社名がつけられた、LLMの蒸留技術「TAID」や大規模AI連携技術「AIコンステレーション」などの技術の発表で知られる日本発のAIスタートアップ企業は「何 AI」でしょう？
+  answer: Sakana AI
+  alternativeAnswers:
+    - Sakana
+    - サカナAI
+    - サカナ
+- question: 「クイック設定」や「通知」など、Windowsにおいて画面に一時的に表示され、それ以外の部分をクリックすると閉じる一時的なUIコンポーネントのことを何というでしょう？
+  answer: フライアウト
+  alternativeAnswers:
+    - flyout
+- question: Alexaを搭載した「AIホームゲートウェイ」や、スマートロック機器の「Qrio Lock」などの製品を月額価格で利用することができる、ソニーの家庭向けスマートホームサービスは何でしょう？
+  answer: MANOMA
+  alternativeAnswers:
+    - マノマ
+- question: RubyやLispなどのプログラミング言語において、「何もない」ことを意味する値であり、他のプログラミング言語におけるnullやNoneに対応するキーワードといえば何でしょう？
+  answer: nil
+- question: 金正恩を題材にした映画『ザ・インタビュー』に対する抗議といわれている、2014年のソニー・ピクチャーズエンタテインメントへの大規模なハッキング事件が特に知られている、北朝鮮政府と密接に関係すると推測されているハッカーグループといえば「何グループ」でしょう？
+  answer: ラザルスグループ
+  alternativeAnswers:
+    - ラザルス
+    - Lazarus Group
+    - Lazarus
+- question: ギリシャでは「アヒルの子」、ドイツでは「猿の尻尾」、イタリアでは「カタツムリ」を意味する言葉で呼ばれることもある、主にメールアドレスなどで使用される記号を日本では一般的に何と呼ぶでしょう？
+  answer: '@'
+  alternativeAnswers:
+    - アットマーク
+    - at sign
+    - at mark
+    - at
+- question: ルーン文字の「H」と「B」を組み合わせて作られた特徴的な青いロゴでも知られている、主にPC周辺機器などを接続するのに用いられる近距離無線通信技術は何でしょう？
+  answer: Bluetooth
+  alternativeAnswers:
+    - ブルートゥース
+- question: コンセントと電源プラグの間に溜まったホコリなどによって電極間がショートしてしまい、発火などの事故が発生する現象を、「何現象」というでしょう？
+  answer: トラッキング現象
+  alternativeAnswers:
+    - トラッキング
+    - tracking phenomenon
+    - tracking
+- question: 「Chromebookのデスクトップ版」と説明されることもある、現在ASUSやLenovoから発売されている、Chrome OSを搭載し軽量に動作するミニPCのブランドは何でしょう？
+  answer: Chromebox
+  alternativeAnswers:
+    - クロームボックス
+- question: 2022年から放映されている日テレ系の番組「アナザースカイ」の第4シリーズでは単独スポンサーとなり、番組名にも現在その名前が冠されている、Googleが2016年から販売しているスマートフォンのブランドは「Google 何」でしょう？
+  answer: Google Pixel
+  alternativeAnswers:
+    - Pixel
+    - グーグルピクセル
+    - ピクセル
+- question: データセンターにおいてサーバーなどのIT機器が設置される空間と、タブや改行などの空白文字に共通する英語の名称は何でしょう？
+  answer: ホワイトスペース
+  alternativeAnswers:
+    - whitespace
+    - white space
+- question: アルファベット3文字で「MCP」と略される、システムが持つファイルやデータベースなどのリソースにAIエージェントがアクセスするための共通プロトコルであり、「AIアプリのUSB-C」とも呼ばれる規格は「何プロトコル」でしょう？
+  answer: Model Context Protocol
+  alternativeAnswers:
+    - モデルコンテキストプロトコル
+    - Model Context
+    - モデルコンテキスト
+  description: 「AIアプリのUSB-C」はAnthropicの公式ドキュメントに記載されている https://docs.anthropic.com/en/docs/agents-and-tools/mcp
+- question: これが行われた2つのAIモデルの関係を「教師モデルと生徒モデル」と呼ぶこともある、大規模な学習モデルから小規模で効率的なモデルへと知識を転送し、省コストで高性能な推論を可能にする技術を日本語で何というでしょう？
+  answer: 蒸留
+  alternativeAnswers:
+    - distillation
+- question: 使用したい素材を「フッテージ」として取り込み、「コンポジション」の中に配置することで高度な映像編集を行うことができる、Adobe社の映像編集ソフトは「Adobe 何」でしょう？
+  answer: Adobe After Effects
+  alternativeAnswers:
+    - After Effects
+    - アドビアフターエフェクツ
+    - アフターエフェクツ
+    - アドビアフターエフェクト
+    - アフターエフェクト
+- question: SSDが寿命を迎えるまでに書き込めるデータの総量をテラバイト単位で表した、SSDの耐久性の指標をアルファベット3文字で何というでしょう？
+  answer: TBW
+  alternativeAnswers:
+    - Total Bytes Written
+- question: 秋葉原にある本店をはじめ全国7ヶ所に直売店を構えている、青い外装と「ツ」と書かれた赤いロゴマークでおなじみの電子パーツ販売店は何でしょう？
+  answer: マルツ
+  alternativeAnswers:
+    - マルツエレック
+    - マルツパーツ館
+- question: Softbank AirやRakuten Turboなどのサービスで利用することができる、モバイル通信回線を利用した据え置き型のWi-Fiルーターを何というでしょう？​
+  answer: ホームルーター
+  alternativeAnswers:
+    - home router
+- question: 1963年にAIEEとIREが統合して設立され、Wi-Fiやイーサネットなどインターネットの主要な標準規格を策定している専門家組織を、アルファベット4文字の名称で何というでしょう？
+  answer: IEEE
+  alternativeAnswers:
+    - アイトリプルイー
+    - Institute of Electrical and Electronics Engineers
+- question: さまざまなアーティストがライブ映像などを同時に公開する「Music Weekend」というイベントも定期的に行われている、世界最大級の動画共有サイトは何でしょう？
+  answer: YouTube
+  alternativeAnswers:
+    - ユーチューブ
+- question: JavaやC#などのオブジェクト指向言語において、プログラムが自分自身の中で定義されたクラスやメソッドなどの情報にアクセスしたり、書き換えたりすることができるメタプログラミング的機能を何というでしょう？
+  answer: リフレクション
+  alternativeAnswers:
+    - reflection
+  description: Wikipediaによると「プログラム自身の構造を読み取ったり書き換えたりする技術」一般を指すらしい
+- question: 当初のブランド名である「SOHO」を用いたドメインがすでに取得されていたことから現在の名称に変更したという、「CRM」や「SalesIQ」などのサービスを展開するビジネスアプリケーションサービスの名前は何でしょう？
+  answer: Zoho
+  alternativeAnswers:
+    - ZOHO
+- question: データセンター全体の消費電力をIT機器の消費電力で割った値によって求められる、データセンターのエネルギー効率を示す指標をアルファベット3文字で何というでしょう？
+  answer: PUE
+  alternativeAnswers:
+    - Power Usage Effectiveness
+- question: 公式に配布されている「拡張編集プラグイン」を用いて高度な動画編集を行うこともできる、1997年にKENくんが開発し、現在も無料で配布されている動画編集ソフトウェアといえば何でしょう？
+  answer: AviUtl
+- question: チャットアプリ「LINE」において、自分宛てのチャットという形で個人的なメモを残すことができる特殊なトークルームの機能といえば「何メモ」でしょう？
+  answer: Keepメモ
+  alternativeAnswers:
+    - Keep
+    - キープメモ
+    - キープ
+- question: OpenAIの共同設立者であるアンドレイ・カーパシーによって提唱された、自然言語でAIに指示を与えることで自動的にコードを生成する新しいプログラミング手法のことを「何コーディング」というでしょう？
+  answer: バイブコーディング
+- question: Gitを開発したリーナスは「よく使う5つのGitコマンド」の1つにこれを挙げている、コードの各行が最後に誰によっていつ変更されたかを表示するGitコマンドといえば「git 何」でしょう？
+  answer: git blame
+  alternativeAnswers:
+    - blame
+  description: https://gigazine.net/news/20250408-git-20-years-linus-torvalds/
+- question: 「Interactive Ruby」を略して名付けられた、プログラミング言語Rubyに標準で搭載されている対話型実行環境は何でしょう？
+  answer: irb
+- question: 別のページにリダイレクトしたり、ポップアップを表示するなど、正規の広告ネットワークを利用して悪意のある広告を配信するサイバー攻撃の手法のことを、「悪意のある」と「広告」を意味する英語を組み合わせた造語で何というでしょう？
+  answer: マルバタイジング
+  alternativeAnswers:
+    - malvertizing
+    - マルバタイズ
+    - malvertize
+- question: 汎用の「Standard」に加え、長期保存向けの「Glacier」や「Glacier Deep Archive」などのオブジェクトクラスを利用することができる、AmazonがAWSの一環として提供するオブジェクトストレージサービスは「Amazon 何」でしょう？
+  answer: Amazon S3
+  alternativeAnswers:
+    - S3
+    - Amazon Simple Storage Service
+    - Simple Storage Service
+- question: 現在のGUIの基礎となっている「WIMP」ユーザーインターフェースを構成する4つの要素とは、ウィンドウ・アイコン・メニューと何でしょう？
+  answer: ポインター
+  alternativeAnswers:
+    - ポインタ
+    - pointer
+- question: IT産業が盛んなことから「ビットバレー」の別名を持つ、クックパッド、サイバーエージェント、DeNA、Google Japanなどが本社を置く東京の特別区は何区でしょう？
+  answer: 渋谷区
+  alternativeAnswers:
+    - 渋谷
+- question: 「エンジニアをつなぐIT勉強会支援プラットフォーム」をモットーに掲げ、実際に国内で開催される多くのITイベントが参加者登録などに利用している、株式会社ビープラウドが運営するイベント管理サービスは何でしょう？
+  answer: connpass
+  alternativeAnswers:
+    - コンパス
+- question: 「ココロとカラダの教科書」を掲げ、多くの医療情報を掲載していたものの、医学的根拠のない粗悪な品質の記事が公開されているとして大きな問題となった、2015年にDeNAが開設した医療キュレーションサービスは何でしょう？
+  answer: WELQ
+  alternativeAnswers:
+    - ウェルク
+- question: Amazon EC2などのサーバープラットフォームにおいて、クラウド上に作成される仮想サーバーのことを、「実例」などの意味を持つ英語から何というでしょう？
+  answer: インスタンス
+  alternativeAnswers:
+    - instance
+- question: 複数のコンテナが協調動作するアプリケーションを、YAML形式で設定を記述することで簡単に作成・管理することができる、Docker公式が提供するコンテナユーティリティツールは「Docker 何」でしょう？
+  answer: Docker Compose
+  alternativeAnswers:
+    - Compose
+    - ドッカーコンポーズ
+    - コンポーズ
+- question: 特にバイオインフォマティクスや計算化学の分野において、コンピュータシミュレーション上で行われる実験や分析のことを、「in vivo」や「in situ」などになぞらえた表現で何というでしょう？
+  answer: in silico
+- question: チャット機能においては「Ask」「Edit」「Agent」の3つのモードが現在実装されている、VSCodeに標準搭載されているGitHub社のコーディング支援AIといえば「GitHub 何」でしょう？
+  answer: GitHub Copilot
+  alternativeAnswers:
+    - Copilot
+    - コパイロット
+- question: 犯罪収益移転防止法の改正によって日本でも導入が進んでいる、特に銀行口座の開設などの重要な取引において本人確認を電子的に行う手続きのことをアルファベット4文字で何というでしょう？
+  answer: eKYC
+  alternativeAnswers:
+    - electronic Know Your Customer
+- question: 先端のリング部分をわずかに回転させるとロックできる「バイオネットロック方式」を採用していることが名前の由来の一つとされている、オシロスコープなど高周波のアナログ信号の計測装置で標準的に使用される、同軸ケーブル向けのコネクタ形状を「何コネクタ」というでしょう？
+  answer: BNCコネクタ
+  alternativeAnswers:
+    - BNC
+    - Bayonet Neill Concelman
+- question: ゲーミングブラウザの「GX」や、マインドフルブラウザの「Air」といった亜種バージョンも多くリリースされている、Chromiumをベースとしたノルウェー発のモダンブラウザは何でしょう？
+  answer: Opera
+  alternativeAnswers:
+    - オペラ
+- question: comp.std.cというニュースグループの投稿に由来する、コンパイラの未定義動作にまつわる有名な表現といえば「何から悪魔が飛び出しても仕様に反しない」でしょう？
+  answer: 鼻
+  alternativeAnswers:
+    - 鼻から悪魔
+    - your nose
+    - nose
+- question: 「品質」と「通信」を意味する2つの英単語から社名がつけられた、スマートフォン向けSoCの「Snapdragon」シリーズの製造で知られるアメリカの半導体企業は何でしょう？
+  answer: Qualcomm, Inc.
+  alternativeAnswers:
+    - Qualcomm
+    - クアルコム
+- question: SNSのインスタグラムにおいて、リールやストーリーズなどのポスト機能に対して、写真や動画にハッシュタグや説明文をつけて投稿する旧来のポスト機能のことを一般に「何投稿」というでしょう？
+  answer: フィード投稿
+  alternativeAnswers:
+    - フィード
+    - feed
+- question: 日本記念日協会では8月10日をこれを取ることの記念日として認定している、金属やプラスチックなどの素材を加工したり、3Dプリンタで製品を出力したりした際に出る素材の出っ張りを指す言葉は何でしょう？
+  answer: バリ
+  alternativeAnswers:
+    - burr
+- question: NvidiaのRTX 40シリーズのアーキテクチャの名称にもなっている、解析機関のパンチカードを設計したことから「世界初のプログラマー」とも呼ばれる19世紀イギリスの女性は誰でしょう？
+  answer: エイダ・ラブレス
+  alternativeAnswers:
+    - エイダ・ラブレイス
+    - Ada Lovelace
+- question: ITインフラを構成する要素のうち、そこが停止するとシステム全体が停止してしまうような高いリスクを持つ部分のことを、日本語で何というでしょう？
+  answer: 単一障害点
+  alternativeAnswers:
+    - Single Point Of Failure
+    - SPOF
+    - スポフ
+- question: 子どもが有害なコンテンツにアクセスしないように、アプリの機能を制限したり、使用時間を設定したりすることができる、スマホやゲーム機などの保護者向け機能を「何コントロール」というでしょう？
+  answer: ペアレンタルコントロール
+  alternativeAnswers:
+    - ペアレンタル
+    - parental control
+    - parental
+- question: Pythonの「pyproject」ファイルのフォーマットとしても用いられている、2013年にGitHubの共同創業者が開発した「人間にとってわかりやすく、機械にも扱いやすい」構成ファイル形式は何でしょう？
+  answer: TOML
+  alternativeAnswers:
+    - Tom's Obvious, Minimal Language
+- question: GUIで直感的に操作できることから、GUIの代表的な構成要素が名前の由来となっている、1985年に初版の「1.0」がリリースされた有名なOSといえば何でしょう？
+  answer: Windows
+  alternativeAnswers:
+    - ウィンドウズ
+  description: https://www.howtogeek.com/781573/why-is-windows-called-windows/
+- question: 「FancyZones」「Always on Top」「Text Extractor」などのユーティリティがセットになっている、Microsoftが提供するWindows向けツール群は「Microsoft 何」でしょう？
+  answer: Microsoft PowerToys
+  alternativeAnswers:
+    - PowerToys
+    - マイクロソフトパワートイズ
+    - パワートイズ
+- question: 「アーケードゲームでゲームがプレイされていない時に表示されるデモンストレーション」と「ルーターが隣接するルーターに経路情報などを教えること」に共通する英語の用語は何でしょう？
+  answer: アドバタイズ
+  alternativeAnswers:
+    - アドバタイズメント
+    - advertise
+    - advertisement
+- question: 時計を1秒間遅らせる「正」と1秒間早める「負」の2種類が定義されているものの、実際には27回にわたり「正」のみが実施されている、地球の自転のぶれに応じて計時システムを調整する仕組みを何というでしょう？
+  answer: うるう秒
+  alternativeAnswers:
+    - 閏秒
+    - leap second
+- question: Unixシステムにおいて時間を表現する際の起点となるのは、西暦何年の1月1日でしょう？
+  answer: 西暦1970年
+  alternativeAnswers:
+    - 1970年
+    - '1970'
+- question: シャーシと呼ばれる箱に差し込み、電源やファンなどのパーツを複数台で共有して使う、薄くて細長いサーバーのことを、その形から「何サーバー」というでしょう？
+  answer: ブレードサーバー
+  alternativeAnswers:
+    - ブレード
+    - blade server
+    - blade
+- question: 現在、サーバーにインストールされるTLS証明書の有効期間は、最長で約何ヶ月とされているでしょう？
+  answer: 約13ヶ月
+  alternativeAnswers:
+    - 13ヶ月
+    - '13'
+    - 398日
+    - '398'
+- question: CDやDVDなどの光ディスクにおいて、データの記録面に刻まれる細かい凹凸のことを何というでしょう？
+  answer: ピット
+  alternativeAnswers:
+    - pit
+- question: 当初はQ&Aサービスとして開始したことから「Qで始まってAで終わる名前」がつけられている、現在はエンジニア向けの技術共有サービスとして知られるWebサービスは何でしょう？
+  answer: Qiita
+  alternativeAnswers:
+    - キータ
+- question: アルファベット3文字で「CUA」と略される、パソコンの操作画面を認識し、指示された通りに操作を行うことができるAIサービスの機能といえば、「何 Agent」でしょう？
+  answer: Computer-Using Agent
+  alternativeAnswers:
+    - Computer-Using
+- question: ASCII文字において、同じアルファベットの大文字と小文字は、数値として表現すると常に差がいくつになっているでしょう？
+  answer: '32'
+- question: 1978年にマイクロソフトとの合弁会社「アスキーマイクロソフト」を設立し、ビル・ゲイツと共にMS-DOSやウィンドウズの開発に携わったほか、MSXをはじめとする多くの先進的なコンピューターの設計で知られる日本のエンジニア・経営者は誰でしょう？
+  answer: 西和彦
+  alternativeAnswers:
+    - にしかずひこ
+- question: 「SETI」「Folding」「Minecraft」などのあとにつくと、そのジャンルに関する参加型の分散コンピューティングプロジェクトの名前になる言葉は何でしょう？
+  answer: '@home'
+  alternativeAnswers:
+    - アットホーム
+    - at home
+- question: LLMへの入出力をプログラムでパース可能な形式に変換する「Model I/O」や、LLMと外部データの連携を行う「Retrieval」などの機能が実装されている、Pythonで実装されたオープンソースのAIアプリ構築フレームワークは何でしょう？
+  answer: LangChain
+  alternativeAnswers:
+    - ラングチェーン
+- question: プログラムの最初にプログラム名や作者などを記述した「IDENTIFICATION DIVISION」を書かなければならないという仕様がある、1959年に開発され現在でもシステム開発などで見かける機会の多いプログラミング言語は何でしょう？
+  answer: COBOL
+  alternativeAnswers:
+    - コボル
+- question: 「見たままが得られる」という意味の英文を略したものである、編集画面上に表示されているものがそのまま結果に反映される直感的な編集インターフェイスを指すアルファベット7文字の用語は何でしょう？
+  answer: WYSIWYG
+  alternativeAnswers:
+    - ウィジウィグ
+    - What You See Is What You Get
+- question: 署名アルゴリズムの「ECDSA」や鍵交換アルゴリズムの「ECDH」などの種類が存在する、ある数学的構造における離散対数問題を安全性の根拠とする暗号化システムのことを日本語で「何暗号」というでしょう？
+  answer: 楕円曲線暗号
+  alternativeAnswers:
+    - 楕円曲線
+    - Elliptic Curve Cryptography
+    - Elliptic Curve Cryptosystem
+    - Elliptic Curve
+    - ECC
+- question: 世界のインターネット通信の2割以上を占めるCDNサービス「Cloudflare」のデータセンターは世界各国に多く配置されており、例えば日本には「NRT」「KIX」「OKA」などといった名前のデータセンターがあることが知られています。これらは全て、それぞれのデータセンターから最寄りの「あるもの」にちなんで命名されているのですが、それは何でしょう？
+  answer: 空港
+  description: https://developers.cloudflare.com/data-localization/how-to/
+- question: 哲学者のニック・ボストロムによって提唱された、「あるものを多く製造することを至上命題として与えられたAIが、自己進化の果てにあらゆるものを犠牲にそれを製造し続け、それが原因で人類が滅んでしまう」という内容の思考実験を英語を用いて「何最大化問題」というでしょう？
+  answer: ペーパークリップ最大化問題
+  alternativeAnswers:
+    - ペーパークリップ最大化
+    - ペーパークリップ
+    - paperclip maximizer problem
+    - paperclip maximizer
+    - paperclip
+    - squiggle maximizer problem
+    - squiggle maximizer
+    - squiggle
+- question: 北海道美唄市が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から行っていることが名前の由来です。その「あるもの」とは何でしょう？
+  answer: 雪
+  description: https://www.city.bibai.hokkaido.jp/soshiki/13/417.html
+- question: Ruby・Kotlin・Groovyなどの言語では暗黙の引数を表すのに用いられ、RSpec・Jest・Mochaなどのテストフレームワークではテストケースの記述に用いられる、ある英語の代名詞に由来するキーワードは何でしょう？
+  answer: it
+- question: 英語圏で「BSoD」と略されることもある、Windowsで重大なエラーが発生して強制終了した際に表示される画面のことを、日本では特に何というでしょう？
+  answer: ブルースクリーン
+  alternativeAnswers:
+    - ブルスク
+    - blue screen
+- question: 【早押し注意】32ビット符号あり整数でUnix時間を表現した際に生じる問題は「2038年問題」と呼ばれています。では、32ビット符号なし整数でUnix時間を表現した際に生じる問題は「何年問題」と呼ばれているでしょう？
+  answer: 2106年問題
+  alternativeAnswers:
+    - '2106'
+- question: 名刺型、ハート型、星型など変わった形状のものも90年代には製造されていた、1980年ごろにソニーとフィリップスの共同開発によって作られた記録メディアは何でしょう？
+  answer: CD
+  alternativeAnswers:
+    - コンパクトディスク
+    - Compact Disc
+    - Compact Disk
+    - CD-R
+    - CD-ROM
+    - CD-RW
+- question: 2021年にVR機器大手の「Pico」を買収したことから現在もVRヘッドセットのシェアで世界3位となっている、ショート動画コミュニティ「TikTok」の運営で知られる中国のIT企業は何でしょう？
+  answer: ByteDance
+  alternativeAnswers:
+    - バイトダンス
+- question: ハワイ語で「賢い」という意味を持つ、1998年にMITの研究成果をもとに設立されCDN事業の先駆者的役割を果たした、現在も世界中のインターネットトラフィックを支えるアメリカのネットワーク事業者といえば「何 Technologies」でしょう？
+  answer: Akamai Technologies
+  alternativeAnswers:
+    - Akamai
+    - アカマイ・テクノロジーズ
+    - アカマイ
+- question: このイベントに動員されたドワンゴ社員が2015年に「エンジニアなのに焼きそばを焼かされた」と訴えたことが業界で大きな話題を呼んだ、毎年4月に幕張メッセで行われるドワンゴ社のユーザー参加型イベントは何でしょう？
+  answer: ニコニコ超会議
+- question: 数学用語としては集合の元に他の集合の元を対応させる写像やその記号のことを指す、プログラミングにおいて「+」や「*」など、特定の計算を行うことを表す記号や命令のことを日本語で何というでしょう？
+  answer: 演算子
+  alternativeAnswers:
+    - operator
+- question: 1980年代から90年代にかけて広く利用された「ネットニュース」と呼ばれる分散型の電子掲示板システムの原型となった、1980年にアメリカのデューク大学とノースカロライナ大学の学生によって開発されたシステムは何でしょう？
+  answer: Usenet
+  alternativeAnswers:
+    - ユーズネット
+- question: ラックマウントのストレージサーバー「FileStation」や「RackStation」、個人向けNAS製品「DiskStation」などの開発・販売で知られる、台湾の電子機器メーカーは何でしょう？
+  answer: Synology, Inc.
+  alternativeAnswers:
+    - Synology
+    - シノロジー
+- question: 「Perl」が6月の誕生石である「真珠」を連想させることから、7月の誕生石の宝石から名前を取ったことが由来の1つとなっている、日本生まれの有名なプログラミング言語は何でしょう？
+  answer: Ruby
+  alternativeAnswers:
+    - ルビー
+- question: 「html5shiv」や「core-js」などのライブラリに代表される、Web開発において古いブラウザでも最新のWeb標準の機能が使えるよう、それを模倣した機能を提供するコードのことを英語で何というでしょう？
+  answer: polyfill
+- question: 3ヶ月に1回開催される割引セールの「メガ割」や、ポイント還元セールの「メガポ」といったイベントでも人気を博している、レディースファッションやビューティー商品を中心に扱うeBay Japanのネット通販サービスは何でしょう？
+  answer: Qoo10
+  alternativeAnswers:
+    - キューテン
+- question: 日本のインターリンク社が2009年に開催した「ワールドドメインカップ」で一般投票によって選ばれ、2015年に実際にgTLDとして登録された、「人類、生物、環境、宇宙、平和、国際協力、チャリティー、自然科学などの関連団体、個人の方におすすめ」とされるトップレベルドメインといえば「.何」でしょう？
+  answer: .earth
+  alternativeAnswers:
+    - earth
+- question: 特にMicrosoft Office製品のマクロ機能から利用することができるものが広く知られている、Visual BasicにWindowsやOfficeへのアクセス機能を追加したプログラミング言語環境を、アルファベット3文字の略称でなんと言うでしょう？
+  answer: VBA
+  alternativeAnswers:
+    - Visual Basic for Applications
+- question: 一般的には約0.75kWを表すものの、空調業界では約2.8kWを表すものとして用いられることが多い、よく「HP」と略して表記される電力の単位を、日本語で何というでしょう？
+  answer: 馬力
+  alternativeAnswers:
+    - horsepower
+- question: 「/8」や「/16」のようなスラッシュ表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
+  answer: ネットワーク部
+  alternativeAnswers:
+    - ネットワーク
+    - network
+- question: 3Dモデリングにおいて、髪やスカートなど、バネのような物理シミュレーションを使ってキャラクターの動きに応じて自然に動くように設定されたパーツのことを、俗に日本語で何というでしょう？
+  answer: 揺れもの
+- question: 最盛期には秋葉原で15店舗を展開していた大手チェーン店であり、特にその本社ビルはのちにエディオンに吸収合併され2012年に改装されるまで秋葉原のシンボルとして活躍していた、かつての家電量販店は何でしょう？
+  answer: 石丸電気株式会社
+  alternativeAnswers:
+    - 石丸電気
+    - イシマル
+- question: ギリシア正教における聖画像を意味する「イコン」に由来するともされる、GUI上でアプリや機能を表す小さな画像のことを指す英単語は何でしょう？
+  answer: アイコン
+  alternativeAnswers:
+    - icon
+- question: 「ゆる言語学ラジオ」の2人のパーソナリティーが普段と逆の立場でトークを繰り広げ、さまざまなIT技術の仕組みについて解説していく、堀元見と水野太貴によるYouTubeチャンネル・ポッドキャストは「何ラジオ」でしょう？
+  answer: ゆるコンピューター科学ラジオ
+  alternativeAnswers:
+    - ゆるコンピューター科学
+- question: デフォルトでは入力の最初の10行のみを表示するという挙動を行う、Linuxにおいて入力の先頭の指定した行数またはバイト数を出力に書き出すコマンドといえば「何コマンド」でしょう？
+  answer: headコマンド
+  alternativeAnswers:
+    - head
+- question: 「case」というキーワードともに用いられる、C言語やJavaScriptなどの言語において指定された値に応じて複数の処理から一つを選ぶ制御構文において条件式の前に書かれるキーワードは何でしょう？
+  answer: switch
+  alternativeAnswers:
+    - switch文
+    - switch statement
+- question: 略して単に「レジスト」と呼ばれることも多い、半導体製造において絶縁膜の上に塗布され、回路パターンをウエハーに焼き付けるのに用いられる感光性の半導体材料は何でしょう？
+  answer: フォトレジスト
+  alternativeAnswers:
+    - photoresist
