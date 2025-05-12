@@ -4212,10 +4212,8 @@
     - レーザー
     - laser printer
     - laser
-- question: 「NTT」という通称で知られる、80年代に民営化した日本の通信企業の正式名称は「何株式会社」でしょう？
-  answer: 日本電信電話株式会社
-  alternativeAnswers:
-    - 日本電信電話
+- type: deleted
+  reason: 事実関係の変化により (日本電信電話株式会社は2025年7月に正式な社名を「NTT」に変更)
 - question: 日本語では「関心経済」や「注意経済」と呼ばれる、情報社会において人々の関心や注目が経済的価値を持ち、市場で取引されることを指した経済学用語は何でしょう？
   answer: アテンションエコノミー
   alternativeAnswers:
