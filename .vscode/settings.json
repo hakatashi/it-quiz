@@ -1,0 +1,9 @@
+{
+  "yaml.schemas": {
+    "./quizzes.schema.json": [
+      "it-quiz.yaml",
+      "news-quiz.yaml"
+    ]
+  },
+  "yaml.disableAdditionalProperties": true
+}
