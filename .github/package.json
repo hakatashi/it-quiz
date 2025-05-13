@@ -22,7 +22,7 @@
     "js-yaml": "^4.1.0",
     "json-schema-to-typescript": "^15.0.4",
     "lodash": "^4.17.21",
-    "semver": "^7.7.1",
+    "semver": "^7.7.2",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"
   }
