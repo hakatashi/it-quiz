@@ -10,7 +10,7 @@
     "@types/diff": "^7.0.2",
     "@types/fs-extra": "^11.0.4",
     "@types/js-yaml": "^4.0.9",
-    "@types/lodash": "^4.17.16",
+    "@types/lodash": "^4.17.17",
     "@types/node": "^22.15.19",
     "@types/semver": "^7.7.0",
     "ajv": "^8.17.1",
