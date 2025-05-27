@@ -1912,8 +1912,10 @@
   answer: B言語
   alternativeAnswers:
     - B
-- question: PCの電源ユニットの性能を評価する「80 PLUS」における6段階のランクとは、スタンダード、ブロンズ、シルバー、ゴールド、プラチナと最高ランクの何でしょう？
-  answer: チタニウム
+- question: 2025年に従来の「チタニウム」の上に新たに追加された、PCの電源ユニットの性能を評価する「80 PLUS」における最上位ランクは何でしょう？
+  answer: ルビー
+  alternativeAnswers:
+    - Ruby
 - question: 東京工業大学の豊田正史によって実装されたものが現在では普及している、あるコマンドの打ち間違えを防ぐために開発された「画面に機関車を走らせる」UNIXプログラムは何でしょう？
   answer: slコマンド
   alternativeAnswers:
