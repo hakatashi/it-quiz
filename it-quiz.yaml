@@ -14041,3 +14041,141 @@
   answer: フォトレジスト
   alternativeAnswers:
     - photoresist
+- question: 英語では「ACD」などと略される、サイバー攻撃を事前に検知し、逆に攻撃元のサーバーに侵入することで、攻撃を未然に無害化するセキュリティ対策のことを日本では一般的に「何的サイバー防御」というでしょう？
+  answer: 能動的サイバー防御
+  alternativeAnswers:
+    - 能動的
+    - 能動
+- question: 文字列の希少価値が高く、通常の料金よりも高い価格で取引されるドメインのことを、一般的に「何ドメイン」というでしょう？
+  answer: プレミアムドメイン
+  alternativeAnswers:
+    - プレミアム
+    - premium domain
+    - premium
+- question: 3DCGの制作において、モデリングした3Dの物体に骨格やジョイントを埋め込み、実際に動かせるようにする作業のことを英語で何というでしょう？
+  answer: リギング
+  alternativeAnswers:
+    - リグ
+    - rigging
+    - rig
+- question: 1979年にIBMの社員によって提案された、ソフトウェアの複雑さを機能ごとに重み付けして工数を数値化するソフトウェア開発の見積もり手法を、英語を用いて「何法」というでしょう？
+  answer: ファンクションポイント法
+  alternativeAnswers:
+    - ファンクションポイント
+    - FP法
+    - FP
+    - Function Point Method
+    - Function Point
+- question: 日本の東京エレクトロンが世界シェアの8割以上を独占している、半導体製造において、ウエハー上にレジストを均一に塗布し、露光後にそのレジストを現像するという2つの工程を行う半導体製造機器を何というでしょう？
+  answer: コータデベロッパ
+  alternativeAnswers:
+    - coater developer
+- question: プログラミング言語のswitch文において、caseブロックの末尾にbreakを置かず、次のcaseブロックの処理を実行させることを何というでしょう？
+  answer: フォールスルー
+  alternativeAnswers:
+    - fall through
+- question: 日本語では「蛇行配線」ともいわれる、基板上の信号線を蛇行させることで信号が到着するタイミングを合わせる等長配線の手法の一種を、英語を用いて「何配線」というでしょう？
+  answer: ミアンダ配線
+  alternativeAnswers:
+    - ミアンダ
+    - meander
+- question: メタバース空間での利用を想定し、アバターの人格にまつわるライセンスを含めることができるというユニークな特徴を持っている、2018年に日本の団体によって制定された3Dアバター向けファイル形式は何でしょう？
+  answer: VRM
+  alternativeAnswers:
+    - Virtual Reality Model
+- question: 好きなものはトロンのPC、夢は誰も見たことがない美しいプログラムを作ることだという、「ラブライブ!」シリーズの最新作『イキヅライブ!』に登場する高校1年生のプログラマーは誰でしょう？
+  answer: 麻布麻衣
+  alternativeAnswers:
+    - あざぶまい
+- question: 現在ではオンラインソフトの紹介・ホスティングだけでなくIT関連のニュースや話題を取り扱った記事も掲載している、Impress Watchが運営する日本の老舗ウェブメディアは何でしょう？
+  answer: 窓の杜
+  alternativeAnswers:
+    - まどのもり
+- question: 「〇〇だけど『〇〇』について質問ある？」というタイトルの動画でおなじみのYouTubeチャンネルも人気を博している、1993年にアメリカで創刊されたインターネット・テクノロジー情報誌は何でしょう？
+  answer: WIRED
+  alternativeAnswers:
+    - ワイヤード
+- question: GoogleのBrainチームとDeepMindチームが歩み寄って生まれたことからラテン語で「双子座」を意味する言葉に由来する、2023年にGoogle社が発表したマルチモーダル生成AIの名前は何でしょう？
+  answer: Gemini
+  alternativeAnswers:
+    - ジェミニ
+- question: IPアドレスのネットワーク部を「1」、ホスト部を「0」のビットで表記することで部分ネットワークを定義するのに用いられる、IPv4ネットワークにおける32ビットの数値を何というでしょう？
+  answer: サブネットマスク
+  alternativeAnswers:
+    - subnet mask
+- question: 車を制御するソフトウェアをアップデートし続けることで、販売後も機能を増やしたり性能を高めたりすることができる新しいクルマづくりのことを、アルファベット3文字の用語で何というでしょう？
+  answer: SDV
+  alternativeAnswers:
+    - Software Defined Vehicle
+- question: 開発者向けイベントの「Unite」も毎年開催されている、主にプログラミング言語C#を用いて高度なゲームを開発することができるクロスプラットフォーム対応のゲームエンジンは何でしょう？
+  answer: Unity
+  alternativeAnswers:
+    - ユニティ
+- question: その社名は創業者のマーク・ユーイングがかぶっていた帽子の色に由来する、エンタープライズ向けLinuxディストリビューションの開発・サポートで有名なアメリカのIT企業は何でしょう？
+  answer: Red Hat, Inc.
+  alternativeAnswers:
+    - Red Hat Software, Inc.
+    - Red Hat
+    - Red Hat Software
+    - レッドハット社
+    - レッドハット
+    - レッドハットソフトウェア社
+    - レッドハットソフトウェア
+- question: 2入力のAND論理回路を2入力のNANDゲートのみで表現する場合、NANDゲートは最低でもいくつ必要でしょう？
+  answer: 2つ
+  alternativeAnswers:
+    - '2'
+- question: 発表した研究者の名前から別名を「ドハティの閾値」ともいう、ユーザーにストレスを感じさせないためにこの値以内に収めるべきとされているシステムの反応速度の閾値は何ミリ秒でしょう？
+  answer: 400ミリ秒
+  alternativeAnswers:
+    - 400ms
+    - '400'
+    - 0.4秒
+    - '0.4'
+- question: 本名を仙塲大也という、2023年にITエンジニア本大賞・技術書部門大賞を受賞した『良いコード／悪いコードで学ぶ設計入門』の著者として知られる日本のエンジニアは誰でしょう？
+  answer: ミノ駆動
+- question: 2023年1月以来、Xのプロフィール欄に「X Super Official CEO」と記載するジョークを行っていることでも知られる、現在YouTubeの登録者数で世界1位の記録を持つアメリカのYouTuberは誰でしょう？
+  answer: MrBeast
+  alternativeAnswers:
+    - ミスタービースト
+- question: IT分野ではIECとの合同委員会を結成し、文字符号化方式の「2022」や情報セキュリティ管理システムの「27001」といった国際規格を発行している、スイスに本部を置く標準化団体をアルファベット3文字の略称で何というでしょう？
+  answer: ISO
+  alternativeAnswers:
+    - 国際標準化機構
+    - International Organization for Standardization
+- question: 「先入れ先出し」を意味する英語から「FIFO」という別名で呼ばれることもある、先に追加された要素から順番にデータを取り出すことができるデータ構造の一種を英語で何というでしょう？
+  answer: キュー
+  alternativeAnswers:
+    - queue
+    - 待ち行列
+- question: HaskellやLISPなどに代表される、ラムダ計算などを理論的背景としたプログラミング手法を提供するプログラミング言語のことを、日本語を用いて「何型プログラミング言語」というでしょう？
+  answer: 関数型プログラミング言語
+  alternativeAnswers:
+    - 関数型
+    - 関数
+    - functional programming language
+    - functional language
+    - functional
+- question: 近くで流れている曲の情報を自動で表示する「この曲なに？」機能などが提供されている、Googleが販売するAndroidスマートフォンのブランドは「Google 何」でしょう？
+  answer: Google Pixel
+  alternativeAnswers:
+    - Pixel
+    - グーグルピクセル
+    - ピクセル
+- question: CPU用語で俗に「ワッパ」といえば、何という言葉の略でしょう？
+  answer: ワットパフォーマンス
+  alternativeAnswers:
+    - watt performance
+    - performance per watt
+- question: スクラムやカンバンといった手法が用いられる、短い開発サイクルで仕様変更に柔軟に対応するソフトウェア開発のアプローチのことを、「機敏な」などを意味する英語から「何開発」というでしょう？
+  answer: アジャイル開発
+  alternativeAnswers:
+    - アジャイル
+    - agile development
+    - agile
+- question: 「RubyMine」や「PyCharm」など特定の言語に特化したコードエディタを多く開発している、チェコに本社を置く2000年創業のソフトウェア開発企業は何でしょう？
+  answer: JetBrains s.r.o.
+  alternativeAnswers:
+    - JetBrains
+    - ジェットブレインズ社
+    - ジェットブレインズ
