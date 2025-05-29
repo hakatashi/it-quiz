@@ -1413,7 +1413,7 @@
   answer: スターリンク
   alternativeAnswers:
     - Starlink
-- question: IEEEで定められた浮動小数点数において全てのビットが0である場合、どのような値を表すでしょう？
+- question: ｜IEEE(アイトリプルイー)で定められた浮動小数点数において全てのビットが0である場合、どのような値を表すでしょう？
   answer: '0'
   alternativeAnswers:
     - ゼロ
@@ -2492,7 +2492,7 @@
   alternativeAnswers:
     - MFA
     - Made-For-Advertisement
-- question: ギネス記録の同部門廃止により「1秒間に送信されたツイート数」の最終記録となった2013年8月2日のイベントにおいて、Twitterでは主に何という内容のツイートがつぶやかれたでしょう？
+- question: ギネス記録の同部門廃止により「1秒間に送信されたツイート数」の最終記録となった2013年8月2日のイベントにおいて、かつてのTwitterでは主に何という内容のツイートがつぶやかれたでしょう？
   answer: バルス
 - question: VRにおいて、その場にとどまっているにも関わらず歩いているかのような感覚を再現できるインタフェースのことを、「移動運動」を意味する英語を用いて「何インターフェイス」というでしょう？
   answer: ロコモーションインターフェイス
@@ -4396,10 +4396,9 @@
     - Service Set Identifier
     - ESSID
   description: 現在SSIDと呼ばれるIDは正確にはESSIDであることが多い
-- question: 両腕を体につけ、腹ばいになって死体のふりをした写真をインターネットに投稿する行為を英語で何というでしょう？
-  answer: プランキング
-  alternativeAnswers:
-    - planking
+- removed:
+    type: deleted
+    reason: 日本ではマイナーな文化、かつ答えを一意に絞る問題文にすることが難しいため
 - question: プログラミングにおいて、特定の機能を持つコードを分離して他のプログラムから引用できるようにしたもののことを、「図書館」を意味する英語から何というでしょう？
   answer: ライブラリ
   alternativeAnswers:
@@ -4419,7 +4418,7 @@
   answer: モナー
   alternativeAnswers:
     - オマエモナー
-- question: 3つのデータコピー、2つの異なるメディア、1つの遠隔コピーの3つをルールとするデータバックアップの基本原則のことを、これらの数字から何ルールというでしょう？
+- question: 3つのデータコピー、2つの異なるメディア、1つの遠隔コピーの3つをルールとするデータバックアップの基本原則のことを何ルールというでしょう？
   answer: 3-2-1ルール
   alternativeAnswers:
     - 3-2-1 Rule
@@ -4444,6 +4443,9 @@
     - ReWritable
 - question: その名に反して<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>プロジェクトとは特に関係がない、1986年に開発されたオープンソースのグラフ描画ソフトウェアは何でしょう？
   answer: gnuplot
+  alternativeAnswers:
+    - ニュープロット
+    - ヌープロット
   description: GNUプロジェクトではなく純粋に動物のヌー (gnu) から命名されたとのこと
 - question: ジャーゴンファイルによると、foo、bar、bazのあとに続くメタ構文変数は何でしょう？
   answer: qux
@@ -4475,7 +4477,8 @@
   answer: ドナー
   alternativeAnswers:
     - donor
-- question: 青色の四角に「&gt;_」と書かれたマークをアイコンとする、Windowsに標準搭載されているオブジェクト指向型シェルプログラムは何でしょう？
+- question: 青色の四角に大なり記号とアンダーバーが書かれたマークをアイコンとする、Windowsに標準搭載されているオブジェクト指向型シェルプログラムは何でしょう？
+  paperQuestion: 青色の四角に「&gt;_」と書かれたマークをアイコンとする、Windowsに標準搭載されているオブジェクト指向型シェルプログラムは何でしょう？
   answer: PowerShell
   alternativeAnswers:
     - パワーシェル
@@ -4493,7 +4496,7 @@
     - オーバーライン
     - 上線
     - マクロン
-- question: よく「DMCA」と略される、インターネット上の著作物の保護やプロバイダの免責要項などについて定めたアメリカの法律といえば「何著作権法」でしょう？
+- question: よく「DMCA」と略される、インターネット上の著作物の保護やプロバイダの免責要項などについて定めたアメリカの法律といえば何でしょう？
   answer: デジタルミレニアム著作権法
   alternativeAnswers:
     - デジタルミレニアム
@@ -4511,7 +4514,8 @@
   answer: ネイバー
   alternativeAnswers:
     - Naver
-- question: 最新版となる第5世代コアでは最大で1つあたり64コアを有するモデルも存在する、Intelが提供するワークステーション向け最上位CPUモデルのシリーズといえば「Intel 何」でしょう？
+- question: 最新版となる「Sierra Forest」では1ソケットあたり288コアを有するモデルも存在する、Intelが提供するワークステーション向け最上位CPUモデルのシリーズといえば何でしょう？
+  minhayaQuestion: 最新版となる「Sierra Forest」では1ソケットあたり288コアを有するモデルも存在する、Intelが提供するワークステーション向け最上位CPUモデルのシリーズといえば「Intel 何」でしょう？
   answer: Intel Xeon
   alternativeAnswers:
     - Xeon
@@ -4553,7 +4557,7 @@
   alternativeAnswers:
     - カリー
     - currying
-- question: 弱小ゲーム会社「スタジオG3」の社長である天川太陽を主人公とし、締め切りを前にしたゲームプログラマーの悪戦苦闘を描いた、漫画家ユニット・うめ作の漫画は何でしょう？
+- question: 弱小ゲーム会社「スタジオG3」の社長である｜天川太陽(てんかわたいよう)を主人公とし、締め切りを前にしたゲームプログラマーの悪戦苦闘を描いた、漫画家ユニット・うめ作の漫画は何でしょう？
   answer: 『東京トイボックス』
   alternativeAnswers:
     - 『大東京トイボックス』
@@ -4561,7 +4565,7 @@
   answer: Yostar
   alternativeAnswers:
     - ヨースター
-- question: インターネットで有名な楽曲「Ievan Polkka」は、どこの国の民謡でしょう？
+- question: インターネットで有名な楽曲「｜Ievan Polkka(イエヴァン・ポルッカ)」は、どこの国の民謡でしょう？
   answer: フィンランド
 - question: ロボアド投資やQR決済など、金融分野の問題を技術で解決するための仕組みを、「金融」と「技術」を意味する英語を組み合わせて何というでしょう？
   answer: フィンテック
@@ -4583,17 +4587,14 @@
     - ラグドール
     - ragdoll physics
     - ragdoll
-- question: 日本語では「競合状態」と呼ばれる、複数のシステムが同じリソースにアクセスすることにより発生する予期しない状態のことを英語で「何コンディション」というでしょう？
+- question: 日本語では「競合状態」と呼ばれる、複数のシステムが同じリソースにアクセスすることにより発生する予期しない状態のことを英語で何というでしょう？
   answer: レースコンディション
   alternativeAnswers:
-    - レース
     - race condition
-    - race
 - question: 英語では「embedding」と呼ばれる、自然言語をAIで処理するために単語を多次元のベクトルで表現したもののことを日本語で「何表現」というでしょう？
   answer: 埋め込み表現
   alternativeAnswers:
     - 埋め込み
-    - embedding
     - 分散表現
     - 分散
     - distributed representation
@@ -4626,7 +4627,7 @@
   answer: ブロッホ球
   alternativeAnswers:
     - Bloch Sphere
-- question: GPUチップの中でも、CPUに内蔵され1つのチップとして出荷されるもののことを、そうでない通常の「dGPU」に対して「何GPU」というでしょう？
+- question: GPUチップの中でも、CPUに内蔵され1つのチップとして出荷されるもののことを、そうでない通常の「dGPU」に対して何というでしょう？
   answer: iGPU
   alternativeAnswers:
     - i
@@ -4683,6 +4684,8 @@
   answer: 準天頂衛星
   alternativeAnswers:
     - 準天頂
+    - Quasi-Zenith Satellite
+    - Quasi-Zenith
 - question: アルファベット2文字で「FH」と略される、無線通信において使用する周波数を高速に切り替えることで通信の秘匿性や安定性を高める技術のことを日本語を用いて何というでしょう？
   answer: 周波数ホッピング
   alternativeAnswers:
@@ -4691,7 +4694,7 @@
   answer: My New Gear
   alternativeAnswers:
     - マイニューギア
-- question: 行政サービスの99%が電子化されていることから「電子政府」の名前でも呼ばれる、北ヨーロッパにある世界最先端のサイバー技術国家はどこでしょう？
+- question: 行政サービスの99%が電子化されていることから「電子政府」の別名でも呼ばれる、北ヨーロッパにある世界最先端のサイバー技術国家はどこでしょう？
   answer: エストニア共和国
   alternativeAnswers:
     - エストニア
@@ -4719,7 +4722,7 @@
   answer: 3キー
   alternativeAnswers:
     - '3'
-- question: 「Remote Dictionary Server」という英語を略して名付けられた、キーバリュー型のNoSQLデータベースエンジンは何でしょう？
+- question: 「Remote Dictionary Server」という英語を略して名付けられた、キーバリュー型の｜NoSQL(ノーエスキューエル)データベースエンジンは何でしょう？
   answer: Redis
   alternativeAnswers:
     - レディス
@@ -4730,8 +4733,9 @@
   alternativeAnswers:
     - MIME
     - MIME Type
-- question: イギリスのゲームクリエイターのジョシュ・ワードルがパートナーのために作成した、英単語を入力することで6回以内に5文字の英単語を当てるゲームは何でしょう？
-  answer: Wordle
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: コンピューターソフトウェアにおいて、改変やカスタマイズがされていないそのままの状態のことを、この味がアイスクリームにおいて最も基本的な味であることから何というでしょう？
   answer: バニラ
   alternativeAnswers:
@@ -4766,7 +4770,7 @@
   answer: pixiv
   alternativeAnswers:
     - ピクシブ
-- question: 日本では毎年冬に開催される「SECCON」が最大級の大会として知られている、情報セキュリティ技術の競技大会は何でしょう？
+- question: 日本では毎年冬に開催される「｜SECCON(セクコン)」が最大級の大会として知られている、情報セキュリティ技術の競技大会は何でしょう？
   answer: CTF
   alternativeAnswers:
     - Capture The Flag
@@ -4788,7 +4792,7 @@
   answer: 空メール
   alternativeAnswers:
     - 空
-- question: 将棋ソフト「Bonanza」のクラスターであることからその名前がつけられた、第1回将棋電王戦において米長邦雄永世棋聖と対戦し勝利を収めたコンピューター将棋プログラムは何でしょう？
+- question: 将棋ソフト「Bonanza」のクラスターであることからその名前がつけられた、第1回将棋電王戦において｜米長邦雄(よねながくにお)永世棋聖と対戦し勝利を収めたコンピューター将棋プログラムは何でしょう？
   answer: ボンクラーズ
   alternativeAnswers:
     - Bonkras
@@ -4822,7 +4826,8 @@
   description: マザーボードに取り付けられない「eGPU」とは異なる。
 - question: 5ちゃんねるの掲示板の1つ「なんJ」の「J」は、何という単語の略でしょう？
   answer: ジュピター
-- question: C言語では「\a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
+- question: C言語では「｜\(バックスラッシュ)a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
+  paperQuestion: C言語では「\a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
   answer: ベル文字
   alternativeAnswers:
     - ベル
@@ -6029,7 +6034,7 @@
     - ニュー速VIP
     - ニュース速報(VIP)
     - VIP
-- question: 「｜+（プラス） 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
+- question: 「｜+(プラス) 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
   answer: ポーランド記法
   paperQuestion: 「+ 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
   alternativeAnswers:
@@ -6841,7 +6846,7 @@
   answer: パワーデリバリー
   alternativeAnswers:
     - Power Delivery
-- question: 「人懐っこく、好奇心旺盛」な性格を持つ、2006年にMozilla Japanが作成したFirefoxの公式マスコットキャラクターは何でしょう？
+- question: 「人懐っこく、好奇心旺盛」な性格を持つ、2006年に｜Mozilla(モジラ) Japanが作成したFirefoxの公式マスコットキャラクターは何でしょう？
   answer: フォクすけ
   alternativeAnswers:
     - Foxkeh
@@ -7469,7 +7474,7 @@
 - question: RFC 2119によって意味が定義されている4つの助動詞とは、MUST、SHOULD、MAYと何でしょう？
   answer: SHALL
   description: 助動詞以外を含めるとREQUIREDやRECOMMENDEDなどが定義されている
-- question: 「loveちゃん」「あいぴー」「<ruby><rb>爱哥</rb><rp> (</rp><rt>アイガー</rt><rp>)</rp></ruby>」という3人の分裂体が存在し、動画の最初で行われる「はいどうもー！」という元気な挨拶でも有名なActiv8発のバーチャルYouTuberは何でしょう？
+- question: 「loveちゃん」「あいぴー」「<ruby><rb>爱哥</rb><rp> (</rp><rt>アイガー</rt><rp>)</rp></ruby>」という3人の分裂体が存在し、動画の最初で行われる「はいどうもー！」という元気な挨拶でも有名な｜Activ8(アクティベート)発のバーチャルYouTuberは何でしょう？
   answer: キズナアイ
   alternativeAnswers:
     - Kizuna AI
@@ -7660,7 +7665,7 @@
   alternativeAnswers:
     - ハッカーと画家
     - Hackers and Painters
-- question: 1923年に足袋の縫製工場として設立された「山田商工」を前身とし、現在はPC用品やタブレット用品などを製造・販売している日本のコンピューター周辺機器メーカーは何でしょう？
+- question: 1923年に｜足袋(たび)の縫製工場として設立された「山田商工」を前身とし、現在はPC用品やタブレット用品などを製造・販売している日本のコンピューター周辺機器メーカーは何でしょう？
   answer: サンワサプライ
   alternativeAnswers:
     - サンワサプライ株式会社
@@ -7671,7 +7676,7 @@
     - ポート番号
     - port
     - port number
-- question: その長さはSMSの文字数制限に由来している、Xにおいて1ツイートで投稿可能な日本語の文字数は原則何文字でしょう？
+- question: その長さはSMSの文字数制限に由来している、Xにおいて1ポストで投稿可能な日本語の文字数は原則何文字でしょう？
   answer: 140文字
   alternativeAnswers:
     - 140字
@@ -7700,7 +7705,7 @@
   answer: ボンダイブルー
   alternativeAnswers:
     - Bondi blue
-- question: 「Generator」と「Discriminator」という2つのネットワークによって構成される、学習データから特徴を学習し新たなデータを生成する人工知能アルゴリズムは何でしょう？
+- question: 「｜Generator(ジェネレータ)」と「｜Discriminator(ディスクリミネータ)」という2つのネットワークによって構成される、学習データから特徴を学習し新たなデータを生成する人工知能アルゴリズムは何でしょう？
   answer: GAN
   alternativeAnswers:
     - Generative Adversarial Network
@@ -7760,7 +7765,7 @@
   answer: スクロール
   alternativeAnswers:
     - scroll
-- question: 「ゼロ」と「オー」のうち、フォントでは点や斜線などを用いてもう一方の文字と区別されることが多いのはどちらの文字でしょう？
+- question: 数字の「ゼロ」とアルファベットの「オー」のうち、フォントでは点や斜線などを用いてもう一方の文字と区別されることが多いのはどちらでしょう？
   answer: '0'
   alternativeAnswers:
     - ゼロ
@@ -7817,11 +7822,13 @@
   answer: iTunes
   alternativeAnswers:
     - アイチューンズ
-- question: 「tech otaku save the world」をスローガンに掲げている、「崩壊3rd」「原神」などの開発で知られる中国のソーシャルゲーム開発企業は何でしょう？
+- question: 「tech otaku save the world」をスローガンに掲げている、「｜原神(げんしん)」「崩壊:スターレイル」「ゼンレスゾーンゼロ」などの開発で知られる中国のソーシャルゲーム開発企業は何でしょう？
   answer: miHoYo
   alternativeAnswers:
     - 米哈游
     - ミホヨ
+    - HoYoverse
+    - ホヨバース
 - question: 2010年頃まで期限切れのドメインなどによく表示される写真に写っていた、リュックサックを背負い微笑む金髪の女性は誰でしょう？
   answer: ハンナ・ステラー
   alternativeAnswers:
@@ -7835,7 +7842,7 @@
   answer: '81'
   alternativeAnswers:
     - '+81'
-- question: アニメ「∀《ターンエー》ガンダム」において太古の宇宙文明時代に繰り返されていた数々の宇宙戦争の歴史のことを指し、転じてネットスラングでは「なかったことにしたい恥ずかしい過去」を指して用いられる用語は何でしょう？
+- question: アニメ「｜∀(ターンエー)ガンダム」において太古の宇宙文明時代に繰り返されていた数々の宇宙戦争の歴史のことを指し、転じてネットスラングでは「なかったことにしたい恥ずかしい過去」を指して用いられる用語は何でしょう？
   answer: 黒歴史
 - question: 日本語で「自社運用」と訳される、企業が管理する設備にサービスをインストールして情報システムを運用する運用形態を指す用語は何でしょう？
   answer: オンプレミス
@@ -7894,9 +7901,10 @@
   answer: デッドロック
   alternativeAnswers:
     - dead lock
-- question: バコン、サンドダラー、デジタル人民元など、国の中央銀行によって発行されるデジタル通貨のことを、アルファベット4文字で何というでしょう？
+- question: バコン、サンドダラー、デジタル人民元など、国の中央銀行によって発行されるデジタル通貨のことを何というでしょう？
   answer: CBDC
-  description: 「Central Bank Digital Currency」の略
+  alternativeAnswers:
+    - Central Bank Digital Currency
 - question: インクジェットプリンターから放出されるインクの量を表す単位「pl」とは、何という言葉の略でしょう？
   answer: ピコリットル
   alternativeAnswers:
@@ -7905,7 +7913,7 @@
   answer: ウェブビーコン
   alternativeAnswers:
     - Webビーコン
-- question: オペレーティングシステム「UNIX」の名前はこれを改変したものとされている、1960年代にベル研究所で開発され現代のOSの源流となったタイムシェアリングシステムは何でしょう？
+- question: オペレーティングシステム「UNIX」の名前はこれをもじったものとされている、1960年代にベル研究所で開発され現代のOSの源流となったタイムシェアリングシステムは何でしょう？
   answer: Multics
 - question: ロゴマークには青と黄色のヘビが描かれている、機械学習や教育向けなど多くの分野で用いられる人気のプログラミング言語は何でしょう？
   answer: Python
@@ -7969,7 +7977,7 @@
   answer: フリック入力
   alternativeAnswers:
     - フリック
-- question: 最初のバージョンは「(仮)」、現在のバージョンは「(Re:仮)」となっている日本のインターネットサービスは何でしょう？
+- question: 最初のバージョンは「(仮)」、現在のバージョンは「(to i)」となっている日本のインターネットサービスは何でしょう？
   answer: ニコニコ
   alternativeAnswers:
     - ニコニコ動画
@@ -8012,7 +8020,8 @@
   answer: フェライト
   alternativeAnswers:
     - ferrite
-- question: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「\n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
+- question: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「｜\(バックスラッシュ)n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
+  paperQuestion: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「\n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
   answer: ラインフィード
   alternativeAnswers:
     - line feed
@@ -8036,7 +8045,7 @@
   answer: グレース・ホッパー
   alternativeAnswers:
     - Grace Hopper
-- question: 「bashrc」や「vimrc」などというときの「rc」とは、何という言葉の略でしょう？
+- question: 「｜bashrc(バッシュアールシー)」や「｜vimrc(ヴィムアールシー)」などというときの「rc」とは、何という言葉の略でしょう？
   answer: run commands
   alternativeAnswers:
     - ランコマンド
@@ -8053,7 +8062,7 @@
   answer: 実装
 - question: コンピュータなどに限らず様々な物体に通信機能を持たせ、インターネットに接続したり通信したりできるようにすることを、「モノのインターネット」を意味する英語の頭文字から何というでしょう？
   answer: IoT
-- question: キーボードの中2列を順にタイプしたときに入力される「くぁwせdrft⋯⋯」から始まる文字列のことを、ひらがな3文字の略称で俗に何というでしょう？
+- question: キーボードの中2列を順にタイプしたときに入力される「くぁw」から始まる文字列のことを、ひらがな3文字の略称で俗に何というでしょう？
   answer: ふじこ
 - question: 2002年にリード・ホフマンによって創業され、2016年にマイクロソフトによって買収された、全世界に8億人以上のユーザーを持つビジネス特化型SNSは何でしょう？
   answer: LinkedIn
@@ -8063,10 +8072,9 @@
   answer: ヒューマンインザループ
   alternativeAnswers:
     - Human In The Loop
-- question: 2021年にOpenAIが公開した、「アボカドの形をしたアームチェア」などの文字列から自動でそれに見合った画像を生成する人工知能モデルの名前は何でしょう？
-  answer: DALL·E
-  alternativeAnswers:
-    - ダリー
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: フィンランド語で「やあ!」などといった意味がある、配信サービス「ツイキャス」における挨拶や同サービスの運営企業の名前として用いられているカナ2文字の言葉は何でしょう？
   answer: モイ！
   alternativeAnswers:
@@ -8119,7 +8127,7 @@
   alternativeAnswers:
     - パーセント
     - パーセント記号
-- question: 旅館を営む母親の反対を押し切ってプログラマーの道を目指したというエピソードで知られる、得能正太郎の漫画『NEW GAME!』に登場するイーグルジャンプ所属のゲームプログラマーは誰でしょう？
+- question: 旅館を営む母親の反対を押し切ってプログラマーの道を目指したというエピソードで知られる、漫画『NEW GAME!』に登場するイーグルジャンプ所属のゲームプログラマーは誰でしょう？
   answer: 鳴海ツバメ
   alternativeAnswers:
     - なるみつばめ
@@ -8137,14 +8145,14 @@
   alternativeAnswers:
     - ローリングシャッター
     - rolling shutter
-- question: 著者の粂井康孝が愛好する動物の名前から名付けられた、SBクリエイティブから発刊されているプログラミング入門書のシリーズといえば「何でもわかるプログラミングシリーズ」でしょう？
+- question: 著者の｜粂井康孝(くめいやすたか)が愛好する動物の名前から名付けられた、SBクリエイティブから発刊されているプログラミング入門書のシリーズといえば「何でもわかるプログラミングシリーズ」でしょう？
   answer: 猫でもわかるプログラミングシリーズ
   alternativeAnswers:
     - 猫でもわかるプログラミング
     - 猫
 - question: HTMLにおいて「強調」を表すタグと、CSSにおいて「大文字のMの横幅」を基準とする長さの単位に共通するアルファベット2文字の名称は何でしょう？
   answer: em
-- question: 約3.32ビットを1とする、1桁の十進数が持つ情報量を表す単位は何でしょう？
+- question: 約3.32ビットを1とする、十進数1桁が持つ情報量を表す単位は何でしょう？
   answer: ハートレー
   alternativeAnswers:
     - hartley
@@ -8258,11 +8266,11 @@
     - エッジ
 - question: スティック、ヒト、こわれているセンサーなどの種類が存在する、Nintendo Switchのゲーム「はじめてゲームプログラミング」においてプログラムを構成する基本部品となるキャラクターは何でしょう？
   answer: ノードン
-- question: 2008年と2010年に中垣俊之らが受賞した2度のイグノーベル賞の受賞理由となった研究は、何という生物を演算に用いたコンピューターを対象としたものでしょう？
+- question: 2008年と2010年に｜中垣俊之(なかがきとしゆき)らが受賞した2度のイグノーベル賞の受賞理由となった研究は、何という生物を演算に用いたコンピューターを対象としたものでしょう？
   answer: 粘菌
   alternativeAnswers:
     - 真正粘菌
-- question: プログラミングにおける関数の中でも、内部で自分自身を呼び出すような関数のことを日本語で「何関数」というでしょう？
+- question: プログラミングにおける関数の中でも、内部で自分自身を呼び出すようなもののことを日本語で「何関数」というでしょう？
   answer: 再帰関数
   alternativeAnswers:
     - 再帰
@@ -8280,7 +8288,7 @@
   answer: until文
   alternativeAnswers:
     - until
-- question: データ上の連続したビットに生じるエラーのことを、「破裂する」という意味の英語を用いて「何エラー」というでしょう？
+- question: データ上の連続したビットに生じるエラーのことを、「破裂する」という意味の英語を用いて何というでしょう？
   answer: バースト誤り
   alternativeAnswers:
     - バーストエラー
@@ -8351,7 +8359,7 @@
     - イラストレーター
 - question: ニコニコ動画における匿名コメントの別名にも用いられている、電話番号の前につけると非通知通話を行うことができる3桁の番号は何でしょう？
   answer: '184'
-- question: チェックインアプリ「Burbn」から写真共有以外の機能を削除したのが由来とされている、現在は世界に約10億人のユーザーを持つSNSは何でしょう？
+- question: チェックインアプリ「｜Burbn(バーブン)」から写真共有以外の機能を削除したのが由来とされている、現在は世界に約10億人のユーザーを持つSNSは何でしょう？
   answer: Instagram
   alternativeAnswers:
     - インスタグラム
@@ -8366,18 +8374,16 @@
     - ウェッピー
 - question: 性的な内容やグロテスクな内容など閲覧に注意を要するコンテンツを指して用いられる英語圏のスラングで、英語で「職場では見ない方がいい」といった意味を持つアルファベット4文字の略語は何でしょう？
   answer: NSFW
-- question: 複数の画像からベストな表情を抽出して1枚の写真に合成することができる、GoogleのスマートフォンPixel 8の新機能は何でしょう？
-  answer: ベストテイク機能
-  alternativeAnswers:
-    - ベストテイク
-    - Best Take
-- question: 「キーマンズネット」「ねとらぼ」「@IT」など数多くのIT系ニュースサイトを運営している、ソフトバンクグループ傘下のIT企業は何でしょう？
+- removed:
+    type: moved
+    reason: 時事問題に移動
+- question: 「キーマンズネット」「ねとらぼ」「｜@IT(アットマーク・アイティ)」など数多くのIT系ニュースサイトを運営している、ソフトバンクグループ傘下のIT企業は何でしょう？
   answer: アイティメディア株式会社
   alternativeAnswers:
     - アイティメディア
     - ITmedia Inc.
     - ITmedia
-- question: 略して「subsurf」と呼ぶこともある、3Dポリゴンの特定の領域を細分割して滑らかにする処理は「何サーフェス」でしょう？
+- question: 略して「subsurf」と呼ぶこともある、3Dポリゴンの特定の領域を細分割して滑らかにする処理は何でしょう？
   answer: サブディビジョンサーフェス
   alternativeAnswers:
     - サブディビジョンサーフェイス
@@ -8387,7 +8393,7 @@
   answer: 128ビット
   alternativeAnswers:
     - '128'
-- question: ほぼ全ての店舗名に「マルチメディア」という名称が冠されている、「まあるい緑の山手線」という歌い出しのCMでもおなじみの家電量販店は何でしょう？
+- question: ほぼ全ての店舗名に「マルチメディア」という名称が冠されている、「まあるい緑の山手線」という歌い出しのCMソングでもおなじみの家電量販店は何でしょう？
   answer: 株式会社ヨドバシカメラ
   alternativeAnswers:
     - ヨドバシカメラ
@@ -8397,7 +8403,7 @@
   answer: Finder
   alternativeAnswers:
     - ファインダー
-- question: その町並みは日本の秋葉原をモデルにしたとも言われる、深圳に存在する世界有数の電気街は何でしょう？
+- question: その町並みは日本の秋葉原をモデルにしたとも言われる、｜深圳(しんせん)に存在する世界有数の電気街は何でしょう？
   answer: 華強北路
   alternativeAnswers:
     - 華強北
@@ -8414,9 +8420,10 @@
     - Amazon
     - アマゾン・ドット・コム
     - アマゾン
-- question: マイクロソフトのゲーム機「Xbox 360」において障害が発生したときに、電源ボタンを囲うランプが赤色に点灯する現象のことを、アルファベット4文字の略称で何というでしょう？
+- question: マイクロソフトのゲーム機「Xbox 360」において障害が発生したときに、電源ボタンを囲うランプが赤色に点灯する現象のことを何というでしょう？
   answer: RRoD
-  description: 「Red Ring of Death」の略
+  alternativeAnswers:
+    - Red Ring of Death
 - question: 2007年に楽曲「星のカケラ」でデビューした、クリプトン社が開発したVOCALOID2最初の日本語音源は何でしょう？
   answer: 初音ミク
   description: 初音ミク公式デモソング「星のカケラ」は発表当初「01_ballade」と呼ばれており、「星のカケラ」は正確には後に発表されたフル版の楽曲名。なおVOCALOID2最初の (日本語に限らない) 音源は「SweetAnn」である
@@ -8501,10 +8508,9 @@
   answer: グル
   alternativeAnswers:
     - guru
-- question: 最大速度46Gbpsで通信を行うことができる、2024年1月に策定された「Wi-Fi」の最新バージョンは「Wi-Fi 何」でしょう？
-  answer: Wi-Fi 7
-  alternativeAnswers:
-    - '7'
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: 一般的な106キーボードではスペースキーの左側に位置する、日本語入力において入力した文字をカタカナに変換したりするのに用いられるキーは「何キー」でしょう？
   answer: 無変換キー
   alternativeAnswers:
@@ -8519,7 +8525,7 @@
   description: 値渡しとポインタ渡しはC言語と共通
 - question: MongoDBやRedisなどに代表される、従来のリレーショナルデータベースの特徴を持たず特に柔軟性や分散性に優れたデータベースシステムのことを総称して何というでしょう？
   answer: NoSQL
-- question: 英語で「行き詰まり」や「手詰まり」といった意味がある、複数のプログラムがお互いの終了を待って動作が停止してしまう現象を何というでしょう？
+- question: 英語で「手詰まり」などといった意味がある、複数のプログラムがお互いの終了を待って動作が停止してしまう現象を何というでしょう？
   answer: デッドロック
   alternativeAnswers:
     - dead lock
@@ -8551,7 +8557,8 @@
     - ベアメタル
     - bare metal server
     - bare metal
-- question: スクリプトの先頭に「#!」という記号を用いて記される、そのファイルをどのようなコマンドで起動するかを指定するUnixファイルの特殊構文を何というでしょう？
+- question: 「ハッシュタグ」と「感嘆符」の2文字の記号を用いて記される、そのファイルをどのようなコマンドで起動するかを指定するUnixファイルの特殊構文を何というでしょう？
+  paperQuestion: スクリプトの先頭に「#!」という記号を用いて記される、そのファイルをどのようなコマンドで起動するかを指定するUnixファイルの特殊構文を何というでしょう？
   answer: shebang
   alternativeAnswers:
     - シェバン
@@ -8608,7 +8615,7 @@
   answer: ジェフ・ディーン
   alternativeAnswers:
     - Jeff Dean
-- question: 半導体企業「クアルコム」の設立者としても知られる、隠れマルコフモデルの最尤経路を求めるアルゴリズムなどに名を残すアメリカの工学者は誰でしょう？
+- question: 半導体企業「クアルコム」の設立者としても知られる、隠れマルコフモデルの｜最尤(さいゆう)経路を求めるアルゴリズムなどに名を残すアメリカの工学者は誰でしょう？
   answer: アンドリュー・ビタビ
   alternativeAnswers:
     - Andrew James Viterbi
@@ -8634,12 +8641,12 @@
     - cell
 - question: 棒倒し法、壁伸ばし法、穴掘り法といえば、何を生成するためのアルゴリズムでしょう？
   answer: 迷路
-- question: 半十二面体と同じ形状を持つ、10個の頂点と15本の辺を持つ無向グラフのことを、1898年にこれを発見したデンマークの数学者の名前から何グラフというでしょう？
+- question: 半十二面体と同じ構造を持つ、10個の頂点と15本の辺を持つ無向グラフのことを、1898年にこれを発見したデンマークの数学者の名前から何グラフというでしょう？
   answer: ピーターセングラフ
   alternativeAnswers:
     - ピーターセン
     - Petersen graph
-- question: マルウェアの中でも、ユーザーのキー入力を監視してパスワードなど秘密の情報を盗み出そうとするソフトウェアやハードウェアのことを何というでしょう？
+- question: ユーザーのキー入力を監視してパスワードなど秘密の情報を盗み出そうとするソフトウェアやハードウェアのことを何というでしょう？
   answer: キーロガー
   alternativeAnswers:
     - keylogger
@@ -8649,10 +8656,9 @@
     - Musical Instrument Digital Interface
 - question: LINEにおいて、送信されたメッセージを読んだにもかかわらず返信せずに放置することを俗に何というでしょう？
   answer: 既読スルー
-- question: 2019年に行った「100万円を100人にプレゼントする」という企画のツイートで現在もリツイート数の世界記録を保持している、通販サイトZOZOTOWNを立ち上げた日本の起業家は誰でしょう？
-  answer: 前澤友作
-  alternativeAnswers:
-    - まえざわゆうさく
+- removed:
+    type: deleted
+    reason: 事実関係の変化による (リポスト数世界記録は2024年にMrBeastによって更新)
 - question: 父にメジロマックイーン、母にダイヤモンドリッカをもつ競走馬の名前にもなっている、アセンブリ言語における命令を人間に分かりやすく表現した短い単語を指す言葉は何でしょう？
   answer: ニーモニック
   alternativeAnswers:
@@ -8667,7 +8673,7 @@
   alternativeAnswers:
     - dog year
   description: 「マウスイヤー」は人間の約18倍の速度で成長するネズミにたとえた用語
-- question: 一般に、現在行われている人工知能研究は、第何次AIブームと呼ばれているでしょう？
+- question: 、現在行われている人工知能研究は、一般に第何次AIブームと呼ばれているでしょう？
   answer: 第3次
   alternativeAnswers:
     - '3'
@@ -8710,11 +8716,13 @@
     - data cleansing
 - question: 「数値ではない」という意味の英語を略して名付けられた、浮動小数点型で規定される数値の一種は何でしょう？
   answer: NaN
+  alternativeAnswers:
+    - Not a Number
 - question: 一般的な106キーボードではスペースキーの右側に位置する、押すことで入力したかなから漢字を出すことができるキーは「何キー」でしょう？
   answer: 変換キー
   alternativeAnswers:
     - 変換
-- question: ノマドワーカーの中でも、住む場所を転々と変えながら様々な地域でリモートワークを続ける働き方のことを「何ノマド」というでしょう？
+- question: ノマドワーカーの中でも、住む場所を転々と変えながら様々な地域からリモートワークを続ける働き方のことを何というでしょう？
   answer: デジタルノマド
   alternativeAnswers:
     - デジタル
@@ -8873,7 +8881,7 @@
     - 暇空茜
     - 水原清晃
     - 暇な空白
-- question: DTPにおいてはアルファベット1文字で「H」と表される、0.25mmを1とする日本語組版の長さの単位は何でしょう？
+- question: DTPソフトにおいてはアルファベット1文字で「H」と表される、0.25mmを1とする日本語組版の長さの単位は何でしょう？
   answer: 歯
 - question: 3DCGで、球体などの複数の立体を融合することによって曲面の形状を定義する手法のことを何というでしょう？
   answer: メタボール
@@ -8884,7 +8892,7 @@
   alternativeAnswers:
     - webinar
   description: 「ウェブ」と「セミナー」のかばん語。
-- question: バグに支配された地球をLisp星人の力を借りて救うという異色のストーリーを中心に展開される、O'Reillyから発刊されているプログラミング言語Lispの代表的な入門書は何でしょう？
+- question: バグに支配された地球をLisp星人の力を借りて救うという異色のストーリーを中心に展開される、｜O'Reilly(オライリー)から発刊されているプログラミング言語Lispの代表的な入門書は何でしょう？
   answer: 『Land of Lisp』
 - question: 主に情報量の計算などで用いられる、整数の2を底とする対数を、「何対数」というでしょう？
   answer: 二進対数
@@ -8954,7 +8962,7 @@
   answer: R1C1形式
   alternativeAnswers:
     - R1C1
-- question: 「デジタル台風」「eduroam」「CiNii」などのサービスを提供している、日本の研究機関は何でしょう？
+- question: 「デジタル台風」「eduroam」「｜CiNii(サイニィ)」などのサービスを提供している、日本の研究機関は何でしょう？
   answer: 国立情報学研究所
   alternativeAnswers:
     - 情報学研究所
@@ -9040,6 +9048,8 @@
     - 406番
 - question: ウェブルーミングやクーポン配信など、インターネットの顧客を実際の店舗に誘導するような施策のことを、アルファベットと数字を用いた表現で何というでしょう？
   answer: O2O
+  alternativeAnswers:
+    - Online to Offline
 - question: macOSのコードネームに用いられている「Catalina」「Big Sur」「Sonoma」といえば、すべてアメリカの何州にある地名でしょう？
   answer: カリフォルニア州
   alternativeAnswers:
@@ -9060,6 +9070,7 @@
   alternativeAnswers:
     - バークレー校
     - バークレー
+    - UC Berkeley
     - Berkeley
 - question: 現在選ぶことができる候補から評価値の高いものをいくつか選び、それ以外の候補を枝刈りしながら最良解を探索してゆくヒューリスティック探索アルゴリズムを「何サーチ」というでしょう？
   answer: ビームサーチ
@@ -9163,7 +9174,7 @@
     - filter bubble
 - question: 映画『マトリックス リローデッド』にも登場する、ポートスキャンなどを行うことによりリモートのサーバーの情報を得ることができるセキュリティツールは何でしょう？
   answer: nmap
-- question: イーサネット上のTCP/IPでは1460バイトとなる、1つのパケットで送信可能なペイロードの最大サイズを何というでしょう？
+- question: イーサネット上のTCP/IPでは1460バイトとなる、データ通信において1つのパケットで送信可能なペイロードの最大サイズを何というでしょう？
   answer: MSS
   alternativeAnswers:
     - Maximum Segment Size
@@ -9199,13 +9210,13 @@
     - コンバージョン
     - conversion rate
     - conversion
-- question: HTTPのOPTIONSリクエストを用いて実装されている、ウェブサイトが他のドメインのウェブサイトと通信する際にブラウザが安全性を確かめるために自動で送信するリクエストのことを「何リクエスト」というでしょう？
+- question: HTTPのOPTIONSメソッドを用いて実装されている、ウェブサイトが他のドメインのウェブサイトと通信する際にブラウザが安全性を確かめるために自動で送信するリクエストのことを「何リクエスト」というでしょう？
   answer: プリフライトリクエスト
   alternativeAnswers:
     - プリフライト
     - preflight request
     - preflight
-- question: 処理時間や消費電力など、データを処理するデバイスから得られる副次的な情報をもとに処理しているデータを推測するサイバー攻撃の手法を「何攻撃」というでしょう？
+- question: 処理時間や消費電力などの、データを処理するデバイスから得られる副次的な情報をもとに処理しているデータを推測するサイバー攻撃の手法を「何攻撃」というでしょう？
   answer: サイドチャネル攻撃
   alternativeAnswers:
     - サイドチャネル
@@ -9330,7 +9341,7 @@
     - QWERTY
 - question: アメリカのトップIT企業を指すGAFAに対して、中国のトップIT企業である「バイドゥ」「アリババ」「テンセント」「ファーウェイ」の4社を総称してなんと呼ぶでしょう？
   answer: BATH
-- question: Linuxにおいて通常隠しファイルとして扱われるファイルのことを、そのファイル名の先頭に付けられる文字から「何ファイル」というでしょう？
+- question: Linuxにおいて通常隠しファイルとして扱われるファイルのことを、そのファイル名の先頭に付けられる文字から何というでしょう？
   answer: dotfile
   alternativeAnswers:
     - dot
@@ -9341,7 +9352,7 @@
   answer: パススルー
   alternativeAnswers:
     - pass through
-- question: SNSのXにおいて、ユーザーが「いいね」や「リポスト」などをしてツイートに反応した回数のことを何というでしょう？
+- question: SNSのXにおいて、ユーザーが「いいね」や「リポスト」などをしてポストに反応した回数のことを何というでしょう？
   answer: エンゲージメント
   alternativeAnswers:
     - engagement
@@ -9471,7 +9482,7 @@
   answer: FeliCa
   alternativeAnswers:
     - フェリカ
-- question: 通常MACアドレスを特定の手順で変換したものが用いられる、IPv6アドレスにおいてネットワーク内のホストを特定するのに用いられる後半8バイトのIDを「何ID」というでしょう？
+- question: 通常MACアドレスを特定の手順で変換したものが用いられる、IPv6アドレスにおいてネットワーク内のホストを特定するのに用いられる後半8バイトのIDを何というでしょう？
   answer: インターフェイスID
   alternativeAnswers:
     - インターフェイス
@@ -9550,8 +9561,8 @@
   answer: パラメトロン
   alternativeAnswers:
     - parametron
-- question: DALL・E、Whisper、ChatGPTなどのAIサービスを開発・提供している、サム・アルトマンがCEOを務めるアメリカのIT企業は何でしょう？
-  answer: Open AI, Inc.
+- question: Sora、Whisper、ChatGPTなどのAIサービスを開発・提供している、サム・アルトマンがCEOを務めるアメリカのIT企業は何でしょう？
+  answer: OpenAI, Inc.
   alternativeAnswers:
     - OpenAI
     - オープンエーアイ
@@ -9567,7 +9578,7 @@
   answer: ファイアウォール
   alternativeAnswers:
     - firewall
-- question: SNSや検索エンジンで自分の名前を検索する行為のことを、ラテン語と英語を組み合わせた単語で何というでしょう？
+- question: SNSや検索エンジンで自分の名前を検索する行為のことを、ラテン語と英語を組み合わせた言葉で何というでしょう？
   answer: エゴサーチ
   alternativeAnswers:
     - エゴサ
@@ -9580,8 +9591,10 @@
   answer: MX Linux
 - question: Discordなど多くの通話ソフトウェアで採用されている、高音質と低遅延を特徴とするリアルタイム通信向け音声圧縮フォーマットといえば何でしょう？
   answer: opus
-- question: 日本語では「販売時点情報管理」と呼ばれる、店のレジで売られた商品の情報を記録して分析するためのシステムのことをアルファベット3文字で何というでしょう？
+- question: 日本語では「販売時点情報管理」と呼ばれる、店のレジで売られた商品の情報を記録して分析するためのシステムのことを何というでしょう？
   answer: POS
+  alternativeAnswers:
+    - Point of Sales
 - question: 数学で言う「ランプ関数」を、ニューラルネットの活性化関数として用いる場合は特に何というでしょう？
   answer: ReLU
   alternativeAnswers:
@@ -9667,7 +9680,7 @@
   answer: ドナルド・クヌース
   alternativeAnswers:
     - Donald Knuth
-- question: 携帯で写真を撮ることを「写メる」といいますが、この「メ」とは何という言葉の略でしょう？
+- question: 携帯で写真を撮ることを「写メる」といいますが、この「メ」とはもともと何という言葉の略でしょう？
   answer: メール
   alternativeAnswers:
     - mail
@@ -9745,7 +9758,7 @@
     - ハードディスク
     - hard disk drive
     - hard disk
-- question: そのコードネームにはトイストーリーのキャラクターの名前が用いられている、渦巻き模様のロゴが特徴的なOSは何でしょう？
+- question: そのコードネームにはトイストーリーのキャラクターの名前が用いられている、渦巻き模様のロゴが特徴的なLinuxディストリビューションは何でしょう？
   answer: Debian
 - question: CやPythonなど多くのプログラミング言語において、繰り返し処理を強制終了してループの外側に抜け出す際に用いられるキーワードは何でしょう？
   answer: break
@@ -9823,6 +9836,8 @@
     - captive portal
 - question: ハードディスクの垂直磁気記録方式を発明し、2013年に文化勲章を受章した日本の工学者は誰でしょう？
   answer: 岩崎俊一
+  alternativeAnswers:
+    - いわさきしゅんいち
 - question: 新しいバージョンをリリースする際に、狭い範囲から徐々に範囲を広げてリリースすることを、ある鳥の名前を使って「何リリース」というでしょう？
   answer: カナリアリリース
   alternativeAnswers:
@@ -9856,7 +9871,7 @@
   answer: elif
 - question: プログラミング言語を擬人化した少女たちがおりなす日常を描いた、セオショージ原作・ちょまど作画によるコメディ漫画は何でしょう？
   answer: 「はしれ！コード学園」
-- question: 1996年12月25日にリリースされたバージョン1.0を皮切りに、毎年クリスマスに主要なバージョンをリリースすることで知られるプログラミング言語は何でしょう？
+- question: 1996年12月25日にリリースされたバージョン1.0以来、毎年クリスマスに主要なバージョンをリリースすることで知られるプログラミング言語といえば何でしょう？
   answer: Ruby
 - question: データベースのトランザクションが持つべきとされる、原子性・一貫性・独立性・永続性の4つの性質のことを、これらの英語での頭文字から「何特性」というでしょう？
   answer: ACID特性
@@ -9914,7 +9929,7 @@
   alternativeAnswers:
     - 算術論理演算器
     - Arithmetic and Logic Unit
-- question: 「有線と同程度のプライバシー」という意味の名前を持つが、後に容易に解読ができることが判明した無線通信向け暗号化アルゴリズムは何でしょう？
+- question: 「有線と同程度のプライバシー」という意味の名前を持つが、後に容易に傍受して解読することができることが判明した無線通信向け暗号化アルゴリズムは何でしょう？
   answer: WEP
   alternativeAnswers:
     - Wired Equivalent Privacy
@@ -9991,7 +10006,7 @@
     - corpus
 - question: 2014年のWWDCで発表された、Objective-Cの後継となりiOSアプリの開発などに用いられるプログラミング言語は何でしょう？
   answer: Swift
-- question: プログラミング言語C#の15周年を記念して作られた「C丼」ではザーサイとナムルを用いて表現されていた、ユーザーインターフェースを記述するためにC#でよく用いられるXMLベースのマークアップ言語は何でしょう？
+- question: プログラミング言語C#の15周年を記念して作られた「C丼」では「ザーサイ」と「ナムル」を用いて表現されていた、ユーザーインターフェースを記述するためにC#でよく用いられるXMLベースのマークアップ言語は何でしょう？
   answer: XAML
   alternativeAnswers:
     - ザムル
@@ -10012,7 +10027,7 @@
   answer: ベル研究所
   alternativeAnswers:
     - ベル
-- question: 「テレホーダイ」と呼ばれた、通話料金が定額となる時間帯は、一日のうち何時間存在したでしょう？
+- question: かつて「テレホーダイ」と呼ばれた、通話料金が定額となる時間帯は、一日のうち何時間存在したでしょう？
   answer: 9時間
   alternativeAnswers:
     - '9'
@@ -10154,7 +10169,7 @@
     - メタ
     - Facebook
     - フェイスブック
-- question: アプリ開発企業としては「漢字ダッシュ」「人狼将棋」「白地図マインスイーパー」などをリリースしている、Webメディア「QuizKnock」の運営で知られるITベンチャー企業は何でしょう？
+- question: アプリ開発企業としては「漢字ダッシュ」「人狼将棋」「白地図マインスイーパー」などをリリースしていた、Webメディア「QuizKnock」の運営で知られるITベンチャー企業は何でしょう？
   answer: 株式会社baton
   alternativeAnswers:
     - baton
@@ -10178,12 +10193,12 @@
     - エナム
 - question: ラムダ計算において、ラムダ抽象と関数適用の組に対してベータ変換を行って式を書き換えることを漢字2文字で何というでしょう？
   answer: 簡約
-- question: Instagramの投稿の「シェア」ボタンにアイコンとして描かれている、子供の頃に誰しもが一度は作ったことがあるものといえば何でしょう？
+- question: Instagramの投稿の「シェア」ボタンにアイコンとして描かれている、子供の頃に一度は誰しもが作ったことがあるものといえば何でしょう？
   answer: 紙飛行機
   description: まれに非公式に「飛行機ボタン」と呼ばれることもあるが、後フリがあるので今回は不可
 - question: 「プレシードラウンド」という別名もある、まだアイデア段階のスタートアップに対して行われる投資のことを「個人投資家」を意味する英俗語から「何ラウンド」というでしょう？
   answer: エンジェルラウンド
-- question: Apacheでは「.htpasswd」ファイルを置くことによって設定することができる、HTTPのヘッダーに認証情報をBASE64でエンコードしたものを送ることで実装される単純な認証方式を「何認証」というでしょう？
+- question: ｜Apache(アパッチ)では「.htpasswd」ファイルを置くことによって設定することができる、HTTPのヘッダーに認証情報をBASE64でエンコードしたものを送ることで実装される単純な認証方式を「何認証」というでしょう？
   answer: ベーシック認証
   alternativeAnswers:
     - ベーシック
@@ -10509,7 +10524,7 @@
   answer: ARP
   alternativeAnswers:
     - Address Resolution Protocol
-- question: 「S1」という名前のロボット掃除機などの製品も展開されている、アメリカのWonderlabs社によるスマートホーム製品のブランドは何でしょう？
+- question: 「S1」などといったロボット掃除機製品も展開している、アメリカのWonderlabs社によるスマートホーム製品のブランドは何でしょう？
   answer: SwitchBot
   alternativeAnswers:
     - スイッチボット
@@ -10645,7 +10660,7 @@
   answer: エドガー・ダイクストラ
   alternativeAnswers:
     - Edsger Dijkstra
-- question: 人間の入力をデータ化して取り込む装置のことであり、現在ではペンタブレットと呼ばれる装置を指すことが多い用語は何でしょう？
+- question: 人間の入力をデータ化して取り込む装置のことであり、現在では特にタブレットのことを指すことが多い用語は何でしょう？
   answer: デジタイザ
   alternativeAnswers:
     - digitizer
@@ -10720,7 +10735,7 @@
   alternativeAnswers:
     - ホワイトスペース
 - question: 1982年にエド・ポストによって執筆され、そのタイトルが多くのプログラマにパロディとして用いられた有名なエッセイのタイトルといえば『本物のプログラマは何を使わない』でしょう？
-  answer: 本物のプログラマはPascalを使わない
+  answer: 『本物のプログラマはPascalを使わない』
   alternativeAnswers:
     - Pascal
 - question: 映画『デジモンアドベンチャー ぼくらのウォーゲーム！』で田舎に帰省中のヤマトが発した、現在もインターネットミームとして有名なセリフは「『どこ』にパソコンなんてあるわけないじゃん」でしょう？
@@ -10781,15 +10796,18 @@
     - レップ
 - question: QRコードは、何というボードゲームをヒントに開発されたとされているでしょう？
   answer: 囲碁
-- question: 中国語では「微か」に「軟らかい」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
+- question: 中国語では「｜微(かす)か」に「｜軟(やわ)らかい」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
   answer: マイクロソフト
   paperQuestion: 中国語では「微軟」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
   alternativeAnswers:
     - Microsoft
-- question: 正式名称を「台灣積體電路製造股份有限公司」という、半導体製造のシェアで世界の半分以上を占める台湾の半導体製造企業を、アルファベット4文字の略称で何というでしょう？
+- question: 熊本県菊陽町に大規模な工場を建設したことでも話題となった、半導体製造のシェアで世界の半分以上を占める台湾の半導体製造企業といえば何でしょう？
+  minhayaQuestion: 正式名称を「台灣積體電路製造股份有限公司」という、半導体製造のシェアで世界の半分以上を占める台湾の半導体製造企業を、アルファベット4文字の略称で何というでしょう？
   answer: TSMC
   alternativeAnswers:
     - Taiwan Semiconductor Manufacturing Company
+    - 台灣積體電路製造股份有限公司
+    - 台灣積體電路製造股份
   description: 正確にはファウンドリ企業としてのシェア1位。半導体売上高ではTSMCなどに業務を委託するインテルなどが勝る
 - question: Monaco Editorと呼ばれるエディタライブラリをベースに設計されている、Windows・Mac・ブラウザなど多くの環境で動作可能なMicrosoft社のソースコードエディタといえば「Visual Studio 何」でしょう？
   answer: Visual Studio Code
@@ -10824,7 +10842,7 @@
   alternativeAnswers:
     - バウンスレート
     - bounce rate
-- question: ポーランド語では「Witaj świecie!」、スロバキア語では「Ahoj, svet!」、中国語では「世界你好！」、日本語では「世界よ、こんにちは！」という、「世界一有名なプログラム」として知られる定型句は何でしょう？
+- question: ポーランド語では「｜Witaj świecie!(ヴィタイ・シフィエチェ)」、スロバキア語では「｜Ahoj, svet!（アホイ、スヴェット）」、中国語では「｜世界你好(シィジエ ニーハオ)！」、日本語では「世界よ、こんにちは！」などという、「世界一有名なプログラム」として知られる定型句は何でしょう？
   answer: Hello, World!
   alternativeAnswers:
     - ハローワールド
@@ -10849,7 +10867,7 @@
   answer: Neuralink
   alternativeAnswers:
     - ニューラリンク
-- question: 画面に表示するデータの読み込み中、コンテンツの枠組みだけをグレーの四角などで事前に表示させるUIのことを「何スクリーン」というでしょう？
+- question: 画面に表示するデータの読み込み中、コンテンツの枠組みだけをグレーの四角などで事前に表示させるUIのことを何というでしょう？
   answer: スケルトンスクリーン
   alternativeAnswers:
     - スケルトン
@@ -10876,7 +10894,7 @@
   answer: 300文字
   alternativeAnswers:
     - '300'
-- question: 一般的なフリック入力で、「あ」の文字をホールドして上に移動させると入力できる文字は何でしょう？
+- question: 一般的なフリック入力で、「あ」と書かれたパネルをホールドして上に移動させると入力できる文字は何でしょう？
   answer: う
 - question: 「リーフ型」と呼ばれる、左上と右下の角が丸くなったキーが特徴的な、パナソニックが発売するノートパソコンは何でしょう？
   answer: Let's note
@@ -10886,9 +10904,11 @@
   answer: 24時間
   alternativeAnswers:
     - '24'
-- question: 企業内でクラウド化を推進していくための仕組みを整え広めていく専門チームのことを、「卓越したクラウド拠点」という意味を持つアルファベット4文字の言葉で何というでしょう？
+- question: 企業内でクラウド化を推進していくための仕組みを整え広めていく専門チームのことを、「卓越したクラウド拠点」という意味の言葉は何でしょう？
   answer: CCoE
-- question: ある数を16進数で表記したとき、その情報量は1桁につき何ビットでしょう？
+  alternativeAnswers:
+    - Cloud Center of Excellence
+- question: 整数を16進数で表記したとき、その情報量は1桁につき何ビットとなるでしょう？
   answer: 4ビット
   alternativeAnswers:
     - '4'
@@ -10909,7 +10929,7 @@
     - Rakuten Mobile
     - Rakuten
     - Rakuten Mobile, Inc.
-- question: 1988年に東北大学の南條道夫教授によって提唱された、都市圏で廃棄される電子機器の中にレアアースなどの貴重な資源が含まれていることをあるものにたとえて言った用語は何でしょう？
+- question: 1988年に東北大学の｜南條道夫(なんじょうみちお)教授によって提唱された、都市圏で廃棄される電子機器の中にレアアースなどの貴重な資源が含まれていることをあるものにたとえて言った用語は何でしょう？
   answer: 都市鉱山
 - question: 「Cubism」と呼ばれる専用ツールを用いてモデリングや開発を行う、二次元のイラストを二次元のまま立体的に動かすことができる旧サイバーノイズ社のアニメーション技術は何でしょう？
   answer: Live2D
@@ -10986,7 +11006,7 @@
   answer: 石黒浩
   alternativeAnswers:
     - いしぐろひろし
-- question: ls、ping、wgetなど、Linuxにおける重要なコマンドを1つのバイナリファイルで実装した、ブルース・ペレンズによって開発された組み込みLinux向けツールは何でしょう？
+- question: ｜ls(エルエス)、｜ping(ピング)、｜wget(ダブリューゲット)など、Linuxにおける重要なコマンドを1つのバイナリファイルで実装した、ブルース・ペレンズによって開発された組み込みLinux向けツールは何でしょう？
   answer: BusyBox
 - question: 平文とそのハッシュ値、そしてハッシュ値から変換された平文を繋げてできるチェーンを用いてハッシュ値の逆算を効率化するためのアルゴリズムを、英語で何というでしょう？
   answer: レインボーテーブル
@@ -11085,7 +11105,7 @@
     - ディクショナリアタック
     - dictionary
     - ディクショナリ
-- question: 「CtrlキーとVキーを同時押し」といったとき、キーを押す順番はふつう同時ではなくどちらのキーを先に押すでしょう？
+- question: 「CtrlキーとVキーを同時押し」といったとき、キーを押す順番は同時ではなく普通どちらのキーを先に押すでしょう？
   answer: Ctrlキー
   alternativeAnswers:
     - Ctrl
@@ -11113,7 +11133,7 @@
   alternativeAnswers:
     - 群馬
   description: ヤマダデンキは前橋市、ビックカメラは高崎市。ヤマダデンキの本社は群馬県だがビックカメラの本社は現在東京にある
-- question: MVにJavaプログラムを映し出す「sustain++;」や「world.execute(me);」など、プログラミングをテーマにした楽曲を多く発表している、momocashewをボーカルとする日本の音楽グループは何でしょう？
+- question: MVにJavaプログラムを映し出す「｜sustain++;(サステイン・プラス・プラス)」や「｜world.execute(me);(ワールド・エクセキュート・ミー)」など、プログラミングをテーマにした楽曲を多く発表している、｜momocashew(モモカシュー)をボーカルとする日本の音楽グループは何でしょう？
   answer: Mili
   alternativeAnswers:
     - ミリ
@@ -11316,7 +11336,7 @@
   answer: ヘッドクラッシュ
   alternativeAnswers:
     - head crash
-- question: BASICでは「TO」と、JavaScriptでは「of」とセットで用いられることも多い、多くのプログラミング言語でループを記述するのに用いられる構文は「何文」でしょう？
+- question: BASICでは「TO」、JavaScriptでは「of」、Pythonでは「in」とセットで用いられることが多い、多くのプログラミング言語でループを記述するのに用いられる構文は何でしょう？
   answer: for文
   alternativeAnswers:
     - for
@@ -11353,7 +11373,7 @@
   answer: 99 Bottles of Beer
   alternativeAnswers:
     - 99本のビール
-- question: BUMP OF CHICKENの楽曲、伊藤智彦監督のアニメ映画、キズナアイの1stアルバムの名前に共通する、プログラミング入門書における最初のプログラムでよく出力される文字列は何でしょう？
+- question: BUMP OF CHICKENの楽曲、｜伊藤智彦(いとうともひこ)監督のアニメ映画、キズナアイの1stアルバムの名前に共通する、プログラミング入門書における最初のプログラムでよく出力される文字列は何でしょう？
   answer: 「Hello, World」
   alternativeAnswers:
     - ハローワールド
@@ -11368,7 +11388,7 @@
     - elixir syndrome
     - elixir
   description: 前フリに合致するのは「ラストエリクサー症候群」のみ
-- question: 15歳のときにエドワード・スノーデンの影響を受けハッキングを開始した、海賊版サイトの「漫画村」に対するハッキングで有名になり現在ではホワイトハッカーとしての活動を行っている日本のハッカーは誰でしょう？
+- question: 15歳のときにエドワード・スノーデンの影響を受けハッキングを開始した、海賊版サイトの「漫画村」に対するハッキングで有名となり現在ではホワイトハッカーとしての活動を行っている日本のハッカーは誰でしょう？
   answer: Cheena
   alternativeAnswers:
     - チーナ
@@ -11405,7 +11425,7 @@
     - United States of America
     - US
     - United States
-- question: その名前にちなんで「hg」というコマンドで操作を行う、BitKeeperの代替としてGitと同時に開発されたバージョン管理システムは何でしょう？
+- question: その名前にちなんで「hg」というコマンドで操作を行う、BitKeeperの代替としてGitとほぼ同時期に開発されたバージョン管理システムは何でしょう？
   answer: Mercurial
   alternativeAnswers:
     - マーキュリアル
@@ -11465,7 +11485,7 @@
   answer: サンタクララ
   alternativeAnswers:
     - Santa Clara
-- question: 光学ディスクのCDの、穴の直径は何mmでしょう？
+- question: ずばり、光学ディスクのCDの穴の直径は何mmでしょう？
   answer: 15mm
   description: CDの直径は120mmと80mmの2通りがあるが、どちらも孔径は15mmと定められている (IEC 908)
 - question: 画面の左端または右端からスライドするようにして現れる縦長のメニューのことを、「引き出し」を意味する英語から「何メニュー」というでしょう？
@@ -11474,7 +11494,7 @@
     - ドロワー
     - drawer menu
     - drawer
-- question: タイムズ誌の「パーソン・オブ・ザ・イヤー」を無生物として初めて受賞した、トランジスタを主体とし主に計算を行う装置全般を指す用語は何でしょう？
+- question: 1982年にタイムズ誌の「パーソン・オブ・ザ・イヤー」を無生物として初めて受賞した、トランジスタを主体とし主に計算を行う装置全般を指す用語は何でしょう？
   answer: コンピューター
   alternativeAnswers:
     - 電子計算機
@@ -11490,7 +11510,7 @@
   answer: Quick Response
   alternativeAnswers:
     - クイックレスポンス
-- question: 5G通信により新たに利用することが検討されている、30GHzから300GHzまでの非常に高い周波数が含まれる周波数帯を、その波長から何波というでしょう？
+- question: 5G通信によって新たに利用が開始された、30GHzから300GHzまでの非常に高い周波数が含まれる周波数帯を、その波長から何波というでしょう？
   answer: ミリ波
   alternativeAnswers:
     - EHF, Extremely High Frequency
@@ -11568,7 +11588,7 @@
   answer: 否認防止
   alternativeAnswers:
     - non-repudiation
-- question: 70年代から80年代にかけて広く普及した「オフコン」といえば、「何コンピューター」の略でしょう？
+- question: 70年代から80年代にかけて広く普及した「オフコン」といえば、何という言葉の略でしょう？
   answer: オフィスコンピューター
   alternativeAnswers:
     - オフィス
@@ -11592,7 +11612,7 @@
   answer: サーマルスロットリング
   alternativeAnswers:
     - thermal throttling
-- question: 画像などの読み込みを、ウェブページが読み込まれたときではなく、表示しようとしたときに初めて行うことにより軽量化を図る手法のことを「何ローディング」というでしょう？
+- question: 画像などの読み込みを、ウェブページが読み込まれたときではなく、表示しようとしたときに初めて行うことにより軽量化を図る手法のことを何というでしょう？
   answer: レイジーローディング
   alternativeAnswers:
     - レイジー
@@ -11627,7 +11647,7 @@
   answer: インターフェイス
   alternativeAnswers:
     - interface
-- question: 手術用モニターの「CuratOR」や管制塔用モニターの「Raptor」などのシリーズを展開している、高性能ディスプレイ製品で有名な日本のIT企業は何でしょう？
+- question: 手術用モニターの「｜CuratOR(キュレーター)」や管制塔用モニターの「｜Raptor(ラプター)」などのシリーズを展開している、高性能ディスプレイ製品で有名な日本のIT企業は何でしょう？
   answer: EIZO株式会社
   alternativeAnswers:
     - EIZO
@@ -11649,7 +11669,7 @@
     - wrist rest
 - question: Linuxにおいてスラッシュ1文字で表される、OSが管理するファイルシステムのうちもっとも階層が上のディレクトリを何ディレクトリというでしょう？
   answer: ルートディレクトリ
-  paperQuestion: Linuxにおいて「/」で表される、OSが管理するファイルシステムのうちもっとも階層が上のディレクトリを何ディレクトリというでしょう？
+  paperQuestion: Linuxにおいて「/」で表される、OSが管理するファイルシステムのうちもっとも階層が上のディレクトリを何というでしょう？
   alternativeAnswers:
     - ルート
     - root directory
@@ -11695,7 +11715,7 @@
   answer: ページビュー
   alternativeAnswers:
     - Page View
-- question: IEEE方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
+- question: ｜IEEE(アイトリプルイー)方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
   answer: 仮数部
   alternativeAnswers:
     - 仮数
@@ -11738,7 +11758,7 @@
   answer: clamp関数
   alternativeAnswers:
     - clamp
-- question: 2GHz帯と5GHz帯を併用する無線通信規格「IEEE 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
+- question: 2GHz帯と5GHz帯を併用する無線通信規格「｜IEEE(アイトリプルイー) 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
   answer: Wi-Fi 4
   alternativeAnswers:
     - '4'
@@ -11818,6 +11838,9 @@
   answer: X
 - question: かつてのネット掲示板では、不慣れなユーザーに対して「半年これをしろ」と呼びかける言い回しも流行していた、掲示板を読むだけで書き込みを行わないユーザーを指す言葉は何でしょう？
   answer: ROM
+  alternativeAnswers:
+    - Read Only Member
+    - リードオンリーメンバー
 - question: Neuron、Sinequa、QuickSolutionなどの製品に代表される、会社の内外のデータを統合検索できるようにするためのコンピューターシステムのことを総称して何というでしょう？
   answer: エンタープライズサーチ
   alternativeAnswers:
@@ -11836,7 +11859,7 @@
     - フューショット
     - few-shot prompting
     - few-shot
-- question: 「+」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
+- question: 「｜+(プラス)」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
   answer: E.164形式
   alternativeAnswers:
     - E.164
@@ -11851,7 +11874,8 @@
     - VRMフェーズ
     - phase
     - VRM phase
-- question: C++では「//」、Pythonでは「#」などを用いて記述することができる、ソースコードに説明を加えるなどの目的で、プログラムの動作に影響を与えない文字列を記述することができる機能を何というでしょう？
+- question: C++ではスラッシュ2つ、Pythonではハッシュ記号などを用いて記述することができる、ソースコードに説明を加えるなどの目的で、プログラムの動作に影響を与えない文字列を記述することができる機能を何というでしょう？
+  paperQuestion: C++では「//」、Pythonでは「#」などを用いて記述することができる、ソースコードに説明を加えるなどの目的で、プログラムの動作に影響を与えない文字列を記述することができる機能を何というでしょう？
   answer: コメント
   alternativeAnswers:
     - comment
@@ -11922,8 +11946,8 @@
   answer: 青
   alternativeAnswers:
     - Pantone 300C
-- question: TasteJSによって開発され、さまざまなMVCフレームワークを比較するために同じウェブアプリを違うフレームワークで実装するプロジェクトを、そのアプリの名前を用いて「何MVC」というでしょう？
-  answer: Todoアプリ
+- question: TasteJSによって開発され、さまざまなMVCフレームワークを比較するために同じウェブアプリを違うフレームワークで実装するプロジェクトを、そのアプリの名前を用いて何というでしょう？
+  answer: TodoMVC
   alternativeAnswers:
     - Todo
 - question: 開発期間を細かなスプリントに分割し、少人数のチームで柔軟な開発を行う日本発のアジャイル開発のフレームワークを、あるラグビー用語に例えて何というでしょう？
@@ -11939,7 +11963,7 @@
   alternativeAnswers:
     - ファイナライザ
     - finalizer
-- question: 日本では俗に「火狐」などとも呼ばれる、Mozilla Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
+- question: 日本では俗に「火狐」などとも呼ばれる、｜Mozilla(モジラ) Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
   answer: Firefox
   alternativeAnswers:
     - ファイアフォックス
@@ -11981,16 +12005,16 @@
     - ナナロク
 - question: すべての動画が3分以内となっており現在500以上の講座が開講している、taguchiによって2012年にサービス開始した初心者向けプログラミング学習サイトは何でしょう？
   answer: ドットインストール
-- question: malloc、free、abs、randなどの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
+- question: ｜malloc(マロック)、｜free(フリー)、｜abs(エービーエス)、｜rand(ランド)などの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
   answer: stdlib.h
   alternativeAnswers:
     - stdlib
-- question: 正式には「サーマルペースト」などと呼ばれることもある、CPUなどの熱がヒートシンクに効率的に伝わるようにするゼリー状のPC部品をより一般には何というでしょう？
+- question: 正式には「サーマルペースト」などと呼ばれることもある、CPUなどの熱がヒートシンクに効率的に伝わるようにするためのゼリー状のPC部品をより一般には何というでしょう？
   answer: グリス
   alternativeAnswers:
     - グリース
     - grease
-- question: インクジェットプリンターのインクにおいて、紙に染み込んで発色するものを「染料インク」と呼ぶのに対して、紙に染み込まずに表面で発色するものを「何インク」というでしょう？
+- question: インクジェットプリンターのインクにおいて、紙に<em>染み込んで</em>発色するものを「染料インク」と呼ぶのに対して、紙に染み込まずに表面で発色するものを「何インク」というでしょう？
   answer: 顔料インク
   alternativeAnswers:
     - 顔料
@@ -12043,7 +12067,7 @@
   answer: スタンプ
   alternativeAnswers:
     - stamp
-- question: AIモデルを混乱させ、誤った分類をしてしまうように作成された特殊な入力のことを、日本語を用いて「何的サンプル」というでしょう？
+- question: AIモデルを混乱させ、誤った分類をしてしまうように作成された特殊な入力のことを何というでしょう？
   answer: 敵対的サンプル
   alternativeAnswers:
     - adversarial example
@@ -12065,7 +12089,7 @@
   answer: フォーク
   alternativeAnswers:
     - fork
-- question: 「#ITクイズ#」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
+- question: 「｜#(ハッシュ)ITクイズ｜#(ハッシュ)」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
   answer: Weibo
   alternativeAnswers:
     - ウェイボ
@@ -12163,7 +12187,7 @@
     - ファントムヴァイブレーション症候群
     - ファントムヴァイブレーション
     - phantom vibration syndrome
-    - phantom viblation
+    - phantom vibration
 - question: HTMLクラスがそのままスタイルを表す「ユーティリティーファーストCSS」の代表例として知られている、2019年にアダム・ワザンらによって正式バージョンがリリースされたCSSフレームワークは何でしょう？
   answer: Tailwind
 - question: 機械学習の中でも、問題と正解のセットを学習データとして与える学習手法のことを「何あり学習」というでしょう？
@@ -12209,7 +12233,7 @@
     - ホーム
     - home directory
     - home
-- question: ネット上で異性を装う人のことを指すスラングで、女性のふりをする男性のことを「ネカマ」というのに対して、男性のふりをする女性のことをかな3文字で何というでしょう？
+- question: ネット上で異性を装う人のことを指すスラングで、<em>女性</em>のふりをする男性のことを「ネカマ」というのに対して、男性のふりをする女性のことをかな3文字で何というでしょう？
   answer: ネナベ
 - question: 他の言語では「連想配列」や「ハッシュマップ」などとも呼ばれる、Pythonにおいて波括弧を用いて記述することができるデータ型を日本語で「何型」というでしょう？
   answer: 辞書型
@@ -12277,11 +12301,11 @@
   answer: マザーボード
   alternativeAnswers:
     - mother board
-- question: ロボット工学者の森政弘によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
+- question: ロボット工学者の｜森政弘(もりまさひろ)によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
   answer: 不気味の谷現象
   alternativeAnswers:
     - 不気味の谷
-- question: 6つあるルートキーの名前は全て「HKEY_」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
+- question: 6つあるルートキーの名前は全て「｜HKEY_(エイチキー・アンダーバー)」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
   answer: レジストリ
   alternativeAnswers:
     - registry
@@ -12323,7 +12347,7 @@
     - ボット
     - bot account
     - bot
-- question: clog、cerr、cout、cinなどのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
+- question: ｜clog(シーログ)、｜cerr(シーエラー)、｜cout(シーアウト)、｜cin(シーイン)などのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
   answer: iostream
 - question: 別名を「LATCHの法則」ともいう、リチャード・S・ワーマンによって提唱された、情報を分類して整理する5つの方法を用いたフレームワークは「究極の5つの何」でしょう？
   answer: 究極の5つの帽子掛け
@@ -12338,7 +12362,7 @@
   answer: フォーク
   alternativeAnswers:
     - fork
-- question: 「Hystrix」や「Maestro」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
+- question: 「｜Hystrix(ヒストリックス)」や「｜Maestro(マエストロ)」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
   answer: Netflix, Inc.
   alternativeAnswers:
     - Netflix
@@ -12376,7 +12400,7 @@
     - キーボード
     - keyboard warrior
     - keyboard
-- question: 2015年の「将棋電王戦FINAL」の第2局で永瀬拓矢六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
+- question: 2015年の「将棋電王戦FINAL」の第2局で｜永瀬拓矢(ながせたくや)六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
   answer: 2七角不成
   alternativeAnswers:
     - 角不成
@@ -12428,9 +12452,9 @@
     - フレンド
     - friend function
     - friend
-- question: GNU Autotoolsなどのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
+- question: ｜GNU(グヌー) ｜Autotools(オートツールズ)などのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
   answer: configure
-- question: デジタル回路設計において、レジスタレベルで記述されたハードウェア回路をゲートなどを用いた具体的な論理回路に変換するプロセスのことを日本語で何というでしょう？
+- question: デジタル回路設計において、レジスタレベルで記述されたハードウェア回路をゲートなどを用いた具体的な論理回路に変換するプロセスのことを何というでしょう？
   answer: 論理合成
   alternativeAnswers:
     - logic synthesis
@@ -12453,7 +12477,7 @@
   answer: 『インターフェース』
   alternativeAnswers:
     - interface
-- question: 当初は日産自動車が保有し、のちにGMOグループによって買い取られ2024年まで同名の個人向けサービスを提供していた、現在3つ取得されているアルファベット1文字の「.com」ドメインのうちの1つは「何.com」でしょう？
+- question: 当初は日産自動車が保有し、のちにGMOグループによって買い取られ2024年まで同名の個人向けサービスを提供していた、現在3つ取得されているアルファベット1文字の「.com」ドメインのうちの1つは何でしょう？
   answer: z.com
   alternativeAnswers:
     - z
@@ -12470,11 +12494,11 @@
   answer: Xcode
   alternativeAnswers:
     - エックスコード
-- question: iPhone Xの「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
+- question: iPhone ｜X(テン)の「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
   answer: ニューラルエンジン
   alternativeAnswers:
     - Neural Engine
-- question: 外部から納入された数百万行のプログラムを64ビットに移植することができなかったためWindows XPを最後に姿を消してしまった、Windows付属のゲームプログラムは「Windows 3D 何」でしょう？
+- question: 外部から納入された数百万行のプログラムを64ビットに移植することができなかったためWindows XPを最後に姿を消してしまった、Windows付属のゲームプログラムは何でしょう？
   answer: Windows 3D ピンボール
   alternativeAnswers:
     - ピンボール
@@ -12567,8 +12591,10 @@
   alternativeAnswers:
     - Broadcom Inc.
     - Broadcom
-- question: 日本の法律で「送信元識別符号」といえば、一般にはアルファベット3文字で何と呼ばれるもののことでしょう？
+- question: 日本の法律で「送信元識別符号」といえば、一般的には何と呼ばれるもののことでしょう？
   answer: URL
+  alternativeAnswers:
+    - Uniform Resource Locator
 - question: C言語で「short型」「long型」といえば、ともにどのような値を表現するデータ型でしょう？
   answer: 整数
   alternativeAnswers:
@@ -12623,7 +12649,8 @@
     - ティームー
 - question: フリマアプリ「メルカリ」で、短期間に大量出品や再出品の繰り返しなどによって商品が検索結果に表示されなくなるペナルティのことを、俗に何というでしょう？
   answer: 圏外飛ばし
-- question: 5ちゃんねるなどの日本の掲示板において、パスワードを入力することで名前欄に「★」のついたハンドルネームが表示されて本人を証明することができる機能は何でしょう？
+- question: 5ちゃんねるなどの日本の掲示板において、パスワードを入力することで名前欄に黒い星型マークのついたハンドルネームが表示されて本人を証明することができる機能は何でしょう？
+  paperQuestion: 5ちゃんねるなどの日本の掲示板において、パスワードを入力することで名前欄に「★」のついたハンドルネームが表示されて本人を証明することができる機能は何でしょう？
   answer: キャップ
 - question: 企業で利用されるモバイル端末を管理するためのサービスの中でも、特に業務関連のデータの制御や監視を行うもののことを、アルファベット3文字の略称で何と言うでしょう？
   answer: MCM
@@ -12639,6 +12666,8 @@
     - '5601'
 - question: 企業のビジネスモデルを表す用語「BtoG」の「G」とは、何という英単語の略でしょう？
   answer: Government
+  alternativeAnswers:
+    - ガバメント
 - question: 「ハァ？」「…ってコト！？」「なんとかなれーッ」などネットミームとしても多くの台詞が流行した、2020年から専用アカウントで連載されているナガノのウェブ漫画作品は何でしょう？
   answer: ちいかわ
   alternativeAnswers:
@@ -12694,7 +12723,7 @@
   answer: チェス
   alternativeAnswers:
     - chess
-- question: Apache MesosやKubernetesなどに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
+- question: ｜Apache(アパッチ) ｜Mesos(メゾス)や｜Kubernetes(クバネテス)などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
   answer: コンテナオーケストレーションツール
   alternativeAnswers:
     - コンテナオーケストレーション
@@ -12775,7 +12804,7 @@
   answer: ランディングページ
   alternativeAnswers:
     - Landing Page
-- question: 海外に開発を委託することを「オフショア開発」と呼ぶのに対して、国内の地方都市に開発を委託することを「何開発」というでしょう？
+- question: <em>海外に</em>開発を委託することを「オフショア開発」と呼ぶのに対して、国内の地方都市に開発を委託することを「何開発」というでしょう？
   answer: ニアショア開発
   alternativeAnswers:
     - ニアショア
@@ -12801,9 +12830,9 @@
   answer: .みんな
   alternativeAnswers:
     - みんな
-- question: 【主観クイズ】C言語においては「#include <stdio.h>」が特にこう呼ばれることが多い、プログラミングにおいて記述する理由を説明することが難しいために理由を知らされず書くように教わる特定の処理のことを俗に指す言葉は何でしょう？
+- question: 【主観クイズ】C言語においては「#include &lt;stdio.h&gt;」が特にこう呼ばれることが多い、プログラミングにおいて記述する理由を説明することが難しいために理由を知らされず書くように教わる特定の処理のことを俗に指す言葉は何でしょう？
   answer: おまじない
-- question: アルファベット4文字で「PITR」と略される、障害や操作ミスなどでデータが消失した場合に備えてデータベースやインスタンスを特定の時点まで復元する機能を何というでしょう？
+- question: アルファベット4文字で「PITR」と略される、障害や操作ミスなどでデータが消失した場合に備えてデータベースやインスタンスを特定の時点まで復元できるようにする機能を何というでしょう？
   answer: ポイントインタイムリカバリ
   alternativeAnswers:
     - Point-In-Time Recovery
@@ -12818,7 +12847,7 @@
     - refurbish
 - question: IT転職サービスの「レバテック」が運営している、プログラミング関連の質問を日本語で投稿可能なエンジニア向けQ&Aサイトは何でしょう？
   answer: teratail
-- question: Wordのショートカットで、段落を右揃えにするのはCtrl+R、左揃えにするのはCtrl+Lですが、中央揃えにするのはCtrl+何でしょう？
+- question: Wordのショートカットで、段落を右揃えにするのはCtrl+R、<em>左揃えにするのは</em>Ctrl+Lですが、中央揃えにするのはCtrl+何でしょう？
   answer: Ctrl+E
   alternativeAnswers:
     - E
@@ -13332,7 +13361,7 @@
   answer: エディオン
   alternativeAnswers:
     - EDION
-- question: 歴史的経緯から「Mozilla/5.0」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
+- question: 歴史的経緯から「｜Mozilla/5.0(モジラ・スラッシュ・ごてんぜろ)」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
   answer: ユーザーエージェント
   alternativeAnswers:
     - User-Agent
@@ -13973,7 +14002,7 @@
     - アカマイ
 - question: このイベントに動員されたドワンゴ社員が2015年に「エンジニアなのに焼きそばを焼かされた」と訴えたことが業界で大きな話題を呼んだ、毎年4月に幕張メッセで行われるドワンゴ社のユーザー参加型イベントは何でしょう？
   answer: ニコニコ超会議
-- question: 数学用語としては集合の元に他の集合の元を対応させる写像やその記号のことを指す、プログラミングにおいて「+」や「*」など、特定の計算を行うことを表す記号や命令のことを日本語で何というでしょう？
+- question: 数学用語としては集合の元に他の集合の元を対応させる写像やその記号のことを指す、プログラミングにおいて「<ruby><rb>+</rb><rp> (</rp><rt>プラス</rt><rp>)</rp></ruby>」や「<ruby><rb>*</rb><rp> (</rp><rt>アスタリスク</rt><rp>)</rp></ruby>」など、特定の計算を行うことを表す記号や命令のことを何というでしょう？
   answer: 演算子
   alternativeAnswers:
     - operator
