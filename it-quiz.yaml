@@ -1413,7 +1413,7 @@
   answer: スターリンク
   alternativeAnswers:
     - Starlink
-- question: ｜IEEE(アイトリプルイー)で定められた浮動小数点数において全てのビットが0である場合、どのような値を表すでしょう？
+- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた浮動小数点数において全てのビットが0である場合、どのような値を表すでしょう？
   answer: '0'
   alternativeAnswers:
     - ゼロ
@@ -4557,7 +4557,7 @@
   alternativeAnswers:
     - カリー
     - currying
-- question: 弱小ゲーム会社「スタジオG3」の社長である｜天川太陽(てんかわたいよう)を主人公とし、締め切りを前にしたゲームプログラマーの悪戦苦闘を描いた、漫画家ユニット・うめ作の漫画は何でしょう？
+- question: 弱小ゲーム会社「スタジオG3」の社長である<ruby><rb>天川太陽</rb><rp> (</rp><rt>てんかわたいよう</rt><rp>)</rp></ruby>を主人公とし、締め切りを前にしたゲームプログラマーの悪戦苦闘を描いた、漫画家ユニット・うめ作の漫画は何でしょう？
   answer: 『東京トイボックス』
   alternativeAnswers:
     - 『大東京トイボックス』
@@ -4565,7 +4565,7 @@
   answer: Yostar
   alternativeAnswers:
     - ヨースター
-- question: インターネットで有名な楽曲「｜Ievan Polkka(イエヴァン・ポルッカ)」は、どこの国の民謡でしょう？
+- question: インターネットで有名な楽曲「<ruby><rb>Ievan Polkka</rb><rp> (</rp><rt>イエヴァン・ポルッカ</rt><rp>)</rp></ruby>」は、どこの国の民謡でしょう？
   answer: フィンランド
 - question: ロボアド投資やQR決済など、金融分野の問題を技術で解決するための仕組みを、「金融」と「技術」を意味する英語を組み合わせて何というでしょう？
   answer: フィンテック
@@ -4584,7 +4584,7 @@
 - question: 気絶したキャラクターなど、全身を完全に脱力した人体に対する物理シミュレーションのことを、「ぬいぐるみ」を意味する英語から「何物理」というでしょう？
   answer: ラグドール物理
   alternativeAnswers:
-    - ラグドール
+    - ラグドーぽーらんどご
     - ragdoll physics
     - ragdoll
 - question: 日本語では「競合状態」と呼ばれる、複数のシステムが同じリソースにアクセスすることにより発生する予期しない状態のことを英語で何というでしょう？
@@ -4722,7 +4722,7 @@
   answer: 3キー
   alternativeAnswers:
     - '3'
-- question: 「Remote Dictionary Server」という英語を略して名付けられた、キーバリュー型の｜NoSQL(ノーエスキューエル)データベースエンジンは何でしょう？
+- question: 「Remote Dictionary Server」という英語を略して名付けられた、キーバリュー型の<ruby><rb>NoSQL</rb><rp> (</rp><rt>ノーエスキューエル</rt><rp>)</rp></ruby>データベースエンジンは何でしょう？
   answer: Redis
   alternativeAnswers:
     - レディス
@@ -4770,7 +4770,7 @@
   answer: pixiv
   alternativeAnswers:
     - ピクシブ
-- question: 日本では毎年冬に開催される「｜SECCON(セクコン)」が最大級の大会として知られている、情報セキュリティ技術の競技大会は何でしょう？
+- question: 日本では毎年冬に開催される「<ruby><rb>SECCON</rb><rp> (</rp><rt>セクコン</rt><rp>)</rp></ruby>」が最大級の大会として知られている、情報セキュリティ技術の競技大会は何でしょう？
   answer: CTF
   alternativeAnswers:
     - Capture The Flag
@@ -4792,7 +4792,7 @@
   answer: 空メール
   alternativeAnswers:
     - 空
-- question: 将棋ソフト「Bonanza」のクラスターであることからその名前がつけられた、第1回将棋電王戦において｜米長邦雄(よねながくにお)永世棋聖と対戦し勝利を収めたコンピューター将棋プログラムは何でしょう？
+- question: 将棋ソフト「Bonanza」のクラスターであることからその名前がつけられた、第1回将棋電王戦において<ruby><rb>米長邦雄</rb><rp> (</rp><rt>よねながくにお</rt><rp>)</rp></ruby>永世棋聖と対戦し勝利を収めたコンピューター将棋プログラムは何でしょう？
   answer: ボンクラーズ
   alternativeAnswers:
     - Bonkras
@@ -4826,7 +4826,7 @@
   description: マザーボードに取り付けられない「eGPU」とは異なる。
 - question: 5ちゃんねるの掲示板の1つ「なんJ」の「J」は、何という単語の略でしょう？
   answer: ジュピター
-- question: C言語では「｜\(バックスラッシュ)a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
+- question: C言語では「<ruby><rb>\</rb><rp> (</rp><rt>バックスラッシュ</rt><rp>)</rp></ruby>a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
   paperQuestion: C言語では「\a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
   answer: ベル文字
   alternativeAnswers:
@@ -6034,7 +6034,7 @@
     - ニュー速VIP
     - ニュース速報(VIP)
     - VIP
-- question: 「｜+(プラス) 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
+- question: 「<ruby><rb>+</rb><rp> (</rp><rt>プラス</rt><rp>)</rp></ruby> 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
   answer: ポーランド記法
   paperQuestion: 「+ 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
   alternativeAnswers:
@@ -6846,7 +6846,7 @@
   answer: パワーデリバリー
   alternativeAnswers:
     - Power Delivery
-- question: 「人懐っこく、好奇心旺盛」な性格を持つ、2006年に｜Mozilla(モジラ) Japanが作成したFirefoxの公式マスコットキャラクターは何でしょう？
+- question: 「人懐っこく、好奇心旺盛」な性格を持つ、2006年に<ruby><rb>Mozilla</rb><rp> (</rp><rt>モジラ</rt><rp>)</rp></ruby> Japanが作成したFirefoxの公式マスコットキャラクターは何でしょう？
   answer: フォクすけ
   alternativeAnswers:
     - Foxkeh
@@ -7474,7 +7474,7 @@
 - question: RFC 2119によって意味が定義されている4つの助動詞とは、MUST、SHOULD、MAYと何でしょう？
   answer: SHALL
   description: 助動詞以外を含めるとREQUIREDやRECOMMENDEDなどが定義されている
-- question: 「loveちゃん」「あいぴー」「<ruby><rb>爱哥</rb><rp> (</rp><rt>アイガー</rt><rp>)</rp></ruby>」という3人の分裂体が存在し、動画の最初で行われる「はいどうもー！」という元気な挨拶でも有名な｜Activ8(アクティベート)発のバーチャルYouTuberは何でしょう？
+- question: 「loveちゃん」「あいぴー」「<ruby><rb>爱哥</rb><rp> (</rp><rt>アイガー</rt><rp>)</rp></ruby>」という3人の分裂体が存在し、動画の最初で行われる「はいどうもー！」という元気な挨拶でも有名な<ruby><rb>Activ8</rb><rp> (</rp><rt>アクティベート</rt><rp>)</rp></ruby>発のバーチャルYouTuberは何でしょう？
   answer: キズナアイ
   alternativeAnswers:
     - Kizuna AI
@@ -7665,7 +7665,7 @@
   alternativeAnswers:
     - ハッカーと画家
     - Hackers and Painters
-- question: 1923年に｜足袋(たび)の縫製工場として設立された「山田商工」を前身とし、現在はPC用品やタブレット用品などを製造・販売している日本のコンピューター周辺機器メーカーは何でしょう？
+- question: 1923年に<ruby><rb>足袋</rb><rp> (</rp><rt>たび</rt><rp>)</rp></ruby>の縫製工場として設立された「山田商工」を前身とし、現在はPC用品やタブレット用品などを製造・販売している日本のコンピューター周辺機器メーカーは何でしょう？
   answer: サンワサプライ
   alternativeAnswers:
     - サンワサプライ株式会社
@@ -7705,7 +7705,7 @@
   answer: ボンダイブルー
   alternativeAnswers:
     - Bondi blue
-- question: 「｜Generator(ジェネレータ)」と「｜Discriminator(ディスクリミネータ)」という2つのネットワークによって構成される、学習データから特徴を学習し新たなデータを生成する人工知能アルゴリズムは何でしょう？
+- question: 「<ruby><rb>Generator</rb><rp> (</rp><rt>ジェネレータ</rt><rp>)</rp></ruby>」と「<ruby><rb>Discriminator</rb><rp> (</rp><rt>ディスクリミネータ</rt><rp>)</rp></ruby>」という2つのネットワークによって構成される、学習データから特徴を学習し新たなデータを生成する人工知能アルゴリズムは何でしょう？
   answer: GAN
   alternativeAnswers:
     - Generative Adversarial Network
@@ -7822,7 +7822,7 @@
   answer: iTunes
   alternativeAnswers:
     - アイチューンズ
-- question: 「tech otaku save the world」をスローガンに掲げている、「｜原神(げんしん)」「崩壊:スターレイル」「ゼンレスゾーンゼロ」などの開発で知られる中国のソーシャルゲーム開発企業は何でしょう？
+- question: 「tech otaku save the world」をスローガンに掲げている、「<ruby><rb>原神</rb><rp> (</rp><rt>げんしん</rt><rp>)</rp></ruby>」「崩壊:スターレイル」「ゼンレスゾーンゼロ」などの開発で知られる中国のソーシャルゲーム開発企業は何でしょう？
   answer: miHoYo
   alternativeAnswers:
     - 米哈游
@@ -7842,7 +7842,7 @@
   answer: '81'
   alternativeAnswers:
     - '+81'
-- question: アニメ「｜∀(ターンエー)ガンダム」において太古の宇宙文明時代に繰り返されていた数々の宇宙戦争の歴史のことを指し、転じてネットスラングでは「なかったことにしたい恥ずかしい過去」を指して用いられる用語は何でしょう？
+- question: アニメ「<ruby><rb>∀</rb><rp> (</rp><rt>ターンエー</rt><rp>)</rp></ruby>ガンダム」において太古の宇宙文明時代に繰り返されていた数々の宇宙戦争の歴史のことを指し、転じてネットスラングでは「なかったことにしたい恥ずかしい過去」を指して用いられる用語は何でしょう？
   answer: 黒歴史
 - question: 日本語で「自社運用」と訳される、企業が管理する設備にサービスをインストールして情報システムを運用する運用形態を指す用語は何でしょう？
   answer: オンプレミス
@@ -8020,7 +8020,7 @@
   answer: フェライト
   alternativeAnswers:
     - ferrite
-- question: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「｜\(バックスラッシュ)n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
+- question: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「<ruby><rb>\</rb><rp> (</rp><rt>バックスラッシュ</rt><rp>)</rp></ruby>n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
   paperQuestion: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「\n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
   answer: ラインフィード
   alternativeAnswers:
@@ -8045,7 +8045,7 @@
   answer: グレース・ホッパー
   alternativeAnswers:
     - Grace Hopper
-- question: 「｜bashrc(バッシュアールシー)」や「｜vimrc(ヴィムアールシー)」などというときの「rc」とは、何という言葉の略でしょう？
+- question: 「<ruby><rb>bashrc</rb><rp> (</rp><rt>バッシュアールシー</rt><rp>)</rp></ruby>」や「<ruby><rb>vimrc</rb><rp> (</rp><rt>ヴィムアールシー</rt><rp>)</rp></ruby>」などというときの「rc」とは、何という言葉の略でしょう？
   answer: run commands
   alternativeAnswers:
     - ランコマンド
@@ -8145,7 +8145,7 @@
   alternativeAnswers:
     - ローリングシャッター
     - rolling shutter
-- question: 著者の｜粂井康孝(くめいやすたか)が愛好する動物の名前から名付けられた、SBクリエイティブから発刊されているプログラミング入門書のシリーズといえば「何でもわかるプログラミングシリーズ」でしょう？
+- question: 著者の<ruby><rb>粂井康孝</rb><rp> (</rp><rt>くめいやすたか</rt><rp>)</rp></ruby>が愛好する動物の名前から名付けられた、SBクリエイティブから発刊されているプログラミング入門書のシリーズといえば「何でもわかるプログラミングシリーズ」でしょう？
   answer: 猫でもわかるプログラミングシリーズ
   alternativeAnswers:
     - 猫でもわかるプログラミング
@@ -8266,7 +8266,7 @@
     - エッジ
 - question: スティック、ヒト、こわれているセンサーなどの種類が存在する、Nintendo Switchのゲーム「はじめてゲームプログラミング」においてプログラムを構成する基本部品となるキャラクターは何でしょう？
   answer: ノードン
-- question: 2008年と2010年に｜中垣俊之(なかがきとしゆき)らが受賞した2度のイグノーベル賞の受賞理由となった研究は、何という生物を演算に用いたコンピューターを対象としたものでしょう？
+- question: 2008年と2010年に<ruby><rb>中垣俊之</rb><rp> (</rp><rt>なかがきとしゆき</rt><rp>)</rp></ruby>らが受賞した2度のイグノーベル賞の受賞理由となった研究は、何という生物を演算に用いたコンピューターを対象としたものでしょう？
   answer: 粘菌
   alternativeAnswers:
     - 真正粘菌
@@ -8359,7 +8359,7 @@
     - イラストレーター
 - question: ニコニコ動画における匿名コメントの別名にも用いられている、電話番号の前につけると非通知通話を行うことができる3桁の番号は何でしょう？
   answer: '184'
-- question: チェックインアプリ「｜Burbn(バーブン)」から写真共有以外の機能を削除したのが由来とされている、現在は世界に約10億人のユーザーを持つSNSは何でしょう？
+- question: チェックインアプリ「<ruby><rb>Burbn</rb><rp> (</rp><rt>バーブン</rt><rp>)</rp></ruby>」から写真共有以外の機能を削除したのが由来とされている、現在は世界に約10億人のユーザーを持つSNSは何でしょう？
   answer: Instagram
   alternativeAnswers:
     - インスタグラム
@@ -8377,7 +8377,7 @@
 - removed:
     type: moved
     reason: 時事問題に移動
-- question: 「キーマンズネット」「ねとらぼ」「｜@IT(アットマーク・アイティ)」など数多くのIT系ニュースサイトを運営している、ソフトバンクグループ傘下のIT企業は何でしょう？
+- question: 「キーマンズネット」「ねとらぼ」「<ruby><rb>@IT</rb><rp> (</rp><rt>アットマーク・アイティ</rt><rp>)</rp></ruby>」など数多くのIT系ニュースサイトを運営している、ソフトバンクグループ傘下のIT企業は何でしょう？
   answer: アイティメディア株式会社
   alternativeAnswers:
     - アイティメディア
@@ -8403,7 +8403,7 @@
   answer: Finder
   alternativeAnswers:
     - ファインダー
-- question: その町並みは日本の秋葉原をモデルにしたとも言われる、｜深圳(しんせん)に存在する世界有数の電気街は何でしょう？
+- question: その町並みは日本の秋葉原をモデルにしたとも言われる、<ruby><rb>深圳</rb><rp> (</rp><rt>しんせん</rt><rp>)</rp></ruby>に存在する世界有数の電気街は何でしょう？
   answer: 華強北路
   alternativeAnswers:
     - 華強北
@@ -8615,7 +8615,7 @@
   answer: ジェフ・ディーン
   alternativeAnswers:
     - Jeff Dean
-- question: 半導体企業「クアルコム」の設立者としても知られる、隠れマルコフモデルの｜最尤(さいゆう)経路を求めるアルゴリズムなどに名を残すアメリカの工学者は誰でしょう？
+- question: 半導体企業「クアルコム」の設立者としても知られる、隠れマルコフモデルの<ruby><rb>最尤</rb><rp> (</rp><rt>さいゆう</rt><rp>)</rp></ruby>経路を求めるアルゴリズムなどに名を残すアメリカの工学者は誰でしょう？
   answer: アンドリュー・ビタビ
   alternativeAnswers:
     - Andrew James Viterbi
@@ -8892,7 +8892,7 @@
   alternativeAnswers:
     - webinar
   description: 「ウェブ」と「セミナー」のかばん語。
-- question: バグに支配された地球をLisp星人の力を借りて救うという異色のストーリーを中心に展開される、｜O'Reilly(オライリー)から発刊されているプログラミング言語Lispの代表的な入門書は何でしょう？
+- question: バグに支配された地球をLisp星人の力を借りて救うという異色のストーリーを中心に展開される、<ruby><rb>O'Reilly</rb><rp> (</rp><rt>オライリー</rt><rp>)</rp></ruby>から発刊されているプログラミング言語Lispの代表的な入門書は何でしょう？
   answer: 『Land of Lisp』
 - question: 主に情報量の計算などで用いられる、整数の2を底とする対数を、「何対数」というでしょう？
   answer: 二進対数
@@ -8962,7 +8962,7 @@
   answer: R1C1形式
   alternativeAnswers:
     - R1C1
-- question: 「デジタル台風」「eduroam」「｜CiNii(サイニィ)」などのサービスを提供している、日本の研究機関は何でしょう？
+- question: 「デジタル台風」「eduroam」「<ruby><rb>CiNii</rb><rp> (</rp><rt>サイニィ</rt><rp>)</rp></ruby>」などのサービスを提供している、日本の研究機関は何でしょう？
   answer: 国立情報学研究所
   alternativeAnswers:
     - 情報学研究所
@@ -10198,7 +10198,7 @@
   description: まれに非公式に「飛行機ボタン」と呼ばれることもあるが、後フリがあるので今回は不可
 - question: 「プレシードラウンド」という別名もある、まだアイデア段階のスタートアップに対して行われる投資のことを「個人投資家」を意味する英俗語から「何ラウンド」というでしょう？
   answer: エンジェルラウンド
-- question: ｜Apache(アパッチ)では「.htpasswd」ファイルを置くことによって設定することができる、HTTPのヘッダーに認証情報をBASE64でエンコードしたものを送ることで実装される単純な認証方式を「何認証」というでしょう？
+- question: <ruby><rb>Apache</rb><rp> (</rp><rt>アパッチ</rt><rp>)</rp></ruby>では「.htpasswd」ファイルを置くことによって設定することができる、HTTPのヘッダーに認証情報をBASE64でエンコードしたものを送ることで実装される単純な認証方式を「何認証」というでしょう？
   answer: ベーシック認証
   alternativeAnswers:
     - ベーシック
@@ -10796,7 +10796,7 @@
     - レップ
 - question: QRコードは、何というボードゲームをヒントに開発されたとされているでしょう？
   answer: 囲碁
-- question: 中国語では「｜微(かす)か」に「｜軟(やわ)らかい」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
+- question: 中国語では「<ruby><rb>微</rb><rp> (</rp><rt>かす</rt><rp>)</rp></ruby>か」に「<ruby><rb>軟</rb><rp> (</rp><rt>やわ</rt><rp>)</rp></ruby>らかい」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
   answer: マイクロソフト
   paperQuestion: 中国語では「微軟」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
   alternativeAnswers:
@@ -10842,7 +10842,7 @@
   alternativeAnswers:
     - バウンスレート
     - bounce rate
-- question: ポーランド語では「｜Witaj świecie!(ヴィタイ・シフィエチェ)」、スロバキア語では「｜Ahoj, svet!（アホイ、スヴェット）」、中国語では「｜世界你好(シィジエ ニーハオ)！」、日本語では「世界よ、こんにちは！」などという、「世界一有名なプログラム」として知られる定型句は何でしょう？
+- question: ポーランド語では「<ruby><rb>Witaj świecie!</rb><rp> (</rp><rt>ヴィタイ・シフィエチェ</rt><rp>)</rp></ruby>」、スロバキア語では「<ruby><rb>Ahoj, svet!</rb><rp> (</rp><rt>アホイ、スヴェット</rt><rp>)</rp></ruby>」、中国語では「<ruby><rb>世界你好</rb><rp> (</rp><rt>シィジエ ニーハオ</rt><rp>)</rp></ruby>！」、日本語では「世界よ、こんにちは！」などという、「世界一有名なプログラム」として知られる定型句は何でしょう？
   answer: Hello, World!
   alternativeAnswers:
     - ハローワールド
@@ -10929,7 +10929,7 @@
     - Rakuten Mobile
     - Rakuten
     - Rakuten Mobile, Inc.
-- question: 1988年に東北大学の｜南條道夫(なんじょうみちお)教授によって提唱された、都市圏で廃棄される電子機器の中にレアアースなどの貴重な資源が含まれていることをあるものにたとえて言った用語は何でしょう？
+- question: 1988年に東北大学の<ruby><rb>南條道夫</rb><rp> (</rp><rt>なんじょうみちお</rt><rp>)</rp></ruby>教授によって提唱された、都市圏で廃棄される電子機器の中にレアアースなどの貴重な資源が含まれていることをあるものにたとえて言った用語は何でしょう？
   answer: 都市鉱山
 - question: 「Cubism」と呼ばれる専用ツールを用いてモデリングや開発を行う、二次元のイラストを二次元のまま立体的に動かすことができる旧サイバーノイズ社のアニメーション技術は何でしょう？
   answer: Live2D
@@ -11006,7 +11006,7 @@
   answer: 石黒浩
   alternativeAnswers:
     - いしぐろひろし
-- question: ｜ls(エルエス)、｜ping(ピング)、｜wget(ダブリューゲット)など、Linuxにおける重要なコマンドを1つのバイナリファイルで実装した、ブルース・ペレンズによって開発された組み込みLinux向けツールは何でしょう？
+- question: <ruby><rb>ls</rb><rp> (</rp><rt>エルエス</rt><rp>)</rp></ruby>、<ruby><rb>ping</rb><rp> (</rp><rt>ピング</rt><rp>)</rp></ruby>、<ruby><rb>wget</rb><rp> (</rp><rt>ダブリューゲット</rt><rp>)</rp></ruby>など、Linuxにおける重要なコマンドを1つのバイナリファイルで実装した、ブルース・ペレンズによって開発された組み込みLinux向けツールは何でしょう？
   answer: BusyBox
 - question: 平文とそのハッシュ値、そしてハッシュ値から変換された平文を繋げてできるチェーンを用いてハッシュ値の逆算を効率化するためのアルゴリズムを、英語で何というでしょう？
   answer: レインボーテーブル
@@ -11133,7 +11133,7 @@
   alternativeAnswers:
     - 群馬
   description: ヤマダデンキは前橋市、ビックカメラは高崎市。ヤマダデンキの本社は群馬県だがビックカメラの本社は現在東京にある
-- question: MVにJavaプログラムを映し出す「｜sustain++;(サステイン・プラス・プラス)」や「｜world.execute(me);(ワールド・エクセキュート・ミー)」など、プログラミングをテーマにした楽曲を多く発表している、｜momocashew(モモカシュー)をボーカルとする日本の音楽グループは何でしょう？
+- question: MVにJavaプログラムを映し出す「<ruby><rb>sustain++;</rb><rp> (</rp><rt>サステイン・プラス・プラス</rt><rp>)</rp></ruby>」や「<ruby><rb>world.execute</rb><rp> (</rp><rt>me</rt><rp>)</rp></ruby>;(ワールド・エクセキュート・ミー)」など、プログラミングをテーマにした楽曲を多く発表している、<ruby><rb>momocashew</rb><rp> (</rp><rt>モモカシュー</rt><rp>)</rp></ruby>をボーカルとする日本の音楽グループは何でしょう？
   answer: Mili
   alternativeAnswers:
     - ミリ
@@ -11373,7 +11373,7 @@
   answer: 99 Bottles of Beer
   alternativeAnswers:
     - 99本のビール
-- question: BUMP OF CHICKENの楽曲、｜伊藤智彦(いとうともひこ)監督のアニメ映画、キズナアイの1stアルバムの名前に共通する、プログラミング入門書における最初のプログラムでよく出力される文字列は何でしょう？
+- question: BUMP OF CHICKENの楽曲、<ruby><rb>伊藤智彦</rb><rp> (</rp><rt>いとうともひこ</rt><rp>)</rp></ruby>監督のアニメ映画、キズナアイの1stアルバムの名前に共通する、プログラミング入門書における最初のプログラムでよく出力される文字列は何でしょう？
   answer: 「Hello, World」
   alternativeAnswers:
     - ハローワールド
@@ -11647,7 +11647,7 @@
   answer: インターフェイス
   alternativeAnswers:
     - interface
-- question: 手術用モニターの「｜CuratOR(キュレーター)」や管制塔用モニターの「｜Raptor(ラプター)」などのシリーズを展開している、高性能ディスプレイ製品で有名な日本のIT企業は何でしょう？
+- question: 手術用モニターの「<ruby><rb>CuratOR</rb><rp> (</rp><rt>キュレーター</rt><rp>)</rp></ruby>」や管制塔用モニターの「<ruby><rb>Raptor</rb><rp> (</rp><rt>ラプター</rt><rp>)</rp></ruby>」などのシリーズを展開している、高性能ディスプレイ製品で有名な日本のIT企業は何でしょう？
   answer: EIZO株式会社
   alternativeAnswers:
     - EIZO
@@ -11715,7 +11715,7 @@
   answer: ページビュー
   alternativeAnswers:
     - Page View
-- question: ｜IEEE(アイトリプルイー)方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
+- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
   answer: 仮数部
   alternativeAnswers:
     - 仮数
@@ -11758,7 +11758,7 @@
   answer: clamp関数
   alternativeAnswers:
     - clamp
-- question: 2GHz帯と5GHz帯を併用する無線通信規格「｜IEEE(アイトリプルイー) 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
+- question: 2GHz帯と5GHz帯を併用する無線通信規格「<ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby> 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
   answer: Wi-Fi 4
   alternativeAnswers:
     - '4'
@@ -11859,7 +11859,7 @@
     - フューショット
     - few-shot prompting
     - few-shot
-- question: 「｜+(プラス)」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
+- question: 「<ruby><rb>+</rb><rp> (</rp><rt>プラス</rt><rp>)</rp></ruby>」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
   answer: E.164形式
   alternativeAnswers:
     - E.164
@@ -11963,7 +11963,7 @@
   alternativeAnswers:
     - ファイナライザ
     - finalizer
-- question: 日本では俗に「火狐」などとも呼ばれる、｜Mozilla(モジラ) Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
+- question: 日本では俗に「火狐」などとも呼ばれる、<ruby><rb>Mozilla</rb><rp> (</rp><rt>モジラ</rt><rp>)</rp></ruby> Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
   answer: Firefox
   alternativeAnswers:
     - ファイアフォックス
@@ -12005,7 +12005,7 @@
     - ナナロク
 - question: すべての動画が3分以内となっており現在500以上の講座が開講している、taguchiによって2012年にサービス開始した初心者向けプログラミング学習サイトは何でしょう？
   answer: ドットインストール
-- question: ｜malloc(マロック)、｜free(フリー)、｜abs(エービーエス)、｜rand(ランド)などの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
+- question: <ruby><rb>malloc</rb><rp> (</rp><rt>マロック</rt><rp>)</rp></ruby>、<ruby><rb>free</rb><rp> (</rp><rt>フリー</rt><rp>)</rp></ruby>、<ruby><rb>abs</rb><rp> (</rp><rt>エービーエス</rt><rp>)</rp></ruby>、<ruby><rb>rand</rb><rp> (</rp><rt>ランド</rt><rp>)</rp></ruby>などの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
   answer: stdlib.h
   alternativeAnswers:
     - stdlib
@@ -12089,7 +12089,7 @@
   answer: フォーク
   alternativeAnswers:
     - fork
-- question: 「｜#(ハッシュ)ITクイズ｜#(ハッシュ)」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
+- question: 「<ruby><rb>#</rb><rp> (</rp><rt>ハッシュ</rt><rp>)</rp></ruby>ITクイズ<ruby><rb>#</rb><rp> (</rp><rt>ハッシュ</rt><rp>)</rp></ruby>」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
   answer: Weibo
   alternativeAnswers:
     - ウェイボ
@@ -12301,11 +12301,11 @@
   answer: マザーボード
   alternativeAnswers:
     - mother board
-- question: ロボット工学者の｜森政弘(もりまさひろ)によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
+- question: ロボット工学者の<ruby><rb>森政弘</rb><rp> (</rp><rt>もりまさひろ</rt><rp>)</rp></ruby>によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
   answer: 不気味の谷現象
   alternativeAnswers:
     - 不気味の谷
-- question: 6つあるルートキーの名前は全て「｜HKEY_(エイチキー・アンダーバー)」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
+- question: 6つあるルートキーの名前は全て「<ruby><rb>HKEY_</rb><rp> (</rp><rt>エイチキー・アンダーバー</rt><rp>)</rp></ruby>」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
   answer: レジストリ
   alternativeAnswers:
     - registry
@@ -12347,7 +12347,7 @@
     - ボット
     - bot account
     - bot
-- question: ｜clog(シーログ)、｜cerr(シーエラー)、｜cout(シーアウト)、｜cin(シーイン)などのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
+- question: <ruby><rb>clog</rb><rp> (</rp><rt>シーログ</rt><rp>)</rp></ruby>、<ruby><rb>cerr</rb><rp> (</rp><rt>シーエラー</rt><rp>)</rp></ruby>、<ruby><rb>cout</rb><rp> (</rp><rt>シーアウト</rt><rp>)</rp></ruby>、<ruby><rb>cin</rb><rp> (</rp><rt>シーイン</rt><rp>)</rp></ruby>などのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
   answer: iostream
 - question: 別名を「LATCHの法則」ともいう、リチャード・S・ワーマンによって提唱された、情報を分類して整理する5つの方法を用いたフレームワークは「究極の5つの何」でしょう？
   answer: 究極の5つの帽子掛け
@@ -12362,7 +12362,7 @@
   answer: フォーク
   alternativeAnswers:
     - fork
-- question: 「｜Hystrix(ヒストリックス)」や「｜Maestro(マエストロ)」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
+- question: 「<ruby><rb>Hystrix</rb><rp> (</rp><rt>ヒストリックス</rt><rp>)</rp></ruby>」や「<ruby><rb>Maestro</rb><rp> (</rp><rt>マエストロ</rt><rp>)</rp></ruby>」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
   answer: Netflix, Inc.
   alternativeAnswers:
     - Netflix
@@ -12400,7 +12400,7 @@
     - キーボード
     - keyboard warrior
     - keyboard
-- question: 2015年の「将棋電王戦FINAL」の第2局で｜永瀬拓矢(ながせたくや)六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
+- question: 2015年の「将棋電王戦FINAL」の第2局で<ruby><rb>永瀬拓矢</rb><rp> (</rp><rt>ながせたくや</rt><rp>)</rp></ruby>六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
   answer: 2七角不成
   alternativeAnswers:
     - 角不成
@@ -12452,7 +12452,7 @@
     - フレンド
     - friend function
     - friend
-- question: ｜GNU(グヌー) ｜Autotools(オートツールズ)などのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
+- question: <ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby> <ruby><rb>Autotools</rb><rp> (</rp><rt>オートツールズ</rt><rp>)</rp></ruby>などのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
   answer: configure
 - question: デジタル回路設計において、レジスタレベルで記述されたハードウェア回路をゲートなどを用いた具体的な論理回路に変換するプロセスのことを何というでしょう？
   answer: 論理合成
@@ -12494,7 +12494,7 @@
   answer: Xcode
   alternativeAnswers:
     - エックスコード
-- question: iPhone ｜X(テン)の「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
+- question: iPhone <ruby><rb>X</rb><rp> (</rp><rt>テン</rt><rp>)</rp></ruby>の「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
   answer: ニューラルエンジン
   alternativeAnswers:
     - Neural Engine
@@ -12723,7 +12723,7 @@
   answer: チェス
   alternativeAnswers:
     - chess
-- question: ｜Apache(アパッチ) ｜Mesos(メゾス)や｜Kubernetes(クバネテス)などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
+- question: <ruby><rb>Apache</rb><rp> (</rp><rt>アパッチ</rt><rp>)</rp></ruby> <ruby><rb>Mesos</rb><rp> (</rp><rt>メゾス</rt><rp>)</rp></ruby>や<ruby><rb>Kubernetes</rb><rp> (</rp><rt>クバネテス</rt><rp>)</rp></ruby>などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
   answer: コンテナオーケストレーションツール
   alternativeAnswers:
     - コンテナオーケストレーション
@@ -13361,7 +13361,7 @@
   answer: エディオン
   alternativeAnswers:
     - EDION
-- question: 歴史的経緯から「｜Mozilla/5.0(モジラ・スラッシュ・ごてんぜろ)」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
+- question: 歴史的経緯から「<ruby><rb>Mozilla/5.0</rb><rp> (</rp><rt>モジラ・スラッシュ・ごてんぜろ</rt><rp>)</rp></ruby>」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
   answer: ユーザーエージェント
   alternativeAnswers:
     - User-Agent
