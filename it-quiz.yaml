@@ -13927,7 +13927,7 @@
   answer: 西和彦
   alternativeAnswers:
     - にしかずひこ
-- question: 「SETI」「Folding」「Minecraft」などのあとにつくと、そのジャンルに関する参加型の分散コンピューティングプロジェクトの名前になる言葉は何でしょう？
+- question: 「SETI」「Folding」「Minecraft」などの言葉のあとにつくと、そのジャンルに関する参加型の分散コンピューティングプロジェクトの名前になる言葉は何でしょう？
   answer: '@home'
   alternativeAnswers:
     - アットホーム
@@ -13967,12 +13967,12 @@
     - squiggle maximizer problem
     - squiggle maximizer
     - squiggle
-- question: 北海道美唄市が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から行っていることが名前の由来です。その「あるもの」とは何でしょう？
+- question: 北海道｜美唄市(びばいし)が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から行っていることが名前の由来です。その「あるもの」とは何でしょう？
   answer: 雪
   description: https://www.city.bibai.hokkaido.jp/soshiki/13/417.html
 - question: Ruby・Kotlin・Groovyなどの言語では暗黙の引数を表すのに用いられ、RSpec・Jest・Mochaなどのテストフレームワークではテストケースの記述に用いられる、ある英語の代名詞に由来するキーワードは何でしょう？
   answer: it
-- question: 英語圏で「BSoD」と略されることもある、Windowsで重大なエラーが発生して強制終了した際に表示される画面のことを、日本では特に何というでしょう？
+- question: 英語圏では「BSoD」と略されることもある、Windowsで重大なエラーが発生して強制終了した際に表示される画面のことを、日本では特に何というでしょう？
   answer: ブルースクリーン
   alternativeAnswers:
     - ブルスク
@@ -13994,7 +13994,7 @@
   answer: ByteDance
   alternativeAnswers:
     - バイトダンス
-- question: ハワイ語で「賢い」という意味を持つ、1998年にMITの研究成果をもとに設立されCDN事業の先駆者的役割を果たした、現在も世界中のインターネットトラフィックを支えるアメリカのネットワーク事業者といえば「何 Technologies」でしょう？
+- question: ハワイ語で「賢い」という意味を持つ、1998年にMITの研究成果をもとに設立されCDN事業の先駆者的役割を果たした、現在も世界中のインターネットトラフィックを支えるアメリカのネットワーク事業者といえば何でしょう？
   answer: Akamai Technologies
   alternativeAnswers:
     - Akamai
@@ -14025,7 +14025,7 @@
   answer: Qoo10
   alternativeAnswers:
     - キューテン
-- question: 日本のインターリンク社が2009年に開催した「ワールドドメインカップ」で一般投票によって選ばれ、2015年に実際にgTLDとして登録された、「人類、生物、環境、宇宙、平和、国際協力、チャリティー、自然科学などの関連団体、個人の方におすすめ」とされるトップレベルドメインといえば「.何」でしょう？
+- question: 日本のインターリンク社が2009年に開催した「ワールドドメインカップ」で一般投票によって選ばれ、2015年に実際にgTLDとして登録された、「人類、生物、環境、宇宙、平和、国際協力、チャリティー、自然科学などの関連団体、個人の方におすすめ」とされるトップレベルドメインといえば何でしょう？
   answer: .earth
   alternativeAnswers:
     - earth
@@ -14037,7 +14037,8 @@
   answer: 馬力
   alternativeAnswers:
     - horsepower
-- question: 「/8」や「/16」のようなスラッシュ表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
+- question: 「<ruby><rb>/</rb><rp> (</rp><rt>スラッシュ</rt><rp>)</rp></ruby>8」や「<ruby><rb>/</rb><rp> (</rp><rt>スラッシュ</rt><rp>)</rp></ruby>16」のような表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
+  paperQuestion: 「/8」や「/16」のようなスラッシュ表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
   answer: ネットワーク部
   alternativeAnswers:
     - ネットワーク
@@ -14049,11 +14050,11 @@
   alternativeAnswers:
     - 石丸電気
     - イシマル
-- question: ギリシア正教における聖画像を意味する「イコン」に由来するともされる、GUI上でアプリや機能を表す小さな画像のことを指す英単語は何でしょう？
+- question: ギリシア正教における聖画像を意味する言葉に由来するともされる、GUI上でアプリや機能を表す小さな画像のことを指す英単語は何でしょう？
   answer: アイコン
   alternativeAnswers:
     - icon
-- question: 「ゆる言語学ラジオ」の2人のパーソナリティーが普段と逆の立場でトークを繰り広げ、さまざまなIT技術の仕組みについて解説していく、堀元見と水野太貴によるYouTubeチャンネル・ポッドキャストは「何ラジオ」でしょう？
+- question: 「ゆる言語学ラジオ」の2人のパーソナリティーが普段と逆の立場でトークを繰り広げ、さまざまなIT技術の仕組みについて解説していく、<ruby><rb>堀元見</rb><rp> (</rp><rt>ほりもとけん</rt><rp>)</rp></ruby>と<ruby><rb>水野太貴</rb><rp> (</rp><rt>みずのだいき</rt><rp>)</rp></ruby>によるYouTubeチャンネル・ポッドキャストは「何ラジオ」でしょう？
   answer: ゆるコンピューター科学ラジオ
   alternativeAnswers:
     - ゆるコンピューター科学
@@ -14136,7 +14137,7 @@
   answer: SDV
   alternativeAnswers:
     - Software Defined Vehicle
-- question: 開発者向けイベントの「Unite」も毎年開催されている、主にプログラミング言語C#を用いて高度なゲームを開発することができるクロスプラットフォーム対応のゲームエンジンは何でしょう？
+- question: 開発者向けイベントの「Unite」も毎年開催されている、主にプログラミング言語C#を用いて高度なゲームを開発することができる、クロスプラットフォーム対応のゲームエンジンは何でしょう？
   answer: Unity
   alternativeAnswers:
     - ユニティ
@@ -14161,23 +14162,25 @@
     - '400'
     - 0.4秒
     - '0.4'
-- question: 本名を仙塲大也という、2023年にITエンジニア本大賞・技術書部門大賞を受賞した『良いコード／悪いコードで学ぶ設計入門』の著者として知られる日本のエンジニアは誰でしょう？
+- question: 本名を<ruby><rb>仙塲大也</rb><rp> (</rp><rt>せんばだいや</rt><rp>)</rp></ruby>という、2023年にITエンジニア本大賞・技術書部門大賞を受賞した『良いコード／悪いコードで学ぶ設計入門』の著者として知られる日本のエンジニアは誰でしょう？
   answer: ミノ駆動
+  description: 名前の読みは https://www.toonippo.co.jp/articles/-/1530983 参照
 - question: 2023年1月以来、Xのプロフィール欄に「X Super Official CEO」と記載するジョークを行っていることでも知られる、現在YouTubeの登録者数で世界1位の記録を持つアメリカのYouTuberは誰でしょう？
   answer: MrBeast
   alternativeAnswers:
     - ミスタービースト
-- question: IT分野ではIECとの合同委員会を結成し、文字符号化方式の「2022」や情報セキュリティ管理システムの「27001」といった国際規格を発行している、スイスに本部を置く標準化団体をアルファベット3文字の略称で何というでしょう？
+- question: IT分野ではIECとの合同委員会を結成し、文字符号化方式の「2022」や情報セキュリティ管理システムの「27001」といった国際規格を発行している、スイスに本部を置く標準化団体は何でしょう？
   answer: ISO
   alternativeAnswers:
     - 国際標準化機構
     - International Organization for Standardization
-- question: 「先入れ先出し」を意味する英語から「FIFO」という別名で呼ばれることもある、先に追加された要素から順番にデータを取り出すことができるデータ構造の一種を英語で何というでしょう？
+- question: 「先入れ先出し」を意味する英語から「<ruby><rb>FIFO</rb><rp> (</rp><rt>ファイフォ</rt><rp>)</rp></ruby>」という別名で呼ばれることもある、先に追加された要素から順番にデータを取り出すことができるデータ構造の一種を英語で何というでしょう？
   answer: キュー
   alternativeAnswers:
     - queue
     - 待ち行列
-- question: HaskellやLISPなどに代表される、ラムダ計算などを理論的背景としたプログラミング手法を提供するプログラミング言語のことを、日本語を用いて「何型プログラミング言語」というでしょう？
+- question: HaskellやLISPなどに代表される、ラムダ計算などを理論的背景としたプログラミング手法を提供するプログラミング言語のことを何というでしょう？
+  minhayaQuestion: HaskellやLISPなどに代表される、ラムダ計算などを理論的背景としたプログラミング手法を提供するプログラミング言語のことを、日本語を用いて「何型プログラミング言語」というでしょう？
   answer: 関数型プログラミング言語
   alternativeAnswers:
     - 関数型
@@ -14185,7 +14188,7 @@
     - functional programming language
     - functional language
     - functional
-- question: 近くで流れている曲の情報を自動で表示する「この曲なに？」機能などが提供されている、Googleが販売するAndroidスマートフォンのブランドは「Google 何」でしょう？
+- question: 近くで流れている曲の情報を自動で表示する「この曲なに？」機能などが提供されている、Googleが販売するAndroidスマートフォンのブランドは何でしょう？
   answer: Google Pixel
   alternativeAnswers:
     - Pixel
