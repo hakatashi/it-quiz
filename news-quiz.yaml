@@ -1490,3 +1490,18 @@
     - ヴェオ
 - question: 2025年5月23日に誕生30周年を迎えた、同年3月にバージョン24がリリースされ、パターンマッチなどの新機能が追加されたプログラミング言語は何でしょう？
   answer: Java
+- question: イギリスのゲームクリエイターのジョシュ・ワードルがパートナーのために作成した、英単語を入力することで6回以内に5文字の英単語を当てるゲームは何でしょう？
+  answer: Wordle
+- question: 2021年にOpenAIが公開した、「アボカドの形をしたアームチェア」などの文字列から自動でそれに見合った画像を生成する人工知能モデルの名前は何でしょう？
+  answer: DALL·E
+  alternativeAnswers:
+    - ダリー
+- question: 複数の画像からベストな表情を抽出して1枚の写真に合成することができる、GoogleのスマートフォンPixel 8の新機能は何でしょう？
+  answer: ベストテイク機能
+  alternativeAnswers:
+    - ベストテイク
+    - Best Take
+- question: 最大速度46Gbpsで通信を行うことができる、2024年1月に策定された「Wi-Fi」の最新バージョンは「Wi-Fi 何」でしょう？
+  answer: Wi-Fi 7
+  alternativeAnswers:
+    - '7'
