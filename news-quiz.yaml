@@ -1479,3 +1479,14 @@
   answer: GENIAC
   alternativeAnswers:
     - ジェニアック
+- question: 2025年6月にサービス終了することが発表された、「デジタル大辞泉」をはじめとする辞書を収録し多くの人に利用されていたNTTドコモのオンライン辞書サービスは「何辞書」でしょう？
+  answer: goo辞書
+  alternativeAnswers:
+    - goo
+    - グー
+- question: 2025年5月には音声を同時に出力することができる最新版のバージョン3が発表された、Google社が開発・提供する動画生成AIは何でしょう？
+  answer: Veo
+  alternativeAnswers:
+    - ヴェオ
+- question: 2025年5月23日に誕生30周年を迎えた、同年3月にバージョン24がリリースされ、パターンマッチなどの新機能が追加されたプログラミング言語は何でしょう？
+  answer: Java
