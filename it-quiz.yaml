@@ -10,7 +10,7 @@
   answer: ラップアラウンド
   alternativeAnswers:
     - wraparound
-- question: 英語で「往復切符」という意味がある、データを送信してから返ってくるまでの時間のことを指す言葉は「<ruby><rb>何</rb><rp> (</rp><rt>なに</rt><rp>)</rp></ruby>時間」でしょう？
+- question: 英語で「往復切符」という意味がある、データを送信してから返ってくるまでの時間のことを指す言葉は「<ruby><rb>何</rb><rp>(</rp><rt>なに</rt><rp>)</rp></ruby>時間」でしょう？
   answer: ラウンドトリップ時間
   alternativeAnswers:
     - ラウンドトリップ
@@ -43,7 +43,7 @@
   alternativeAnswers:
     - 富豪的
     - 富豪
-- question: 「Nitro」や「<ruby><rb>Xen</rb><rp> (</rp><rt>ゼン</rt><rp>)</rp></ruby>」といった仮想化技術を用いて構築されている、AWS内で提供されるAmazonのVPSサービスは何でしょう？
+- question: 「Nitro」や「<ruby><rb>Xen</rb><rp>(</rp><rt>ゼン</rt><rp>)</rp></ruby>」といった仮想化技術を用いて構築されている、AWS内で提供されるAmazonのVPSサービスは何でしょう？
   answer: Amazon EC2
   alternativeAnswers:
     - EC2
@@ -70,7 +70,7 @@
     - MNIST
 - question: ベンツ社が2016年に発表した、ネット接続・自動運転・シェアサービス・電気化という次世代乗用車が目指す4つの方針のことを、略して何というでしょう？
   answer: CASE
-- question: 「<ruby><rb>chokudai</rb><rp> (</rp><rt>ちょくだい</rt><rp>)</rp></ruby>」というハンドルネームでも活動を行っている、プログラミングコンテストサイト「AtCoder」の設立者であり日本を代表する競技プログラマーといえば誰でしょう？
+- question: 「<ruby><rb>chokudai</rb><rp>(</rp><rt>ちょくだい</rt><rp>)</rp></ruby>」というハンドルネームでも活動を行っている、プログラミングコンテストサイト「AtCoder」の設立者であり日本を代表する競技プログラマーといえば誰でしょう？
   answer: 高橋直大
   alternativeAnswers:
     - たかはしなおひろ
@@ -101,7 +101,7 @@
     - Solitaire
     - マイクロソフトソリティア
     - ソリティア
-- question: Python 3.5で新たに導入された「<ruby><rb>@</rb><rp> (</rp><rt>アットマーク</rt><rp>)</rp></ruby>」1文字の演算子は、何を計算する演算子でしょう？
+- question: Python 3.5で新たに導入された「<ruby><rb>@</rb><rp>(</rp><rt>アットマーク</rt><rp>)</rp></ruby>」1文字の演算子は、何を計算する演算子でしょう？
   answer: 行列の積
   paperQuestion: Python 3.5で導入された演算子「@」は、何を計算する演算子でしょう？
   minhayaQuestion: Python 3.5で導入された演算子「@」は、何の積を計算する演算子でしょう？
@@ -136,7 +136,7 @@
   answer: 13歳
   alternativeAnswers:
     - '13'
-- question: <ruby><rb>crontab</rb><rp> (</rp><rt>クロンタブ</rt><rp>)</rp></ruby>、<ruby><rb>hosts</rb><rp> (</rp><rt>ホスツ</rt><rp>)</rp></ruby>、<ruby><rb>passwd</rb><rp> (</rp><rt>パスワード</rt><rp>)</rp></ruby>などのファイルが中に置かれることが多い、Linuxの標準ディレクトリ構成でルートディレクトリの直下に置かれるディレクトリの名前は何でしょう？
+- question: <ruby><rb>crontab</rb><rp>(</rp><rt>クロンタブ</rt><rp>)</rp></ruby>、<ruby><rb>hosts</rb><rp>(</rp><rt>ホスツ</rt><rp>)</rp></ruby>、<ruby><rb>passwd</rb><rp>(</rp><rt>パスワード</rt><rp>)</rp></ruby>などのファイルが中に置かれることが多い、Linuxの標準ディレクトリ構成でルートディレクトリの直下に置かれるディレクトリの名前は何でしょう？
   answer: /etc
 - question: キーボードなどの製造で有名な「ロジクール」の本社「ロジテック」は、どこの国に存在する企業でしょう？
   answer: スイス
@@ -188,7 +188,7 @@
     - グートマン
     - Gutmann method
     - Gutmann
-- question: 2017年に発売されたiPhone <ruby><rb>X</rb><rp> (</rp><rt>テン</rt><rp>)</rp></ruby>で採用され普及した、スマートフォン画面上部の切り欠きのことを、「くぼみ」という意味の英語から何というでしょう？
+- question: 2017年に発売されたiPhone <ruby><rb>X</rb><rp>(</rp><rt>テン</rt><rp>)</rp></ruby>で採用され普及した、スマートフォン画面上部の切り欠きのことを、「くぼみ」という意味の英語から何というでしょう？
   answer: ノッチ
   alternativeAnswers:
     - ノッチデザイン
@@ -352,7 +352,7 @@
     - キータ
 - question: その形状から「エレコム ブリッジ」と呼ばれることもある、PC機器メーカー「エレコム」のシンボルマークとしてしばしば用いられるアルファベット1文字は何でしょう？
   answer: m
-- question: 機械学習でおなじみの「<ruby><rb>Keras</rb><rp> (</rp><rt>ケラス</rt><rp>)</rp></ruby>」「<ruby><rb>Theano</rb><rp> (</rp><rt>テアノ</rt><rp>)</rp></ruby>」「<ruby><rb>TensorFlow</rb><rp> (</rp><rt>テンソルフロー</rt><rp>)</rp></ruby>」といえば、いずれも主に何というプログラミング言語で用いられるライブラリでしょう？
+- question: 機械学習でおなじみの「<ruby><rb>Keras</rb><rp>(</rp><rt>ケラス</rt><rp>)</rp></ruby>」「<ruby><rb>Theano</rb><rp>(</rp><rt>テアノ</rt><rp>)</rp></ruby>」「<ruby><rb>TensorFlow</rb><rp>(</rp><rt>テンソルフロー</rt><rp>)</rp></ruby>」といえば、いずれも主に何というプログラミング言語で用いられるライブラリでしょう？
   answer: Python
   alternativeAnswers:
     - パイソン
@@ -446,7 +446,7 @@
 - question: 会社の従業員が各々持ち込んだデバイスで業務を行うことを、アルファベット4文字で何というでしょう？
   answer: BYOD
   description: 「Bring Your Own Device」の略
-- question: 「<ruby><rb>CAR</rb><rp> (</rp><rt>カー</rt><rp>)</rp></ruby>」と「<ruby><rb>CDR</rb><rp> (</rp><rt>クダー</rt><rp>)</rp></ruby>」の2つの要素で構成される、LISPにおいて連結リストを表現するためのデータ構造は何でしょう？
+- question: 「<ruby><rb>CAR</rb><rp>(</rp><rt>カー</rt><rp>)</rp></ruby>」と「<ruby><rb>CDR</rb><rp>(</rp><rt>クダー</rt><rp>)</rp></ruby>」の2つの要素で構成される、LISPにおいて連結リストを表現するためのデータ構造は何でしょう？
   answer: コンスセル
   alternativeAnswers:
     - cons cell
@@ -490,12 +490,12 @@
   answer: 株式会社ゆめみ
   alternativeAnswers:
     - ゆめみ
-- question: 札幌医科大学出身の内科医・<ruby><rb>吉崎栄泰</rb><rp> (</rp><rt>よしざきはるやす</rt><rp>)</rp></ruby>によって開発された、1990年代の日本でZIP形式とともに広く用いられたファイル圧縮形式は何でしょう？
+- question: 札幌医科大学出身の内科医・<ruby><rb>吉崎栄泰</rb><rp>(</rp><rt>よしざきはるやす</rt><rp>)</rp></ruby>によって開発された、1990年代の日本でZIP形式とともに広く用いられたファイル圧縮形式は何でしょう？
   answer: LHA
   alternativeAnswers:
     - LHarc
   description: LHarcは旧称
-- question: コンパイラの略称で、<em>GCCの</em>「G」は<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>の略ですが、GHCの「G」は何の略でしょう？
+- question: コンパイラの略称で、<em>GCCの</em>「G」は<ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby>の略ですが、GHCの「G」は何の略でしょう？
   answer: グラスゴー
   alternativeAnswers:
     - Glasgow
@@ -657,7 +657,7 @@
   alternativeAnswers:
     - Boost
     - ブースト
-- question: <ruby><rb>Asana</rb><rp> (</rp><rt>アサナ</rt><rp>)</rp></ruby>や<ruby><rb>Trello</rb><rp> (</rp><rt>トレロ</rt><rp>)</rp></ruby>がその代表的な管理ソフトとして知られる、ポストイットのような見た目のカードにタスクを記入してプロジェクトの進捗を管理する手法のことを、由来となったトヨタの生産方式の名前から何というでしょう？
+- question: <ruby><rb>Asana</rb><rp>(</rp><rt>アサナ</rt><rp>)</rp></ruby>や<ruby><rb>Trello</rb><rp>(</rp><rt>トレロ</rt><rp>)</rp></ruby>がその代表的な管理ソフトとして知られる、ポストイットのような見た目のカードにタスクを記入してプロジェクトの進捗を管理する手法のことを、由来となったトヨタの生産方式の名前から何というでしょう？
   answer: kanban
   alternativeAnswers:
     - かんばん
@@ -686,7 +686,7 @@
     - 第一世代
     - 第1
     - 第一
-- question: 天才高校生ハッカーの主人公・<ruby><rb>高木藤丸</rb><rp> (</rp><rt>たかぎふじまる</rt><rp>)</rp></ruby>が無差別大量殺人を目論むテロ集団に立ち向かうという内容の、週刊少年マガジンで2007年から連載された<ruby><rb>龍門諒</rb><rp> (</rp><rt>りゅうもんりょう</rt><rp>)</rp></ruby>原作・<ruby><rb>恵広史</rb><rp> (</rp><rt>めぐみこうじ</rt><rp>)</rp></ruby>作画の漫画は何でしょう？
+- question: 天才高校生ハッカーの主人公・<ruby><rb>高木藤丸</rb><rp>(</rp><rt>たかぎふじまる</rt><rp>)</rp></ruby>が無差別大量殺人を目論むテロ集団に立ち向かうという内容の、週刊少年マガジンで2007年から連載された<ruby><rb>龍門諒</rb><rp>(</rp><rt>りゅうもんりょう</rt><rp>)</rp></ruby>原作・<ruby><rb>恵広史</rb><rp>(</rp><rt>めぐみこうじ</rt><rp>)</rp></ruby>作画の漫画は何でしょう？
   answer: 『ブラッディ・マンデイ』
 - question: スマートフォン向け日本語入力システム「Simeji」を提供している、中国におけるシェア最大の検索エンジンを運営するIT企業は何でしょう？
   answer: Baidu
@@ -724,7 +724,7 @@
   answer: Brave
   alternativeAnswers:
     - Brave Browser
-- question: 1998年に<ruby><rb>陳盈豪</rb><rp> (</rp><rt>チェンインハウ</rt><rp>)</rp></ruby>によって制作され、台湾を中心に深刻な被害をもたらしたコンピューターウイルスを、このウイルスの起動タイマーが設定された4月26日にちなんで何ウイルスというでしょう？
+- question: 1998年に<ruby><rb>陳盈豪</rb><rp>(</rp><rt>チェンインハウ</rt><rp>)</rp></ruby>によって制作され、台湾を中心に深刻な被害をもたらしたコンピューターウイルスを、このウイルスの起動タイマーが設定された4月26日にちなんで何ウイルスというでしょう？
   answer: チェルノブイリウイルス
   alternativeAnswers:
     - チェルノブイリ
@@ -815,7 +815,7 @@
   answer: Steam Deck
   alternativeAnswers:
     - スチームデック
-- question: 「<ruby><rb>珠音</rb><rp> (</rp><rt>たまね</rt><rp>)</rp></ruby>」という公式マスコットキャラクターも存在する、オニオンソフトにより開発されBASICに似た言語仕様を特徴とするスクリプト言語システムは何でしょう？
+- question: 「<ruby><rb>珠音</rb><rp>(</rp><rt>たまね</rt><rp>)</rp></ruby>」という公式マスコットキャラクターも存在する、オニオンソフトにより開発されBASICに似た言語仕様を特徴とするスクリプト言語システムは何でしょう？
   answer: HSP
   alternativeAnswers:
     - Hot Soup Processor
@@ -990,7 +990,7 @@
   answer: 食べログ
   alternativeAnswers:
     - tabelog
-- question: 数学者の<ruby><rb>管梅谷</rb><rp> (</rp><rt>カンメイコー</rt><rp>)</rp></ruby>が研究していたことからその名がつけられた、重み付き無向グラフのすべての辺を通って最初の頂点に戻る最短の経路を求める問題のことを何というでしょう？
+- question: 数学者の<ruby><rb>管梅谷</rb><rp>(</rp><rt>カンメイコー</rt><rp>)</rp></ruby>が研究していたことからその名がつけられた、重み付き無向グラフのすべての辺を通って最初の頂点に戻る最短の経路を求める問題のことを何というでしょう？
   answer: 中国人郵便配達問題
   minhayaQuestion: 数学者の管梅谷が研究していたことからその名がつけられた、重み付き無向グラフのすべての辺を通る最短の閉路を求める問題のことを何問題というでしょう？
   alternativeAnswers:
@@ -1010,7 +1010,7 @@
   alternativeAnswers:
     - 半導体サイクル
     - セミコンダクターサイクル
-- question: 英語での略称から「<ruby><rb>VSync</rb><rp> (</rp><rt>ブイシンク</rt><rp>)</rp></ruby>」とも呼ばれる、アプリケーションのフレームレートをモニターのフレームレートと同期することで映像を安定化させる機能を「何同期」というでしょう？
+- question: 英語での略称から「<ruby><rb>VSync</rb><rp>(</rp><rt>ブイシンク</rt><rp>)</rp></ruby>」とも呼ばれる、アプリケーションのフレームレートをモニターのフレームレートと同期することで映像を安定化させる機能を「何同期」というでしょう？
   answer: 垂直同期
   alternativeAnswers:
     - 垂直
@@ -1149,7 +1149,7 @@
   alternativeAnswers:
     - サンセリフ
     - sans serif
-- question: <ruby><rb>蓮舫</rb><rp> (</rp><rt>れんほう</rt><rp>)</rp></ruby>議員の「2位じゃだめなんでしょうか」という発言でも話題となった、運用開始時世界1位の計算能力を持った日本のスーパーコンピューターは何でしょう？
+- question: <ruby><rb>蓮舫</rb><rp>(</rp><rt>れんほう</rt><rp>)</rp></ruby>議員の「2位じゃだめなんでしょうか」という発言でも話題となった、運用開始時世界1位の計算能力を持った日本のスーパーコンピューターは何でしょう？
   answer: 京
   alternativeAnswers:
     - けい
@@ -1413,7 +1413,7 @@
   answer: スターリンク
   alternativeAnswers:
     - Starlink
-- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた浮動小数点数において全てのビットが0である場合、どのような値を表すでしょう？
+- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた浮動小数点数において全てのビットが0である場合、どのような値を表すでしょう？
   answer: '0'
   alternativeAnswers:
     - ゼロ
@@ -1424,12 +1424,12 @@
     - barebone kit
     - barebone computer
     - barebone
-- question: One、<ruby><rb>Cintiq</rb><rp> (</rp><rt>シンティック</rt><rp>)</rp></ruby>、<ruby><rb>Intuos</rb><rp> (</rp><rt>インテュオス</rt><rp>)</rp></ruby>などのペンタブレット・液晶タブレット製品を販売している、埼玉県加須市に本社を置く日本の電子機器メーカーは何でしょう？
+- question: One、<ruby><rb>Cintiq</rb><rp>(</rp><rt>シンティック</rt><rp>)</rp></ruby>、<ruby><rb>Intuos</rb><rp>(</rp><rt>インテュオス</rt><rp>)</rp></ruby>などのペンタブレット・液晶タブレット製品を販売している、埼玉県加須市に本社を置く日本の電子機器メーカーは何でしょう？
   answer: 株式会社ワコム
   alternativeAnswers:
     - Wacom
     - ワコム
-- question: 韓国語では「<ruby><rb>朴</rb><rp> (</rp><rt>パク</rt><rp>)</rp></ruby>さん」、中国語では「<ruby><rb>王</rb><rp> (</rp><rt>ワン</rt><rp>)</rp></ruby>さん」、英語では「スミスさん」という名前でリリースされている、接続したユーザー同士で匿名で電話することができるアプリは何でしょう？
+- question: 韓国語では「<ruby><rb>朴</rb><rp>(</rp><rt>パク</rt><rp>)</rp></ruby>さん」、中国語では「<ruby><rb>王</rb><rp>(</rp><rt>ワン</rt><rp>)</rp></ruby>さん」、英語では「スミスさん」という名前でリリースされている、接続したユーザー同士で匿名で電話することができるアプリは何でしょう？
   answer: 斉藤さん
 - question: 現在は東京都の新宿に本社を置く、「スパイバスター」や「ウイルスバスター」の開発で知られるセキュリティ企業は何でしょう？
   answer: トレンドマイクロ株式会社
@@ -1776,7 +1776,7 @@
   answer: リレー
   alternativeAnswers:
     - relay
-- question: 旧社名を「<ruby><rb>安井</rb><rp> (</rp><rt>やすい</rt><rp>)</rp></ruby>ミシン兄弟商会」という、カラオケ機器「JOYSOUND」の開発やプリンター・複合機の製造などで知られる電子機器メーカーは何でしょう？
+- question: 旧社名を「<ruby><rb>安井</rb><rp>(</rp><rt>やすい</rt><rp>)</rp></ruby>ミシン兄弟商会」という、カラオケ機器「JOYSOUND」の開発やプリンター・複合機の製造などで知られる電子機器メーカーは何でしょう？
   answer: ブラザー工業株式会社
   alternativeAnswers:
     - ブラザー工業
@@ -1954,7 +1954,7 @@
   alternativeAnswers:
     - レイジクイット
     - レージクイット
-- question: 「<ruby><rb>5G</rb><rp> (</rp><rt>ファイブジー</rt><rp>)</rp></ruby>通信」などというときの「G」は、何という単語の略でしょう？
+- question: 「<ruby><rb>5G</rb><rp>(</rp><rt>ファイブジー</rt><rp>)</rp></ruby>通信」などというときの「G」は、何という単語の略でしょう？
   answer: ジェネレーション
   alternativeAnswers:
     - Generation
@@ -1962,7 +1962,7 @@
   answer: 阿部寛
   alternativeAnswers:
     - あべひろし
-- question: 「子供時代の思い出を懐かしむ」という由来から<ruby><rb>風車</rb><rp> (</rp><rt>かざぐるま</rt><rp>)</rp></ruby>の形のロゴを持つGoogleのサービスといえば「Google 何」でしょう？
+- question: 「子供時代の思い出を懐かしむ」という由来から<ruby><rb>風車</rb><rp>(</rp><rt>かざぐるま</rt><rp>)</rp></ruby>の形のロゴを持つGoogleのサービスといえば「Google 何」でしょう？
   answer: Google フォト
   alternativeAnswers:
     - フォト
@@ -2282,7 +2282,7 @@
   alternativeAnswers:
     - early adopter
     - 初期採用者
-- question: 計算問題です。サーバーラックで「4Uサイズ」などといったときの「4U」とは何インチでしょう？
+- question: 計算問題です。サーバーラックで「4Uサイズ」といったときの「4U」は何インチに相当するでしょう？
   answer: 7インチ
   alternativeAnswers:
     - '7'
@@ -2461,7 +2461,7 @@
   alternativeAnswers:
     - One
     - ワン
-- question: 1995年に<ruby><rb>杜奕瑾</rb><rp> (</rp><rt>トゥイーチン</rt><rp>)</rp></ruby>が設立した、台湾最大のインターネット掲示板は何でしょう？
+- question: 1995年に<ruby><rb>杜奕瑾</rb><rp>(</rp><rt>トゥイーチン</rt><rp>)</rp></ruby>が設立した、台湾最大のインターネット掲示板は何でしょう？
   answer: PTT
   alternativeAnswers:
     - 批踢踢
@@ -2575,7 +2575,7 @@
     - チェーン
     - chain mail
     - chain
-- question: 「与謝野晶子」「<ruby><rb>官営八幡製鐵所</rb><rp> (</rp><rt>かんえいやはたせいてつじょ</rt><rp>)</rp></ruby>」「レターパックで現金送れは全て詐欺です」などのミームが2023年ごろに流行した、syuiloによって開発されたオープンソースの分散マイクロSNSは何でしょう？
+- question: 「与謝野晶子」「<ruby><rb>官営八幡製鐵所</rb><rp>(</rp><rt>かんえいやはたせいてつじょ</rt><rp>)</rp></ruby>」「レターパックで現金送れは全て詐欺です」などのミームが2023年ごろに流行した、syuiloによって開発されたオープンソースの分散マイクロSNSは何でしょう？
   answer: Misskey
   alternativeAnswers:
     - ミスキー
@@ -2630,7 +2630,7 @@
     - Google AdSense
     - アドセンス
     - AdSense
-- question: 数学者の<ruby><rb>島内剛一</rb><rp> (</rp><rt>しまうちたかかず</rt><rp>)</rp></ruby>によって考案された単語「<ruby><rb>算譜</rb><rp> (</rp><rt>さんぷ</rt><rp>)</rp></ruby>」といえば、何という英単語を表すためにかつて用いられていた訳語でしょう？
+- question: 数学者の<ruby><rb>島内剛一</rb><rp>(</rp><rt>しまうちたかかず</rt><rp>)</rp></ruby>によって考案された単語「<ruby><rb>算譜</rb><rp>(</rp><rt>さんぷ</rt><rp>)</rp></ruby>」といえば、何という英単語を表すためにかつて用いられていた訳語でしょう？
   answer: プログラム
   alternativeAnswers:
     - program
@@ -2648,7 +2648,7 @@
   alternativeAnswers:
     - '2007'
     - 西暦2007年
-- question: 日本語では「一般公衆利用許諾書」などと訳される、LinuxやGCCなど多くのフリーソフトウェアで採用されている<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>のソフトウェアライセンスといえば何でしょう？
+- question: 日本語では「一般公衆利用許諾書」などと訳される、LinuxやGCCなど多くのフリーソフトウェアで採用されている<ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby>のソフトウェアライセンスといえば何でしょう？
   answer: GNU GPL
   alternativeAnswers:
     - GPL
@@ -2773,7 +2773,7 @@
     - wheel
     - mouse wheel
     - scroll wheel
-- question: 「X」「5」「<ruby><rb>O</rb><rp> (</rp><rt>オー</rt><rp>)</rp></ruby>」「感嘆符」で始まる、ウイルス検知ソフトによってマルウェアと同じように扱われるように取り決められた68文字の文字列を、開発した団体の名前から何というでしょう？
+- question: 「X」「5」「<ruby><rb>O</rb><rp>(</rp><rt>オー</rt><rp>)</rp></ruby>」「感嘆符」で始まる、ウイルス検知ソフトによってマルウェアと同じように扱われるように取り決められた68文字の文字列を、開発した団体の名前から何というでしょう？
   answer: EICAR
   paperQuestion: 「X5O!P%@AP...」という内容で始まる、ウイルス検知ソフトによってマルウェアと同じように扱われるように取り決められた68文字の文字列を、開発した団体の名前から何というでしょう？
   alternativeAnswers:
@@ -2913,7 +2913,7 @@
   answer: IMDb
   alternativeAnswers:
     - Internet Movie Database
-- question: 著名なIT企業の頭文字を取った略語で、「<ruby><rb>FAANG</rb><rp> (</rp><rt>ファーング</rt><rp>)</rp></ruby>」には含まれるが「<ruby><rb>GAFA</rb><rp> (</rp><rt>ガーファ</rt><rp>)</rp></ruby>」には含まれない企業はどこでしょう？
+- question: 著名なIT企業の頭文字を取った略語で、「<ruby><rb>FAANG</rb><rp>(</rp><rt>ファーング</rt><rp>)</rp></ruby>」には含まれるが「<ruby><rb>GAFA</rb><rp>(</rp><rt>ガーファ</rt><rp>)</rp></ruby>」には含まれない企業はどこでしょう？
   answer: Netflix
   alternativeAnswers:
     - ネットフリックス
@@ -3103,7 +3103,7 @@
   alternativeAnswers:
     - 琉球
   description: ビジネスラリアート社が「.okinawa」とともに管理している
-- question: <ruby><rb>Shift_JIS</rb><rp> (</rp><rt>シフトジス</rt><rp>)</rp></ruby>において、符号化したデータをASCIIとして解釈したときにバックスラッシュが含まれてしまうことにより発生する問題のことを、バックスラッシュに割り当てられたコード番号を用いて俗に何と呼ぶでしょう？
+- question: <ruby><rb>Shift_JIS</rb><rp>(</rp><rt>シフトジス</rt><rp>)</rp></ruby>において、符号化したデータをASCIIとして解釈したときにバックスラッシュが含まれてしまうことにより発生する問題のことを、バックスラッシュに割り当てられたコード番号を用いて俗に何と呼ぶでしょう？
   answer: 5C問題
   alternativeAnswers:
     - 5C
@@ -3151,7 +3151,7 @@
   answer: ShowNet
   alternativeAnswers:
     - ショウネット
-- question: 「<ruby><rb>DEADBEEF</rb><rp> (</rp><rt>デッドビーフ</rt><rp>)</rp></ruby>」や「<ruby><rb>C0FFEE</rb><rp> (</rp><rt>コーヒー</rt><rp>)</rp></ruby>」などのように、16進数で表せる文字と数字だけで単語を表現する言葉遊びを英語で何というでしょう？
+- question: 「<ruby><rb>DEADBEEF</rb><rp>(</rp><rt>デッドビーフ</rt><rp>)</rp></ruby>」や「<ruby><rb>C0FFEE</rb><rp>(</rp><rt>コーヒー</rt><rp>)</rp></ruby>」などのように、16進数で表せる文字と数字だけで単語を表現する言葉遊びを英語で何というでしょう？
   answer: hexspeak
   alternativeAnswers:
     - ヘックススピーク
@@ -3532,18 +3532,18 @@
 - question: IBMの研究本部のビルの名前に由来する、RISCアーキテクチャのさきがけとして知られるプロセッサの名前は何でしょう？
   answer: IBM 801
   description: (#801)
-- question: 1980年2月に発足したことから名付けられた、イーサネットなどの規格を策定する<ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>の標準化組織は、「何委員会」でしょう？
+- question: 1980年2月に発足したことから名付けられた、イーサネットなどの規格を策定する<ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>の標準化組織は、「何委員会」でしょう？
   answer: 802委員会
   alternativeAnswers:
     - '802'
   description: (#802)
-- question: 「<ruby><rb>Matz</rb><rp> (</rp><rt>マッツ</rt><rp>)</rp></ruby>」というハンドルネームで広く知られている、プログラミング言語Rubyを発明した日本の開発者は誰でしょう？
+- question: 「<ruby><rb>Matz</rb><rp>(</rp><rt>マッツ</rt><rp>)</rp></ruby>」というハンドルネームで広く知られている、プログラミング言語Rubyを発明した日本の開発者は誰でしょう？
   answer: まつもとゆきひろ
 - question: ギリシャ語で「隠された」という意味の言葉に由来する、画像や動画などのファイルに秘密の情報を埋め込んで隠す技術のことを指す言葉は何でしょう？
   answer: ステガノグラフィ
   alternativeAnswers:
     - steganography
-- question: ソ連のコテルニコフ、日本の<ruby><rb>染谷勲</rb><rp> (</rp><rt>そめやいさお</rt><rp>)</rp></ruby>、アメリカのシャノンなど多数の研究者が独立に証明を与えたことで知られる情報学の定理を、一般的な名称では何というでしょう？
+- question: ソ連のコテルニコフ、日本の<ruby><rb>染谷勲</rb><rp>(</rp><rt>そめやいさお</rt><rp>)</rp></ruby>、アメリカのシャノンなど多数の研究者が独立に証明を与えたことで知られる情報学の定理を、一般的な名称では何というでしょう？
   answer: 標本化定理
   alternativeAnswers:
     - サンプリング定理
@@ -3718,7 +3718,7 @@
   answer: danbooru
   alternativeAnswers:
     - ダンボール
-- question: 漢字では「<ruby><rb>紅</rb><rp> (</rp><rt>くれない</rt><rp>)</rp></ruby>の<ruby><rb>米</rb><rp> (</rp><rt>こめ</rt><rp>)</rp></ruby>」と表記される、中国の家電メーカー「シャオミ」が展開するスマートフォンなどの廉価版ブランドの名前は何でしょう？
+- question: 漢字では「<ruby><rb>紅</rb><rp>(</rp><rt>くれない</rt><rp>)</rp></ruby>の<ruby><rb>米</rb><rp>(</rp><rt>こめ</rt><rp>)</rp></ruby>」と表記される、中国の家電メーカー「シャオミ」が展開するスマートフォンなどの廉価版ブランドの名前は何でしょう？
   answer: Redmi
   paperQuestion: 漢字では「紅米」と表記される、中国の家電メーカー「Xiaomi」が展開するスマートフォンなどの廉価版ブランドの名前は何でしょう？
   alternativeAnswers:
@@ -3877,7 +3877,7 @@
     - hold-out
 - question: ロブ・パイクとケン・トンプソンによって開発された、Unicodeの1文字を1バイトから4バイトの可変長で表す符号化方式は何でしょう？
   answer: UTF-8
-- question: 日本語では「より<ruby><rb>対</rb><rp> (</rp><rt>つい</rt><rp>)</rp></ruby>線」と呼ばれる、位相が逆の信号を伝える一対の電線をより合わせることによりノイズの影響を受けづらくしたケーブルを「何ケーブル」というでしょう？
+- question: 日本語では「より<ruby><rb>対</rb><rp>(</rp><rt>つい</rt><rp>)</rp></ruby>線」と呼ばれる、位相が逆の信号を伝える一対の電線をより合わせることによりノイズの影響を受けづらくしたケーブルを「何ケーブル」というでしょう？
   answer: ツイストペアケーブル
   alternativeAnswers:
     - ツイストペア
@@ -3928,7 +3928,7 @@
   alternativeAnswers:
     - Anker
     - アンカー
-- question: 「Q言語」「<ruby><rb>Q#</rb><rp> (</rp><rt>キューシャープ</rt><rp>)</rp></ruby>」「<ruby><rb>Silq</rb><rp> (</rp><rt>スリック</rt><rp>)</rp></ruby>」といえば、いずれもどのようなコンピューターで動作することを目的としたプログラミング言語でしょう？
+- question: 「Q言語」「<ruby><rb>Q#</rb><rp>(</rp><rt>キューシャープ</rt><rp>)</rp></ruby>」「<ruby><rb>Silq</rb><rp>(</rp><rt>スリック</rt><rp>)</rp></ruby>」といえば、いずれもどのようなコンピューターで動作することを目的としたプログラミング言語でしょう？
   answer: 量子コンピューター
 - question: 2019年に欧米圏で放映されたMicrosoftのCMには、ブックさんという名前のSurfaceユーザーが起用されました。CM中でも紹介されたこの人のフルネームは何でしょう？
   answer: マック
@@ -4022,13 +4022,13 @@
   alternativeAnswers:
     - 南極大陸
     - 南極圏
-- question: 「｜warez（ウェアーズ）」という英米圏のスラングが由来とされる、インターネットで配布されているソフトウェアの違法コピーを指すネットスラングは何でしょう？
+- question: 「<ruby><rb>warez</rb><rp>(</rp><rt>ウェアーズ</rt><rp>)</rp></ruby>」という英米圏のスラングが由来とされる、インターネットで配布されているソフトウェアの違法コピーを指すネットスラングは何でしょう？
   answer: 割れ
 - question: レア、モヤン、ゼニマックス、アクティビジョンなど数多くのゲーム会社をこれまでに買収または予定している、ゲーム機「Xbox」の開発などで知られるアメリカのIT企業は何でしょう？
   answer: マイクロソフト
   alternativeAnswers:
     - Microsoft
-- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた浮動小数点数において全てのビットが1である場合、どのような値を表すでしょう？
+- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた浮動小数点数において全てのビットが1である場合、どのような値を表すでしょう？
   answer: NaN
 - question: 英語では「レンチキュラーブラケット」や「ゴシックブラケット」などと呼ばれ、動画タイトルなどによく用いられる括弧記号のことを、JIS規格などに由来する呼び名で何括弧というでしょう？
   answer: すみ付き括弧
@@ -4441,7 +4441,7 @@
   answer: リライタブル
   alternativeAnswers:
     - ReWritable
-- question: その名に反して<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>プロジェクトとは特に関係がない、1986年に開発されたオープンソースのグラフ描画ソフトウェアは何でしょう？
+- question: その名に反して<ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby>プロジェクトとは特に関係がない、1986年に開発されたオープンソースのグラフ描画ソフトウェアは何でしょう？
   answer: gnuplot
   alternativeAnswers:
     - ニュープロット
@@ -4557,7 +4557,7 @@
   alternativeAnswers:
     - カリー
     - currying
-- question: 弱小ゲーム会社「スタジオG3」の社長である<ruby><rb>天川太陽</rb><rp> (</rp><rt>てんかわたいよう</rt><rp>)</rp></ruby>を主人公とし、締め切りを前にしたゲームプログラマーの悪戦苦闘を描いた、漫画家ユニット・うめ作の漫画は何でしょう？
+- question: 弱小ゲーム会社「スタジオG3」の社長である<ruby><rb>天川太陽</rb><rp>(</rp><rt>てんかわたいよう</rt><rp>)</rp></ruby>を主人公とし、締め切りを前にしたゲームプログラマーの悪戦苦闘を描いた、漫画家ユニット・うめ作の漫画は何でしょう？
   answer: 『東京トイボックス』
   alternativeAnswers:
     - 『大東京トイボックス』
@@ -4565,7 +4565,7 @@
   answer: Yostar
   alternativeAnswers:
     - ヨースター
-- question: インターネットで有名な楽曲「<ruby><rb>Ievan Polkka</rb><rp> (</rp><rt>イエヴァン・ポルッカ</rt><rp>)</rp></ruby>」は、どこの国の民謡でしょう？
+- question: インターネットで有名な楽曲「<ruby><rb>Ievan Polkka</rb><rp>(</rp><rt>イエヴァン・ポルッカ</rt><rp>)</rp></ruby>」は、どこの国の民謡でしょう？
   answer: フィンランド
 - question: ロボアド投資やQR決済など、金融分野の問題を技術で解決するための仕組みを、「金融」と「技術」を意味する英語を組み合わせて何というでしょう？
   answer: フィンテック
@@ -4649,7 +4649,7 @@
     - ERP
     - ERP package
     - Enterprise Resource Planning
-- question: 「<ruby><rb>MOV</rb><rp> (</rp><rt>ムーブ</rt><rp>)</rp></ruby>」や「<ruby><rb>NOP</rb><rp> (</rp><rt>ノップ</rt><rp>)</rp></ruby>」などのように、CPUに送られる命令を人間にわかりやすいように表現したアルファベット数文字の文字列を、「記憶を助ける」という意味の英語から何というでしょう？
+- question: 「<ruby><rb>MOV</rb><rp>(</rp><rt>ムーブ</rt><rp>)</rp></ruby>」や「<ruby><rb>NOP</rb><rp>(</rp><rt>ノップ</rt><rp>)</rp></ruby>」などのように、CPUに送られる命令を人間にわかりやすいように表現したアルファベット数文字の文字列を、「記憶を助ける」という意味の英語から何というでしょう？
   answer: ニーモニック
   alternativeAnswers:
     - mnemonic
@@ -4722,7 +4722,7 @@
   answer: 3キー
   alternativeAnswers:
     - '3'
-- question: 「Remote Dictionary Server」という英語を略して名付けられた、キーバリュー型の<ruby><rb>NoSQL</rb><rp> (</rp><rt>ノーエスキューエル</rt><rp>)</rp></ruby>データベースエンジンは何でしょう？
+- question: 「Remote Dictionary Server」という英語を略して名付けられた、キーバリュー型の<ruby><rb>NoSQL</rb><rp>(</rp><rt>ノーエスキューエル</rt><rp>)</rp></ruby>データベースエンジンは何でしょう？
   answer: Redis
   alternativeAnswers:
     - レディス
@@ -4770,7 +4770,7 @@
   answer: pixiv
   alternativeAnswers:
     - ピクシブ
-- question: 日本では毎年冬に開催される「<ruby><rb>SECCON</rb><rp> (</rp><rt>セクコン</rt><rp>)</rp></ruby>」が最大級の大会として知られている、情報セキュリティ技術の競技大会は何でしょう？
+- question: 日本では毎年冬に開催される「<ruby><rb>SECCON</rb><rp>(</rp><rt>セクコン</rt><rp>)</rp></ruby>」が最大級の大会として知られている、情報セキュリティ技術の競技大会は何でしょう？
   answer: CTF
   alternativeAnswers:
     - Capture The Flag
@@ -4792,7 +4792,7 @@
   answer: 空メール
   alternativeAnswers:
     - 空
-- question: 将棋ソフト「Bonanza」のクラスターであることからその名前がつけられた、第1回将棋電王戦において<ruby><rb>米長邦雄</rb><rp> (</rp><rt>よねながくにお</rt><rp>)</rp></ruby>永世棋聖と対戦し勝利を収めたコンピューター将棋プログラムは何でしょう？
+- question: 将棋ソフト「Bonanza」のクラスターであることからその名前がつけられた、第1回将棋電王戦において<ruby><rb>米長邦雄</rb><rp>(</rp><rt>よねながくにお</rt><rp>)</rp></ruby>永世棋聖と対戦し勝利を収めたコンピューター将棋プログラムは何でしょう？
   answer: ボンクラーズ
   alternativeAnswers:
     - Bonkras
@@ -4818,7 +4818,7 @@
     - ひらぶん
     - へいぶん
   description: 一般的には「ひらぶん」と読むが、一部の規格では「へいぶん」という読みも使われる
-- question: GPUの中でも、<ruby><rb>GeForce</rb><rp> (</rp><rt>ジーフォース</rt><rp>)</rp></ruby>や<ruby><rb>Radeon</rb><rp> (</rp><rt>ラディオン</rt><rp>)</rp></ruby>などマザーボードに取り付けられるCPU外部型のGPUのことを、CPU内蔵型を指す「iGPU」に対比される言葉で「何GPU」というでしょう？
+- question: GPUの中でも、<ruby><rb>GeForce</rb><rp>(</rp><rt>ジーフォース</rt><rp>)</rp></ruby>や<ruby><rb>Radeon</rb><rp>(</rp><rt>ラディオン</rt><rp>)</rp></ruby>などマザーボードに取り付けられるCPU外部型のGPUのことを、CPU内蔵型を指す「iGPU」に対比される言葉で「何GPU」というでしょう？
   answer: dGPU
   alternativeAnswers:
     - d
@@ -4826,7 +4826,7 @@
   description: マザーボードに取り付けられない「eGPU」とは異なる。
 - question: 5ちゃんねるの掲示板の1つ「なんJ」の「J」は、何という単語の略でしょう？
   answer: ジュピター
-- question: C言語では「<ruby><rb>\</rb><rp> (</rp><rt>バックスラッシュ</rt><rp>)</rp></ruby>a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
+- question: C言語では「<ruby><rb>\</rb><rp>(</rp><rt>バックスラッシュ</rt><rp>)</rp></ruby>a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
   paperQuestion: C言語では「\a」という記号列によって表現される、ターミナルに出力するとシステムのアラート音を鳴らすことができるASCIIの特殊文字は「何文字」でしょう？
   answer: ベル文字
   alternativeAnswers:
@@ -4847,7 +4847,7 @@
   alternativeAnswers:
     - 나무위키
     - namuwiki
-- question: C言語の標準関数で、<ruby><rb>atoi</rb><rp> (</rp><rt>エイトゥーアイ</rt><rp>)</rp></ruby>関数はint型、<em><ruby><rb>atol</rb><rp> (</rp><rt>エイトゥーエル</rt><rp>)</rp></ruby>関数は</em>long型を戻り値としますが、<ruby><rb>atof</rb><rp> (</rp><rt>エイトゥーエフ</rt><rp>)</rp></ruby>関数は何<ruby><rb>型</rb><rp> (</rp><rt>がた</rt><rp>)</rp></ruby>を戻り値とするでしょう？
+- question: C言語の標準関数で、<ruby><rb>atoi</rb><rp>(</rp><rt>エイトゥーアイ</rt><rp>)</rp></ruby>関数はint型、<em><ruby><rb>atol</rb><rp>(</rp><rt>エイトゥーエル</rt><rp>)</rp></ruby>関数は</em>long型を戻り値としますが、<ruby><rb>atof</rb><rp>(</rp><rt>エイトゥーエフ</rt><rp>)</rp></ruby>関数は何<ruby><rb>型</rb><rp>(</rp><rt>がた</rt><rp>)</rp></ruby>を戻り値とするでしょう？
   answer: double型
   alternativeAnswers:
     - double
@@ -5225,7 +5225,7 @@
   answer: ポール・ガードナー・アレン
   alternativeAnswers:
     - ポール・アレン
-- question: 画面解像度で「<ruby><rb>4K</rb><rp> (</rp><rt>よんケー</rt><rp>)</rp></ruby>」と言ったとき、その短辺の長さは何ピクセルとされることが多いでしょう？
+- question: 画面解像度で「<ruby><rb>4K</rb><rp>(</rp><rt>よんケー</rt><rp>)</rp></ruby>」と言ったとき、その短辺の長さは何ピクセルとされることが多いでしょう？
   answer: 2160ピクセル
   alternativeAnswers:
     - 2160 pixel
@@ -5271,7 +5271,7 @@
   answer: プチコン
   alternativeAnswers:
     - プチコンシリーズ
-- question: アメリカ国防総省の<ruby><rb>DARPA</rb><rp> (</rp><rt>ダーパ</rt><rp>)</rp></ruby>が提唱した、「出力結果が説明可能な人工知能」という概念を、アルファベット3文字で略して何というでしょう？
+- question: アメリカ国防総省の<ruby><rb>DARPA</rb><rp>(</rp><rt>ダーパ</rt><rp>)</rp></ruby>が提唱した、「出力結果が説明可能な人工知能」という概念を、アルファベット3文字で略して何というでしょう？
   answer: XAI
   description: 「Explainable AI」の略
 - question: iOSデバイス上でPythonプログラミングをすることができる統合環境の名前にもなっている、プログラミング言語Pythonを愛用する人を指す言葉は何でしょう？
@@ -5310,7 +5310,7 @@
   alternativeAnswers:
     - チェリーピック
   description: みんはや「チェリーピッキ」削除
-- question: ネットスラングで「サ<ruby><rb>終</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>」といえば、何という言葉の略でしょう？
+- question: ネットスラングで「サ<ruby><rb>終</rb><rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>」といえば、何という言葉の略でしょう？
   answer: サービス終了
 - question: 現在では赤・白・黄色の3色のケーブルを用いるものが代表的な、映像や音声を伝達するのに用いる端子を、これを開発した家電メーカーの名前から一般に何端子というでしょう？
   answer: RCA端子
@@ -5387,7 +5387,7 @@
   answer: Generation
   alternativeAnswers:
     - ジェネレーション
-- question: クレイグ・トーマスの小説、スマブラのフォックスの上必殺技、<ruby><rb>Mozilla</rb><rp> (</rp><rt>モジラ</rt><rp>)</rp></ruby>が開発するウェブブラウザに共通する名前は何でしょう？
+- question: クレイグ・トーマスの小説、スマブラのフォックスの上必殺技、<ruby><rb>Mozilla</rb><rp>(</rp><rt>モジラ</rt><rp>)</rp></ruby>が開発するウェブブラウザに共通する名前は何でしょう？
   answer: ファイアフォックス
   alternativeAnswers:
     - firefox
@@ -5460,7 +5460,7 @@
   answer: FoMO
   alternativeAnswers:
     - Fear of Missing Out
-- question: Linuxでは<ruby><rb>uptime</rb><rp> (</rp><rt>アップタイム</rt><rp>)</rp></ruby>などのコマンドで確認することができる、CPUで実行待ちになっているプロセスの数によって表されるシステムの負荷の指標は何でしょう？
+- question: Linuxでは<ruby><rb>uptime</rb><rp>(</rp><rt>アップタイム</rt><rp>)</rp></ruby>などのコマンドで確認することができる、CPUで実行待ちになっているプロセスの数によって表されるシステムの負荷の指標は何でしょう？
   answer: ロードアベレージ
   alternativeAnswers:
     - load average
@@ -5528,7 +5528,7 @@
     - スーパー
     - super app
     - super
-- question: その有名なジングルはさまぁ〜ずの<ruby><rb>大竹一樹</rb><rp> (</rp><rt>おおたけかずき</rt><rp>)</rp></ruby>のアドリブに由来すると言われている、「LABI」や「テックランド」などの店舗を展開する日本の家電量販店は何でしょう？
+- question: その有名なジングルはさまぁ〜ずの<ruby><rb>大竹一樹</rb><rp>(</rp><rt>おおたけかずき</rt><rp>)</rp></ruby>のアドリブに由来すると言われている、「LABI」や「テックランド」などの店舗を展開する日本の家電量販店は何でしょう？
   answer: ヤマダ電機
   alternativeAnswers:
     - ヤマダ
@@ -5604,7 +5604,7 @@
     - Huawei
     - Huawei Technologies
   description: ファーウェイは2020年にはスマホシェアで一時的に世界1位を記録したが後に転落。2021 Q3 段階では世界7位と大きく苦戦している
-- question: Pythonの標準コーディング規約「<ruby><rb>PEP-8</rb><rp> (</rp><rt>ペップエイト</rt><rp>)</rp></ruby>」で、クラス内部での使用を想定したメソッドの先頭につけるべきとされている記号1文字は何でしょう？
+- question: Pythonの標準コーディング規約「<ruby><rb>PEP-8</rb><rp>(</rp><rt>ペップエイト</rt><rp>)</rp></ruby>」で、クラス内部での使用を想定したメソッドの先頭につけるべきとされている記号1文字は何でしょう？
   answer: _
   alternativeAnswers:
     - アンダースコア
@@ -5694,7 +5694,7 @@
     - Paint
     - マイクロソフトペイント
     - ペイント
-- question: 線形合同法、<ruby><rb>Xorshift</rb><rp> (</rp><rt>エックスオアシフト</rt><rp>)</rp></ruby>、メルセンヌ・ツイスタといえば、何を生成するためのアルゴリズムでしょう？
+- question: 線形合同法、<ruby><rb>Xorshift</rb><rp>(</rp><rt>エックスオアシフト</rt><rp>)</rp></ruby>、メルセンヌ・ツイスタといえば、何を生成するためのアルゴリズムでしょう？
   answer: 乱数
   alternativeAnswers:
     - 疑似乱数
@@ -5782,7 +5782,7 @@
     - '17'
     - ワンセブンライブ
     - ワンセブン
-- question: ネットスラングの「<ruby><rb>^H</rb><rp> (</rp><rt>キャレットエイチ</rt><rp>)</rp></ruby>」の由来であり、ASCIIコードでは8が割り当てられている、現在のカーソル位置の直前の文字を削除することを意味する制御文字は何でしょう？
+- question: ネットスラングの「<ruby><rb>^H</rb><rp>(</rp><rt>キャレットエイチ</rt><rp>)</rp></ruby>」の由来であり、ASCIIコードでは8が割り当てられている、現在のカーソル位置の直前の文字を削除することを意味する制御文字は何でしょう？
   answer: バックスペース
   minhayaQuestion: ネットスラングの「^H」の由来であり、ASCIIコードでは8が割り当てられている、現在のカーソル位置の直前の文字を削除することを意味する制御文字を英語で何というでしょう？
   alternativeAnswers:
@@ -5830,7 +5830,7 @@
   description: https://github.com/asdf-vm/asdf/issues/1369#issuecomment-1360685071
 - question: その過激な動画内容から人気を集め、特に「〇〇を救いたい」という動画シリーズはネットミームにもなっている、元「炎上軍」所属の日本のプロレスラーは誰でしょう？
   answer: シバター
-- question: <ruby><rb>Makuake</rb><rp> (</rp><rt>マクアケ</rt><rp>)</rp></ruby>、<ruby><rb>READYFOR</rb><rp> (</rp><rt>レディーフォー</rt><rp>)</rp></ruby>、<ruby><rb>CAMPFIRE</rb><rp> (</rp><rt>キャンプファイア</rt><rp>)</rp></ruby>といえば、いずれも何を行う人々を支援するウェブサービスでしょう？
+- question: <ruby><rb>Makuake</rb><rp>(</rp><rt>マクアケ</rt><rp>)</rp></ruby>、<ruby><rb>READYFOR</rb><rp>(</rp><rt>レディーフォー</rt><rp>)</rp></ruby>、<ruby><rb>CAMPFIRE</rb><rp>(</rp><rt>キャンプファイア</rt><rp>)</rp></ruby>といえば、いずれも何を行う人々を支援するウェブサービスでしょう？
   answer: クラウドファンディング
   alternativeAnswers:
     - crowdfunding
@@ -5951,7 +5951,7 @@
     - Off-by-one
     - オフバイワンエラー
     - オフバイワン
-- question: 画像ファイルの「<ruby><rb>JPEG</rb><rp> (</rp><rt>ジェイペグ</rt><rp>)</rp></ruby>」「PNG」「SVG」のうち、略す前の名称に「グラフィックス」という単語が含まれないのはどれでしょう？
+- question: 画像ファイルの「<ruby><rb>JPEG</rb><rp>(</rp><rt>ジェイペグ</rt><rp>)</rp></ruby>」「PNG」「SVG」のうち、略す前の名称に「グラフィックス」という単語が含まれないのはどれでしょう？
   answer: JPEG
   description: JPEGは「Joint Photographic Experts Group」の略。作成したワーキンググループの名前がそのまま使われている
 - question: SSDに残っている残骸データをあらかじめ削除し、新しいデータをすぐに書き込める状態にしておくストレージの最適化手法のことを、英語で何というでしょう？
@@ -6034,7 +6034,7 @@
     - ニュー速VIP
     - ニュース速報(VIP)
     - VIP
-- question: 「<ruby><rb>+</rb><rp> (</rp><rt>プラス</rt><rp>)</rp></ruby> 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
+- question: 「<ruby><rb>+</rb><rp>(</rp><rt>プラス</rt><rp>)</rp></ruby> 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
   answer: ポーランド記法
   paperQuestion: 「+ 2 4」のように、演算子を被演算子の前に記述する数式の記述方法を何というでしょう？
   alternativeAnswers:
@@ -6156,7 +6156,7 @@
     - サイクル
     - cycle computer
     - cycle
-- question: 1986年に<ruby><rb>石塚匡哉</rb><rp> (</rp><rt>いしづかまさや</rt><rp>)</rp></ruby>によって開発された、任意のファイルをテキストデータに変換し転送するためにインターネット黎明期の日本で広く用いられたファイルフォーマットは何でしょう？
+- question: 1986年に<ruby><rb>石塚匡哉</rb><rp>(</rp><rt>いしづかまさや</rt><rp>)</rp></ruby>によって開発された、任意のファイルをテキストデータに変換し転送するためにインターネット黎明期の日本で広く用いられたファイルフォーマットは何でしょう？
   answer: ish
 - question: 正式名称を『プログラミングコンテストチャレンジブック』という競技プログラミングの有名な入門書を、表紙に描かれた動物の名前から通称何と呼ぶでしょう？
   answer: 蟻本
@@ -6193,7 +6193,7 @@
   alternativeAnswers:
     - Sofmap
   description: 曲名は「HELLO,SOFMAP WORLD」
-- question: プログラマとしても「<ruby><rb>NicomentXenoglossia</rb><rp> (</rp><rt>ニコメントゼノグロッシア</rt><rp>)</rp></ruby>」などのソフトウェアを開発している、大手テキストサイトの管理人として2000年代前半に絶大な人気を誇った「バーチャルネットアイドル」といえば誰でしょう？
+- question: プログラマとしても「<ruby><rb>NicomentXenoglossia</rb><rp>(</rp><rt>ニコメントゼノグロッシア</rt><rp>)</rp></ruby>」などのソフトウェアを開発している、大手テキストサイトの管理人として2000年代前半に絶大な人気を誇った「バーチャルネットアイドル」といえば誰でしょう？
   answer: ちゆ12歳
 - question: 管理者のワタナベはプログラマーとしても多くのソフトウェアを公開している、開設から25年経った現在も毎日更新が続けられている老舗のテキストサイトは何でしょう？
   answer: ろじっくぱらだいす
@@ -6224,7 +6224,7 @@
   answer: マインドストーム
   alternativeAnswers:
     - MINDSTORM
-- question: ビデオショップで借りた『アポロ<ruby><rb>13</rb><rp> (</rp><rt>サーティーン</rt><rp>)</rp></ruby>』の返却期限に間に合わず延滞料を払わされたことが開発のきっかけであるといわれている、世界最大のサブスク型ストリーミングサービスは何でしょう？
+- question: ビデオショップで借りた『アポロ<ruby><rb>13</rb><rp>(</rp><rt>サーティーン</rt><rp>)</rp></ruby>』の返却期限に間に合わず延滞料を払わされたことが開発のきっかけであるといわれている、世界最大のサブスク型ストリーミングサービスは何でしょう？
   answer: Netflix
   alternativeAnswers:
     - ネットフリックス
@@ -6375,7 +6375,7 @@
   answer: トレイト
   alternativeAnswers:
     - trait
-- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby> 754の策定に大きな貢献をするなど、生涯に渡り浮動小数点数の研究を行ったことから「浮動小数点数の父」と呼ばれる人物は誰でしょう？
+- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby> 754の策定に大きな貢献をするなど、生涯に渡り浮動小数点数の研究を行ったことから「浮動小数点数の父」と呼ばれる人物は誰でしょう？
   answer: ウィリアム・カハン
   alternativeAnswers:
     - William Kahan
@@ -6405,11 +6405,11 @@
   answer: ワールド・ワイド・ウェブ
   alternativeAnswers:
     - World Wide Web, WWW
-- question: 彼の2人の娘の名前からそれぞれ「<ruby><rb>MySQL</rb><rp> (</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>」「<ruby><rb>MariaDB</rb><rp> (</rp><rt>マリアディービー</rt><rp>)</rp></ruby>」というデータベースエンジンが命名された、「モンティ」という愛称でも知られるフィンランド生まれのプログラマーは誰でしょう？
+- question: 彼の2人の娘の名前からそれぞれ「<ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>」「<ruby><rb>MariaDB</rb><rp>(</rp><rt>マリアディービー</rt><rp>)</rp></ruby>」というデータベースエンジンが命名された、「モンティ」という愛称でも知られるフィンランド生まれのプログラマーは誰でしょう？
   answer: ミカエル・ウィデニウス
   alternativeAnswers:
     - Michael Widenius
-- question: 1996年に公開されたときは「<ruby><rb>BackRub</rb><rp> (</rp><rt>バックラブ</rt><rp>)</rp></ruby>」という名前だった、100ペタバイト以上の検索インデックスを持つ世界最大の検索エンジンは何でしょう？
+- question: 1996年に公開されたときは「<ruby><rb>BackRub</rb><rp>(</rp><rt>バックラブ</rt><rp>)</rp></ruby>」という名前だった、100ペタバイト以上の検索インデックスを持つ世界最大の検索エンジンは何でしょう？
   answer: Google
   alternativeAnswers:
     - グーグル
@@ -6486,7 +6486,7 @@
     - Jimmy Wales
 - question: 英語では「congestion」と呼ばれる、ネットワークにおいて処理可能な通信量を超える通信要求が行われることにより通信ができなくなる現象を、漢字二文字で何というでしょう？
   answer: 輻輳
-- question: ダンテの『神曲』に登場する「悪の<ruby><rb>嚢</rb><rp> (</rp><rt>ふくろ</rt><rp>)</rp></ruby>」にちなんで名付けられた、そのあまりの難解さから最初のHello Worldプログラムが記述されるまでに2年を要したプログラミング言語は何でしょう？
+- question: ダンテの『神曲』に登場する「悪の<ruby><rb>嚢</rb><rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>」にちなんで名付けられた、そのあまりの難解さから最初のHello Worldプログラムが記述されるまでに2年を要したプログラミング言語は何でしょう？
   answer: Malbolge
   alternativeAnswers:
     - マーレボルジェ
@@ -6641,7 +6641,7 @@
   answer: 非武装地帯
   alternativeAnswers:
     - demilitarized zone
-- question: <em>「<ruby><rb>King Gnu</rb><rp> (</rp><rt>キングヌー</rt><rp>)</rp></ruby>」の</em>リーダーといえば常田大希ですが、「<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>」のリーダーといえば誰でしょう？
+- question: <em>「<ruby><rb>King Gnu</rb><rp>(</rp><rt>キングヌー</rt><rp>)</rp></ruby>」の</em>リーダーといえば常田大希ですが、「<ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby>」のリーダーといえば誰でしょう？
   answer: リチャード・ストールマン
   alternativeAnswers:
     - Richard Stallman
@@ -6846,7 +6846,7 @@
   answer: パワーデリバリー
   alternativeAnswers:
     - Power Delivery
-- question: 「人懐っこく、好奇心旺盛」な性格を持つ、2006年に<ruby><rb>Mozilla</rb><rp> (</rp><rt>モジラ</rt><rp>)</rp></ruby> Japanが作成したFirefoxの公式マスコットキャラクターは何でしょう？
+- question: 「人懐っこく、好奇心旺盛」な性格を持つ、2006年に<ruby><rb>Mozilla</rb><rp>(</rp><rt>モジラ</rt><rp>)</rp></ruby> Japanが作成したFirefoxの公式マスコットキャラクターは何でしょう？
   answer: フォクすけ
   alternativeAnswers:
     - Foxkeh
@@ -6920,11 +6920,11 @@
   alternativeAnswers:
     - ウェイ
   description: 暗号学者の戴维(ウェイ・ダイ)に由来する
-- question: アイコンには「ウィルバー」と呼ばれるマスコットキャラクターが描かれている、<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>プロジェクトによって開発が進められている画像編集フリーソフトウェアは何でしょう？
+- question: アイコンには「ウィルバー」と呼ばれるマスコットキャラクターが描かれている、<ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby>プロジェクトによって開発が進められている画像編集フリーソフトウェアは何でしょう？
   answer: GIMP
   alternativeAnswers:
     - GNU Image Manipulation Program
-- question: 素数を求める「エラトステネスの<ruby><rb>篩</rb><rp> (</rp><rt>ふるい</rt><rp>)</rp></ruby>」に対して、1934年に発見されたこれを改良するアルゴリズムは「誰の<ruby><rb>篩</rb><rp> (</rp><rt>ふるい</rt><rp>)</rp></ruby>」というでしょう？
+- question: 素数を求める「エラトステネスの<ruby><rb>篩</rb><rp>(</rp><rt>ふるい</rt><rp>)</rp></ruby>」に対して、1934年に発見されたこれを改良するアルゴリズムは「誰の<ruby><rb>篩</rb><rp>(</rp><rt>ふるい</rt><rp>)</rp></ruby>」というでしょう？
   answer: サンダラムの篩
   alternativeAnswers:
     - サンダラム
@@ -6937,7 +6937,7 @@
 - question: ビールに漬かったリンゴのイラストをロゴマークとし、ビール製造に由来する独特の用語を多く用いることで知られる、主にmacOS上で動作するパッケージマネージャーは何でしょう？
   answer: Homebrew
   description: ロゴマークが何を表しているか公式のアナウンスはないが、ほぼそうであると思われる
-- question: ビットコインや<ruby><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby>のように、国家の信用にかかわらず絶対的な価値を持つ金融資産のことを何通貨というでしょう？
+- question: ビットコインや<ruby><rb>金</rb><rp>(</rp><rt>きん</rt><rp>)</rp></ruby>のように、国家の信用にかかわらず絶対的な価値を持つ金融資産のことを何通貨というでしょう？
   answer: 無国籍通貨
   alternativeAnswers:
     - 無国籍
@@ -6977,7 +6977,7 @@
   answer: 443番
   alternativeAnswers:
     - '443'
-- question: 英語では「distillation」と呼ばれる、機械学習のモデルに入力したデータと出力したデータを再利用して新たなモデルを学習することを漢字二文字で何というでしょう？
+- question: 英語では「distillation」と呼ばれる、機械学習のモデルが出力したデータを利用して新しく軽量なモデルを学習する行為を何というでしょう？
   answer: 蒸留
 - question: 特にDHCPやIGMPに対して行われることが多い、ネットワークスイッチが通信を監視して不正なリクエストや攻撃を防ぐ機能のことを、「盗み見る」という意味の英語から何というでしょう？
   answer: スヌーピング
@@ -7081,7 +7081,7 @@
   answer: グレア
   alternativeAnswers:
     - glare
-- question: その名前は日本において会計ソフトが最も活躍する月に由来する、「ブルー、独立する。」のCMで有名な日本の会計ソフトウェアは何でしょう?
+- question: その名前は日本において会計ソフトが最も活躍する月に由来する、「ブルー、独立する。」のCMで有名な日本の会計ソフトウェアは何でしょう？
   answer: 弥生会計
 - question: ギリシャ語で「パイロット」という意味がある、コンテナ化されたサービスを管理するためのオープンソースのオーケストレーションシステムは何でしょう？
   answer: Kubernetes
@@ -7323,7 +7323,7 @@
   answer: 『I/O』
   alternativeAnswers:
     - 月刊I/O
-- question: 本名を<ruby><rb>佐倉桜花</rb><rp> (</rp><rt>さくらおうか</rt><rp>)</rp></ruby>という、IT企業「ブランクソフトウェア」に務めるエンジニアであり、そのあまりのワーカホリックぶりから名前がつけられたビタワン原作の漫画の主人公は誰でしょう？
+- question: 本名を<ruby><rb>佐倉桜花</rb><rp>(</rp><rt>さくらおうか</rt><rp>)</rp></ruby>という、IT企業「ブランクソフトウェア」に務めるエンジニアであり、そのあまりのワーカホリックぶりから名前がつけられたビタワン原作の漫画の主人公は誰でしょう？
   answer: 社畜ちゃん
 - question: アスペクト指向プログラミングを用いてアプリケーションを設計することができる、現在VMWareによって開発が進められているJavaのフレームワークは「何 Framework」でしょう？
   answer: Spring Framework
@@ -7474,7 +7474,7 @@
 - question: RFC 2119によって意味が定義されている4つの助動詞とは、MUST、SHOULD、MAYと何でしょう？
   answer: SHALL
   description: 助動詞以外を含めるとREQUIREDやRECOMMENDEDなどが定義されている
-- question: 「loveちゃん」「あいぴー」「<ruby><rb>爱哥</rb><rp> (</rp><rt>アイガー</rt><rp>)</rp></ruby>」という3人の分裂体が存在し、動画の最初で行われる「はいどうもー！」という元気な挨拶でも有名な<ruby><rb>Activ8</rb><rp> (</rp><rt>アクティベート</rt><rp>)</rp></ruby>発のバーチャルYouTuberは何でしょう？
+- question: 「loveちゃん」「あいぴー」「<ruby><rb>爱哥</rb><rp>(</rp><rt>アイガー</rt><rp>)</rp></ruby>」という3人の分裂体が存在し、動画の最初で行われる「はいどうもー！」という元気な挨拶でも有名な<ruby><rb>Activ8</rb><rp>(</rp><rt>アクティベート</rt><rp>)</rp></ruby>発のバーチャルYouTuberは何でしょう？
   answer: キズナアイ
   alternativeAnswers:
     - Kizuna AI
@@ -7546,7 +7546,7 @@
   answer: ガベージコレクション
   alternativeAnswers:
     - gabage collection
-- question: <ruby><rb>kakudaiAC</rb><rp> (</rp><rt>カクダイエーシー</rt><rp>)</rp></ruby>や<ruby><rb>waifu2x</rb><rp> (</rp><rt>ワイフツーエックス</rt><rp>)</rp></ruby>などに代表される、画質を保ったまま与えられた画像の解像度を格段に上げる技術のことを漢字三文字で何というでしょう？
+- question: <ruby><rb>kakudaiAC</rb><rp>(</rp><rt>カクダイエーシー</rt><rp>)</rp></ruby>や<ruby><rb>waifu2x</rb><rp>(</rp><rt>ワイフツーエックス</rt><rp>)</rp></ruby>などに代表される、画質を保ったまま与えられた画像の解像度を格段に上げる技術のことを漢字三文字で何というでしょう？
   answer: 超解像
   alternativeAnswers:
     - super-resolution
@@ -7605,7 +7605,7 @@
   answer: 5回
   alternativeAnswers:
     - '5'
-- question: アルファベット3文字で「<ruby><rb>XOR</rb><rp> (</rp><rt>エックスオア</rt><rp>)</rp></ruby>」とも呼ばれる、2つの値が等しいときに0、等しくないときに1を出力する論理演算を日本語で何というでしょう？
+- question: アルファベット3文字で「<ruby><rb>XOR</rb><rp>(</rp><rt>エックスオア</rt><rp>)</rp></ruby>」とも呼ばれる、2つの値が等しいときに0、等しくないときに1を出力する論理演算を日本語で何というでしょう？
   answer: 排他的論理和
 - question: 「世界一早く売れた携帯ゲーム機」としてギネス記録に認定されたこともある、Appleが販売するスマートフォンは何でしょう？
   answer: iPhone 4
@@ -7643,7 +7643,7 @@
   answer: DisplayPort
   alternativeAnswers:
     - ディスプレイポート
-- question: 初期のAppleコンピューターに標準搭載されていたことでも知られている、統合開発環境<ruby><rb>Delphi</rb><rp> (</rp><rt>デルファイ</rt><rp>)</rp></ruby>のベースとなっているプログラミング言語は何でしょう？
+- question: 初期のAppleコンピューターに標準搭載されていたことでも知られている、統合開発環境<ruby><rb>Delphi</rb><rp>(</rp><rt>デルファイ</rt><rp>)</rp></ruby>のベースとなっているプログラミング言語は何でしょう？
   answer: Pascal
 - question: その正体は雑誌『プレイボーイ』に掲載されたヌード写真を切り抜いたものである、1973年ごろから画像処理の分野で広く使用されている標準的なテスト画像のことを、その被写体の名前から何というでしょう？
   answer: レナ
@@ -7665,7 +7665,7 @@
   alternativeAnswers:
     - ハッカーと画家
     - Hackers and Painters
-- question: 1923年に<ruby><rb>足袋</rb><rp> (</rp><rt>たび</rt><rp>)</rp></ruby>の縫製工場として設立された「山田商工」を前身とし、現在はPC用品やタブレット用品などを製造・販売している日本のコンピューター周辺機器メーカーは何でしょう？
+- question: 1923年に<ruby><rb>足袋</rb><rp>(</rp><rt>たび</rt><rp>)</rp></ruby>の縫製工場として設立された「山田商工」を前身とし、現在はPC用品やタブレット用品などを製造・販売している日本のコンピューター周辺機器メーカーは何でしょう？
   answer: サンワサプライ
   alternativeAnswers:
     - サンワサプライ株式会社
@@ -7705,7 +7705,7 @@
   answer: ボンダイブルー
   alternativeAnswers:
     - Bondi blue
-- question: 「<ruby><rb>Generator</rb><rp> (</rp><rt>ジェネレータ</rt><rp>)</rp></ruby>」と「<ruby><rb>Discriminator</rb><rp> (</rp><rt>ディスクリミネータ</rt><rp>)</rp></ruby>」という2つのネットワークによって構成される、学習データから特徴を学習し新たなデータを生成する人工知能アルゴリズムは何でしょう？
+- question: 「<ruby><rb>Generator</rb><rp>(</rp><rt>ジェネレータ</rt><rp>)</rp></ruby>」と「<ruby><rb>Discriminator</rb><rp>(</rp><rt>ディスクリミネータ</rt><rp>)</rp></ruby>」という2つのネットワークによって構成される、学習データから特徴を学習し新たなデータを生成する人工知能アルゴリズムは何でしょう？
   answer: GAN
   alternativeAnswers:
     - Generative Adversarial Network
@@ -7822,7 +7822,7 @@
   answer: iTunes
   alternativeAnswers:
     - アイチューンズ
-- question: 「tech otaku save the world」をスローガンに掲げている、「<ruby><rb>原神</rb><rp> (</rp><rt>げんしん</rt><rp>)</rp></ruby>」「崩壊:スターレイル」「ゼンレスゾーンゼロ」などの開発で知られる中国のソーシャルゲーム開発企業は何でしょう？
+- question: 「tech otaku save the world」をスローガンに掲げている、「<ruby><rb>原神</rb><rp>(</rp><rt>げんしん</rt><rp>)</rp></ruby>」「崩壊:スターレイル」「ゼンレスゾーンゼロ」などの開発で知られる中国のソーシャルゲーム開発企業は何でしょう？
   answer: miHoYo
   alternativeAnswers:
     - 米哈游
@@ -7842,7 +7842,7 @@
   answer: '81'
   alternativeAnswers:
     - '+81'
-- question: アニメ「<ruby><rb>∀</rb><rp> (</rp><rt>ターンエー</rt><rp>)</rp></ruby>ガンダム」において太古の宇宙文明時代に繰り返されていた数々の宇宙戦争の歴史のことを指し、転じてネットスラングでは「なかったことにしたい恥ずかしい過去」を指して用いられる用語は何でしょう？
+- question: アニメ「<ruby><rb>∀</rb><rp>(</rp><rt>ターンエー</rt><rp>)</rp></ruby>ガンダム」において太古の宇宙文明時代に繰り返されていた数々の宇宙戦争の歴史のことを指し、転じてネットスラングでは「なかったことにしたい恥ずかしい過去」を指して用いられる用語は何でしょう？
   answer: 黒歴史
 - question: 日本語で「自社運用」と訳される、企業が管理する設備にサービスをインストールして情報システムを運用する運用形態を指す用語は何でしょう？
   answer: オンプレミス
@@ -7917,7 +7917,7 @@
   answer: Multics
 - question: ロゴマークには青と黄色のヘビが描かれている、機械学習や教育向けなど多くの分野で用いられる人気のプログラミング言語は何でしょう？
   answer: Python
-- question: 映画『マックイーンの絶対の危機』に登場する人食いアメーバの名前に由来する、<ruby><rb>MySQL</rb><rp> (</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>などのデータベースエンジンで大きなバイナリデータを格納するためのデータ型は何でしょう？
+- question: 映画『マックイーンの絶対の危機』に登場する人食いアメーバの名前に由来する、<ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>などのデータベースエンジンで大きなバイナリデータを格納するためのデータ型は何でしょう？
   answer: BLOB
   alternativeAnswers:
     - ブロブ
@@ -8011,7 +8011,7 @@
     - 2038年
 - question: 「jmty.jp」というURLでサービスを展開している、自分と同じ地域のユーザーと不用品の売買などの交流を行うことができるフリーマーケットサービスといえば何でしょう？
   answer: ジモティー
-- question: 中国語では漢字二文字で「<ruby><rb>谷</rb><rp> (</rp><rt>たに</rt><rp>)</rp></ruby>」に「<ruby><rb>歌</rb><rp> (</rp><rt>うた</rt><rp>)</rp></ruby>」と表記される、ユーザー数世界1位の検索エンジンは何でしょう？
+- question: 中国語では漢字二文字で「<ruby><rb>谷</rb><rp>(</rp><rt>たに</rt><rp>)</rp></ruby>」に「<ruby><rb>歌</rb><rp>(</rp><rt>うた</rt><rp>)</rp></ruby>」と表記される、ユーザー数世界1位の検索エンジンは何でしょう？
   answer: Google
   paperQuestion: 中国語では「谷歌」と表記される、ユーザー数世界1位の検索エンジンは何でしょう？
   alternativeAnswers:
@@ -8020,7 +8020,7 @@
   answer: フェライト
   alternativeAnswers:
     - ferrite
-- question: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「<ruby><rb>\</rb><rp> (</rp><rt>バックスラッシュ</rt><rp>)</rp></ruby>n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
+- question: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「<ruby><rb>\</rb><rp>(</rp><rt>バックスラッシュ</rt><rp>)</rp></ruby>n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
   paperQuestion: コミュニケーションツール「Slack」の開発時のコードネームとしても用いられた、多くのプログラミング言語で「\n」という記号列によって表現されるASCIIの特殊文字の名前は何でしょう？
   answer: ラインフィード
   alternativeAnswers:
@@ -8045,11 +8045,11 @@
   answer: グレース・ホッパー
   alternativeAnswers:
     - Grace Hopper
-- question: 「<ruby><rb>bashrc</rb><rp> (</rp><rt>バッシュアールシー</rt><rp>)</rp></ruby>」や「<ruby><rb>vimrc</rb><rp> (</rp><rt>ヴィムアールシー</rt><rp>)</rp></ruby>」などというときの「rc」とは、何という言葉の略でしょう？
+- question: 「<ruby><rb>bashrc</rb><rp>(</rp><rt>バッシュアールシー</rt><rp>)</rp></ruby>」や「<ruby><rb>vimrc</rb><rp>(</rp><rt>ヴィムアールシー</rt><rp>)</rp></ruby>」などというときの「rc」とは、何という言葉の略でしょう？
   answer: run commands
   alternativeAnswers:
     - ランコマンド
-- question: IT業界で用いられる「<ruby><rb>SIer</rb><rp> (</rp><rt>エスアイアー</rt><rp>)</rp></ruby>」とは、何という英語の略でしょう？
+- question: IT業界で用いられる「<ruby><rb>SIer</rb><rp>(</rp><rt>エスアイアー</rt><rp>)</rp></ruby>」とは、何という英語の略でしょう？
   answer: System Integrater
   alternativeAnswers:
     - システムインテグレータ
@@ -8093,7 +8093,7 @@
   answer: ITパスポート試験
   alternativeAnswers:
     - ITパスポート
-- question: Linux、<ruby><rb>Apache</rb><rp> (</rp><rt>アパッチ</rt><rp>)</rp></ruby>、<ruby><rb>MySQL</rb><rp> (</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>と様々なスクリプト言語を用いたウェブアプリケーションの構成法を、これらの頭文字から何というでしょう？
+- question: Linux、<ruby><rb>Apache</rb><rp>(</rp><rt>アパッチ</rt><rp>)</rp></ruby>、<ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>と様々なスクリプト言語を用いたウェブアプリケーションの構成法を、これらの頭文字から何というでしょう？
   answer: LAMP
 - question: 二重化されたシステムにおいて、2つあるうちの片方のみが動作して運用されている状態のことを、漢字四文字で「何運用」というでしょう？
   answer: 片系運用
@@ -8145,7 +8145,7 @@
   alternativeAnswers:
     - ローリングシャッター
     - rolling shutter
-- question: 著者の<ruby><rb>粂井康孝</rb><rp> (</rp><rt>くめいやすたか</rt><rp>)</rp></ruby>が愛好する動物の名前から名付けられた、SBクリエイティブから発刊されているプログラミング入門書のシリーズといえば「何でもわかるプログラミングシリーズ」でしょう？
+- question: 著者の<ruby><rb>粂井康孝</rb><rp>(</rp><rt>くめいやすたか</rt><rp>)</rp></ruby>が愛好する動物の名前から名付けられた、SBクリエイティブから発刊されているプログラミング入門書のシリーズといえば「何でもわかるプログラミングシリーズ」でしょう？
   answer: 猫でもわかるプログラミングシリーズ
   alternativeAnswers:
     - 猫でもわかるプログラミング
@@ -8259,14 +8259,14 @@
   alternativeAnswers:
     - Y.U-mobile
     - ワイユーモバイル
-- question: 発表当時は「<ruby><rb>Spartan</rb><rp> (</rp><rt>スパルタン</rt><rp>)</rp></ruby>」というコードネームで呼ばれていた、現在はChromiumをベースに実装されているMicrosoftのウェブブラウザは何でしょう？
+- question: 発表当時は「<ruby><rb>Spartan</rb><rp>(</rp><rt>スパルタン</rt><rp>)</rp></ruby>」というコードネームで呼ばれていた、現在はChromiumをベースに実装されているMicrosoftのウェブブラウザは何でしょう？
   answer: Microsoft Edge
   alternativeAnswers:
     - Edge
     - エッジ
 - question: スティック、ヒト、こわれているセンサーなどの種類が存在する、Nintendo Switchのゲーム「はじめてゲームプログラミング」においてプログラムを構成する基本部品となるキャラクターは何でしょう？
   answer: ノードン
-- question: 2008年と2010年に<ruby><rb>中垣俊之</rb><rp> (</rp><rt>なかがきとしゆき</rt><rp>)</rp></ruby>らが受賞した2度のイグノーベル賞の受賞理由となった研究は、何という生物を演算に用いたコンピューターを対象としたものでしょう？
+- question: 2008年と2010年に<ruby><rb>中垣俊之</rb><rp>(</rp><rt>なかがきとしゆき</rt><rp>)</rp></ruby>らが受賞した2度のイグノーベル賞の受賞理由となった研究は、何という生物を演算に用いたコンピューターを対象としたものでしょう？
   answer: 粘菌
   alternativeAnswers:
     - 真正粘菌
@@ -8359,7 +8359,7 @@
     - イラストレーター
 - question: ニコニコ動画における匿名コメントの別名にも用いられている、電話番号の前につけると非通知通話を行うことができる3桁の番号は何でしょう？
   answer: '184'
-- question: チェックインアプリ「<ruby><rb>Burbn</rb><rp> (</rp><rt>バーブン</rt><rp>)</rp></ruby>」から写真共有以外の機能を削除したのが由来とされている、現在は世界に約10億人のユーザーを持つSNSは何でしょう？
+- question: チェックインアプリ「<ruby><rb>Burbn</rb><rp>(</rp><rt>バーブン</rt><rp>)</rp></ruby>」から写真共有以外の機能を削除したのが由来とされている、現在は世界に約10億人のユーザーを持つSNSは何でしょう？
   answer: Instagram
   alternativeAnswers:
     - インスタグラム
@@ -8377,7 +8377,7 @@
 - removed:
     type: moved
     reason: 時事問題に移動
-- question: 「キーマンズネット」「ねとらぼ」「<ruby><rb>@IT</rb><rp> (</rp><rt>アットマーク・アイティ</rt><rp>)</rp></ruby>」など数多くのIT系ニュースサイトを運営している、ソフトバンクグループ傘下のIT企業は何でしょう？
+- question: 「キーマンズネット」「ねとらぼ」「<ruby><rb>@IT</rb><rp>(</rp><rt>アットマーク・アイティ</rt><rp>)</rp></ruby>」など数多くのIT系ニュースサイトを運営している、ソフトバンクグループ傘下のIT企業は何でしょう？
   answer: アイティメディア株式会社
   alternativeAnswers:
     - アイティメディア
@@ -8403,7 +8403,7 @@
   answer: Finder
   alternativeAnswers:
     - ファインダー
-- question: その町並みは日本の秋葉原をモデルにしたとも言われる、<ruby><rb>深圳</rb><rp> (</rp><rt>しんせん</rt><rp>)</rp></ruby>に存在する世界有数の電気街は何でしょう？
+- question: その町並みは日本の秋葉原をモデルにしたとも言われる、<ruby><rb>深圳</rb><rp>(</rp><rt>しんせん</rt><rp>)</rp></ruby>に存在する世界有数の電気街は何でしょう？
   answer: 華強北路
   alternativeAnswers:
     - 華強北
@@ -8488,7 +8488,7 @@
   answer: 宇宙船演算子
   alternativeAnswers:
     - 宇宙船
-- question: 実行中の行番号を画面に表示するBASICコマンド、東京大学の<ruby><rb>坂村健</rb><rp> (</rp><rt>さかむらけん</rt><rp>)</rp></ruby>教授が開発した組み込みOS、電脳世界を舞台としたディズニーのCG映画に共通するアルファベット4文字の名称は何でしょう？
+- question: 実行中の行番号を画面に表示するBASICコマンド、東京大学の<ruby><rb>坂村健</rb><rp>(</rp><rt>さかむらけん</rt><rp>)</rp></ruby>教授が開発した組み込みOS、電脳世界を舞台としたディズニーのCG映画に共通するアルファベット4文字の名称は何でしょう？
   answer: TRON
   description: それぞれの名称に関連性はないらしい。
 - question: 将棋電王戦FINALの大会最終試合において、阿久津八段の指し手に対しわずか21手で投了した対戦プログラムといえば何でしょう？
@@ -8547,7 +8547,7 @@
     - Edge
     - エッジ
   description: Edgeの新ロゴは「ネットサーフィン」をモチーフにしたという説があるが、公式のソースを見つけられず
-- question: 「<ruby><rb>i18n</rb><rp> (</rp><rt>アイじゅうはちエヌ</rt><rp>)</rp></ruby>」や「<ruby><rb>k8s</rb><rp> (</rp><rt>ケーはちエス</rt><rp>)</rp></ruby>」などのように、先頭と末尾の文字に挟まれた文字数で英単語を略して表す記法を英語で何というでしょう？
+- question: 「<ruby><rb>i18n</rb><rp>(</rp><rt>アイじゅうはちエヌ</rt><rp>)</rp></ruby>」や「<ruby><rb>k8s</rb><rp>(</rp><rt>ケーはちエス</rt><rp>)</rp></ruby>」などのように、先頭と末尾の文字に挟まれた文字数で英単語を略して表す記法を英語で何というでしょう？
   answer: ヌメロニム
   alternativeAnswers:
     - numeronym
@@ -8615,7 +8615,7 @@
   answer: ジェフ・ディーン
   alternativeAnswers:
     - Jeff Dean
-- question: 半導体企業「クアルコム」の設立者としても知られる、隠れマルコフモデルの<ruby><rb>最尤</rb><rp> (</rp><rt>さいゆう</rt><rp>)</rp></ruby>経路を求めるアルゴリズムなどに名を残すアメリカの工学者は誰でしょう？
+- question: 半導体企業「クアルコム」の設立者としても知られる、隠れマルコフモデルの<ruby><rb>最尤</rb><rp>(</rp><rt>さいゆう</rt><rp>)</rp></ruby>経路を求めるアルゴリズムなどに名を残すアメリカの工学者は誰でしょう？
   answer: アンドリュー・ビタビ
   alternativeAnswers:
     - Andrew James Viterbi
@@ -8821,7 +8821,7 @@
     - データベース
     - data interface
   description: ユーザーに近い順。この順で言われることが多い
-- question: いわゆる「<ruby><rb>C10K</rb><rp> (</rp><rt>シーテンケー</rt><rp>)</rp></ruby>問題」に対応可能なウェブサーバーとして2002年にリリースされた、ロシアのプログラマーであるイゴール・セシエフが開発したオープンソースのウェブサーバーは何でしょう？
+- question: いわゆる「<ruby><rb>C10K</rb><rp>(</rp><rt>シーテンケー</rt><rp>)</rp></ruby>問題」に対応可能なウェブサーバーとして2002年にリリースされた、ロシアのプログラマーであるイゴール・セシエフが開発したオープンソースのウェブサーバーは何でしょう？
   answer: NGINX
   alternativeAnswers:
     - エンジンエックス
@@ -8892,7 +8892,7 @@
   alternativeAnswers:
     - webinar
   description: 「ウェブ」と「セミナー」のかばん語。
-- question: バグに支配された地球をLisp星人の力を借りて救うという異色のストーリーを中心に展開される、<ruby><rb>O'Reilly</rb><rp> (</rp><rt>オライリー</rt><rp>)</rp></ruby>から発刊されているプログラミング言語Lispの代表的な入門書は何でしょう？
+- question: バグに支配された地球をLisp星人の力を借りて救うという異色のストーリーを中心に展開される、<ruby><rb>O'Reilly</rb><rp>(</rp><rt>オライリー</rt><rp>)</rp></ruby>から発刊されているプログラミング言語Lispの代表的な入門書は何でしょう？
   answer: 『Land of Lisp』
 - question: 主に情報量の計算などで用いられる、整数の2を底とする対数を、「何対数」というでしょう？
   answer: 二進対数
@@ -8962,7 +8962,7 @@
   answer: R1C1形式
   alternativeAnswers:
     - R1C1
-- question: 「デジタル台風」「eduroam」「<ruby><rb>CiNii</rb><rp> (</rp><rt>サイニィ</rt><rp>)</rp></ruby>」などのサービスを提供している、日本の研究機関は何でしょう？
+- question: 「デジタル台風」「eduroam」「<ruby><rb>CiNii</rb><rp>(</rp><rt>サイニィ</rt><rp>)</rp></ruby>」などのサービスを提供している、日本の研究機関は何でしょう？
   answer: 国立情報学研究所
   alternativeAnswers:
     - 情報学研究所
@@ -8973,7 +8973,7 @@
   answer: Space Cadet
   alternativeAnswers:
     - スペースキャデット
-- question: 日本語では「索引付き順次編成方式」などと訳される、<ruby><rb>MySQL</rb><rp> (</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>などで採用されているデータベースのファイル格納方式は何でしょう？
+- question: 日本語では「索引付き順次編成方式」などと訳される、<ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>などで採用されているデータベースのファイル格納方式は何でしょう？
   answer: ISAM
   alternativeAnswers:
     - Indexed Sequential Access Method
@@ -9055,7 +9055,7 @@
   alternativeAnswers:
     - カリフォルニア
     - California
-- question: <ruby><rb>unique_ptr</rb><rp> (</rp><rt>ユニークポインタ</rt><rp>)</rp></ruby>、<ruby><rb>shared_ptr</rb><rp> (</rp><rt>シェアードポインタ</rt><rp>)</rp></ruby>、<ruby><rb>weak_ptr</rb><rp> (</rp><rt>ウィークポインタ</rt><rp>)</rp></ruby>といった種類が存在する、プログラミング言語C++においてメモリの解放などを自動で行ってくれる機能を持つ便利なポインタのことを「何ポインタ」というでしょう？
+- question: <ruby><rb>unique_ptr</rb><rp>(</rp><rt>ユニークポインタ</rt><rp>)</rp></ruby>、<ruby><rb>shared_ptr</rb><rp>(</rp><rt>シェアードポインタ</rt><rp>)</rp></ruby>、<ruby><rb>weak_ptr</rb><rp>(</rp><rt>ウィークポインタ</rt><rp>)</rp></ruby>といった種類が存在する、プログラミング言語C++においてメモリの解放などを自動で行ってくれる機能を持つ便利なポインタのことを「何ポインタ」というでしょう？
   answer: スマートポインタ
   alternativeAnswers:
     - スマート
@@ -9637,7 +9637,7 @@
   answer: 信号機
   alternativeAnswers:
     - 信号
-- question: ノーベル賞を受賞した<ruby><rb>下村脩</rb><rp> (</rp><rt>しもむらおさむ</rt><rp>)</rp></ruby>を父に持ち、アメリカのコンピューター犯罪者ケビン・ミトニックとの対決でも知られる情報セキュリティ研究者は誰でしょう？
+- question: ノーベル賞を受賞した<ruby><rb>下村脩</rb><rp>(</rp><rt>しもむらおさむ</rt><rp>)</rp></ruby>を父に持ち、アメリカのコンピューター犯罪者ケビン・ミトニックとの対決でも知られる情報セキュリティ研究者は誰でしょう？
   answer: 下村努
   alternativeAnswers:
     - しもむらつとむ
@@ -9746,7 +9746,7 @@
   answer: 強化学習
   alternativeAnswers:
     - 強化
-- question: 初音ミクとネギが組み合わせられる原因となった、フィンランド民謡の「イエヴァン・ポルッカ」に合わせて、アニメ「BLEACH」の<ruby><rb>井上織姫</rb><rp> (</rp><rt>いのうえおりひめ</rt><rp>)</rp></ruby>が長ネギを回転させるという内容のFlashアニメの通称は何でしょう？
+- question: 初音ミクとネギが組み合わせられる原因となった、フィンランド民謡の「イエヴァン・ポルッカ」に合わせて、アニメ「BLEACH」の<ruby><rb>井上織姫</rb><rp>(</rp><rt>いのうえおりひめ</rt><rp>)</rp></ruby>が長ネギを回転させるという内容のFlashアニメの通称は何でしょう？
   answer: ロイツマ・ガール
 - question: 70年代に流行した「キチガイテープ」が発祥の1つと考えられている、既存の動画を加工し、背景の曲と合わせるなどの編集を施してアップロードされるインターネット上の動画のことを俗に「何動画」というでしょう？
   answer: MAD動画
@@ -9787,7 +9787,7 @@
   answer: アートトラック
   alternativeAnswers:
     - art track
-- question: 「<ruby><rb>LinkedIn</rb><rp> (</rp><rt>リンクトイン</rt><rp>)</rp></ruby>」「<ruby><rb>GitHub</rb><rp> (</rp><rt>ギットハブ</rt><rp>)</rp></ruby>」「<ruby><rb>Skype</rb><rp> (</rp><rt>スカイプ</rt><rp>)</rp></ruby>」などのサービスを買収したアメリカのIT企業は何でしょう？
+- question: 「<ruby><rb>LinkedIn</rb><rp>(</rp><rt>リンクトイン</rt><rp>)</rp></ruby>」「<ruby><rb>GitHub</rb><rp>(</rp><rt>ギットハブ</rt><rp>)</rp></ruby>」「<ruby><rb>Skype</rb><rp>(</rp><rt>スカイプ</rt><rp>)</rp></ruby>」などのサービスを買収したアメリカのIT企業は何でしょう？
   answer: Microsoft
   alternativeAnswers:
     - マイクロソフト
@@ -9941,7 +9941,7 @@
   answer: MoMO
   alternativeAnswers:
     - Mystery of Missing Out
-- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた倍精度浮動小数点数において、仮数部の長さは何ビットと定められているでしょう？
+- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>で定められた倍精度浮動小数点数において、仮数部の長さは何ビットと定められているでしょう？
   answer: 52ビット
   alternativeAnswers:
     - '52'
@@ -10149,7 +10149,7 @@
   answer: 椅子
   alternativeAnswers:
     - Chair
-- question: 「<ruby><rb>JAIST</rb><rp> (</rp><rt>ジェイスト</rt><rp>)</rp></ruby>」という略称でも知られる、日本有数の情報処理設備を持つ石川県の国立大学は何でしょう？
+- question: 「<ruby><rb>JAIST</rb><rp>(</rp><rt>ジェイスト</rt><rp>)</rp></ruby>」という略称でも知られる、日本有数の情報処理設備を持つ石川県の国立大学は何でしょう？
   answer: 北陸先端科学技術大学院大学
   alternativeAnswers:
     - 北陸先端大学
@@ -10198,7 +10198,7 @@
   description: まれに非公式に「飛行機ボタン」と呼ばれることもあるが、後フリがあるので今回は不可
 - question: 「プレシードラウンド」という別名もある、まだアイデア段階のスタートアップに対して行われる投資のことを「個人投資家」を意味する英俗語から「何ラウンド」というでしょう？
   answer: エンジェルラウンド
-- question: <ruby><rb>Apache</rb><rp> (</rp><rt>アパッチ</rt><rp>)</rp></ruby>では「.htpasswd」ファイルを置くことによって設定することができる、HTTPのヘッダーに認証情報をBASE64でエンコードしたものを送ることで実装される単純な認証方式を「何認証」というでしょう？
+- question: <ruby><rb>Apache</rb><rp>(</rp><rt>アパッチ</rt><rp>)</rp></ruby>では「.htpasswd」ファイルを置くことによって設定することができる、HTTPのヘッダーに認証情報をBASE64でエンコードしたものを送ることで実装される単純な認証方式を「何認証」というでしょう？
   answer: ベーシック認証
   alternativeAnswers:
     - ベーシック
@@ -10360,7 +10360,7 @@
     - 人工無脳
 - question: YouTubeなどの動画サイトで、「メン限」とは何という言葉を略したものでしょう？
   answer: メンバー限定
-- question: <ruby><rb>Cisco</rb><rp> (</rp><rt>シスコ</rt><rp>)</rp></ruby>、<ruby><rb>PayPal</rb><rp> (</rp><rt>ペイパル</rt><rp>)</rp></ruby>、<ruby><rb>Adobe</rb><rp> (</rp><rt>アドビ</rt><rp>)</rp></ruby>など多くのIT企業が本社を置くシリコンバレーの中心都市はどこでしょう？
+- question: <ruby><rb>Cisco</rb><rp>(</rp><rt>シスコ</rt><rp>)</rp></ruby>、<ruby><rb>PayPal</rb><rp>(</rp><rt>ペイパル</rt><rp>)</rp></ruby>、<ruby><rb>Adobe</rb><rp>(</rp><rt>アドビ</rt><rp>)</rp></ruby>など多くのIT企業が本社を置くシリコンバレーの中心都市はどこでしょう？
   answer: サンノゼ
   alternativeAnswers:
     - サンホゼ
@@ -10445,7 +10445,7 @@
   answer: Bonjour
   alternativeAnswers:
     - ボンジュール
-- question: AIテクノロジー企業「<ruby><rb>飛電</rb><rp> (</rp><rt>ひでん</rt><rp>)</rp></ruby>インテリジェンス」の二代目社長を務めることになった元お笑い芸人の<ruby><rb>飛電或人</rb><rp> (</rp><rt>ひでんあると</rt><rp>)</rp></ruby>を主人公とする、デジタル化とAI社会の到来をテーマとした令和仮面ライダーシリーズの第1作は『仮面ライダー 何』でしょう？
+- question: AIテクノロジー企業「<ruby><rb>飛電</rb><rp>(</rp><rt>ひでん</rt><rp>)</rp></ruby>インテリジェンス」の二代目社長を務めることになった元お笑い芸人の<ruby><rb>飛電或人</rb><rp>(</rp><rt>ひでんあると</rt><rp>)</rp></ruby>を主人公とする、デジタル化とAI社会の到来をテーマとした令和仮面ライダーシリーズの第1作は『仮面ライダー 何』でしょう？
   answer: 『仮面ライダー ゼロワン』
   alternativeAnswers:
     - ゼロワン
@@ -10703,7 +10703,7 @@
     - カルバック・ライブラー情報量
     - KLダイバージェンス
     - KL情報量
-- question: エンジニアリング分野ではしばしば「<ruby><rb>i18n</rb><rp> (</rp><rt>アイじゅうはちエヌ</rt><rp>)</rp></ruby>」と略される、「国際化」「多言語化」などを意味する英単語は何でしょう？
+- question: エンジニアリング分野ではしばしば「<ruby><rb>i18n</rb><rp>(</rp><rt>アイじゅうはちエヌ</rt><rp>)</rp></ruby>」と略される、「国際化」「多言語化」などを意味する英単語は何でしょう？
   answer: internationalization
   alternativeAnswers:
     - インターナショナリゼーション
@@ -10776,7 +10776,7 @@
   answer: OWASP
   alternativeAnswers:
     - Open Web Application Security Project
-- question: 日本では<ruby><rb>清水貴裕</rb><rp> (</rp><rt>しみずたかひろ</rt><rp>)</rp></ruby>などがプロ選手として活躍している、プロセッサーを定格以上の周波数で動かし、可能な限り早く動作させる競技は何でしょう？
+- question: 日本では<ruby><rb>清水貴裕</rb><rp>(</rp><rt>しみずたかひろ</rt><rp>)</rp></ruby>などがプロ選手として活躍している、プロセッサーを定格以上の周波数で動かし、可能な限り早く動作させる競技は何でしょう？
   answer: オーバークロック
   alternativeAnswers:
     - overclock
@@ -10786,7 +10786,7 @@
   answer: プレイステーション
   alternativeAnswers:
     - PlayStation
-- question: ZSAの<ruby><rb>Ergodox</rb><rp> (</rp><rt>エルゴドックス</rt><rp>)</rp></ruby>、Filcoの<ruby><rb>Majestouch</rb><rp> (</rp><rt>マジェスタッチ</rt><rp>)</rp></ruby>、東プレのRealforceといえば、どんなコンピューター機器の製品名でしょう？
+- question: ZSAの<ruby><rb>Ergodox</rb><rp>(</rp><rt>エルゴドックス</rt><rp>)</rp></ruby>、Filcoの<ruby><rb>Majestouch</rb><rp>(</rp><rt>マジェスタッチ</rt><rp>)</rp></ruby>、東プレのRealforceといえば、どんなコンピューター機器の製品名でしょう？
   answer: キーボード
 - question: インターネット広告の広告枠を買い取り、広告代理店や広告主に対して卸す媒介業者のことを和製英語で何というでしょう？
   answer: メディアレップ
@@ -10796,7 +10796,7 @@
     - レップ
 - question: QRコードは、何というボードゲームをヒントに開発されたとされているでしょう？
   answer: 囲碁
-- question: 中国語では「<ruby><rb>微</rb><rp> (</rp><rt>かす</rt><rp>)</rp></ruby>か」に「<ruby><rb>軟</rb><rp> (</rp><rt>やわ</rt><rp>)</rp></ruby>らかい」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
+- question: 中国語では「<ruby><rb>微</rb><rp>(</rp><rt>かす</rt><rp>)</rp></ruby>か」に「<ruby><rb>軟</rb><rp>(</rp><rt>やわ</rt><rp>)</rp></ruby>らかい」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
   answer: マイクロソフト
   paperQuestion: 中国語では「微軟」と書く、アメリカのワシントンに本社を置くIT企業は何でしょう？
   alternativeAnswers:
@@ -10842,7 +10842,7 @@
   alternativeAnswers:
     - バウンスレート
     - bounce rate
-- question: ポーランド語では「<ruby><rb>Witaj świecie!</rb><rp> (</rp><rt>ヴィタイ・シフィエチェ</rt><rp>)</rp></ruby>」、スロバキア語では「<ruby><rb>Ahoj, svet!</rb><rp> (</rp><rt>アホイ、スヴェット</rt><rp>)</rp></ruby>」、中国語では「<ruby><rb>世界你好</rb><rp> (</rp><rt>シィジエ ニーハオ</rt><rp>)</rp></ruby>！」、日本語では「世界よ、こんにちは！」などという、「世界一有名なプログラム」として知られる定型句は何でしょう？
+- question: ポーランド語では「<ruby><rb>Witaj świecie!</rb><rp>(</rp><rt>ヴィタイ・シフィエチェ</rt><rp>)</rp></ruby>」、スロバキア語では「<ruby><rb>Ahoj, svet!</rb><rp>(</rp><rt>アホイ、スヴェット</rt><rp>)</rp></ruby>」、中国語では「<ruby><rb>世界你好</rb><rp>(</rp><rt>シィジエ ニーハオ</rt><rp>)</rp></ruby>！」、日本語では「世界よ、こんにちは！」などという、「世界一有名なプログラム」として知られる定型句は何でしょう？
   answer: Hello, World!
   alternativeAnswers:
     - ハローワールド
@@ -10929,13 +10929,13 @@
     - Rakuten Mobile
     - Rakuten
     - Rakuten Mobile, Inc.
-- question: 1988年に東北大学の<ruby><rb>南條道夫</rb><rp> (</rp><rt>なんじょうみちお</rt><rp>)</rp></ruby>教授によって提唱された、都市圏で廃棄される電子機器の中にレアアースなどの貴重な資源が含まれていることをあるものにたとえて言った用語は何でしょう？
+- question: 1988年に東北大学の<ruby><rb>南條道夫</rb><rp>(</rp><rt>なんじょうみちお</rt><rp>)</rp></ruby>教授によって提唱された、都市圏で廃棄される電子機器の中にレアアースなどの貴重な資源が含まれていることをあるものにたとえて言った用語は何でしょう？
   answer: 都市鉱山
 - question: 「Cubism」と呼ばれる専用ツールを用いてモデリングや開発を行う、二次元のイラストを二次元のまま立体的に動かすことができる旧サイバーノイズ社のアニメーション技術は何でしょう？
   answer: Live2D
   alternativeAnswers:
     - ライブツーディー
-- question: 3.5インチフロッピーディスクと上位互換を持ちながらフロッピーの約100倍近くの記憶容量を有していた、1996年に<ruby><rb>松下寿</rb><rp> (</rp><rt>まつしたことぶき</rt><rp>)</rp></ruby>電子工業が発売した次世代型磁気ディスクは何でしょう？
+- question: 3.5インチフロッピーディスクと上位互換を持ちながらフロッピーの約100倍近くの記憶容量を有していた、1996年に<ruby><rb>松下寿</rb><rp>(</rp><rt>まつしたことぶき</rt><rp>)</rp></ruby>電子工業が発売した次世代型磁気ディスクは何でしょう？
   answer: スーパーディスク
   alternativeAnswers:
     - LS-120
@@ -10980,7 +10980,7 @@
   alternativeAnswers:
     - i
   description: 仕様上、「%d」と「%i」に違いはない。
-- question: <ruby><rb>MySQL</rb><rp> (</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>の設定不備によりUTF-8における4バイト文字が文字化けしてしまう問題のことを、ある2つの絵文字が同一視されてしまうことから俗に何問題というでしょう？
+- question: <ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>の設定不備によりUTF-8における4バイト文字が文字化けしてしまう問題のことを、ある2つの絵文字が同一視されてしまうことから俗に何問題というでしょう？
   answer: 寿司ビール問題
   alternativeAnswers:
     - 寿司ビール
@@ -11006,7 +11006,7 @@
   answer: 石黒浩
   alternativeAnswers:
     - いしぐろひろし
-- question: <ruby><rb>ls</rb><rp> (</rp><rt>エルエス</rt><rp>)</rp></ruby>、<ruby><rb>ping</rb><rp> (</rp><rt>ピング</rt><rp>)</rp></ruby>、<ruby><rb>wget</rb><rp> (</rp><rt>ダブリューゲット</rt><rp>)</rp></ruby>など、Linuxにおける重要なコマンドを1つのバイナリファイルで実装した、ブルース・ペレンズによって開発された組み込みLinux向けツールは何でしょう？
+- question: <ruby><rb>ls</rb><rp>(</rp><rt>エルエス</rt><rp>)</rp></ruby>、<ruby><rb>ping</rb><rp>(</rp><rt>ピング</rt><rp>)</rp></ruby>、<ruby><rb>wget</rb><rp>(</rp><rt>ダブリューゲット</rt><rp>)</rp></ruby>など、Linuxにおける重要なコマンドを1つのバイナリファイルで実装した、ブルース・ペレンズによって開発された組み込みLinux向けツールは何でしょう？
   answer: BusyBox
 - question: 平文とそのハッシュ値、そしてハッシュ値から変換された平文を繋げてできるチェーンを用いてハッシュ値の逆算を効率化するためのアルゴリズムを、英語で何というでしょう？
   answer: レインボーテーブル
@@ -11133,7 +11133,7 @@
   alternativeAnswers:
     - 群馬
   description: ヤマダデンキは前橋市、ビックカメラは高崎市。ヤマダデンキの本社は群馬県だがビックカメラの本社は現在東京にある
-- question: MVにJavaプログラムを映し出す「<ruby><rb>sustain++;</rb><rp> (</rp><rt>サステイン・プラス・プラス</rt><rp>)</rp></ruby>」や「<ruby><rb>world.execute</rb><rp> (</rp><rt>me</rt><rp>)</rp></ruby>;(ワールド・エクセキュート・ミー)」など、プログラミングをテーマにした楽曲を多く発表している、<ruby><rb>momocashew</rb><rp> (</rp><rt>モモカシュー</rt><rp>)</rp></ruby>をボーカルとする日本の音楽グループは何でしょう？
+- question: MVにJavaプログラムを映し出す「<ruby><rb>sustain++;</rb><rp>(</rp><rt>サステイン・プラス・プラス</rt><rp>)</rp></ruby>」や「<ruby><rb>world.execute</rb><rp>(</rp><rt>me</rt><rp>)</rp></ruby>;(ワールド・エクセキュート・ミー)」など、プログラミングをテーマにした楽曲を多く発表している、<ruby><rb>momocashew</rb><rp>(</rp><rt>モモカシュー</rt><rp>)</rp></ruby>をボーカルとする日本の音楽グループは何でしょう？
   answer: Mili
   alternativeAnswers:
     - ミリ
@@ -11219,7 +11219,7 @@
     - しゅうまい
     - shuumai
   description: 2023年6月にX上での活動を停止。現在はMisskeyにいる
-- question: 1億分の1<ruby><rb>BTC</rb><rp> (</rp><rt>ビットコイン</rt><rp>)</rp></ruby>を1とする、ビットコインを発明した匿名の人物の名前に由来する通貨単位は何でしょう？
+- question: 1億分の1<ruby><rb>BTC</rb><rp>(</rp><rt>ビットコイン</rt><rp>)</rp></ruby>を1とする、ビットコインを発明した匿名の人物の名前に由来する通貨単位は何でしょう？
   answer: satoshi
   alternativeAnswers:
     - サトシ
@@ -11266,7 +11266,7 @@
   alternativeAnswers:
     - tab
     - 水平タブ
-- question: <ruby><rb>NVIDIA</rb><rp> (</rp><rt>エヌビディア</rt><rp>)</rp></ruby>の<ruby><rb>GeForce</rb><rp> (</rp><rt>ジーフォース</rt><rp>)</rp></ruby> RTXシリーズに搭載されている、機械学習を用いて低解像度の映像をリアルタイムに高解像度化する技術のことを、アルファベット4文字で何というでしょう？
+- question: <ruby><rb>NVIDIA</rb><rp>(</rp><rt>エヌビディア</rt><rp>)</rp></ruby>の<ruby><rb>GeForce</rb><rp>(</rp><rt>ジーフォース</rt><rp>)</rp></ruby> RTXシリーズに搭載されている、機械学習を用いて低解像度の映像をリアルタイムに高解像度化する技術のことを、アルファベット4文字で何というでしょう？
   answer: DLSS
   alternativeAnswers:
     - Deep Learning Super Sampling
@@ -11297,7 +11297,7 @@
   answer: うるう秒
   alternativeAnswers:
     - leap second
-- question: <ruby><rb>LAME</rb><rp> (</rp><rt>レイム</rt><rp>)</rp></ruby>、Wine、PHP、<ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby>などのように、略す前の名称に、略したあとの単語が含まれている頭字語のことを何というでしょう？
+- question: <ruby><rb>LAME</rb><rp>(</rp><rt>レイム</rt><rp>)</rp></ruby>、Wine、PHP、<ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby>などのように、略す前の名称に、略したあとの単語が含まれている頭字語のことを何というでしょう？
   answer: 再帰的頭字語
 - question: 物理的な可動部品がないためハードディスクより高速にデータを転送できる、半導体メモリを記憶装置として用いたコンピュータードライブを何というでしょう？
   answer: SSD
@@ -11373,7 +11373,7 @@
   answer: 99 Bottles of Beer
   alternativeAnswers:
     - 99本のビール
-- question: BUMP OF CHICKENの楽曲、<ruby><rb>伊藤智彦</rb><rp> (</rp><rt>いとうともひこ</rt><rp>)</rp></ruby>監督のアニメ映画、キズナアイの1stアルバムの名前に共通する、プログラミング入門書における最初のプログラムでよく出力される文字列は何でしょう？
+- question: BUMP OF CHICKENの楽曲、<ruby><rb>伊藤智彦</rb><rp>(</rp><rt>いとうともひこ</rt><rp>)</rp></ruby>監督のアニメ映画、キズナアイの1stアルバムの名前に共通する、プログラミング入門書における最初のプログラムでよく出力される文字列は何でしょう？
   answer: 「Hello, World」
   alternativeAnswers:
     - ハローワールド
@@ -11481,7 +11481,7 @@
   answer: Transformer
   alternativeAnswers:
     - トランスフォーマー
-- question: カリフォルニア州の中部に位置し、インテル、AMD、<ruby><rb>NVIDIA</rb><rp> (</rp><rt>エヌビディア</rt><rp>)</rp></ruby>など数多くの半導体企業が本社を置くシリコンバレーの中心都市の一つは何でしょう？
+- question: カリフォルニア州の中部に位置し、インテル、AMD、<ruby><rb>NVIDIA</rb><rp>(</rp><rt>エヌビディア</rt><rp>)</rp></ruby>など数多くの半導体企業が本社を置くシリコンバレーの中心都市の一つは何でしょう？
   answer: サンタクララ
   alternativeAnswers:
     - Santa Clara
@@ -11498,7 +11498,7 @@
   answer: コンピューター
   alternativeAnswers:
     - 電子計算機
-- question: 「<ruby><rb>Cubase</rb><rp> (</rp><rt>キューベース</rt><rp>)</rp></ruby>」「Studio One」「Reaper」などの製品に代表される、音声の録音・編集・ミキシング・編曲などの一連の作業ができるように構成されたアプリケーションのことをアルファベット3文字で何というでしょう？
+- question: 「<ruby><rb>Cubase</rb><rp>(</rp><rt>キューベース</rt><rp>)</rp></ruby>」「Studio One」「Reaper」などの製品に代表される、音声の録音・編集・ミキシング・編曲などの一連の作業ができるように構成されたアプリケーションのことをアルファベット3文字で何というでしょう？
   answer: DAW
   alternativeAnswers:
     - Digital Audio Workstation
@@ -11604,7 +11604,7 @@
     - artisan keycap
     - アルチザン
     - artisan
-- question: プロジェクトマネジメントツールの「<ruby><rb>Jira</rb><rp> (</rp><rt>ジラ</rt><rp>)</rp></ruby>」、タスク管理ツールの「<ruby><rb>Trello</rb><rp> (</rp><rt>トレロ</rt><rp>)</rp></ruby>」、リポジトリ共有サイトの「<ruby><rb>Bitbucket</rb><rp> (</rp><rt>ビットバケット</rt><rp>)</rp></ruby>」といったサービスを提供するオーストラリアのIT企業は何でしょう？
+- question: プロジェクトマネジメントツールの「<ruby><rb>Jira</rb><rp>(</rp><rt>ジラ</rt><rp>)</rp></ruby>」、タスク管理ツールの「<ruby><rb>Trello</rb><rp>(</rp><rt>トレロ</rt><rp>)</rp></ruby>」、リポジトリ共有サイトの「<ruby><rb>Bitbucket</rb><rp>(</rp><rt>ビットバケット</rt><rp>)</rp></ruby>」といったサービスを提供するオーストラリアのIT企業は何でしょう？
   answer: Atlassian
   alternativeAnswers:
     - アトラシアン
@@ -11624,7 +11624,7 @@
     - アンビエント
     - ambient sound
     - ambient
-- question: <ruby><rb>MySQL</rb><rp> (</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>、Ruby、Internet Explorerの初版がリリースされたのは、いずれも西暦何年のことだったでしょう？
+- question: <ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>、Ruby、Internet Explorerの初版がリリースされたのは、いずれも西暦何年のことだったでしょう？
   answer: 1995年
 - question: 「9時から21時まで働き、休みは週1日」といった意味がある、中国のIT企業で取り沙汰されている労働問題を、3つの数字を使って何問題というでしょう？
   answer: 996問題
@@ -11647,7 +11647,7 @@
   answer: インターフェイス
   alternativeAnswers:
     - interface
-- question: 手術用モニターの「<ruby><rb>CuratOR</rb><rp> (</rp><rt>キュレーター</rt><rp>)</rp></ruby>」や管制塔用モニターの「<ruby><rb>Raptor</rb><rp> (</rp><rt>ラプター</rt><rp>)</rp></ruby>」などのシリーズを展開している、高性能ディスプレイ製品で有名な日本のIT企業は何でしょう？
+- question: 手術用モニターの「<ruby><rb>CuratOR</rb><rp>(</rp><rt>キュレーター</rt><rp>)</rp></ruby>」や管制塔用モニターの「<ruby><rb>Raptor</rb><rp>(</rp><rt>ラプター</rt><rp>)</rp></ruby>」などのシリーズを展開している、高性能ディスプレイ製品で有名な日本のIT企業は何でしょう？
   answer: EIZO株式会社
   alternativeAnswers:
     - EIZO
@@ -11715,7 +11715,7 @@
   answer: ページビュー
   alternativeAnswers:
     - Page View
-- question: <ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
+- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
   answer: 仮数部
   alternativeAnswers:
     - 仮数
@@ -11758,7 +11758,7 @@
   answer: clamp関数
   alternativeAnswers:
     - clamp
-- question: 2GHz帯と5GHz帯を併用する無線通信規格「<ruby><rb>IEEE</rb><rp> (</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby> 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
+- question: 2GHz帯と5GHz帯を併用する無線通信規格「<ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby> 802.11n」を、Wi-Fiのバージョン番号で記述すると「Wi-Fi 何」となるでしょう？
   answer: Wi-Fi 4
   alternativeAnswers:
     - '4'
@@ -11859,7 +11859,7 @@
     - フューショット
     - few-shot prompting
     - few-shot
-- question: 「<ruby><rb>+</rb><rp> (</rp><rt>プラス</rt><rp>)</rp></ruby>」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
+- question: 「<ruby><rb>+</rb><rp>(</rp><rt>プラス</rt><rp>)</rp></ruby>」記号と国別コードを先頭につけることで記述する、国際電気通信連合によって定められている国際電話番号の標準的な記述方式のことを、この勧告の番号から「何形式」というでしょう？
   answer: E.164形式
   alternativeAnswers:
     - E.164
@@ -11963,7 +11963,7 @@
   alternativeAnswers:
     - ファイナライザ
     - finalizer
-- question: 日本では俗に「火狐」などとも呼ばれる、<ruby><rb>Mozilla</rb><rp> (</rp><rt>モジラ</rt><rp>)</rp></ruby> Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
+- question: 日本では俗に「火狐」などとも呼ばれる、<ruby><rb>Mozilla</rb><rp>(</rp><rt>モジラ</rt><rp>)</rp></ruby> Foundationによって開発されているオープンソースのウェブブラウザは何でしょう？
   answer: Firefox
   alternativeAnswers:
     - ファイアフォックス
@@ -12005,7 +12005,7 @@
     - ナナロク
 - question: すべての動画が3分以内となっており現在500以上の講座が開講している、taguchiによって2012年にサービス開始した初心者向けプログラミング学習サイトは何でしょう？
   answer: ドットインストール
-- question: <ruby><rb>malloc</rb><rp> (</rp><rt>マロック</rt><rp>)</rp></ruby>、<ruby><rb>free</rb><rp> (</rp><rt>フリー</rt><rp>)</rp></ruby>、<ruby><rb>abs</rb><rp> (</rp><rt>エービーエス</rt><rp>)</rp></ruby>、<ruby><rb>rand</rb><rp> (</rp><rt>ランド</rt><rp>)</rp></ruby>などの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
+- question: <ruby><rb>malloc</rb><rp>(</rp><rt>マロック</rt><rp>)</rp></ruby>、<ruby><rb>free</rb><rp>(</rp><rt>フリー</rt><rp>)</rp></ruby>、<ruby><rb>abs</rb><rp>(</rp><rt>エービーエス</rt><rp>)</rp></ruby>、<ruby><rb>rand</rb><rp>(</rp><rt>ランド</rt><rp>)</rp></ruby>などの関数が定義されている、雑多な基本機能が多く収録されたC言語の標準ヘッダファイルは「何.h」でしょう？
   answer: stdlib.h
   alternativeAnswers:
     - stdlib
@@ -12089,7 +12089,7 @@
   answer: フォーク
   alternativeAnswers:
     - fork
-- question: 「<ruby><rb>#</rb><rp> (</rp><rt>ハッシュ</rt><rp>)</rp></ruby>ITクイズ<ruby><rb>#</rb><rp> (</rp><rt>ハッシュ</rt><rp>)</rp></ruby>」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
+- question: 「<ruby><rb>#</rb><rp>(</rp><rt>ハッシュ</rt><rp>)</rp></ruby>ITクイズ<ruby><rb>#</rb><rp>(</rp><rt>ハッシュ</rt><rp>)</rp></ruby>」のように2つの「#」で囲んでハッシュタグを表現するという特徴を持つ、中国で5億人以上の月間アクティブユーザーを持つSNSは何でしょう？
   answer: Weibo
   alternativeAnswers:
     - ウェイボ
@@ -12301,11 +12301,11 @@
   answer: マザーボード
   alternativeAnswers:
     - mother board
-- question: ロボット工学者の<ruby><rb>森政弘</rb><rp> (</rp><rt>もりまさひろ</rt><rp>)</rp></ruby>によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
+- question: ロボット工学者の<ruby><rb>森政弘</rb><rp>(</rp><rt>もりまさひろ</rt><rp>)</rp></ruby>によって提唱された、ロボットの見た目が人間に近づいていくと、ある段階で突然強い嫌悪感を覚えるという現象を「何現象」というでしょう？
   answer: 不気味の谷現象
   alternativeAnswers:
     - 不気味の谷
-- question: 6つあるルートキーの名前は全て「<ruby><rb>HKEY_</rb><rp> (</rp><rt>エイチキー・アンダーバー</rt><rp>)</rp></ruby>」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
+- question: 6つあるルートキーの名前は全て「<ruby><rb>HKEY_</rb><rp>(</rp><rt>エイチキー・アンダーバー</rt><rp>)</rp></ruby>」で始まる、OSの設定やソフトウェア情報などを階層構造で管理するWindowsのシステムデータのデータベースは何でしょう？
   answer: レジストリ
   alternativeAnswers:
     - registry
@@ -12347,7 +12347,7 @@
     - ボット
     - bot account
     - bot
-- question: <ruby><rb>clog</rb><rp> (</rp><rt>シーログ</rt><rp>)</rp></ruby>、<ruby><rb>cerr</rb><rp> (</rp><rt>シーエラー</rt><rp>)</rp></ruby>、<ruby><rb>cout</rb><rp> (</rp><rt>シーアウト</rt><rp>)</rp></ruby>、<ruby><rb>cin</rb><rp> (</rp><rt>シーイン</rt><rp>)</rp></ruby>などのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
+- question: <ruby><rb>clog</rb><rp>(</rp><rt>シーログ</rt><rp>)</rp></ruby>、<ruby><rb>cerr</rb><rp>(</rp><rt>シーエラー</rt><rp>)</rp></ruby>、<ruby><rb>cout</rb><rp>(</rp><rt>シーアウト</rt><rp>)</rp></ruby>、<ruby><rb>cin</rb><rp>(</rp><rt>シーイン</rt><rp>)</rp></ruby>などのグローバルオブジェクトが定義されている、C++において基本的な入出力の機能を提供する標準ライブラリファイルは何でしょう？
   answer: iostream
 - question: 別名を「LATCHの法則」ともいう、リチャード・S・ワーマンによって提唱された、情報を分類して整理する5つの方法を用いたフレームワークは「究極の5つの何」でしょう？
   answer: 究極の5つの帽子掛け
@@ -12362,7 +12362,7 @@
   answer: フォーク
   alternativeAnswers:
     - fork
-- question: 「<ruby><rb>Hystrix</rb><rp> (</rp><rt>ヒストリックス</rt><rp>)</rp></ruby>」や「<ruby><rb>Maestro</rb><rp> (</rp><rt>マエストロ</rt><rp>)</rp></ruby>」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
+- question: 「<ruby><rb>Hystrix</rb><rp>(</rp><rt>ヒストリックス</rt><rp>)</rp></ruby>」や「<ruby><rb>Maestro</rb><rp>(</rp><rt>マエストロ</rt><rp>)</rp></ruby>」などのオープンソースソフトウェアを開発している、インターネット回線速度測定サイト「fast.com」の運用でも有名なアメリカのIT企業は何でしょう？
   answer: Netflix, Inc.
   alternativeAnswers:
     - Netflix
@@ -12400,7 +12400,7 @@
     - キーボード
     - keyboard warrior
     - keyboard
-- question: 2015年の「将棋電王戦FINAL」の第2局で<ruby><rb>永瀬拓矢</rb><rp> (</rp><rt>ながせたくや</rt><rp>)</rp></ruby>六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
+- question: 2015年の「将棋電王戦FINAL」の第2局で<ruby><rb>永瀬拓矢</rb><rp>(</rp><rt>ながせたくや</rt><rp>)</rp></ruby>六段が88手目に指した、コンピュータープログラム「Selene」のバグを突いて打ち破った伝説の1手は「2七何」でしょう？
   answer: 2七角不成
   alternativeAnswers:
     - 角不成
@@ -12452,7 +12452,7 @@
     - フレンド
     - friend function
     - friend
-- question: <ruby><rb>GNU</rb><rp> (</rp><rt>グヌー</rt><rp>)</rp></ruby> <ruby><rb>Autotools</rb><rp> (</rp><rt>オートツールズ</rt><rp>)</rp></ruby>などのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
+- question: <ruby><rb>GNU</rb><rp>(</rp><rt>グヌー</rt><rp>)</rp></ruby> <ruby><rb>Autotools</rb><rp>(</rp><rt>オートツールズ</rt><rp>)</rp></ruby>などのツールによって作成され、Makefile.inなどとともに頒布パッケージの中に含まれることが多い、多くのLinux向けライブラリをインストールする際にmakeコマンドを実行する前に実行されるスクリプトの名前は何でしょう？
   answer: configure
 - question: デジタル回路設計において、レジスタレベルで記述されたハードウェア回路をゲートなどを用いた具体的な論理回路に変換するプロセスのことを何というでしょう？
   answer: 論理合成
@@ -12494,7 +12494,7 @@
   answer: Xcode
   alternativeAnswers:
     - エックスコード
-- question: iPhone <ruby><rb>X</rb><rp> (</rp><rt>テン</rt><rp>)</rp></ruby>の「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
+- question: iPhone <ruby><rb>X</rb><rp>(</rp><rt>テン</rt><rp>)</rp></ruby>の「A11 Bionic」で初めて搭載され、近年のAppleのSoCに多く搭載されているAIプロセッサーは何でしょう？
   answer: ニューラルエンジン
   alternativeAnswers:
     - Neural Engine
@@ -12723,7 +12723,7 @@
   answer: チェス
   alternativeAnswers:
     - chess
-- question: <ruby><rb>Apache</rb><rp> (</rp><rt>アパッチ</rt><rp>)</rp></ruby> <ruby><rb>Mesos</rb><rp> (</rp><rt>メゾス</rt><rp>)</rp></ruby>や<ruby><rb>Kubernetes</rb><rp> (</rp><rt>クバネテス</rt><rp>)</rp></ruby>などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
+- question: <ruby><rb>Apache</rb><rp>(</rp><rt>アパッチ</rt><rp>)</rp></ruby> <ruby><rb>Mesos</rb><rp>(</rp><rt>メゾス</rt><rp>)</rp></ruby>や<ruby><rb>Kubernetes</rb><rp>(</rp><rt>クバネテス</rt><rp>)</rp></ruby>などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
   answer: コンテナオーケストレーションツール
   alternativeAnswers:
     - コンテナオーケストレーション
@@ -13361,7 +13361,7 @@
   answer: エディオン
   alternativeAnswers:
     - EDION
-- question: 歴史的経緯から「<ruby><rb>Mozilla/5.0</rb><rp> (</rp><rt>モジラ・スラッシュ・ごてんぜろ</rt><rp>)</rp></ruby>」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
+- question: 歴史的経緯から「<ruby><rb>Mozilla/5.0</rb><rp>(</rp><rt>モジラ・スラッシュ・ごてんぜろ</rt><rp>)</rp></ruby>」で始まる文字列であることが多い、ウェブページにアクセスする際に送られる、ユーザーが使用したOSやブラウザを表す文字列を何というでしょう？
   answer: ユーザーエージェント
   alternativeAnswers:
     - User-Agent
@@ -13967,7 +13967,7 @@
     - squiggle maximizer problem
     - squiggle maximizer
     - squiggle
-- question: 北海道｜美唄市(びばいし)が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から行っていることが名前の由来です。その「あるもの」とは何でしょう？
+- question: 北海道<ruby><rb>美唄市</rb><rp>(</rp><rt>びばいし</rt><rp>)</rp></ruby>が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から行っていることが名前の由来です。その「あるもの」とは何でしょう？
   answer: 雪
   description: https://www.city.bibai.hokkaido.jp/soshiki/13/417.html
 - question: Ruby・Kotlin・Groovyなどの言語では暗黙の引数を表すのに用いられ、RSpec・Jest・Mochaなどのテストフレームワークではテストケースの記述に用いられる、ある英語の代名詞に由来するキーワードは何でしょう？
@@ -14002,7 +14002,7 @@
     - アカマイ
 - question: このイベントに動員されたドワンゴ社員が2015年に「エンジニアなのに焼きそばを焼かされた」と訴えたことが業界で大きな話題を呼んだ、毎年4月に幕張メッセで行われるドワンゴ社のユーザー参加型イベントは何でしょう？
   answer: ニコニコ超会議
-- question: 数学用語としては集合の元に他の集合の元を対応させる写像やその記号のことを指す、プログラミングにおいて「<ruby><rb>+</rb><rp> (</rp><rt>プラス</rt><rp>)</rp></ruby>」や「<ruby><rb>*</rb><rp> (</rp><rt>アスタリスク</rt><rp>)</rp></ruby>」など、特定の計算を行うことを表す記号や命令のことを何というでしょう？
+- question: 数学用語としては集合の元に他の集合の元を対応させる写像やその記号のことを指す、プログラミングにおいて「<ruby><rb>+</rb><rp>(</rp><rt>プラス</rt><rp>)</rp></ruby>」や「<ruby><rb>*</rb><rp>(</rp><rt>アスタリスク</rt><rp>)</rp></ruby>」など、特定の計算を行うことを表す記号や命令のことを何というでしょう？
   answer: 演算子
   alternativeAnswers:
     - operator
@@ -14037,7 +14037,7 @@
   answer: 馬力
   alternativeAnswers:
     - horsepower
-- question: 「<ruby><rb>/</rb><rp> (</rp><rt>スラッシュ</rt><rp>)</rp></ruby>8」や「<ruby><rb>/</rb><rp> (</rp><rt>スラッシュ</rt><rp>)</rp></ruby>16」のような表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
+- question: 「<ruby><rb>/</rb><rp>(</rp><rt>スラッシュ</rt><rp>)</rp></ruby>8」や「<ruby><rb>/</rb><rp>(</rp><rt>スラッシュ</rt><rp>)</rp></ruby>16」のような表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
   paperQuestion: 「/8」や「/16」のようなスラッシュ表記法によってその長さが指定される、IPアドレスにおいてそのアドレスが属する大きなグループについて表した部分のことを「何部」というでしょう？
   answer: ネットワーク部
   alternativeAnswers:
@@ -14054,7 +14054,7 @@
   answer: アイコン
   alternativeAnswers:
     - icon
-- question: 「ゆる言語学ラジオ」の2人のパーソナリティーが普段と逆の立場でトークを繰り広げ、さまざまなIT技術の仕組みについて解説していく、<ruby><rb>堀元見</rb><rp> (</rp><rt>ほりもとけん</rt><rp>)</rp></ruby>と<ruby><rb>水野太貴</rb><rp> (</rp><rt>みずのだいき</rt><rp>)</rp></ruby>によるYouTubeチャンネル・ポッドキャストは「何ラジオ」でしょう？
+- question: 「ゆる言語学ラジオ」の2人のパーソナリティーが普段と逆の立場でトークを繰り広げ、さまざまなIT技術の仕組みについて解説していく、<ruby><rb>堀元見</rb><rp>(</rp><rt>ほりもとけん</rt><rp>)</rp></ruby>と<ruby><rb>水野太貴</rb><rp>(</rp><rt>みずのだいき</rt><rp>)</rp></ruby>によるYouTubeチャンネル・ポッドキャストは「何ラジオ」でしょう？
   answer: ゆるコンピューター科学ラジオ
   alternativeAnswers:
     - ゆるコンピューター科学
@@ -14162,7 +14162,7 @@
     - '400'
     - 0.4秒
     - '0.4'
-- question: 本名を<ruby><rb>仙塲大也</rb><rp> (</rp><rt>せんばだいや</rt><rp>)</rp></ruby>という、2023年にITエンジニア本大賞・技術書部門大賞を受賞した『良いコード／悪いコードで学ぶ設計入門』の著者として知られる日本のエンジニアは誰でしょう？
+- question: 本名を<ruby><rb>仙塲大也</rb><rp>(</rp><rt>せんばだいや</rt><rp>)</rp></ruby>という、2023年にITエンジニア本大賞・技術書部門大賞を受賞した『良いコード／悪いコードで学ぶ設計入門』の著者として知られる日本のエンジニアは誰でしょう？
   answer: ミノ駆動
   description: 名前の読みは https://www.toonippo.co.jp/articles/-/1530983 参照
 - question: 2023年1月以来、Xのプロフィール欄に「X Super Official CEO」と記載するジョークを行っていることでも知られる、現在YouTubeの登録者数で世界1位の記録を持つアメリカのYouTuberは誰でしょう？
@@ -14174,7 +14174,7 @@
   alternativeAnswers:
     - 国際標準化機構
     - International Organization for Standardization
-- question: 「先入れ先出し」を意味する英語から「<ruby><rb>FIFO</rb><rp> (</rp><rt>ファイフォ</rt><rp>)</rp></ruby>」という別名で呼ばれることもある、先に追加された要素から順番にデータを取り出すことができるデータ構造の一種を英語で何というでしょう？
+- question: 「先入れ先出し」を意味する英語から「<ruby><rb>FIFO</rb><rp>(</rp><rt>ファイフォ</rt><rp>)</rp></ruby>」という別名で呼ばれることもある、先に追加された要素から順番にデータを取り出すことができるデータ構造の一種を英語で何というでしょう？
   answer: キュー
   alternativeAnswers:
     - queue
@@ -14188,7 +14188,7 @@
     - functional programming language
     - functional language
     - functional
-- question: 近くで流れている曲の情報を自動で表示する「この曲なに？」機能などが提供されている、Googleが販売するAndroidスマートフォンのブランドは何でしょう？
+- question: 近くで流れている曲の情報を自動で表示する「この曲なに？」機能など独自の機能が多く提供されている、Googleが販売するAndroidスマートフォンのブランドは何でしょう？
   answer: Google Pixel
   alternativeAnswers:
     - Pixel
@@ -14205,7 +14205,7 @@
     - アジャイル
     - agile development
     - agile
-- question: 「RubyMine」や「PyCharm」など特定の言語に特化したコードエディタを多く開発している、チェコに本社を置く2000年創業のソフトウェア開発企業は何でしょう？
+- question: 「<ruby><rb>RubyMine</rb><rp>(</rp><rt>ルビーマイン</rt><rp>)</rp></ruby>」や「<ruby><rb>PyCharm</rb><rp>(</rp><rt>パイチャーム</rt><rp>)</rp></ruby>」など特定の言語に特化したコードエディタを多く開発している、チェコに本社を置く2000年創業のソフトウェア開発企業は何でしょう？
   answer: JetBrains s.r.o.
   alternativeAnswers:
     - JetBrains
