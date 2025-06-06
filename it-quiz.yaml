@@ -14211,3 +14211,98 @@
     - JetBrains
     - ジェットブレインズ社
     - ジェットブレインズ
+- question: YouTubeの「ITクイズチャンネル」のショート動画の作成にも活用されている、ReactなどのWeb技術を用いて動画をプログラムから生成することが可能なスイス発のオープンソースフレームワークは何でしょう？
+  answer: Remotion
+  alternativeAnswers:
+    - リモーション
+- question: 2つの目玉がマウスポインタの動きを追いかけるというシンプルかつユーモラスな動作が特徴の、X Window Systemのデモアプリは何でしょう？
+  answer: xeyes
+- question: JavaやC#では宣言する変数の型を型推論させる際に用いられる、多くの言語で再代入可能な変数を宣言する際に用いられるアルファベット3文字のキーワードは何でしょう？
+  answer: var
+- question: 2021年に発生した火災によって300万を超えるウェブサイトのデータが焼失するという大規模な事故が発生したことでも知られる、フランスに本社を置く欧州最大級のクラウドサービスプロバイダーは何でしょう？
+  answer: OVHcloud
+  alternativeAnswers:
+    - オー・ヴェー・アッシュ・クラウド
+- question: Go、Zero、Proof、Fold、Star、Evolve、Geometry、Tensor、Dev、Codeの前につくとDeepMindによって開発されたAI技術の名前になる英単語といえば何でしょう？
+  answer: Alpha
+  alternativeAnswers:
+    - アルファ
+- question: これの長さが短いほどICチップの性能が高まることから現在も微細化が進められている、電界効果トランジスタにおいてソースとドレインの間に存在する第三の電極は何でしょう？
+  answer: ゲート
+  alternativeAnswers:
+    - gate
+- question: これまでに発見された脆弱性の中でも実際に悪用されたことが確認されているものの情報をまとめている、アメリカのCISAが公開する重大な脆弱性のカタログを、アルファベット3文字を用いて「何カタログ」というでしょう？
+  answer: KEVカタログ
+  alternativeAnswers:
+    - KEV
+    - Known Exploited Vulnerabilities Catalog
+    - Known Exploited Vulnerabilities
+- question: 1851年に世界初の海底ケーブルが敷設された、イギリスとフランスの間に位置する長さ約34kmの海峡は「何海峡」でしょう？
+  answer: ドーバー海峡
+  alternativeAnswers:
+    - ドーバー
+    - Strait of Dover
+    - Dover
+- question: 各社が提供する「0000softbank」や「0000docomo」といったサービスよりも上位に表示されるように名前が設定された、災害時に通信キャリアの垣根を越えて無料で開放される公衆無線サービスは何でしょう？
+  answer: 00000JAPAN
+- question: 北海道めろんのヘルメットと沖縄あわもの銛がぶつかったエネルギーがずんだアローに憑依して生まれたという設定がある、解説動画などに使われる合成音声としてもおなじみの「東北ずん子プロジェクト」の関連キャラクターは何でしょう？
+  answer: ずんだもん
+- question: 2ちゃんねるにはない「強制sage機能」や「JBBSタグ」なども利用することができる、2ちゃんねる風の電子掲示板を誰でも無料で作成することができる国内最大級の掲示板サービスは「何掲示板」でしょう？
+  answer: したらば掲示板
+  alternativeAnswers:
+    - したらば
+- question: TikTokにおいて、一般ユーザーのアカウント名は何日に1回変更できるでしょう？
+  answer: 7日
+  alternativeAnswers:
+    - '7'
+- question: ロゴマークは日本の狸をモチーフにデザインされている、コードホスティングサービスとしては競合のGitHubと類似の機能も多く提供しているウクライナ発のWebサービスは何でしょう？
+  answer: GitLab
+  alternativeAnswers:
+    - ギットラボ
+- question: 119×2²³+1という特徴的な構造によって高速フーリエ変換がしやすくなることから、競技プログラミングの剰余演算の除数としてよく用いられる整数は何でしょう？
+  answer: 998,244,353
+- question: データ構造の「スタック」に対する操作で、データを追加することを「push」というのに対して、データを取り出すことを英語で何というでしょう？
+  answer: pop
+- question: 「公開鍵」と「秘密鍵」のうち、公開鍵暗号でデータを暗号化するのに用いるのはどちらでしょう？
+  answer: 公開鍵
+  alternativeAnswers:
+    - public key
+- question: Google、Netflix、Amazonなどが参加する団体によって2018年に発表された、H.265などの従来のコーデックよりも高い圧縮率を持つロイヤリティフリーの動画圧縮コーデックは何でしょう？
+  answer: AV1
+  alternativeAnswers:
+    - AOMedia Video 1
+- question: 似た意味を持つ「CTO」と比較して人的・組織的な側面が重視されることが多いとされる、特にスタートアップ企業において技術部門の最高責任者のことを指す、アルファベット4文字の役職は何でしょう？
+  answer: VPoE
+  alternativeAnswers:
+    - Vice President of Engineering
+- question: Scheme、Racket、Clojureといった方言が多く存在する、1958年にジョン・マッカーシーによって開発されたプログラミング言語は何でしょう？
+  answer: LISP
+  alternativeAnswers:
+    - リスプ
+    - List Processor
+- question: 「Regular」と「Medium」のうち、一般的なフォントファミリーで太いのはどちらでしょう？
+  answer: Medium
+  alternativeAnswers:
+    - ミディアム
+- question: 他の受信者のアドレスが知られないように同じ内容のメールを複数の宛先に送信する際に使用されるメールソフトの機能を、アルファベット3文字で何というでしょう？
+  answer: BCC
+- question: コメディ番組「モンティ・パイソン」である食材の名前が何度もが連呼されるエピソードが名前の由来とされる、インターネット上での迷惑メールや無関係な宣伝投稿を指す言葉は何でしょう？
+  answer: スパム
+  alternativeAnswers:
+    - spam
+- question: 法律用語では「所有者の異なる物体が結合して1つになってしまうこと」、IT用語では「メールなどに付属となるファイルを加えて送ること」を意味する漢字二字の用語は何でしょう？
+  answer: 添付
+- question: 上位のデータ項目に対する条件値を定義する際に使われる、プログラミング言語COBOLにおいて最も値が大きいレベル番号は何でしょう？
+  answer: '88'
+- question: その動作によってインパルス、チェーン、リピートの3種類の状態が存在する、ゲーム「Minecraft」においてレッドストーン信号を受けて自動で操作を実行するようにプログラムすることができる特殊なブロックは何でしょう？
+  answer: コマンドブロック
+- question: ミュンスター大学で制作された5.38μm²のものが世界一小さいとして2024年にギネス認定された、1994年にデンソーウェーブによって開発された2次元コードといえば「何コード」でしょう？
+  answer: QRコード
+  alternativeAnswers:
+    - QR
+- question: IBM傘下のクラウドインテグレーター企業「スカイアーチネットワークス」が2015年にオリジナル商品を開発し、現在もノベルティとして配布している、「サーバーを管理すること」から連想される加工食品は何でしょう？
+  answer: 鯖缶
+- question: 1939年にこの企業の創設者がカリフォルニアで初めての製品を開発したことが「シリコンバレーの発祥」として知られている、2015年に分割された「HP」という略称のアメリカのハードウェア製造企業は何でしょう？
+  answer: ヒューレット・パッカード
+  alternativeAnswers:
+    - Hewlett Packard
