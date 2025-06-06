@@ -1505,3 +1505,12 @@
   answer: Wi-Fi 7
   alternativeAnswers:
     - '7'
+- question: 多様な「アイ」に寄り添いたいという意味を込めて命名された、2025年5月にサービス開始したニコニコの最新バージョンは「ニコニコ 何」でしょう？
+  answer: ニコニコ(to i)
+  alternativeAnswers:
+    - to i
+- question: 2025年5月のアップデート以来Windows 11に標準でインストールされている、GoogleとAdobeの共同開発によって2013年にリリースされた多言語対応のオープンソースフォントは何でしょう？
+  answer: Notoフォント
+  alternativeAnswers:
+    - Noto
+  description: https://forest.watch.impress.co.jp/docs/news/1670239.html
