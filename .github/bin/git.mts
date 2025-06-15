@@ -3,7 +3,7 @@ import git from 'isomorphic-git';
 import {fileURLToPath} from 'url';
 import semver, { ReleaseType } from 'semver';
 import yaml from 'js-yaml';
-import zip from 'lodash/zip.js';
+import {zip} from 'lodash-es';
 import * as Diff from 'diff';
 import assert from 'assert';
 import type {NormalQuiz, Quiz, RemovedQuiz} from './quizzes.d.ts';
