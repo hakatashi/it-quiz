@@ -14316,3 +14316,131 @@
   answer: ヒューレット・パッカード
   alternativeAnswers:
     - Hewlett Packard
+- question: 写植字体を元にデジタル化を行い、フォント「MSゴシック」「MS明朝」を作成したことでも知られる、現在は主に複写機やデジタルカメラなどの製造・販売を手がける日本の電機メーカーは何でしょう？
+  answer: 株式会社リコー
+  alternativeAnswers:
+    - リコー
+    - RICOH
+- question: コレクションに対してmapやfilterといった操作をチェーン形式で行うことができる、Java 8でラムダ式とともに導入された一連のAPIを何というでしょう？
+  answer: Stream API
+  alternativeAnswers:
+    - Stream
+- question: 元SEでイラストレーターの著者がIT分野の仕組みをイラスト付きでわかりやすくまとめている、情報処理技術者試験の対策本として人気の書籍シリーズといえば「何式イラストIT塾」でしょう？
+  answer: キタミ式イラストIT塾
+  alternativeAnswers:
+    - キタミ式
+    - キタミ
+  description: 著者は「きたみりゅうじ」
+- question: 現在製造されているLSIチップの基本的な回路構造として採用されている、p型とn型の1対のMOSFETを基本単位とする相補型の論理回路実装技術をアルファベット4文字で何というでしょう？
+  answer: CMOS
+  alternativeAnswers:
+    - シーモス
+    - Complementary Metal-Oxide-Semiconductor
+- question: その名前は堀江貴文が収監されていた際の囚人番号に由来する、現在はサイバーエージェントによって運営されているスマートフォン向けSNSは何でしょう？
+  answer: '755'
+- question: 機械学習のモデルが、学習したデータに含まれていない未知のデータに対しても適応できる性能のことを何というでしょう？
+  answer: 汎化性能
+  alternativeAnswers:
+    - 汎化能力
+    - 汎化
+    - generalization performance
+    - generalization
+- question: 通信プロトコル「UDP」の「D」もこれを表している、IPやUDPなどのプロトコルにおいて1度に送られる通信データの基本単位は何でしょう？
+  answer: データグラム
+  alternativeAnswers:
+    - datagram
+- question: 組合せ最適化問題を貪欲法で解く上でこの構造が用いられることもある、ハスラー・ホイットニーにより提唱された、行列の一次独立・従属を一般化した数学的概念を何というでしょう？
+  answer: マトロイド
+  alternativeAnswers:
+    - matroid
+- question: 要素数を表す「size()」に加えて、確保されたメモリの大きさを表す「capacity()」というメンバ関数も存在する、C++において任意のデータのランダムアクセス可能な可変長配列を表す標準クラスといえば何でしょう？
+  answer: std::vector
+  alternativeAnswers:
+    - vector
+    - ベクター
+  description: std::basic_stringも前フリに合致するが、任意のデータではない
+- question: 2014年には「ワタシハリナックスチョットデキル」と書かれたTシャツを着た姿がエンジニア業界で大きな話題となった、オペレーティングシステム「Linux」の開発者として有名なフィンランド生まれのプログラマーは誰でしょう？
+  answer: リーナス・トーバルズ
+  alternativeAnswers:
+    - リーナス・ベネディクト・トーバルズ
+    - リーナス
+    - Linus Torvalds
+    - Linus Benedict Torvalds
+    - Linus
+- question: 電力業界と情報通信業界が互いに連携しながらインフラを整備していくという取り組みのことを、日本では「何・何連携」というでしょう？
+  answer: ワット・ビット連携
+  alternativeAnswers:
+    - ワット・ビット
+- question: 特にゲーム業界において、開発終盤の過酷な追い込み作業のことを、「土壇場」などを俗に意味する英語から何というでしょう？
+  answer: クランチ
+  alternativeAnswers:
+    - クランチモード
+    - クランチ開発
+    - クランチタイム
+    - クランチカルチャー
+    - crunch
+    - crunch mode
+    - crunch development
+    - crunch time
+    - crunch culture
+- question: 名前の通り「JavaScriptのオブジェクト表記法」から派生して生まれた、現在多くのAPIでデータ交換フォーマットとして用いられているテキストベースのデータ記述言語をアルファベット4文字で何というでしょう？
+  answer: JSON
+  alternativeAnswers:
+    - JavaScript Object Notation
+- question: ネット用語で、送ろうとしていたメッセージをうっかり別の送信先に送ってしまうことを、軍事用語から転じた漢字二文字で俗に何というでしょう？
+  answer: 誤爆
+- question: HTTP/1.1において必ず指定しなければならない唯一のリクエストヘッダーである、宛先のサーバーにアクセスするのに使用されたドメイン名が記載されることが多いHTTPヘッダーといえば何でしょう？
+  answer: Hostヘッダー
+  alternativeAnswers:
+    - Hostヘッダ
+    - Host
+- question: 他の言語では「GB」と表記される「ギガバイト」に相当するデータ量を、フランス語では一般的にアルファベット2文字で何と表記するでしょう？
+  answer: Go
+  alternativeAnswers:
+    - Gigaoctet
+- question: 画面サイズや用紙サイズなどにおいて、横長のことを「ランドスケープ」というのに対して、縦長のことを英語で何というでしょう?
+  answer: ポートレート
+  alternativeAnswers:
+    - portrait
+- question: MS-DOSにおいてコマンドラインオプションとの衝突を避けるために前後反対の形が採用され、現在もWindowsにおいてパスの区切り文字として使用される記号は何でしょう？
+  answer: \
+  alternativeAnswers:
+    - バックスラッシュ
+    - backslash
+    - 逆斜線
+    - リバースソリダス
+    - reverse solidus
+- question: チェコ語で「強制労働」を意味する言葉に由来する、1920年にカレル・チャペックの戯曲『R.U.R.』で初めて登場し、後に自動化機械や人工知能を指すようになった言葉は何でしょう？
+  answer: ロボット
+  alternativeAnswers:
+    - robot
+- question: VRChatではこれの仕様を利用して特殊なジャンプやダッシュを行うテクニックも知られている、物理演算による当たり判定を可能にするために3Dオブジェクトに設定される仮想形状のことを何というでしょう？
+  answer: コライダー
+  alternativeAnswers:
+    - collider
+- question: 入会することで「お急ぎ便」などのサービスを無料で利用することができる、通販サービス「Amazon」の有料会員サービスといえば何でしょう？
+  answer: Amazonプライム
+  alternativeAnswers:
+    - プライム
+    - アマゾンプライム
+    - Amazon Prime
+    - Prime
+- question: フジテレビの番組「ゲームセンターCX」の「CX」や、テレビ朝日の複合施設「EXタワー」の「EX」などの由来にもなっている、無線局を一意に識別するために国際的に割り当てられている識別子のことを何というでしょう？
+  answer: コールサイン
+  alternativeAnswers:
+    - call sign
+    - 呼出符号
+- question: 2012年にコンピューターによって初めて証明された、数独において解が唯一に定まる初期配置数字の最小個数は何個でしょう？
+  answer: 17個
+  alternativeAnswers:
+    - '17'
+- question: 匿名性の高い独自ブラウザの「Orion」もあわせて提供されている、「広告なし、監視なし」をモットーに掲げるアメリカ発の有料検索エンジンは何でしょう？
+  answer: Kagi Search
+  alternativeAnswers:
+    - Kagi
+    - カギサーチ
+    - カギ
+- question: 毎年秋には開発者向けカンファレンスの「Universe」も開催している、2018年にマイクロソフトによって買収されたコードホスティングプラットフォームは何でしょう？
+  answer: GitHub
+  alternativeAnswers:
+    - ギットハブ
