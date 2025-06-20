@@ -1514,3 +1514,27 @@
   alternativeAnswers:
     - Noto
   description: https://forest.watch.impress.co.jp/docs/news/1670239.html
+- question: 2025年3月にドワンゴの保有する特許の侵害を認める最高裁判決が下され、それ以来アクセスできない状態が続いている、2011年からはFC2によって運営されていたニコニコ風動画表示サービスは何でしょう？
+  answer: ひまわり動画
+  alternativeAnswers:
+    - ひまわり
+- question: Googleの「Android XR」を搭載する初のVRデバイスとして2025年中の発売が期待されている、Googleとサムスンが共同開発するMR・VRヘッドセットのコードネームは何でしょう？
+  answer: Project Moohan
+  alternativeAnswers:
+    - Moohan
+    - プロジェクトムーハン
+    - ムーハン
+  description: 韓国語で「無限」
+- question: 丸みを帯びたガラスの縁のような装飾や、背景のコンテンツに応じて動的に変化する色彩といった特徴を持つ、12年ぶりのデザイン刷新としてAppleが次期iOSからの導入を予定しているUIシステムの名前は何でしょう？
+  answer: リキッドグラス
+  alternativeAnswers:
+    - Liquid Glass
+- question: 2025年6月のWWDCで発表された、iOSの現行バージョン「18」の次に相当するメジャーバージョンといえば「iOS いくつ」でしょう？
+  answer: iOS 26
+  alternativeAnswers:
+    - '26'
+- question: カリフォルニア州とネバダ州の境にある、リゾート地として有名な湖の名前から命名された、2025年秋に正式リリースされる予定のmacOSの最新バージョンといえば「macOS 何」でしょう？
+  answer: macOS Tahoe
+  alternativeAnswers:
+    - Tahoe
+    - タホ
