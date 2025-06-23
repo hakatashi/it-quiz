@@ -120,6 +120,8 @@
   answer: レイドバトル
   alternativeAnswers:
     - レイド
+    - raid battle
+    - raid
 - question: 多重ループなど、プログラミングにおいて制御文が何重にも入れ子になっている状態のことを、「鳥の巣」を意味する英単語を用いて「何が深い」というでしょう？
   answer: ネストが深い
   alternativeAnswers:
@@ -445,7 +447,8 @@
     - INFOBAR
 - question: 会社の従業員が各々持ち込んだデバイスで業務を行うことを、アルファベット4文字で何というでしょう？
   answer: BYOD
-  description: 「Bring Your Own Device」の略
+  alternativeAnswers:
+    - Bring Your Own Device
 - question: 「<ruby><rb>CAR</rb><rp>(</rp><rt>カー</rt><rp>)</rp></ruby>」と「<ruby><rb>CDR</rb><rp>(</rp><rt>クダー</rt><rp>)</rp></ruby>」の2つの要素で構成される、LISPにおいて連結リストを表現するためのデータ構造は何でしょう？
   answer: コンスセル
   alternativeAnswers:
@@ -1031,7 +1034,7 @@
   answer: キーピッチ
   alternativeAnswers:
     - key pitch
-- question: ディスクではないがそのロゴには光学ディスクを模したデザインが描かれている、携帯電話やデジタルカメラによく用いられるカード型のフラッシュメモリは「何カード」でしょう？
+- question: 光学ディスクではないがそのロゴには光学ディスクを模したデザインが描かれている、携帯電話やデジタルカメラによく用いられるカード型のフラッシュメモリは「何カード」でしょう？
   answer: SDカード
   alternativeAnswers:
     - SDメモリーカード
@@ -1073,7 +1076,7 @@
   answer: サンドボックス
   alternativeAnswers:
     - sandbox
-- question: 大学のシンボルでもある鳥の名前から名付けられた、東京工業大学の全ての学生に利用権が開放されていることでも知られる同学のスーパーコンピューターは何でしょう？
+- question: 大学のシンボルでもある鳥の名前から名付けられた、東京科学大学の全ての学生に利用権が開放されていることでも知られる同学のスーパーコンピューターは何でしょう？
   answer: TSUBAME
   alternativeAnswers:
     - つばめ
@@ -1917,7 +1920,7 @@
   answer: ルビー
   alternativeAnswers:
     - Ruby
-- question: 東京工業大学の豊田正史によって実装されたものが現在では普及している、あるコマンドの打ち間違えを防ぐために開発された「画面に機関車を走らせる」UNIXプログラムは何でしょう？
+- question: 旧東京工業大学の豊田正史によって実装されたものが現在では普及している、あるコマンドの打ち間違えを防ぐために開発された「画面に機関車を走らせる」UNIXプログラムは何でしょう？
   answer: slコマンド
   alternativeAnswers:
     - sl
@@ -2690,6 +2693,8 @@
   answer: 立方体グラフ
   alternativeAnswers:
     - 立方体
+    - cubic graph
+    - cubic
 - question: その名前は「インターネットであらゆる人間を繋ぎたい」という思いから「6次の隔たり」を英語表記したときの部分文字列に由来する、「釣り★スタ」「探検ドリランド」などのゲームを提供している日本のSNSは何でしょう？
   answer: GREE
   alternativeAnswers:
@@ -3979,9 +3984,11 @@
   alternativeAnswers:
     - Multiplayer Online Battle Arena
 - question: 確定申告への影響を考慮して日本版のリリースが延期されたことでも知られる、Internet Explorerの代替として開発されたMicrosoftのウェブブラウザは何でしょう？
-  answer: Edge
+  answer: Microsoft Edge
   alternativeAnswers:
-    - Microsoft Edge
+    - Edge
+    - マイクロソフトエッジ
+    - エッジ
 - question: ASCII文字の1つであるピリオドのことを、ドメイン名やファイル名の中に現れた際には特に何と読むでしょう？
   answer: ドット
   alternativeAnswers:
@@ -6109,7 +6116,7 @@
     - ティーレックス
     - 恐竜
   description: 「恐竜」もおまけで○
-- question: 「女子高生AI」として2015年に登場し、2019年4月には歌手デビューも決定した、マイクロソフト社が開発するチャットボットは何でしょう？
+- question: 「女子高生AI」として2015年に登場し、2019年には歌手、2023年にはVTuberとしてデビューした、マイクロソフト発のチャットボットは何でしょう？
   answer: りんな
 - question: 政治や宗教の衝突などの原因により、サイバー空間が国や地域間で分断されてしまう状態のことを、「分断」と「インターネット」を意味する英語をかけ合わせた造語で何というでしょう？
   answer: スプリンターネット
@@ -7797,7 +7804,7 @@
   description: かつては「European Computer Manufacturers Association」の略だったが現在は何の略でもない。
 - question: 現在ではオンラインサービスの「D-MAIL」を用いて送ることができる、伝えたい文章を遠隔地に電送し、現地で印刷して受け取り手に配送するサービスは何でしょう？
   answer: 電報
-- question: 抵抗器のカラーコードにおいて、赤色が表す数字は何でしょう？
+- question: ずばり、抵抗器のカラーコードにおいて赤色が表す数字は何でしょう？
   answer: '2'
 - question: Webブラウザでは「開発者向けツールを表示」、WordやExcelでは「名前をつけて保存」のショートカットを呼び出すことができるWindowsのファンクションキーといえば、「F何キー」でしょう？
   answer: F12キー
@@ -8268,6 +8275,7 @@
   answer: Microsoft Edge
   alternativeAnswers:
     - Edge
+    - マイクロソフトエッジ
     - エッジ
 - question: スティック、ヒト、こわれているセンサーなどの種類が存在する、Nintendo Switchのゲーム「はじめてゲームプログラミング」においてプログラムを構成する基本部品となるキャラクターは何でしょう？
   answer: ノードン
@@ -8388,7 +8396,7 @@
     - アイティメディア
     - ITmedia Inc.
     - ITmedia
-- question: 略して「subsurf」と呼ぶこともある、3Dポリゴンの特定の領域を細分割して滑らかにする処理は何でしょう？
+- question: 略して「subsurf」と呼ばれることもある、3Dポリゴンの特定の領域を細分割して滑らかにする処理は何でしょう？
   answer: サブディビジョンサーフェス
   alternativeAnswers:
     - サブディビジョンサーフェイス
@@ -8550,6 +8558,7 @@
   answer: Microsoft Edge
   alternativeAnswers:
     - Edge
+    - マイクロソフトエッジ
     - エッジ
   description: Edgeの新ロゴは「ネットサーフィン」をモチーフにしたという説があるが、公式のソースを見つけられず
 - question: 「<ruby><rb>i18n</rb><rp>(</rp><rt>アイじゅうはちエヌ</rt><rp>)</rp></ruby>」や「<ruby><rb>k8s</rb><rp>(</rp><rt>ケーはちエス</rt><rp>)</rp></ruby>」などのように、先頭と末尾の文字に挟まれた文字数で英単語を略して表す記法を英語で何というでしょう？
@@ -12813,6 +12822,8 @@
   answer: ニアショア開発
   alternativeAnswers:
     - ニアショア
+    - near shore development
+    - near shore
 - question: アメリカのエンジニア向けQ&Aコミュニティサイトの名前にもなっている、関数の呼び出しの階層が深すぎることでプログラムに不具合が発生することを指す用語は何でしょう？
   answer: スタックオーバーフロー
   alternativeAnswers:
@@ -14338,6 +14349,8 @@
     - Complementary Metal-Oxide-Semiconductor
 - question: その名前は堀江貴文が収監されていた際の囚人番号に由来する、現在はサイバーエージェントによって運営されているスマートフォン向けSNSは何でしょう？
   answer: '755'
+  alternativeAnswers:
+    - ナナゴーゴー
 - question: 機械学習のモデルが、学習したデータに含まれていない未知のデータに対しても適応できる性能のことを何というでしょう？
   answer: 汎化性能
   alternativeAnswers:
@@ -14398,7 +14411,7 @@
   answer: Go
   alternativeAnswers:
     - Gigaoctet
-- question: 画面サイズや用紙サイズなどにおいて、横長のことを「ランドスケープ」というのに対して、縦長のことを英語で何というでしょう?
+- question: 画面サイズや用紙サイズなどにおいて、<em>横長のことを</em>「ランドスケープ」というのに対して、縦長のことを英語で何というでしょう？
   answer: ポートレート
   alternativeAnswers:
     - portrait
