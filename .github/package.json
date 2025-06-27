@@ -16,7 +16,7 @@
     "@types/semver": "^7.7.0",
     "ajv": "^8.17.1",
     "diff": "^8.0.2",
-    "dotenv": "^16.5.0",
+    "dotenv": "^16.6.0",
     "fs-extra": "^11.3.0",
     "googleapis": "^150.0.1",
     "isomorphic-git": "^1.31.1",
