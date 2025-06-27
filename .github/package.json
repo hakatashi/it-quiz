@@ -19,7 +19,7 @@
     "dotenv": "^16.5.0",
     "fs-extra": "^11.3.0",
     "googleapis": "^150.0.1",
-    "isomorphic-git": "^1.31.1",
+    "isomorphic-git": "^1.32.0",
     "js-yaml": "^4.1.0",
     "json-schema-to-typescript": "^15.0.4",
     "lodash-es": "^4.17.21",
