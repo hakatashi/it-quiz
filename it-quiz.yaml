@@ -14457,3 +14457,132 @@
   answer: GitHub
   alternativeAnswers:
     - ギットハブ
+- question: コーディング規約について定めた「8」や、Pythonの開発哲学について語った「20」などが特に有名な、プログラミング言語Pythonに対する改善を提案するための公式文書のことをアルファベット3文字で何というでしょう？
+  answer: PEP
+  alternativeAnswers:
+    - Python Enhancement Proposal
+- question: 15分の作業に相当する「ACU」と呼ばれるクレジットを消費して作業を行う、Cognition社の自律協調型AIソフトウェアエンジニアは「何 AI」でしょう？
+  answer: Devin AI
+  alternativeAnswers:
+    - Devin
+- question: 哲学系フォーラム「LessWrong」での投稿に由来する、「将来誕生する全能のAIは、AIを産み出すのに貢献しなかったすべての人間を遡って処罰しようとするのではないか」という思考実験を、これを提唱したユーザーの名前から何というでしょう？
+  answer: ロコのバジリスク
+  alternativeAnswers:
+    - Roko's basilisk
+- question: 日本語では「品質保証」と呼ばれる、製品やサービスが一定の品質基準を満たしていることを確認するプロセスのことを、アルファベット2文字の略称で何というでしょう？
+  answer: QA
+  alternativeAnswers:
+    - Quality Assurance
+- question: 「wire」と「reg」の2種類の方法で変数を宣言することができる、「System」を名前に冠するこの言語の拡張でも知られるハードウェア記述言語は何でしょう？
+  answer: Verilog
+  alternativeAnswers:
+    - ベリログ
+- question: ラッチやフリップフロップなどに代表される、内部状態を持ち、入力だけでは出力が一意に定まらないデジタル回路のことを、「組み合わせ回路」に対して日本語で「何回路」というでしょう？
+  answer: 順序回路
+  alternativeAnswers:
+    - 順序
+    - sequential circuit
+    - sequential
+- question: これを禁止したり無効化することは「マスクする」と呼ばれる、CPUにおいて現在の処理を一時的に中断して、緊急度の高い別の処理を先に実行する仕組みを日本語で何というでしょう？
+  answer: 割り込み
+  alternativeAnswers:
+    - 割り込み処理
+    - interrupt
+- question: 国際化ドメイン名を除いたトップレベルドメインの中で最も長さが長い、アメリカのTravelers社が保有するブランドTLDは「.何」でしょう？
+  answer: .travelersinsurance
+  alternativeAnswers:
+    - travelersinsurance
+- question: ずばり、iPhoneが同時に認識できる画面のタッチの数は、最大でいくつでしょう？
+  answer: 5つ
+  alternativeAnswers:
+    - '5'
+- question: アルファベット3文字で「UAT」と略される、実際の運用環境に近い環境で、完成したシステムが要件を満たしているかを検証するテストのことを、日本語を用いて「何テスト」というでしょう？
+  answer: 受け入れテスト
+  alternativeAnswers:
+    - 受け入れ
+- question: 大規模で気まぐれな仕様変更が定期的に発生する悲劇的な開発現場のことを、「ウォーターフォール型開発」をもじった俗語で「何型開発」というでしょう？
+  answer: メテオフォール型開発
+  alternativeAnswers:
+    - メテオフォール型
+    - メテオフォール
+- question: アドレスを示す「URL」だけでなく、リソースの名前を示す「URN」も含まれる、ネットワークにおいてリソースを一意に識別するために設計された文字列を、アルファベット3文字で何というでしょう？
+  answer: URI
+  alternativeAnswers:
+    - Uniform Resource Identifier
+- question: 英語では「idempotency」と呼ばれる、システムが同じ操作を2回以上行っても1回のときと同じ動作をするという特性のことを、日本語で「何性」というでしょう？
+  answer: 冪等性
+  alternativeAnswers:
+    - 冪等
+- question: パンチカードにおいて文字を抹消するためにすべての穴を開けて無効化したことから、ASCIIコードで最も値が大きい127番を割り当てられている、データが消去されていることを表す制御記号を、アルファベット3文字の名称で何というでしょう？
+  answer: DEL
+  alternativeAnswers:
+    - 削除記号
+    - 抹消
+    - delete
+- question: 英語の「Intel Inside」はこれを訳したものだとされている、半導体メーカー「Intel」が日本のテレビCMなどで用いていた印象的なキャッチコピーは何でしょう？
+  answer: 「インテル入ってる」
+- question: ドラマ「逃げるは恥だが役に立つ」で星野源が演じた津崎平匡も取得している、略称を「デスペ」という日本の国家試験は「何試験」でしょう？
+  answer: データベーススペシャリスト試験
+  alternativeAnswers:
+    - データベーススペシャリスト
+    - データベース
+    - Database Specialist Examination
+    - Database Specialist
+    - Database
+- question: C++において、vectorやlistといったデータ構造の末尾に、与えられた引数をコピーして追加するメンバ関数は何でしょう？
+  answer: push_back()
+  alternativeAnswers:
+    - push_back
+- question: エンジニア界隈で大きな開発者向けイベントが行われたあとに、イベントの内容を振り返ってフォローアップするために公式または有志によって主催されるイベントのことを英語で特に何というでしょう？
+  answer: Recap
+- question: 「blog.jp」や「officialblog.jp」といったドメイン名を用いてオリジナルブログを開設することができる、日本のレンタルブログサービスは「何ブログ」でしょう？
+  answer: livedoor Blog
+  alternativeAnswers:
+    - livedoor
+    - ライブドアブログ
+    - ライブドア
+- question: 各自衛隊の情報通信ネットワークを守る日本の「自衛隊サイバー防衛隊」のことを、アルファベット4文字の略称で何というでしょう？
+  answer: JCDC
+  alternativeAnswers:
+    - JSDF Cyber Defense Command
+- question: 外壁が全面ガラス張りになっており、1階の壁に激突して怪我をする人が多いことでも話題となった、カリフォルニア州クパチーノ市にあるAppleの本社は「Apple 何」でしょう？
+  answer: Apple Park
+  alternativeAnswers:
+    - Park
+    - アップル・パーク
+    - パーク
+- question: 天文用語の「視差」を意味する英語に由来する、画面のスクロールによって前景と背景の見え方が変わるアプリやウェブページの視覚効果のことを指す言葉は「何効果」でしょう？
+  answer: パララックス効果
+  alternativeAnswers:
+    - パララックス
+    - parallax effect
+    - parallax
+- question: 正式な名前が決まるまでは、静岡県磐田市の特産品「海老芋」からつけられた「Ebeamo」が有力な候補だったという、2022年には最新版となる「6」が発売された音声合成ソフトウェアは何でしょう？
+  answer: VOCALOID
+  alternativeAnswers:
+    - ボーカロイド
+- question: 「vibe coding」の考え方を推し進め、Claude Codeなどに代表されるAIを用いて、AIに自律的な意思決定をさせ、作業内容を最初から最後まで管理させることによってコーディングを行うことを、英語で「何 coding」というでしょう？
+  answer: agentic coding
+  alternativeAnswers:
+    - agentic
+    - エージェンティック・コーディング
+    - エージェンティック
+- question: 授与所では「IT情報安全守護」のお守りをお頒ちしてもらうことができる、東京・秋葉原の電気街から程近くにある有名な神社といえば「何明神」でしょう？
+  answer: 神田明神
+  alternativeAnswers:
+    - 神田神社
+    - 神田
+- question: 開発者向けカンファレンス「RubyKaigi」においてスポンサーのランクを表す表現といえば、「Silver Sponsor」「Gold Sponsor」「Platinum Sponsor」と最上位の「何 Sponsor」でしょう？
+  answer: Ruby Sponsor
+  alternativeAnswers:
+    - Ruby
+    - ルビースポンサー
+    - ルビー
+- question: このキーが有効なときにはアルファベットがすべて大文字で入力される、Windows向けキーボードではShiftキーの上、Tabキーの下に位置することが多い特殊キーは「何キー」でしょう？
+  answer: CapsLockキー
+  alternativeAnswers:
+    - CapsLock
+    - キャプスロックキー
+    - キャプスロック
+    - キャップスロックキー
+    - キャップスロック
