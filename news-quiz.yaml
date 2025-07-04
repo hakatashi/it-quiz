@@ -1538,3 +1538,16 @@
   alternativeAnswers:
     - Tahoe
     - タホ
+- question: 2025年6月に発表されたスパコンランキング「TOP500」で世界49位を獲得した、さくらインターネット株式会社のクラウド型スーパーコンピューターシステムは何でしょう？
+  answer: さくらONE
+  alternativeAnswers:
+    - さくらワン
+- question: 2025年6月には富岳の後継機の開発にこの技術を採用することが発表された、富士通が開発する2nmプロセスの次世代プロセッサーのコードネームは「FUJITSU-何」でしょう？
+  answer: FUJITSU-MONAKA
+  alternativeAnswers:
+    - MONAKA
+- question: 2025年7月には債務超過による出版事業の譲渡を計画していると報じられた、『苦しんで覚えるC言語』や『ストレンジコード』といった技術書を出版する日本の出版社は何でしょう？
+  answer: 株式会社秀和システム
+  alternativeAnswers:
+    - 秀和システム
+  description: https://www.bunkanews.jp/article/427968/
