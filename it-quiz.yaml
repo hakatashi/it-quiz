@@ -2889,7 +2889,7 @@
   answer: 貪欲法
   alternativeAnswers:
     - 貪欲
-- question: 実行するとアルファベットの「y」を延々と画面に表示し続けるUnixのコマンドは何でしょう？
+- question: 実行するとアルファベットの「y」を延々と出力し続ける、Unix系OSのコマンドは何でしょう？
   answer: 'yes'
   alternativeAnswers:
     - yesコマンド
@@ -3858,7 +3858,8 @@
   answer: Ryzen
   alternativeAnswers:
     - AMD Ryzen
-- question: sRGBよりも約35％大きい色空間を持つ、2015年にAppleによって実装され、スマートフォンなどの有機ELディスプレイ上の色域表現における事実上の標準となっている色空間といえば「Display 何」でしょう？
+- question: sRGBよりも約35％大きい色空間を持つ、2015年にAppleによって実装され、スマートフォンなどの有機ELディスプレイ上の色域表現における事実上の標準となっている色空間の名称は何でしょう？
+  minhayaQuestion: sRGBよりも約35％大きい色空間を持つ、2015年にAppleによって実装され、スマートフォンなどの有機ELディスプレイ上の<ruby><rb>色域</rb><rp>(</rp><rt>しきいき</rt><rp>)</rp></ruby>表現における事実上の標準となっている色空間の名称は何でしょう？
   answer: Display P3
   alternativeAnswers:
     - P3
@@ -7479,7 +7480,7 @@
     - 悪魔の双子
     - evil twin attack
     - evil twin
-- question: QWERTYキーボードの右手のホームポジションに位置するキーと言えば、J、K、Lと何でしょう？
+- question: <ruby><rb>QWERTY</rb><rp>(</rp><rt>クワーティ</rt><rp>)</rp></ruby>キーボードの右手のホームポジションに位置するキーと言えば、J、K、Lと何でしょう？
   answer: セミコロン
   alternativeAnswers:
     - ;
@@ -9655,7 +9656,7 @@
   answer: 下村努
   alternativeAnswers:
     - しもむらつとむ
-- question: モールス符号では「―・―・　――・―」と表される、無線通信において不特定の相手に通信を呼びかける際に用いられる符号は何でしょう？
+- question: モールス符号では「<ruby><rb>―・―・</rb><rp>(</rp><rt>ツートンツートン</rt><rp>)</rp></ruby>　<ruby><rb>――・―</rb><rp>(</rp><rt>ツーツートンツー</rt><rp>)</rp></ruby>」と表される、無線通信において不特定の相手に通信を呼びかける際に用いられる符号は何でしょう？
   answer: CQ
 - question: アルファベット3文字で「HGW」と略される、ONUやモデムなど、インターネット回線の終端に置かれてLANからのアクセスを可能にする機器のことを総称する用語は何でしょう？
   answer: ホームゲートウェイ
@@ -9690,7 +9691,7 @@
   alternativeAnswers:
     - デフラグメンテーション
     - defragmentation
-- question: チューリング賞を最年少で受賞したことでも知られる、文芸的プログラミングの提唱や組版システムTeXの開発を行ったアメリカの科学者は誰でしょう？
+- question: チューリング賞を最年少で受賞したことでも知られる、文芸的プログラミングの提唱や組版システム<ruby><rb>TeX</rb><rp>(</rp><rt>テフ</rt><rp>)</rp></ruby>の開発を行ったアメリカの科学者は誰でしょう？
   answer: ドナルド・クヌース
   alternativeAnswers:
     - Donald Knuth
@@ -10196,7 +10197,7 @@
     - はまのじゅん
     - Junio C Hamano
     - Junio Hamano
-- question: AI栄養士の「未来さん」によるアドバイスをもとに食生活の改善や栄養バランスの確認を行うことができる、国内利用者1位のダイエットアプリといえば何でしょう？
+- question: AI栄養士の「<ruby><rb>未来</rb><rp>(</rp><rt>みき</rt><rp>)</rp></ruby>さん」によるアドバイスをもとに食生活の改善や栄養バランスの確認を行うことができる、国内利用者1位のダイエットアプリといえば何でしょう？
   answer: あすけん
 - question: 日本語では「列挙型」とも呼ばれる、名前の付いたいくつかの要素の集合として定義されるプログラミングにおける型の一種を何型というでしょう？
   answer: enum型
@@ -12237,7 +12238,8 @@
   answer: MagSafe
   alternativeAnswers:
     - マグセーフ
-- question: C++などの言語では「popcount」と略される、レジスタの中の値が1であるビットの数を数える命令を「何カウント」というでしょう？
+- question: C++などの言語では「popcount」と略される、レジスタの中の値が1であるビットの数を数える命令は何でしょう？
+  minhayaQuestion: C++などの言語では「popcount」と略される、レジスタの中の値が1であるビットの数を数える命令を「何カウント」というでしょう？
   answer: ポピュレーションカウント
   alternativeAnswers:
     - population count
@@ -13516,7 +13518,7 @@
   answer: FLOSS
   alternativeAnswers:
     - Free/Libre and Open Source Software
-- question: 青と白の市松模様にロゴがあしらわれた壁は、グラビアアイドルのプロモーション会場として広く使われてきたことからグラビア界隈での定番の背景にもなっている、秋葉原を中心に多くの店舗を展開する日本のパソコンショップは何でしょう？
+- question: 青と白の市松模様にロゴがあしらわれた壁は、グラビアアイドルのプロモーション会場として広く使われてきたことからグラビア業界で定番の背景にもなっている、秋葉原を中心に多くの店舗を展開する日本のパソコンショップは何でしょう？
   answer: ソフマップ
   alternativeAnswers:
     - Sofmap
@@ -14461,7 +14463,7 @@
   answer: PEP
   alternativeAnswers:
     - Python Enhancement Proposal
-- question: 15分の作業に相当する「ACU」と呼ばれるクレジットを消費して作業を行う、Cognition社の自律協調型AIソフトウェアエンジニアは「何 AI」でしょう？
+- question: 15分の作業に相当する「ACU」と呼ばれるクレジットを消費して開発を行う、Cognition社の自律協調型AIソフトウェアエンジニアは「何 AI」でしょう？
   answer: Devin AI
   alternativeAnswers:
     - Devin
@@ -14477,7 +14479,8 @@
   answer: Verilog
   alternativeAnswers:
     - ベリログ
-- question: ラッチやフリップフロップなどに代表される、内部状態を持ち、入力だけでは出力が一意に定まらないデジタル回路のことを、「組み合わせ回路」に対して日本語で「何回路」というでしょう？
+- question: ラッチやフリップフロップなどに代表される、内部状態を持ち、入力だけでは出力が一意に定まらないデジタル回路のことを、「組み合わせ回路」に対して何というでしょう？
+  minhayaQuestion: ラッチやフリップフロップなどに代表される、内部状態を持ち、入力だけでは出力が一意に定まらないデジタル回路のことを、「組み合わせ回路」に対して日本語で「何回路」というでしょう？
   answer: 順序回路
   alternativeAnswers:
     - 順序
@@ -14496,7 +14499,8 @@
   answer: 5つ
   alternativeAnswers:
     - '5'
-- question: アルファベット3文字で「UAT」と略される、実際の運用環境に近い環境で、完成したシステムが要件を満たしているかを検証するテストのことを、日本語を用いて「何テスト」というでしょう？
+- question: アルファベット3文字で「UAT」と略される、実際の運用環境に近い環境で、完成したシステムが要件を満たしているかを検証するテストのことを何というでしょう？
+  minhayaQuestion: アルファベット3文字で「UAT」と略される、実際の運用環境に近い環境で、完成したシステムが要件を満たしているかを検証するテストのことを、日本語を用いて「何テスト」というでしょう？
   answer: 受け入れテスト
   alternativeAnswers:
     - 受け入れ
@@ -14521,7 +14525,7 @@
     - delete
 - question: 英語の「Intel Inside」はこれを訳したものだとされている、半導体メーカー「Intel」が日本のテレビCMなどで用いていた印象的なキャッチコピーは何でしょう？
   answer: 「インテル入ってる」
-- question: ドラマ「逃げるは恥だが役に立つ」で星野源が演じた津崎平匡も取得している、略称を「デスペ」という日本の国家試験は「何試験」でしょう？
+- question: ドラマ「逃げるは恥だが役に立つ」で星野源が演じた<ruby><rb>津崎平匡</rb><rp>(</rp><rt>つざきひろまさ</rt><rp>)</rp></ruby>も取得している、略称を「デスペ」という日本の国家試験は何でしょう？
   answer: データベーススペシャリスト試験
   alternativeAnswers:
     - データベーススペシャリスト
@@ -14535,7 +14539,8 @@
     - push_back
 - question: エンジニア界隈で大きな開発者向けイベントが行われたあとに、イベントの内容を振り返ってフォローアップするために公式または有志によって主催されるイベントのことを英語で特に何というでしょう？
   answer: Recap
-- question: 「blog.jp」や「officialblog.jp」といったドメイン名を用いてオリジナルブログを開設することができる、日本のレンタルブログサービスは「何ブログ」でしょう？
+- question: 「blog.jp」や「officialblog.jp」といったドメイン名を用いてオリジナルブログを開設することができる、日本のレンタルブログサービスは何でしょう？
+  minhayaQuestion: 「blog.jp」や「officialblog.jp」といったドメイン名を用いてオリジナルブログを開設することができる、日本のレンタルブログサービスは「何ブログ」でしょう？
   answer: livedoor Blog
   alternativeAnswers:
     - livedoor
@@ -14545,7 +14550,8 @@
   answer: JCDC
   alternativeAnswers:
     - JSDF Cyber Defense Command
-- question: 外壁が全面ガラス張りになっており、1階の壁に激突して怪我をする人が多いことでも話題となった、カリフォルニア州クパチーノ市にあるAppleの本社は「Apple 何」でしょう？
+- question: 外壁が全面ガラス張りになっており、1階の壁に激突して怪我をする人が多いことでも話題となった、カリフォルニア州クパチーノ市にあるAppleの本社の名前は何でしょう？
+  minhayaQuestion: 外壁が全面ガラス張りになっており、1階の壁に激突して怪我をする人が多いことでも話題となった、カリフォルニア州クパチーノ市にあるAppleの本社は「Apple 何」でしょう？
   answer: Apple Park
   alternativeAnswers:
     - Park
@@ -14557,7 +14563,7 @@
     - パララックス
     - parallax effect
     - parallax
-- question: 正式な名前が決まるまでは、静岡県磐田市の特産品「海老芋」からつけられた「Ebeamo」が有力な候補だったという、2022年には最新版となる「6」が発売された音声合成ソフトウェアは何でしょう？
+- question: 正式な名前が決まるまでは、静岡県<ruby><rb>磐田</rb><rp>(</rp><rt>いわた</rt><rp>)</rp></ruby>市の特産品「海老芋」からつけられた「Ebeamo」が有力な候補だったという、2022年には最新版となる「6」が発売された音声合成ソフトウェアは何でしょう？
   answer: VOCALOID
   alternativeAnswers:
     - ボーカロイド
@@ -14567,7 +14573,7 @@
     - agentic
     - エージェンティック・コーディング
     - エージェンティック
-- question: 授与所では「IT情報安全守護」のお守りをお頒ちしてもらうことができる、東京・秋葉原の電気街から程近くにある有名な神社といえば「何明神」でしょう？
+- question: 授与所では「IT情報安全守護」のお守りをお<ruby><rb>頒</rb><rp>(</rp><rt>わか</rt><rp>)</rp></ruby>ちしてもらうことができる、東京・秋葉原の電気街から程近くにある有名な神社といえば何でしょう？
   answer: 神田明神
   alternativeAnswers:
     - 神田神社
