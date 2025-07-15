@@ -18,7 +18,7 @@
     "diff": "^8.0.2",
     "dotenv": "^17.2.0",
     "fs-extra": "^11.3.0",
-    "googleapis": "^152.0.0",
+    "googleapis": "^153.0.0",
     "isomorphic-git": "^1.32.1",
     "js-yaml": "^4.1.0",
     "json-schema-to-typescript": "^15.0.4",
