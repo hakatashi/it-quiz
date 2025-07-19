@@ -14592,3 +14592,144 @@
     - キャプスロック
     - キャップスロックキー
     - キャップスロック
+- question: MS-DOS時代はシステムを再起動するために用いられていた、現在ではWindowsでセキュリティオプション画面に遷移するために用いられるキーの同時押しの組み合わせといえば何でしょう？
+  minhayaQuestion: MS-DOS時代はシステムを再起動するために用いられていた、現在ではWindowsでセキュリティオプション画面に遷移するために用いられるキーの同時押しの組み合わせといえば、Ctrlキー、Altキーと何キーでしょう？
+  answer: Ctrl+Alt+Delete
+  alternativeAnswers:
+    - Ctrlキー+Altキー+Deleteキー
+    - コントロールオルトデリート
+- question: 「力ずく」などを意味する英語に由来する、あらゆる文字列の組み合わせを試すことでパスワードなどを解読する攻撃手法を何というでしょう？
+  answer: ブルートフォース
+  alternativeAnswers:
+    - bruteforce
+- question: 四半期ごとに24時間の社内ハッカソンを開催する「ShipIt Days」という慣習でも知られている、「Jira」や「BitBucket」といった製品を開発しているオーストラリアのIT企業は何でしょう？
+  answer: Atlassian
+  alternativeAnswers:
+    - アトラシアン
+- question: L2TP、IKEv2、PPTPといえば、いずれもアルファベット3文字で何というネットワークの機能を実現するためのプロトコルでしょう？
+  answer: VPN
+  alternativeAnswers:
+    - Virtual Private Network
+    - 仮想プライベートネットワーク
+- question: アルファベット3文字で「CFG」と略される、BNF記法などの形でプログラミング言語の文法を記述する際に用いられる形式言語理論上の文法は何でしょう？
+  minhayaQuestion: アルファベット3文字で「CFG」と略される、BNF記法などの形でプログラミング言語の文法を記述する際に用いられる形式言語理論上の文法は「何文法」でしょう？
+  answer: 文脈自由文法
+  alternativeAnswers:
+    - 文脈自由
+    - Context-Free Grammar
+    - Context-Free
+- question: QWERTY配列の「Y」キーがドイツ語で多用される文字と入れ替わっている、ドイツやオーストラリアなどで広く使われているキーボード配列を、その文字の並びから「何配列」というでしょう?
+  answer: QWERTZ配列
+  alternativeAnswers:
+    - QWERTZ
+- question: 別名を「リッチデザイン」という、UIデザインにおいて現実の形状や特徴を模倣することでインターフェイスを直感的に見せる、初期のiOSで用いられていたデザイン手法を何というでしょう？
+  answer: スキューモーフィズム
+  alternativeAnswers:
+    - skeuomorphism
+- question: システム開発で求められる要件の中でも性能やセキュリティといった、システムの具体的な動作には分類されない要素のことを漢字五文字で何というでしょう？
+  answer: 非機能要件
+- question: Linuxで長いコマンドに短い名前を割り当てる機能の名前にもなっている、特にエンジニアリング分野において「別名」のことを指して用いられることが多い英単語は何でしょう？
+  answer: エイリアス
+  alternativeAnswers:
+    - alias
+- question: 実際には契約が成立していないにもかかわらず、ウェブサイト上のリンクを一度クリックしただけで利用料などを請求してくる詐欺の手口を「何詐欺」というでしょう？
+  answer: ワンクリック詐欺
+  alternativeAnswers:
+    - ワンクリック
+    - one-click
+- question: 遠隔地からコーヒーポットの中身を確認できるように作られたものが世界初のものであるといわれている、コンピュータに接続して映像をリアルタイムで送信できる小型のカメラのことを「何カメラ」というでしょう？
+  answer: ウェブカメラ
+  alternativeAnswers:
+    - Webカメラ
+    - web camera
+    - webcam
+    - ウェブ
+    - web
+- question: ハイテク産業が盛んなことから「シリコンプレーン」の別名を持つダラス・オースティン・ヒューストンといった都市圏が位置する、アメリカ南部の州は何でしょう？
+  answer: テキサス州
+  alternativeAnswers:
+    - テキサス
+    - State of Texas
+    - Texas
+- question: VerilogやVHDLといったハードウェア記述言語において「<=」で表される、複数の代入を並行的に処理することが可能な代入方法を何というでしょう？
+  minhayaQuestion: VerilogやVHDLといったハードウェア記述言語において「<=」で表される、複数の代入を並行的に処理することが可能な代入方法を、英語を用いて「何代入」というでしょう？
+  answer: ノンブロッキング代入
+  alternativeAnswers:
+    - ノンブロッキング
+    - non-blocking assignment
+    - non-blocking
+- question: ウェブ広告のコストパフォーマンスを表す単位「CPM」は、広告が何回表示されるごとに発生する料金として定義されるでしょう？
+  minhayaQuestion: 【かなで回答】ウェブ広告のコストパフォーマンスを表す単位「CPM」は、広告が何回表示されるごとに発生する料金として定義されるでしょう？
+  answer: 1000回
+  alternativeAnswers:
+    - 千回
+    - せんかい
+    - '1000'
+    - 千
+    - せん
+- question: 整流後の電圧に残る交流成分によってコンデンサに流れ、発熱の原因となる電流のことを「何電流」というでしょう？
+  minhayaQuestion: 整流後の電圧に残る交流成分によってコンデンサに流れ、発熱の原因となる電流のことを、カタカナ3文字を用いて「何電流」というでしょう？
+  answer: リプル電流
+  alternativeAnswers:
+    - リップル電流
+    - リプル
+    - リップル
+    - ripple current
+    - ripple
+- question: エンジニア界隈では「了解」などを意味するスラングとしても用いられる、通信プロトコル・TCPのハンドシェイクにおいて相手方との通信を許可する際に立てられるフラグの名前は何でしょう？
+  answer: ACKフラグ
+  alternativeAnswers:
+    - ACK flag
+    - ACK
+- question: ペンギンをモチーフにしたサンリオのキャラクターと、ペンギンをモチーフにしたLinuxのマスコットで共に名前の由来となった、よくペンギンの体の模様が例えられがちな衣服は何でしょう？
+  answer: タキシード
+  alternativeAnswers:
+    - tuxedo
+    - tux
+- question: 「駅から自宅まで」など、交通の最終区間から目的地までのちょっとした距離を補うための新たな交通技術のことを、もともとは通信業界で使われていた用語を用いて「何モビリティ」というでしょう？
+  answer: ラストワンマイルモビリティ
+  alternativeAnswers:
+    - ラストワンマイル
+    - last one mile mobility
+    - last one mile
+- question: データ構造などに複数回操作を行った際に期待される1回あたりの平均計算量のことを、日本語で何というでしょう？
+  minhayaQuestion: 別名を「ならし計算量」などともいう、データ構造などに複数回操作を行った際に期待される1回あたりの平均計算量のことを、漢字2文字を用いて「何計算量」というでしょう？
+  answer: 償却計算量
+  alternativeAnswers:
+    - 償却
+    - ならし計算量
+    - ならし
+    - amortized computational complexity
+    - amortized complexity
+    - amortized
+- question: 一般的な正規表現で、文字列の先頭を表すのは「<ruby><rb>^</rb><rp> (</rp><rt>キャレット</rt><rp>)</rp></ruby>」ですが、末尾を表すのは何という記号でしょう？
+  answer: $
+  alternativeAnswers:
+    - ドル記号
+    - ドル
+    - dollar sign
+    - dollar
+- question: CursorやGemini CLIなどのコーディングAIにおいて、ユーザーの確認がなくてもAIが任意のコマンドを実行できるように許可するモードのことを、「人生は一度きり」を意味する言葉から「何モード」というでしょう？
+  answer: YOLOモード
+  alternativeAnswers:
+    - YOLO
+- question: AIエージェントの「Cascade」を搭載し、プログラマーの指示を元に自律的に開発を行わせることができる、Codeium社が開発した次世代AIエージェント統合開発環境は何でしょう？
+  answer: Windsurf
+  alternativeAnswers:
+    - ウィンドサーフ
+- question: その参加者は「ニンジャ」と呼ばれる、2011年にアイルランドで創始され現在は世界中に2000以上の拠点を構える、ボランティアによる子供向けプログラミングクラブは何でしょう？
+  answer: CoderDojo
+  alternativeAnswers:
+    - コーダードージョー
+    - コーダー道場
+- question: デジタルコンテンツの複製や再生に一定の制限を設け、著作権を保護する仕組みのことをアルファベット3文字で何というでしょう？
+  answer: DRM
+  alternativeAnswers:
+    - Digital Right Management
+- question: 多要素認証における「認証の3要素」とは、知識情報、所持情報と何でしょう？
+  answer: 生体情報
+  alternativeAnswers:
+    - 生体
+    - 生体情報認証
+    - biometrics authentication
+    - biometrics

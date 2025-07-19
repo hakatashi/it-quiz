@@ -1551,3 +1551,27 @@
   alternativeAnswers:
     - 秀和システム
   description: https://www.bunkanews.jp/article/427968/
+- question: 2025年に初の実用化が行われ、ハードディスクの高密度化に対する技術的革新をもたらすと予測されている「熱アシスト磁気記録方式」のことを、アルファベット4文字で何というでしょう？
+  answer: HAMR
+  alternativeAnswers:
+    - ハンマー
+    - Heat-Assisted Magnetic Recording
+- question: 2025年に販売開始した「Limitless」や「Friend」、そしてOpenAI社が2027年の販売を計画しているという新製品は、いずれもどのような形のAIウェアラブルデバイスでしょう？
+  answer: ペンダント
+  alternativeAnswers:
+    - pendant
+    - ネックレス
+    - necklace
+- question: 町内はスマートシティ「けいはんな学研都市」の一部となっており多くのデータセンターが建設されていたものの、2024年に地元住民との軋轢などを受け新たな招致を原則行わないという声明を発表した、京都府南部の町は何でしょう？
+  answer: 精華町
+  alternativeAnswers:
+    - 精華
+- question: 2025年には単一企業が主催するサブカルイベントとして世界一の会場面積と来場者数を記録した、例年7月ごろに開催されるビリビリ動画主催のオフラインイベントは何でしょう？
+  answer: BiliBili World
+  alternativeAnswers:
+    - BW
+    - ビリビリワールド
+- question: 特に近年盛んな利用が進み、2023年にはアンギラのGDPの1割を超える収入をもたらしたという試算がなされている、中米の島国・アンギラを表す国別トップレベルドメインは「.何」でしょう？
+  answer: .ai
+  alternativeAnswers:
+    - ai
