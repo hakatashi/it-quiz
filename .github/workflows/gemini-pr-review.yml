@@ -66,10 +66,7 @@ jobs:
         with:
           node-version: '20'
       - name: Install dependencies
-        run: npm --prefix .github install
-
-      - name: Install Dependencies
-        run: npm ci
+        run: npm --prefix .github ci
 
       - name: Get PR details (pull_request & workflow_dispatch)
         id: get_pr
