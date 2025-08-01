@@ -5373,7 +5373,7 @@
     - wafer
     - wafers
   description: お菓子のウエハースと同じ名前。「ウエハース」は複数形で単数形だと「ウエハー」
-- question: 音声信号を出入力するために外部機器を接続する端子のことを、「補助」という意味の英語の略から「何端子」というでしょう？
+- question: 音声信号を入出力するために外部機器を接続する端子のことを、「補助」という意味の英語の略から「何端子」というでしょう？
   answer: AUX端子
   alternativeAnswers:
     - AUX
@@ -8817,7 +8817,7 @@
   answer: AZERTY配列
   alternativeAnswers:
     - AZERTY
-- question: RedisやKubernetesなどのクラスタ構成において、耐障害性を持つために必要な最小のノード数は何台とされているでしょう？
+- question: Redisや<ruby><rb>Kubernetes</rb><rp>(</rp><rt>クバネティス</rt><rp>)</rp></ruby>などのクラスタ構成において、耐障害性を持つために必要な最小のノード数は何台とされているでしょう？
   answer: 3台
   alternativeAnswers:
     - '3'
@@ -9135,7 +9135,7 @@
     - ディングバット
     - dingbat font
     - dingbat
-- question: 「フィン」と呼ばれる、板が連なった形状をしているものが多い、コンピューターの内部でCPUなどの放熱を助けるパーツは何でしょう？
+- question: 「フィン」と呼ばれる薄い板が連なった形状をしているものが多い、コンピューターの内部でCPUなどの放熱を助けるパーツは何でしょう？
   answer: ヒートシンク
   alternativeAnswers:
     - heat sink
@@ -12739,7 +12739,7 @@
   answer: チェス
   alternativeAnswers:
     - chess
-- question: <ruby><rb>Apache</rb><rp>(</rp><rt>アパッチ</rt><rp>)</rp></ruby> <ruby><rb>Mesos</rb><rp>(</rp><rt>メゾス</rt><rp>)</rp></ruby>や<ruby><rb>Kubernetes</rb><rp>(</rp><rt>クバネテス</rt><rp>)</rp></ruby>などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
+- question: <ruby><rb>Apache</rb><rp>(</rp><rt>アパッチ</rt><rp>)</rp></ruby> <ruby><rb>Mesos</rb><rp>(</rp><rt>メゾス</rt><rp>)</rp></ruby>や<ruby><rb>Kubernetes</rb><rp>(</rp><rt>クバネティス</rt><rp>)</rp></ruby>などに代表される、複数のコンテナのデプロイやスケーリングを自動化して管理することができるツールのことを「何ツール」というでしょう？
   answer: コンテナオーケストレーションツール
   alternativeAnswers:
     - コンテナオーケストレーション
@@ -14602,7 +14602,7 @@
   answer: ブルートフォース
   alternativeAnswers:
     - bruteforce
-- question: 四半期ごとに24時間の社内ハッカソンを開催する「ShipIt Days」という慣習でも知られている、「Jira」や「BitBucket」といった製品を開発しているオーストラリアのIT企業は何でしょう？
+- question: 四半期ごとに24時間の社内ハッカソンを開催する「ShipIt Days」という慣習でも知られている、「Jira」や「BitBucket」といった製品を開発するオーストラリアのIT企業は何でしょう？
   answer: Atlassian
   alternativeAnswers:
     - アトラシアン
@@ -14637,7 +14637,7 @@
   alternativeAnswers:
     - ワンクリック
     - one-click
-- question: 遠隔地からコーヒーポットの中身を確認できるように作られたものが世界初のものであるといわれている、コンピュータに接続して映像をリアルタイムで送信できる小型のカメラのことを「何カメラ」というでしょう？
+- question: 遠隔地からコーヒーポットの中身を確認できるように作られたものが世界初のものといわれている、コンピュータに接続して映像をリアルタイムで送信できる小型のカメラのことを「何カメラ」というでしょう？
   answer: ウェブカメラ
   alternativeAnswers:
     - Webカメラ
@@ -14651,7 +14651,8 @@
     - テキサス
     - State of Texas
     - Texas
-- question: VerilogやVHDLといったハードウェア記述言語において「<=」で表される、複数の代入を並行的に処理することが可能な代入方法を何というでしょう？
+- question: VerilogやVHDLといったハードウェア記述言語において矢印のような表記で表される、複数の代入を並行的に処理することが可能な代入方法を何というでしょう？
+  paperQuestion: VerilogやVHDLといったハードウェア記述言語において「<=」で表される、複数の代入を並行的に処理することが可能な代入方法を何というでしょう？
   minhayaQuestion: VerilogやVHDLといったハードウェア記述言語において「<=」で表される、複数の代入を並行的に処理することが可能な代入方法を、英語を用いて「何代入」というでしょう？
   answer: ノンブロッキング代入
   alternativeAnswers:
@@ -14702,7 +14703,7 @@
     - amortized computational complexity
     - amortized complexity
     - amortized
-- question: 一般的な正規表現で、文字列の先頭を表すのは「<ruby><rb>^</rb><rp> (</rp><rt>キャレット</rt><rp>)</rp></ruby>」ですが、末尾を表すのは何という記号でしょう？
+- question: 一般的な正規表現で、文字列の<em>先頭を</em>表すのは「<ruby><rb>^</rb><rp> (</rp><rt>キャレット</rt><rp>)</rp></ruby>」ですが、末尾を表すのは何という記号でしょう？
   answer: $
   alternativeAnswers:
     - ドル記号
@@ -14733,3 +14734,109 @@
     - 生体情報認証
     - biometrics authentication
     - biometrics
+- question: 「自動で動くもの」という意味のギリシャ語に由来する、入力に応じて状態を遷移させることで言語の受理判定を行う、計算理論における概念は何でしょう？
+  answer: オートマトン
+  alternativeAnswers:
+    - オートマタ
+    - automaton
+    - automata
+- question: 不完全性定理の証明で最初に用いられた、数学的文や証明に自然数を対応させる符号化手法のことを、発表者である論理学者の名前を使って「何数」というでしょう？
+  answer: ゲーデル数
+  alternativeAnswers:
+    - ゲーデル
+    - Gödel number
+    - Gödel
+- question: 計算量理論におけるNP問題の中でも、他のNP問題を多項式時間でその問題に還元することが可能な最も難しい問題群のことを、日本語を用いて何というでしょう？
+  answer: NP完全
+- question: AI企業でありつつも「人類の」などを意味する英単語を社名としている、生成AIシステム「Claude」の開発で知られるアメリカの企業は何でしょう？
+  answer: Anthropic
+  alternativeAnswers:
+    - アンスロピック
+    - アンソロピック
+- question: 片面実装のメモリでは1個、両面実装のメモリでは2個のこれによってそのアドレスが管理される、マザーボードからメインメモリのアドレスを管理するための論理的な構成単位は「メモリ何」でしょう？
+  answer: メモリバンク
+  alternativeAnswers:
+    - バンク
+    - memory bank
+    - bank
+- question: 2023年にはこの雑誌の厚みを圧縮する架空の競技を描いた珍小説が「世にも奇妙な物語」で映像化されたことでも話題となった、1964年から発行されているエレクトロニクス技術の専門月刊誌は何でしょう？
+  answer: 『トランジスタ技術』
+  alternativeAnswers:
+    - トラ技
+- question: HTTPステータスコードの300番台はこれを行うものとして定義されている、アクセスしたURLを別のURLに自動的に転送する仕組みを英語で何というでしょう？
+  answer: リダイレクト
+  alternativeAnswers:
+    - HTTPリダイレクト
+    - redirect
+    - HTTP redirect
+- question: 「アノード」と「カソード」のうち、LEDの長い方の端子が属するのはどちらの電極でしょう？
+  answer: アノード
+  alternativeAnswers:
+    - anode
+- question: フィッシング詐欺の中でも、被害者から詐取した情報をすぐに本物サイトへ入力し、ワンタイムパスワードなどの追加の認証までを突破する詐欺のことを「何フィッシング」というでしょう？
+  answer: リアルタイムフィッシング
+  alternativeAnswers:
+    - リアルタイム
+    - realtime phishing
+    - realtime
+- question: 2018年に行われたこれを撲滅するキャンペーンでは、キャンペーンキャラクターに『ONE PIECE』のルフィがいたことで多くの人からツッコミを受けた、著作権者の許可なく配布される違法コピー商品のことを指す言葉は何でしょう？
+  answer: 海賊版
+- question: 1993年にBOOTPの後継として登場し、現在ではほとんどのOSやルーターに標準搭載されている、ネットワークに接続した機器にIPアドレスなどを自動的に割り当てるためのネットワークプロトコルは何でしょう？
+  answer: DHCP
+  alternativeAnswers:
+    - Dynamic Host Configuration Protocol
+- question: Apple Watchなどのスマートウォッチにおいて仮面のアイコンで表される、有効にすると手首を上げても画面が点灯しなくなるモードのことを「何モード」というでしょう？
+  answer: シアターモード
+  alternativeAnswers:
+    - シアター
+    - theater mode
+    - theater
+- question: grepコマンドにおいて、動作を反転させ、指定した文字列に一致しない行のみを出力するようにするアルファベット1文字のコマンドラインオプションは「-何」でしょう？
+  answer: '-v'
+  alternativeAnswers:
+    - v
+    - '--invert-match'
+- question: マウス用のものは緑、キーボード用のものは紫に色分けするという慣習がある、1980年代から90年代にかけて広く普及したパソコン周辺機器の接続コネクタ形状を、これが最初に用いられた製品の名称から「何コネクタ」というでしょう？
+  answer: PS/2コネクタ
+  alternativeAnswers:
+    - PS/2
+- question: CtrlキーやCommandキーと同時に押すことで、「元に戻す」操作を行うショートカットキーとして用いられることが多いアルファベットのキーは何でしょう？
+  answer: Zキー
+  alternativeAnswers:
+    - Z
+- question: Linux環境ではtinyからhugeまでの5つのサイズのバイナリから選んでインストールすることができることが多い、1980年代にブラム・ムールナーによって開発された高機能テキストエディタは何でしょう？
+  answer: vim
+  alternativeAnswers:
+    - ヴィム
+- question: 「正のフィードバック」と「負のフィードバック」のうち、安定平衡をもたらすことから一般に制御理論で多く用いられるのはどちらでしょう？
+  answer: 負のフィードバック
+  alternativeAnswers:
+    - 負
+    - ネガティブフィードバック
+    - ネガティブ
+    - negative feedback
+    - negative
+- question: Windows 11をインストールするためのシステム要件の1つにこれを備えていることが存在する、暗号化キーを安全に保存しセキュリティ関連の処理を行うマザーボード上のハードウェア演算モジュールをアルファベット3文字で何というでしょう？
+  answer: TPM
+  alternativeAnswers:
+    - Trusted Platform Module
+    - セキュリティチップ
+    - security tip
+- question: コンピューターネットワークでは「ホスト名をIPアドレスに変換すること」、音楽理論では「不協和音が安定した音程に移ること」、そして一般的には「もつれた事件や問題などをうまく処理すること」を意味する漢字二字の熟語は何でしょう？
+  answer: 解決
+- question: 開発者のたややんは弁護士としても活躍している、2025年の世界コンピュータ将棋選手権など多くの大会で優勝経験を持つコンピューター将棋のプログラムは何でしょう？
+  answer: 水匠
+- question: 「ガチョウの群れ」を意味する英語と音が近いことから、デフォルトのユーザーアイコンにはガチョウの横顔が採用されている、データサイエンス分野のコンペティションが開催されるオンラインプラットフォームは何でしょう？
+  answer: Kaggle
+  alternativeAnswers:
+    - カグル
+- question: 使用すると多くのウェブブラウザにおいてイタリック体で描画される、強調されたテキストを表すHTMLの要素は何でしょう？
+  answer: em要素
+  alternativeAnswers:
+    - em
+- question: プログラムで利用する文字列や数値などを、変数や定数を使用せずソースコード中に直接記述することを「何コーディング」というでしょう？
+  answer: ハードコーディング
+  alternativeAnswers:
+    - ハード
+    - hard coding
+    - hard

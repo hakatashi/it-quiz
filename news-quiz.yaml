@@ -1575,3 +1575,32 @@
   answer: .ai
   alternativeAnswers:
     - ai
+- question: Microsoftが2025年5月にリリースした、VSCodeに似たインターフェイスを持つCLI向けテキストエディタは「Microsoft 何」でしょう？
+  answer: Microsoft Edit
+  alternativeAnswers:
+    - Edit
+    - マイクロソフトエディット
+    - エディット
+    - msedit
+- question: 「スペック」と「フック」という2つの仕組みを用いて信頼性の高いソフトウェアをAIとともに開発できるようになることを目標とする、Amazon社が2025年7月に発表したAI統合開発環境は何でしょう？
+  answer: Kiro
+- question: 2025年8月には初の著書『「分かった！」と思わせる説明の技術』を刊行予定である、ウェブサイト「「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典」の管理人は誰でしょう？
+  answer: 佐々木真
+  alternativeAnswers:
+    - ささきまこと
+- question: 2025年7月にiOS版Grokアプリに「Bad Rudi」とともに実装され、特に日本語圏のXユーザーの間で大きな波紋を呼んだ、3Dアバターとの音声対話でコミュニケーションを取ることが可能なアニメ風AIコンパニオンキャラは誰でしょう？
+  answer: Ani
+  alternativeAnswers:
+    - アニ
+- question: 2025年5月にサーバーを移転して20年ぶりとなる更新が行われたことでも話題となった、「先行者」などのページでインターネット黎明期に人気を博した老舗テキストサイトは何でしょう？
+  answer: 侍魂
+  alternativeAnswers:
+    - さむらいだましい
+- question: スマートフォンの提供企業が他の事業者のアプリの提供を妨げないことなどを定めた、2025年12月の全面施行が予定されている「スマホソフトウェア競争促進法」の通称は何でしょう？
+  answer: スマホ新法
+  alternativeAnswers:
+    - スマホ新
+- question: 2025年7月に西新宿から高輪ゲートウェイシティに本社を移転した、通信サービスの「au」を提供する日本のIT企業は何でしょう？
+  answer: KDDI株式会社
+  alternativeAnswers:
+    - KDDI
