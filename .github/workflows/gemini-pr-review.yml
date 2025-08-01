@@ -110,6 +110,10 @@ jobs:
           echo "$CHANGED_FILES" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
 
+      - name: Set pr-number and repository to gh command
+        run: |
+          gh repo set-default ${{ github.repository }}
+
       - name: Run Gemini PR Review
         uses: google-gemini/gemini-cli-action@main
         env:
@@ -124,19 +128,20 @@ jobs:
           settings_json: |
             {
               "coreTools": [
-                "run_shell_command(echo)",
-                "run_shell_command(gh pr view)",
-                "run_shell_command(gh pr diff)",
-                "run_shell_command(gh pr comment)",
-                "run_shell_command(npm --prefix .github exec tsx)",
-                "run_shell_command(cat)",
-                "run_shell_command(ls)",
-                "run_shell_command(head)",
-                "run_shell_command(tail)",
-                "run_shell_command(grep)",
+                "ShellTool(echo)",
+                "ShellTool(gh pr view)",
+                "ShellTool(gh pr diff)",
+                "ShellTool(gh pr comment)",
+                "ShellTool(cat)",
+                "ShellTool(ls)",
+                "ShellTool(head)",
+                "ShellTool(tail)",
+                "ShellTool(grep)",
+                "LSTool",
+                "ReadFileTool",
+                "WriteFileTool",
                 "WebFetchTool",
-                "WebSearchTool",
-                "write_file"
+                "WebSearchTool"
               ],
               "sandbox": false
             }
