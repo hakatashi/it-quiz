@@ -2235,10 +2235,9 @@
   answer: 赤色
   alternativeAnswers:
     - 赤
-- question: 東方神起の楽曲、翔大とおかじからなるお笑いコンビ、Googleが開発したOSに共通する、英語で「人造人間」といった意味がある名前は何でしょう？
-  answer: アンドロイド
-  alternativeAnswers:
-    - Android
+- removed:
+    type: deleted
+    reason: 出題価値が低いと判断
 - question: 1984年に最初のフォントである「太楷書体11」を完成させ、現在ではMicrosoft Officeに同梱されている「プレゼンス」や「角ポップ体」といった書体で有名な日本のフォントデザイン企業は「何企画」でしょう？
   answer: 創英企画
   alternativeAnswers:
@@ -2300,7 +2299,7 @@
     - catコマンド
 - question: アセンブリや機械語において、命令の中に直接記述される数値のことを漢字二文字でなんというでしょう？
   answer: 即値
-- question: NASAの元エンジニアであるランドール・マンローによって現在も連載されている、プログラマージョークなどを盛り込んだ内容で人気を博すアメリカのインターネットコミックは何でしょう？
+- question: 元NASAのエンジニアであるランドール・マンローによって現在も連載されている、プログラマージョークなどを盛り込んだ内容で人気を博すアメリカのインターネットコミックは何でしょう？
   answer: xkcd
 - question: C++では「generator」、Pythonでは「async def」というキーワードを用いて定義される、処理を途中で中断したり再開したりすることができるサブルーチンを返す関数を何関数というでしょう？
   answer: コルーチン関数
@@ -3389,7 +3388,7 @@
   answer: セッション層
   alternativeAnswers:
     - session layer
-- question: インターネットの通販サイトで商品を購入することを、購入ボタンを押す際の効果音から俗に何というでしょう？
+- question: インターネットの通販サイトで商品を購入することを、ボタンを押す際の効果音から俗に何というでしょう？
   answer: ポチる
 - question: 「Go Bold」をはじめとする3つのバリューを企業理念とする、日本最大のフリマサービスを提供するIT企業は何でしょう？
   answer: 株式会社メルカリ
@@ -3787,7 +3786,7 @@
   answer: TOML
   alternativeAnswers:
     - Tom's Obvious Minimal Language
-- question: ウェブサービスの利用規約において、サイトを閲覧しただけでそのサイトの利用規約に同意したものとみなす契約形態のことを、英語で何契約というでしょう？
+- question: ウェブサービスの利用規約において、サイトを閲覧しただけでそのサイトの利用規約に同意したものとみなす契約形態のことを、英語を用いて何契約というでしょう？
   answer: ブラウズラップ契約
   alternativeAnswers:
     - ブラウズラップ
@@ -12195,7 +12194,7 @@
   answer: ヒートスプレッダ
   alternativeAnswers:
     - heat spreader
-- question: 「誰よりも君見つめてる 好きなあの子よりも長く」という歌い出しのキュウソネコカミの曲のタイトルにもなっている、実際には振動していないスマートフォンが振動したかのように感じてしまう現象を「何症候群」というでしょう？
+- question: 「誰よりも君見つめてる 好きなあの子よりも長く」という歌い出しのキュウソネコカミの曲のタイトルにもなっている、実際には振動していないスマートフォンが振動したかのように感じてしまう現象を何というでしょう？
   answer: ファントムバイブレーション症候群
   alternativeAnswers:
     - ファントムバイブレーション
@@ -12215,7 +12214,7 @@
   answer: レグテック
   alternativeAnswers:
     - RegTech
-- question: IntelのCore iシリーズやAMDのRyzenシリーズのバージョン番号に用いられる数字は、奇数・偶数のどちらでしょう？
+- question: IntelのCore iシリーズやAMDのRyzenシリーズのバージョン番号に用いられる数字は、ともに奇数・偶数のどちらでしょう？
   answer: 奇数
   alternativeAnswers:
     - 奇
@@ -14747,7 +14746,11 @@
     - Gödel number
     - Gödel
 - question: 計算量理論におけるNP問題の中でも、他のNP問題を多項式時間でその問題に還元することが可能な最も難しい問題群のことを、日本語を用いて何というでしょう？
+  minhayaQuestion: 計算量理論におけるNP問題の中でも、他のNP問題を多項式時間でその問題に還元することが可能な最も難しい問題群のことを、日本語を用いて何というでしょう？
   answer: NP完全
+  alternativeAnswers:
+    - NP-complete
+    - NP-completeness
 - question: AI企業でありつつも「人類の」などを意味する英単語を社名としている、生成AIシステム「Claude」の開発で知られるアメリカの企業は何でしょう？
   answer: Anthropic
   alternativeAnswers:
@@ -14791,7 +14794,7 @@
     - シアター
     - theater mode
     - theater
-- question: grepコマンドにおいて、動作を反転させ、指定した文字列に一致しない行のみを出力するようにするアルファベット1文字のコマンドラインオプションは「-何」でしょう？
+- question: grepコマンドにおいて、動作を反転させ、指定した文字列に一致しない行のみを出力するようにするアルファベット1文字のコマンドラインオプションは何でしょう？
   answer: '-v'
   alternativeAnswers:
     - v
@@ -14816,7 +14819,8 @@
     - ネガティブ
     - negative feedback
     - negative
-- question: Windows 11をインストールするためのシステム要件の1つにこれを備えていることが存在する、暗号化キーを安全に保存しセキュリティ関連の処理を行うマザーボード上のハードウェア演算モジュールをアルファベット3文字で何というでしょう？
+- question: Windows 11をインストールするためのシステム要件の1つにこれを備えていることが存在する、暗号化キーを安全に保存しセキュリティ関連の処理を行うマザーボード上のハードウェア演算モジュールを何というでしょう？
+  minhayaQuestion: Windows 11をインストールするためのシステム要件の1つにこれを備えていることが存在する、暗号化キーを安全に保存しセキュリティ関連の処理を行うマザーボード上のハードウェア演算モジュールをアルファベット3文字で何というでしょう？
   answer: TPM
   alternativeAnswers:
     - Trusted Platform Module
