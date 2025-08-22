@@ -14846,3 +14846,134 @@
     - ハード
     - hard coding
     - hard
+- question: イベント終了後には公式ダイジェストの「Book of News」も公開される、Microsoft社が開発者向けに毎年開催するオフラインイベントといえば何でしょう？
+  answer: Microsoft Build
+  alternativeAnswers:
+    - Build
+    - マイクロソフトビルド
+    - ビルド
+- question: 言語モデルにおいて、データ量やパラメータ数を増やすと損失が冪乗則に従って減少する、という法則のことを、2020年にOpenAI社が公開した論文から自然言語モデルの「何則」というでしょう？
+  answer: スケーリング則
+  alternativeAnswers:
+    - スケーリング
+    - scaling law
+    - scaling
+- question: 「オートマトンと形式言語をめぐる冒険」という副題がつけられている、ファンタジー世界を舞台に繰り広げられる物語でオートマトンの基本を分かりやすく解説した、川添愛による情報科学の入門書は何でしょう？
+  answer: '『白と黒のとびら: オートマトンと形式言語をめぐる冒険』'
+  alternativeAnswers:
+    - 白と黒のとびら
+- question: 電子工作の分野では特に、はんだが空気中に発散されて煙となったもののことを指す、蒸気の凝縮などによって生成する微粒子のことを指す言葉は何でしょう？
+  answer: ヒューム
+  alternativeAnswers:
+    - フューム
+    - fume
+- question: 別名を「DNSサーバー」ともいう、ドメインなどのホスト名からIPアドレスへの変換機能を提供するサーバーを、英語で「何サーバー」というでしょう？
+  answer: ネームサーバー
+  alternativeAnswers:
+    - ネーム
+    - name server
+    - name
+- question: そのロゴには「🦜️🔗」という2文字の文字列が書かれている、Pythonで実装されたオープンソースのAIアプリ構築フレームワークは何でしょう？
+  answer: LangChain
+  alternativeAnswers:
+    - ラングチェーン
+- question: 3DCGにおいて、常にカメラの方向を向くように回転する板状のポリゴンのことを、「広告掲示板」を意味する英語から何というでしょう？
+  answer: ビルボード
+  alternativeAnswers:
+    - billboard
+- question: アナログ電話機の受話器を装置に密着させ、公衆回線を用いてデータ通信を行う初期のモデム装置を、日本では一般的に何といったでしょう？
+  answer: 音響カプラ
+  alternativeAnswers:
+    - 音響カプラー
+    - アコースティックカプラー
+    - acoustic coupler
+- question: 「アヒルのように鳴くものは、アヒルとして扱ってよい」という表現で説明される、動作に必要なインターフェイスを備えていれば何でも引数として与えることができるプログラミングの型付けの手法を何というでしょう？
+  answer: ダックタイピング
+  alternativeAnswers:
+    - duck typing
+- question: シェルでは「*」などの記号によって表される、任意の文字列にマッチする特殊な記号のことを、トランプ用語に由来する言葉で何というでしょう？
+  answer: ワイルドカード
+  alternativeAnswers:
+    - wildcard
+- question: 世界に約60社が存在するといわれている、いわゆる「ユニコーン企業」の基準の10倍以上の企業評価額がつけられた巨大な未上場企業のことを何というでしょう？
+  answer: デカコーン企業
+  alternativeAnswers:
+    - デカコーン
+    - decacorn company
+    - decacorn
+- question: コンピューターの操作画面で、現在選択されており操作できる状態になっているウィンドウのことを、「活発な」などを意味する英語から「何ウィンドウ」というでしょう？
+  answer: アクティブウィンドウ
+  alternativeAnswers:
+    - アクティブ
+    - active window
+    - active
+- question: Markdownの発明者の一人でもある、WWDCにおける非公式イベント「The Talk Show Live」でApple役員に鋭い質問を投げかける様子でも有名な、アメリカ出身のApple評論家は誰でしょう？
+  answer: ジョン・グルーバー
+  alternativeAnswers:
+    - John Gruber
+- question: GitHubリポジトリと行ってほしいタスクを与えることで、さまざまな作業を自律的に行うことができる、2025年8月に一般提供が開始されたGoogleの非同期AIコーディングエージェントは何でしょう？
+  answer: Google Jules
+  alternativeAnswers:
+    - Jules
+    - ジュール
+- question: 「王」「ぐるめ」「まめ」の前につくと、いずれも年賀状作成ソフトの名前になる言葉は何でしょう？
+  answer: 筆
+  alternativeAnswers:
+    - ふで
+- question: 別名を「FM補完放送」という、雑音や電波障害に対する耐性を高めるためにAMラジオの番組をFMで配信するラジオ放送の愛称は何でしょう？
+  answer: ワイドFM
+- question: 株式会社i&PLUSの登録商標であるものの近年では一般名詞化が進んでいる、スマホの裏側に貼り付け、指を通して固定するためのリング状のアクセサリーは何でしょう？
+  answer: バンカーリング
+  alternativeAnswers:
+    - BUNKER RING
+- question: アルミ缶のような形の小型モデル「Capsule」や、アウトドア向けの「Mars」、ホーム向けの「Cosmos」などといったラインナップを展開する、Ankerのプロジェクターブランドは何でしょう？
+  answer: Nebula
+  alternativeAnswers:
+    - ネビュラ
+- question: 膨大な計算量を要するものの、近年ではリアルタイム処理による描画も積極的に行われている、光源から発せられる光の経路を追跡して写実的な映像を生成する3DCGの描画技術を何というでしょう？
+  answer: レイトレーシング
+  alternativeAnswers:
+    - レイトレース
+    - ray tracing
+    - ray trace
+- question: 通信会社の「キャリア」を表す英単語に含まれて、職歴を意味する「キャリア」を表す英単語に含まれないアルファベットは何でしょう？
+  answer: i
+- question: LANケーブルを好みの長さにカットしたあと、両端にコネクタを取り付けて圧着する工具のことを、日本語を用いて「何工具」というでしょう？
+  answer: かしめ工具
+  alternativeAnswers:
+    - かしめ
+    - 加締め工具
+    - 加締め
+    - 圧着ペンチ
+    - 圧着
+  description: 「加締め」表記は出典不明
+- question: n=25でグラハム数を超えるほど急速にその値が増大することでも知られる、n状態・2記号チューリングマシンにおいて空のテープから始めて停止するまでに書かれる1の数の最大値を与える関数は「何関数」でしょう？
+  answer: ビジービーバー関数
+  alternativeAnswers:
+    - ビジービーバー
+    - busy beaver function
+    - busy beaver
+  description: https://googology.fandom.com/wiki/User_blog:Deedlit11/Okay,_more_Turing_machines#A_New_Record!_Beating_Graham's_number_with_a_2-symbol_TM
+- question: 同じ値について、ソート前の順序がソート後も維持されるソートアルゴリズムのことを「何ソート」というでしょう？
+  minhayaQuestion: 同じ値について、ソート前の順序がソート後も維持されるソートアルゴリズムのことを、日本語を用いて「何ソート」というでしょう？
+  answer: 安定ソート
+  alternativeAnswers:
+    - 安定
+    - stable sort
+    - stable
+- question: AKB48などにも楽曲提供をするミュージシャンの小川コータによって発明され、特許も取得されている、指を上下左右にすべらせることで五十音を入力する日本語入力の方式を「何入力」というでしょう？
+  answer: フリック入力
+  alternativeAnswers:
+    - フリック
+    - flick input
+    - flick
+- question: 画線をシンプルにしたり、ふところを広くすることで視認性を向上させている、「誰にでも読みやすいように設計されたフォント」のことを、アルファベット2文字を用いて「何フォント」というでしょう？
+  answer: UDフォント
+  alternativeAnswers:
+    - UD
+- question: データの作成、読み出し、更新、削除というデータベースの4つの基本的な機能のことを、これらの頭文字からアルファベット4文字で何というでしょう？
+  answer: CRUD
+- question: インターネット上に公開した情報が、複製を繰り返して半永久的に残り本人が容易に消せなくなることを、身体装飾に例えた英語で何というでしょう？
+  answer: デジタルタトゥー
+  alternativeAnswers:
+    - digital tatoo
