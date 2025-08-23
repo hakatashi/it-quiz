@@ -1606,3 +1606,13 @@
   answer: KDDI株式会社
   alternativeAnswers:
     - KDDI
+- question: 2025年8月にオープンウェイトモデルの「gpt-oss-20b」「gpt-oss-120b」を公開した、有名なAI企業は何でしょう？
+  answer: OpenAI
+  alternativeAnswers:
+    - オープンAI
+- question: 2025年には開発20周年を迎え多くの新機能がリリースされた、「.nako」や「.nako3」といった拡張子を使用する日本語プログラミング言語環境は何でしょう？
+  answer: なでしこ
+- question: 世界地図をキャンバスに見立て、30秒に1ピクセルという制限の下でユーザーが自由に絵を描くことができる、2025年7月に公開されSNSなどで急速に流行したブラジル発のウェブサイトは何でしょう？
+  answer: wplace
+  alternativeAnswers:
+    - wplace.live
