@@ -4757,7 +4757,7 @@
   description: Oxfordにも「(computing) made to appear to exist by the use of computer software, for example on the internet」と記載があるため後者の意味も日本独自の用法でないと思われる
 - question: 映画「サマーウォーズ」において、スーパーコンピューターの冷却効率を高めるために作中でカズマたちが用いたものは何でしょう？
   answer: 氷
-- question: これまで後工程で行っていた製品のセキュリティテストを、なるべく開発工程の早い段階に組み込むという考え方のことを、「左に前倒す」といった意味の英語から何というでしょう？
+- question: これまで<ruby><rb>後工程</rb><rp>(</rp><rt>あとこうてい</rt><rp>)</rp></ruby>で行っていた製品のセキュリティテストを、なるべく開発工程の早い段階に組み込むという考え方のことを、「左に前倒す」といった意味の英語から何というでしょう？
   answer: シフトレフト
   alternativeAnswers:
     - Shift-Left
@@ -8122,7 +8122,7 @@
     - '44.1'
     - 44100Hz
     - '44100'
-- question: アルファベット3文字で「PoC」と略される、新しいアイデアの実効性を検証するために行われるデモンストレーションのことを英語で何でしょう？
+- question: アルファベット3文字で「PoC」と略される、新しいアイデアの実効性を検証するために行われるデモンストレーションのことを英語で何というでしょう？
   answer: プルーフオブコンセプト
   alternativeAnswers:
     - Proof of Concept
@@ -11793,7 +11793,7 @@
     - RGBA
 - question: 2012年に発生したいわゆる「PC遠隔操作事件」において、真犯人を名乗る人物が首輪にウイルスのデータを付けた猫を放ち、警察が回収を行った場所はどこでしょう？
   answer: 江の島
-- question: 「ハートブリード」といえばOpenSSLの脆弱性ですが、2024年7月に報告された「リグレッション」といえば何というソフトウェアの脆弱性でしょう？
+- question: <em>「ハートブリード」といえば</em>OpenSSLの脆弱性ですが、2024年7月に報告された「リグレッション」といえば何というソフトウェアの脆弱性でしょう？
   answer: OpenSSH
 - question: ずばり、一般的なはんだに最も多く含まれている金属は何でしょう？
   answer: スズ
@@ -14911,11 +14911,9 @@
   answer: ジョン・グルーバー
   alternativeAnswers:
     - John Gruber
-- question: GitHubリポジトリと行ってほしいタスクを与えることで、さまざまな作業を自律的に行うことができる、2025年8月に一般提供が開始されたGoogleの非同期AIコーディングエージェントは何でしょう？
-  answer: Google Jules
-  alternativeAnswers:
-    - Jules
-    - ジュール
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: 「王」「ぐるめ」「まめ」の前につくと、いずれも年賀状作成ソフトの名前になる言葉は何でしょう？
   answer: 筆
   alternativeAnswers:

@@ -1616,3 +1616,8 @@
   answer: wplace
   alternativeAnswers:
     - wplace.live
+- question: GitHubリポジトリと行ってほしいタスクを与えることで、さまざまな作業を自律的に行うことができる、2025年8月に一般提供が開始されたGoogleの非同期AIコーディングエージェントは何でしょう？
+  answer: Google Jules
+  alternativeAnswers:
+    - Jules
+    - ジュール
