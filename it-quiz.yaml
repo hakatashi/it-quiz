@@ -14965,7 +14965,7 @@
     - フリック
     - flick input
     - flick
-- question: 画線をシンプルにしたり、ふところを広くすることで視認性を向上させている、「誰にでも読みやすいように設計されたフォント」のことを、アルファベット2文字を用いて「何フォント」というでしょう？
+- question: 画線をシンプルにしたり、<ruby><rb>懐</rb><rp> (</rp><rt>ふところ</rt><rp>)</rp></ruby>を広くしたりすることで視認性を向上させている、「誰にでも読みやすいように設計されたフォント」のことを、アルファベット2文字を用いて「何フォント」というでしょう？
   answer: UDフォント
   alternativeAnswers:
     - UD
@@ -14975,3 +14975,127 @@
   answer: デジタルタトゥー
   alternativeAnswers:
     - digital tatoo
+- question: Chromeにおいて、faviconが設定されていないウェブサイトを開いた際にfaviconの代わりに表示されるのは、灰色の何でしょう？
+  answer: 地球
+  alternativeAnswers:
+    - 地球儀
+    - earth
+    - globe
+  description: 詳細は不明だが2011年にチェックインされている https://github.com/chromium/chromium/commit/5714b8ea099d1e15c311abd41e26b38806ef28e7
+- question: 例えばEnterキーなら「001C」、Deleteキーなら「E053」と表現される、キーボードのキーが押された際にコンピューターに送信される固有の値のことを「何コード」というでしょう？
+  answer: スキャンコード
+  alternativeAnswers:
+    - スキャン
+    - scan code
+    - scan
+- question: 現代のコンピューターの理論的基礎となっている、無限に長いテープとヘッド、制御部から構成される仮想的な計算機械のことを、考案したイギリスの数学者の名前から「何機械」というでしょう？
+  answer: チューリング機械
+  alternativeAnswers:
+    - チューリングマシン
+    - チューリング
+    - Turing machine
+    - Turing
+- question: 機械学習において、正しいことが人間の手で検証されている「真のデータ」のことを、「地に足のついた」という趣旨の英語から何というでしょう？
+  answer: グラウンドトゥルース
+  alternativeAnswers:
+    - ground truth
+- question: 「.local」で終わるドメイン名を用いて実装される、DNSサーバーを使用せずに同一ネットワーク内で互いのホスト名を解決するためのプロトコルを、アルファベット1文字を用いて「何DNS」というでしょう？
+  answer: mDNS
+  alternativeAnswers:
+    - m
+- question: 「統一された千の質問」を意味する中国語「Tongyi Qianwen」を略して名付けられた、2023年にアリババクラウドが開発を開始したオープンウェイトの大規模言語モデルは何でしょう？
+  answer: Qwen
+- question: 「テクノロジーで誰も取り残さない日本へ」をスローガンに掲げ、AIを活用してデジタル民主主義を推し進めることを目標の1つとする、エンジニアの安野貴博を党首とする日本の国政政党は何でしょう？
+  answer: チームみらい
+- question: 1990年代に相次いで出版され、AWK・MS-DOS・C言語などの解説書として広く普及したアスキー社の技術書シリーズといえば「何倍使うための本シリーズ」でしょう？
+  answer: 256倍使うための本シリーズ
+  alternativeAnswers:
+    - 256倍使うための本
+    - 256倍
+    - '256'
+- question: Pascalから輸入された、「^」を用いてポインタを表す記法などが特徴的な、C言語を代替することを目標に2016年から開発されているスウェーデン発のデータ指向プログラミング言語は何でしょう？
+  answer: Odin
+  alternativeAnswers:
+    - オーディン
+- question: 主に電源ユニットやACアダプタなどに通電した際に、振動とともに甲高い音が発生する現象のことを、その原因となる電子部品の名前を用いて俗に何というでしょう？
+  answer: コイル鳴き
+  alternativeAnswers:
+    - coil whine
+- question: Chrome DevToolsに統合されておりブラウザから直接実行することもできるようになっている、パフォーマンスやSEOといったウェブページの品質を計測し診断することができるGoogleの自動化ツールは何でしょう？
+  answer: Lighthouse
+  alternativeAnswers:
+    - ライトハウス
+- question: 略称を「ロジアナ」という、デジタル回路の検証やトラブルシューティングに用いられる電子測定機は何でしょう？
+  answer: ロジックアナライザ
+  alternativeAnswers:
+    - logic analyzer
+- question: 2021年からは上位モデルの「シグニチャーエディション」も販売されている、電子書籍リーダー「Kindle」の廉価版モデルといえば「Kindle 何」でしょう？
+  answer: Kindle Paperwhite
+  alternativeAnswers:
+    - Paperwhite
+    - キンドルペーパーホワイト
+    - ペーパーホワイト
+- question: その名前はエジプト神話の神「イシス」のスロバキア語表記に由来する、SFチックなアンドロイドが描かれたパッケージのウイルス対策ソフトでも有名なIT企業は何でしょう？
+  answer: ESET, spol. s r.o.
+  alternativeAnswers:
+    - ESET
+    - イーセット企業体有限責任会社
+    - イーセットジャパン株式会社
+    - イーセット
+- question: 2016年に「Cat8」が策定されるまでコネクタ形状RJ45を持つ最新の仕様であったことから現在でもLANケーブルの規格として広く普及している、最大伝送速度10Gbpsを持つLANケーブルの規格は「Cat何」でしょう？
+  answer: Cat6A
+  alternativeAnswers:
+    - 6A
+- question: 組織のセキュリティを検証するため、事前通知なく模擬的なサイバー攻撃を仕掛ける独立したチームのことを、冷戦時代の軍事演習で攻撃側を表す色に由来して何というでしょう？
+  answer: レッドチーム
+  alternativeAnswers:
+    - red team
+- question: 「世界絵文字デー」として広く認知されている、現在多くの環境で「カレンダー」の絵文字に描かれている日付は何でしょう？
+  answer: 7月17日
+  alternativeAnswers:
+    - 7/17
+- question: 2018年にUnicodeに「🥺」が収録されたことがきっかけで流行し、2020年には三省堂の「今年の新語ベスト10」で大賞に選出された、「悲しいことがあったときなどに上げる軽い鳴き声」(新明解)を表す感動詞は何でしょう？
+  answer: ぴえん
+- question: 「サーバー」から連想された「鯖」を意味する英語から名付けられた、株式会社はてなが提供するサーバー監視サービスは何でしょう？
+  answer: Mackerel
+  alternativeAnswers:
+    - マカレル
+- question: プログラムの排他制御において、ロックを獲得するまでループなどを用いてCPUを占有し続ける単純なロック方式のことを「何ロック」というでしょう？
+  answer: スピンロック
+  alternativeAnswers:
+    - スピン
+    - spin lock
+    - spin
+- question: WindowsやLinuxにおいて、実行するとそのプログラムを動かしているユーザーの名前を表示するコマンドは何でしょう？
+  answer: whoami
+  description: 現在ログイン中のユーザー名を表示する「logname」とは異なる
+- question: 2021年にスマホ事業から撤退するまで、ディスプレイが回転する「WING」やボディが湾曲した「G Flex」など先進的なスマートフォンを多く開発してきた、モニターやテレビなどの製造で知られる韓国の電気機器メーカーは「何エレクトロニクス」でしょう？
+  answer: LGエレクトロニクス
+  alternativeAnswers:
+    - LG Electronics
+    - LG
+- question: プログラミング言語C#において、プログラム中にSQLに似た構文を直接記述することでデータの取得などを簡単に記述することができる機能を何というでしょう？
+  answer: LINQ
+  alternativeAnswers:
+    - Language-Integrated Query
+- question: 「蜂の巣」「宇宙船」「グライダー」など多くのパターンが研究されている、1970年にコンウェイが考案した2次元セルオートマトンのモデルを何というでしょう？
+  answer: ライフゲーム
+  alternativeAnswers:
+    - Game of Life
+- question: かつてのWindowsではF8キーを押しながら電源を入れることでオンにすることができた、コンピューターやスマートフォンに問題が生じたときに診断を行うための特殊な起動モードを「何モード」というでしょう？
+  answer: セーフモード
+  alternativeAnswers:
+    - safe mode
+- question: 「Run」「Air」「Dots」の前につくと、いずれもShokz社が販売する骨伝導イヤホンの製品名になる英単語は何でしょう？
+  answer: Open
+  alternativeAnswers:
+    - オープン
+- question: ウェブサイトをSNSなどにシェアした際に表示されるプレビュー画像や説明文のことを、Facebookから生まれた規格のことを指すアルファベット3文字の略称で何というでしょう？
+  answer: OGP
+  alternativeAnswers:
+    - Open Graph Protocol
+- question: コミュニケーションアプリ「Slack」において、デフォルトで作成される2つのチャンネルといえば「#general」と何でしょう？
+  answer: '#random'
+  alternativeAnswers:
+    - random
+    - ランダム
