@@ -15107,3 +15107,131 @@
   alternativeAnswers:
     - random
     - ランダム
+- question: コンピューターで静止画を自動的に順送りにする表示方法に現在もその名前が残されている、ポジフィルムに光を透過させてスクリーンに映像を映し出す1950年代ごろ広く用いられた投影装置を何というでしょう？
+  minhayaQuestion: コンピューターで静止画を自動的に順送りにする表示方法に現在もその名前が残されている、ポジフィルムに光を透過させてスクリーンに映像を映し出す1950年代ごろ広く用いられた投影装置を、英語を用いて「何映写機」というでしょう？
+  answer: スライド映写機
+  alternativeAnswers:
+    - スライド
+    - slide projector
+    - slide
+- question: 一説によると用語が普及したきっかけにはファイル圧縮ソフトの「LHA」が関連しているという、現在では「展開」と同じく「圧縮したファイルを元に戻す」という意味で用いられる漢字二文字の用語は何でしょう？
+  answer: 解凍
+- question: RFCによると「〜について」という意味のラテン語の前置詞が由来であるという、電子メールに返信する際に元のメールの件名の先頭に付けて送り返される文字列は何でしょう？
+  answer: 'Re:'
+- question: 現在一般に普及している無線受信機のほとんどで採用されている、到来する電波の周波数に受信機の中で発生させる別の周波数を混合し、その差の周波数がつねに一定になるようにする無線受信方式を「何方式」というでしょう？
+  answer: スーパーヘテロダイン方式
+  alternativeAnswers:
+    - スーパーヘテロダイン受信機
+    - スーパーヘテロダイン
+    - super heterodyne receiver
+    - super heterodyne
+- question: グラフィックチップ「PowerVR」の開発によって2017年までiPhoneの製造を支えてきたものの、Appleからの採用打ち切りによって倒産の危機に陥ったという過去を持つイギリスのファブレス企業は何でしょう？
+  minhayaQuestion: グラフィックチップ「PowerVR」の開発によって2017年までiPhoneの製造を支えてきたものの、Appleからの採用打ち切りによって倒産の危機に陥ったという過去を持つイギリスのファブレス企業は「何テクノロジーズ」社でしょう？
+  answer: イマジネーションテクノロジー
+  alternativeAnswers:
+    - イマジネーション
+    - Imagination Technologies Group Limited
+    - Imagination Technologies
+    - Imagination
+- question: マシンを仮想化させて動作させるためのソフトウェアのことを、仮想化された「スーパーバイザ」のさらに上、というニュアンスの英語で何というでしょう？
+  answer: ハイパーバイザ
+  alternativeAnswers:
+    - hypervisor
+- question: 「Amazonの試作品モニター制度」「日本発のRedHat系Linuxディストリビューション」「Xがかつて運営していたショート動画投稿サービス」の名前に共通する英単語は何でしょう？
+  answer: Vine
+  alternativeAnswers:
+    - バイン
+    - ヴァイン
+- question: 各ショップに返金などを求めるための手続きは「紛争」と呼ばれている、中国のアリババグループが国際向けに展開するオンラインショッピングサイトは何でしょう？
+  answer: AliExpress
+  alternativeAnswers:
+    - アリエクスプレス
+    - アリエク
+- question: 多くの読者や強い影響力を持つブロガーのことを指す、2000年代に日本で広まったあるギリシャ文字の名称を用いた用語といえば「何ブロガー」でしょう？
+  answer: アルファブロガー
+  alternativeAnswers:
+    - アルファ
+    - alpha blogger
+    - alpha
+- question: GPT-4oがリリースされた際のデフォルト音声が、この映画でヒロイン役を務めたヨハンソンの声に酷似しているとして大きな批判を受けた、人間とアシスタントAIとの恋愛を描いた2013年公開のSF映画は何でしょう？
+  answer: 『her/世界でひとつの彼女』
+  alternativeAnswers:
+    - her
+    - Her
+- question: 最初に売れた商品は創業者のピエールの「壊れたレーザーポインター」だったという、海外取引額で現在アメリカ1位の金額を持つECサイトは何でしょう？
+  answer: eBay
+  alternativeAnswers:
+    - イーベイ
+- question: スタニスワフ・ウラムとともにモンテカルロ法を提案した、プログラム内蔵方式のコンピューターの一種に現在も名を残すハンガリー出身の天才的科学者は誰でしょう？
+  answer: ジョン・フォン・ノイマン
+  alternativeAnswers:
+    - フォン・ノイマン
+    - John von Neumann
+    - Neumann
+- question: 従来のクラスA/B/C方式に代わってIPアドレスの効率的な割り当てを行うために導入された、任意のブロック長でIPアドレスを集約しサブネットを作成する仕組みをアルファベット4文字で何というでしょう？
+  answer: CIDR
+  alternativeAnswers:
+    - Classless Inter-Domain Routing
+    - サイダー
+- question: ニューラルネットワークを複数の「専門家」に分け、入力ごとにそのうち一部だけを選んで活性化することで、計算コストをほぼ変えずにモデルの性能を上げる手法をアルファベット3文字で何というでしょう？
+  answer: MoE
+  alternativeAnswers:
+    - Mixture of Expert
+- question: 畳み込みニューラルネットワークにおいて最も出力に近い部分に相当する、特徴マップから1次元のデータに値を伝播させて最終的な結果を得る層のことを何というでしょう？
+  minhayaQuestion: 畳み込みニューラルネットワークにおいて最も出力に近い部分に相当する、特徴マップから1次元のデータに値を伝播させて最終的な結果を得る層のことを日本語で「何層」というでしょう？
+  answer: 全結合層
+  alternativeAnswers:
+    - 全結合
+    - Fully Connected Layer
+    - FCL
+- question: TCPの25番ポートなどを標準で使用する、電子メールの送信・中継を担うインターネット標準プロトコルをアルファベット4文字で何というでしょう？
+  answer: SMTP
+  alternativeAnswers:
+    - Simple Mail Transfer Protocol
+- question: 2001年の法整備以降、日本でも書類への押印などと同等の意思推定能力を持つものとして認められている、データの作成者の身元や内容の改ざんの有無を検証するために用いられる電子的な表示のことを漢字4文字で何というでしょう？
+  answer: 電子署名
+  alternativeAnswers:
+    - 電子的署名
+- question: SIer企業の中でも「野村総研」や「NTTデータ」など、親会社の業種がハードウェア製造ではないもののことを「何系」というでしょう？
+  answer: ユーザー系
+  alternativeAnswers:
+    - ユーザー
+    - ユーザ
+- question: ベーコンなどを用いて作られる美味しいサンドイッチといえばBLTですが、ビーコンなどを用いて通信する省電力なBluetoothの拡張仕様といえば何でしょう？
+  answer: BLE
+  alternativeAnswers:
+    - Bluetooth Low Energy
+- question: 従来のフォーマットよりも軽量であることからWebフォント向けのファイル形式として広く普及している、2009年にMozillaによって開発されたフォントファイル形式といえば何でしょう？
+  answer: WOFF
+  alternativeAnswers:
+    - Web Open File Format
+- question: 製造業などにおいて物理的なシステムを最適に動かすための技術のことを、「IT」と対比されるアルファベット2文字の用語で何というでしょう？
+  answer: OT
+  alternativeAnswers:
+    - Operational Technologies
+- question: C言語において、構造体を指し示すポインタから構造体のメンバにアクセスする2文字の演算子を、その見た目がある武器に似ていることから英語を用いて「何演算子」というでしょう？
+  answer: アロー演算子
+  alternativeAnswers:
+    - アロー
+    - arrow operator
+    - arrow
+- question: CPUで実行するプロセスを極めて短い時間で切り替えることにより、見た目上並列に複数のタスクを実行できるようにする仕組みを英語で何というでしょう？
+  answer: コンテキストスイッチ
+  alternativeAnswers:
+    - context switch
+- question: 「AIを中小企業のCFOに」をモットーに、経理業務の効率化を実現するサービスを提供している、日本のクラウド会計ソフトの先駆的存在として知られるIT企業は何でしょう？
+  answer: フリー株式会社
+  alternativeAnswers:
+    - フリー
+    - freee株式会社
+    - freee
+- question: USBやLANなどのポートを拡張し、複数のデバイスを接続することができるようにする機器を、「中枢」を意味する英語で何というでしょう？
+  answer: ハブ
+  alternativeAnswers:
+    - hub
+- question: 「最適性の原理」を満たす問題に対して、部分問題の解を再利用してテーブルを埋めることで効率的に解く、リチャード・ベルマンが命名したアルゴリズム設計法を漢字5文字で何というでしょう？
+  answer: 動的計画法
+  alternativeAnswers:
+    - 動的プログラミング
+    - Dynamic Programing
+    - DP
