@@ -1630,3 +1630,22 @@
   alternativeAnswers:
     - マジックキュー
     - Magic Cue
+- question: 2025年4月にはラピダス社の新工場「IIM」での試作ラインが稼働開始した、新たな半導体開発拠点として現在開発が急速に進んでいる北海道の自治体は何でしょう？
+  answer: 千歳市
+  alternativeAnswers:
+    - 千歳
+- question: 2025年9月に発足した新内閣で人工知能「ディエラ」を起用し、世界で初めてAIを閣僚に任命した、首都をティラナに置くヨーロッパの国はどこでしょう？
+  answer: アルバニア
+  alternativeAnswers:
+    - アルバニア共和国
+    - Republika e Shqipërisë
+- question: 「6」以降のGoogle PixelでSoCとして採用されている、現在は「G5」が最新となっているGoogleのモバイル機器向けCPUチップは「Google 何」でしょう？
+  answer: Google Tensor
+  alternativeAnswers:
+    - Tensor
+    - Googleテンソル
+    - テンソル
+- question: 正式名称を「Gemini 2.5 Flash Image」という、Googleが2025年8月にリリースした、テキストプロンプトを用いて画像を編集することができるAI機能のコードネームは何でしょう？
+  answer: Nano Banana
+  alternativeAnswers:
+    - ナノバナナ
