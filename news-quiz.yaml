@@ -1639,7 +1639,7 @@
   alternativeAnswers:
     - アルバニア共和国
     - Republika e Shqipërisë
-- question: 「6」以降のGoogle PixelでSoCとして採用されている、現在は「G5」が最新となっているGoogleのモバイル機器向けCPUチップは「Google 何」でしょう？
+- question: 6以降のGoogle PixelでSoCとして採用されている、現在は「G5」が最新となっているGoogleのモバイル機器向けCPUチップは「Google 何」でしょう？
   answer: Google Tensor
   alternativeAnswers:
     - Tensor
@@ -1649,3 +1649,7 @@
   answer: Nano Banana
   alternativeAnswers:
     - ナノバナナ
+- question: iPhone 15 Proの4つのカラーバリエーションの名前に共通してつけられている、同機種のフレーム部分に用いられている金属の名前を用いた言葉は何でしょう？
+  answer: チタニウム
+  alternativeAnswers:
+    - titanium
