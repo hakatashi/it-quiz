@@ -1653,3 +1653,27 @@
   answer: チタニウム
   alternativeAnswers:
     - titanium
+- question: 2025年10月には最新版となるバージョン2が発表された、OpenAI社が開発している動画生成AIシステムは何でしょう？
+  answer: Sora
+  alternativeAnswers:
+    - ソラ
+- question: この動物を表す絵文字の存在についてChatGPTに尋ねると延々と考え込んでしまうというバグがひろく話題となった、熱帯地域に生息する奇妙な見た目の魚は何でしょう？
+  answer: タツノオトシゴ
+- question: 約4年半にわたる工事を経て2025年9月にオープンした、静岡県裾野市にあるトヨタグループ建設のスマートシティは何でしょう？
+  answer: ウーブン・シティ
+  alternativeAnswers:
+    - Woven City
+- question: 2025年10月に40周年を迎えた、表計算ソフトのシェアで80年代に普及したLotus 1-2-3を「上回る」ことを目標として開発されたマイクロソフト社の表計算ソフトといえば「Microsoft 何」でしょう？
+  minhayaQuestion: 2025年10月に40周年を迎えた、表計算ソフトのシェアで80年代に普及したLotus 1-2-3を「上回る」ことを目標として開発されたマイクロソフト社の表計算ソフトといえば何でしょう？
+  answer: Microsoft Excel
+  alternativeAnswers:
+    - Excel
+    - マイクロソフトエクセル
+    - エクセル
+- question: 経営方針の軋轢から2024年に取締役会を退任するも、2025年3月に多くの支援を受けて返り咲いた、現在のインテルのCEOは誰でしょう？
+  minhayaQuestion: 【ファミリーネームの一般的な英語読みで回答】経営方針の軋轢から2024年に取締役会を退任するも2025年3月に多くの支援を受けて返り咲いた、現在のインテルのCEOは誰でしょう？
+  answer: リップ=ブー・タン
+  alternativeAnswers:
+    - タン
+    - 陳立武
+    - Lip-Bu Tan

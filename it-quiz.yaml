@@ -15236,3 +15236,129 @@
     - 動的プログラミング
     - Dynamic Programing
     - DP
+- question: 伊藤忠グループのSIer企業「伊藤忠テクノソリューションズ」の、アルファベット3文字での略称は何でしょう？
+  answer: CTC
+  alternativeAnswers:
+    - C.ITOH TECHNO-SCIENCE Co., Ltd
+  description: 公式サイト (https://www.ctc-g.co.jp/company/ir/individual/faq.html) には「C.ITOH TECHNO-SCIENCE Co., Lt」の略とあるが、誤植と思われる。
+- question: Ruby on Railsのモデル層の実装としてよく利用される、テーブル間の対応関係をhas_manyやbelongs_toといったフレーズで表現するRubyのORマッパーライブラリは何でしょう？
+  answer: Active Record
+  alternativeAnswers:
+    - アクティブレコード
+- question: 到着順方式やラウンドロビン方式などといった方式が存在する、OSがタスクの優先度などをもとにCPUで実行するプロセスを決定する仕組みを何というでしょう？
+  answer: スケジューリング
+  alternativeAnswers:
+    - タスクスケジューリング
+    - scheduling
+    - task scheduling
+- question: HNSW、IVF、PQ、IVFFlat、LSHといえば、いずれもクエリに基づいて最も近い何を探索するアルゴリズムの名前でしょう？
+  answer: ベクトル
+  alternativeAnswers:
+    - ベクター
+    - vector
+- question: デフォルトで用意されている、ハリウッド映画のような予告編を作成できるテンプレートもよく使用されている、iOSやmacOSなどから利用可能なAppleのビデオ編集ソフトは何でしょう？
+  answer: iMovie
+- question: その名前はアラン・ケイが理想としたパーソナルコンピューターの名前に由来する、当初東芝グループにより製造されていたノートパソコンのブランドは何でしょう？
+  answer: Dynabook
+  alternativeAnswers:
+    - ダイナブック
+- question: 2008年に「世界で最も薄いノートブック」としてスティーブ・ジョブズが発表し、MacBookの最軽量モデルとして現在も製造されているAppleのノートパソコンシリーズは何でしょう？
+  minhayaQuestion: 2008年に「世界で最も薄いノートブック」としてスティーブ・ジョブズが発表し、MacBookの最軽量モデルとして現在も製造されているAppleのノートパソコンシリーズは「MacBook 何」でしょう？
+  answer: MacBook Air
+  alternativeAnswers:
+    - Air
+    - マックブックエアー
+    - エアー
+- question: 現在広く使われているIPバージョン4のアドレス枯渇問題を受けて普及が進められている、通信プロトコル「IP」の最新バージョンはいくつでしょう？
+  answer: '6'
+  alternativeAnswers:
+    - バージョン6
+    - version 6
+    - IPv6
+- question: 暗号通信の説明をする際に、通信を行うキャラクターの名前によく使用される、それぞれAとBから始まる英語圏の典型的な人名といえば誰と誰でしょう？
+  minhayaQuestion: 【「〇〇と〇〇」の形で回答】暗号通信の説明をする際に通信を行うキャラクターの名前によく使用される、それぞれAとBから始まる英語圏の典型的な人名といえば誰と誰でしょう？
+  answer: アリスとボブ
+  alternativeAnswers:
+    - AliceとBob
+- question: そのロゴはすべて小文字で綴られているものの、正式な名称では「B」が大文字で表記される、アメリカ発の国際マーケットプレイスは何でしょう？
+  answer: eBay
+  alternativeAnswers:
+    - イーベイ
+- question: 「utm_source」などのように、その値によってページコンテンツが変化しない、ユーザーのトラッキングなどを目的として利用されるURLパラメータのことを「何パラメータ」というでしょう？
+  answer: パッシブパラメータ
+  alternativeAnswers:
+    - パッシブ
+    - passive parameter
+    - passive
+- question: AMDのCPUシリーズ「Ryzen」で、同じ型番のモデルと比べてやや性能が高いことを表す際に用いられる1文字のアルファベットは何でしょう？
+  answer: X
+- question: しばしば「a11y」と略される、情報やサービスなどが年齢や障がいにかかわらず利用しやすい状態を指す英単語は何でしょう？
+  answer: accessibility
+  alternativeAnswers:
+    - アクセシビリティ
+- question: 拡張子「.jl」のファイルに標準でソースコードを保存する、科学計算の分野に特化したMIT発のプログラミング言語は何でしょう？
+  answer: Julia
+  alternativeAnswers:
+    - ジュリア
+- question: JIS規格で定められている回路記号で、LEDであることを示すためにダイオードの記号に書き足される矢印の本数は何本でしょう？
+  answer: 2本
+  alternativeAnswers:
+    - '2'
+- question: 3Dモデリングにおいて、粘土を彫るような感覚でブラシツールを用いて有機的な形状を直感的に作る手法を、英語で何と呼ぶでしょう？
+  answer: スカルプティング
+  alternativeAnswers:
+    - スカルプト
+    - sculpting
+    - sculpt
+- question: ICを構成するPMOSとNMOSのうち、よりスイッチング速度が速いのはどちらでしょう？
+  answer: NMOS
+  alternativeAnswers:
+    - Negative MOS
+- question: ずばり、32ビットOSにおけるメモリサイズの制限は約何GBでしょう？
+  answer: 4GB
+  alternativeAnswers:
+    - '4'
+    - 4GiB
+    - 約4GB
+    - 4ギガバイト
+    - 4ギビバイト
+- question: ChatGPTにおける「植物百科通」や「SolidGoldMagikarp」などのように、使用頻度が低い複合語にも関わらず1トークンとして認識されるために、AIアシスタントが異常な応答を示すトークンのことを何というでしょう？
+  minhayaQuestion: ChatGPTにおける「植物百科通」や「SolidGoldMagikarp」などのように、使用頻度が低い複合語にも関わらず1トークンとして認識されるために、AIアシスタントが異常な応答を示すトークンのことを「何トークン」というでしょう？
+  answer: グリッチトークン
+  alternativeAnswers:
+    - グリッチ
+    - glitch token
+    - glitch
+- question: シリアル通信において、情報を短く区切り、前後にスタートビットとストップビットを付加して伝送することで送信側と受信側の同期を取る方式のことを、漢字四文字で「何同期」というでしょう？
+  answer: 調歩同期
+  alternativeAnswers:
+    - 調歩
+    - start-stop synchronization
+    - start-stop
+- question: 見込み顧客がサービスを認知し、興味を持ち、購入に至るまでのプロセスを段階ごとに絞り込んで捉えるフレームワークのことを、「漏斗」を意味する英語から何というでしょう？
+  answer: ファネル
+  alternativeAnswers:
+    - マーケティングファネル
+    - funnel
+    - marketing funnel
+- question: SNSのXにおいて、ホストがルームを作り、最大13人まで同時に話すことができるリアルタイムの音声配信機能といえば「X何」でしょう？
+  answer: Xスペース
+  alternativeAnswers:
+    - スペース
+    - X Spaces
+    - Spaces
+- question: 1990年代に発生したInternet Explorerとの覇権争いは「ブラウザ戦争」としてインターネットの歴史に刻まれている、後のFirefox開発の基礎となったMozillaのウェブブラウザは何でしょう？
+  minhayaQuestion: 1990年代に発生したInternet Explorerとの覇権争いは「ブラウザ戦争」としてインターネットの歴史に刻まれている、後のFirefox開発の基礎となったMozillaのウェブブラウザは「何 Navigator」でしょう？
+  answer: Netscape Navigator
+  alternativeAnswers:
+    - Netscape
+    - ネットスケープナビゲータ
+    - ネットスケープ
+- question: その名前に反してプログラミング言語「Java」の関連技術などではない、1990年代にウェブページの動作などを記述するために開発された有名なプログラミング言語は何でしょう？
+  answer: JavaScript
+  alternativeAnswers:
+    - ジャバスクリプト
+- question: アルファベット2文字で「AP」と略される、現在では有線ネットワークと無線LANの中継機器のことを指すことが多いネットワーク用語は何でしょう？
+  answer: アクセスポイント
+  alternativeAnswers:
+    - Access Point
