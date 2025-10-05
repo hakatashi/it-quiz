@@ -15239,14 +15239,8 @@
 - question: 伊藤忠グループのSIer企業「伊藤忠テクノソリューションズ」の、アルファベット3文字での略称は何でしょう？
   answer: CTC
   alternativeAnswers:
-    - C.ITOH TECHNO-SCIENCE Co., Lt
-- question: 経営方針の軋轢から2024年に取締役会を退任するも、2025年3月に多くの支援を受けて返り咲いた、現在のインテルのCEOは誰でしょう？
-  minhayaQuestion: 【ファミリーネームの一般的な英語読みで回答】経営方針の軋轢から2024年に取締役会を退任するも2025年3月に多くの支援を受けて返り咲いた、現在のインテルのCEOは誰でしょう？
-  answer: リップ=ブー・タン
-  alternativeAnswers:
-    - タン
-    - 陳立武
-    - Lip-Bu Tan
+    - C.ITOH TECHNO-SCIENCE Co., Ltd
+  description: 公式サイト (https://www.ctc-g.co.jp/company/ir/individual/faq.html) には「C.ITOH TECHNO-SCIENCE Co., Lt」の略とあるが、誤植と思われる。
 - question: Ruby on Railsのモデル層の実装としてよく利用される、テーブル間の対応関係をhas_manyやbelongs_toといったフレーズで表現するRubyのORマッパーライブラリは何でしょう？
   answer: Active Record
   alternativeAnswers:
