@@ -8068,7 +8068,7 @@
   answer: run commands
   alternativeAnswers:
     - ランコマンド
-- question: IT業界で用いられる「<ruby><rb>SIer</rb><rp>(</rp><rt>エスアイアー</rt><rp>)</rp></ruby>」とは、何という英語の略でしょう？
+- question: IT業界で用いられる「<ruby><rb>SIer</rb><rp>(</rp><rt>エスアイヤー</rt><rp>)</rp></ruby>」とは、何という英語の略でしょう？
   answer: System Integrater
   alternativeAnswers:
     - システムインテグレータ
@@ -15194,7 +15194,7 @@
   answer: 電子署名
   alternativeAnswers:
     - 電子的署名
-- question: <ruby><rb>SIer</rb><rp>(</rp><rt>エスアイアー</rt><rp>)</rp></ruby>企業の中でも「野村総研」や「NTTデータ」など、親会社の業種がハードウェア製造ではないもののことを「何系」というでしょう？
+- question: <ruby><rb>SIer</rb><rp>(</rp><rt>エスアイヤー</rt><rp>)</rp></ruby>企業の中でも「野村総研」や「NTTデータ」など、親会社の業種がハードウェア製造ではないもののことを「何系」というでしょう？
   answer: ユーザー系
   alternativeAnswers:
     - ユーザー
@@ -15237,7 +15237,7 @@
     - 動的プログラミング
     - Dynamic Programing
     - DP
-- question: 伊藤忠グループの<ruby><rb>SIer</rb><rp>(</rp><rt>エスアイアー</rt><rp>)</rp></ruby>企業「伊藤忠テクノソリューションズ」の、アルファベット3文字での略称は何でしょう？
+- question: 伊藤忠グループの<ruby><rb>SIer</rb><rp>(</rp><rt>エスアイヤー</rt><rp>)</rp></ruby>企業「伊藤忠テクノソリューションズ」の、アルファベット3文字での略称は何でしょう？
   answer: CTC
   alternativeAnswers:
     - C.ITOH TECHNO-SCIENCE Co., Ltd
@@ -15293,7 +15293,7 @@
     - passive
 - question: AMDのCPUシリーズ「Ryzen」で、同じ型番のモデルと比べてやや性能が高いことを表す際に用いられる1文字のアルファベットは何でしょう？
   answer: X
-- question: しばしば「<ruby><rb>a11y</rb><rp>(</rp><rt>エーじゅういちワイ</rt><rp>)</rp></ruby>」と略される、情報やサービスなどが年齢や障がいにかかわらず利用しやすい状態を指す英単語は何でしょう？
+- question: しばしば「<ruby><rb>a11y</rb><rp>(</rp><rt>エーイレブンワイ</rt><rp>)</rp></ruby>」と略される、情報やサービスなどが年齢や障がいにかかわらず利用しやすい状態を指す英単語は何でしょう？
   answer: accessibility
   alternativeAnswers:
     - アクセシビリティ
