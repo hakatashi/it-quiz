@@ -1677,3 +1677,33 @@
     - タン
     - 陳立武
     - Lip-Bu Tan
+- question: 2019年に独立して自身のデザイン会社「LoveFrom」を設立した、iPhoneやiMacなどのデザインを手掛けたイギリス出身の工業デザイナーは誰でしょう？
+  answer: ジョニー・アイブ
+  alternativeAnswers:
+    - Jonathan Ive
+- question: 2025年10月にアサヒビールへのハッキングに関する犯行声明を発表した、ランサムウェア「Agenda」を用いたサイバー攻撃で知られるロシアのサイバー犯罪グループは何でしょう？
+  answer: Qilin
+  alternativeAnswers:
+    - キリン
+    - Qilin Ransomware Group
+    - Agenda Ransomware Group
+    - Agenda Crypt
+- question: 既存のAIシステムが1割すら正解することができない問題集として2025年に発表された、あらゆる分野の専門家から収集された2500問の問題からなるAI向けデータセットは何でしょう？
+  answer: Humanity's Last Exam
+  alternativeAnswers:
+    - HLE
+    - 人類最後の試験
+- question: 2026年4月にリリースされるUbuntuの次期LTSバージョンのコードネームにも冠されている、英語で表記すると「R」で始まる哺乳動物は何でしょう？
+  answer: アライグマ
+  alternativeAnswers:
+    - raccoon
+    - racoon
+- question: 「Super Agent」と呼ばれるマルチエージェントを用いて、調査から実行までの流れを一つのツールで行うことができる、2023年に元Baiduの経営者によって立ち上げられたAIプラットフォームサービスは何でしょう？
+  answer: Genspark
+  alternativeAnswers:
+    - ジェンスパーク
+- question: 自然言語で指示を与え、ノーコードで「AIミニアプリ」を作成・共有することができる、Googleが2025年10月に公開したAIワークフロービルダーは「Google 何」でしょう？
+  answer: Google Opal
+  alternativeAnswers:
+    - Opal
+    - オパール

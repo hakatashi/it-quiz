@@ -15363,3 +15363,131 @@
   answer: アクセスポイント
   alternativeAnswers:
     - Access Point
+- question: 生産管理や会計など、企業が事業を運営する上で不可欠な業務を管理・支援するITシステムのことを、日本語を用いた総称で何というでしょう？
+  minhayaQuestion: 生産管理や会計など、企業が事業を運営する上で不可欠な業務を管理・支援するITシステムのことを、日本語を用いた総称で「何システム」というでしょう？
+  answer: 基幹システム
+  alternativeAnswers:
+    - 基幹
+    - 基幹業務システム
+    - 基幹業務
+    - 基幹系システム
+    - 基幹系
+- question: 2029年までにこのシステム上でフェルマーの最終定理を証明することを目指すプロジェクトも現在注目を集めている、定理証明支援系と純粋関数型プログラミング言語の特徴をあわせ持つ言語は何でしょう？
+  answer: Lean
+  alternativeAnswers:
+    - リーン
+    - Lean3
+    - Lean4
+- question: 配列を先頭と末尾でつないだように扱い、固定サイズの内で古いデータを新しいデータで上書きしながら入出力する、「先入れ先出し」の性質を持つデータ構造を英語で何というでしょう？
+  answer: リングバッファ
+  alternativeAnswers:
+    - ring buffer
+    - サーキュラーバッファ
+    - 環状バッファ
+    - circular buffer
+- question: これに含まれないものの例として「0ⁿ1ⁿ」がよく挙げられる、有限状態のオートマトンが認識可能な形式言語として表される言語クラスを日本語で何というでしょう？
+  answer: 正規言語
+  alternativeAnswers:
+    - 正則言語
+    - regular language
+- question: アルファベット3文字で「PCA」と略される、相関のある多数の変数から相関の少ない少数の変数を合成する統計解析の手法を日本語で何というでしょう？
+  answer: 主成分分析
+  alternativeAnswers:
+    - Principal Component Analysis
+- question: 源ノ角ゴシックや源ノ明朝といった日本語フォントの開発指揮や、Unicodeにおける漢字の標準化に対する多大な貢献で広く知られている、アメリカ生まれの技術者は誰でしょう？
+  minhayaQuestion: 【一般的な英名のファーストネームのみで回答】源ノ角ゴシックや源ノ明朝といった日本語フォントの開発指揮や、Unicodeにおける漢字の標準化に対する多大な貢献で広く知られている、アメリカ生まれの技術者は誰でしょう？
+  answer: ケン・ランディ
+  alternativeAnswers:
+    - Ken Lunde
+- question: 画像などの視覚情報とテキストなどの言語情報を同時に扱い、相互に理解・生成を可能にするマルチモーダルな人工知能モデルのことを、アルファベット3文字で何というでしょう？
+  answer: VLM
+  alternativeAnswers:
+    - Vision-Language Model
+    - 視覚言語モデル
+- question: クライアントが異常切断したとき、あらかじめブローカーに設定しておいたメッセージを配信することができる「遺言」という機能も存在する、1990年代後半に開発されたIoT向けの軽量通信プロトコルは何でしょう？
+  answer: MQTT
+  alternativeAnswers:
+    - Message Queuing Telemetry Transport
+- question: アルファベット2文字で「TA」と略される、ISDN回線とアナログ電話機などの通信機器の間で信号を変換し、接続を可能にする装置を何というでしょう？
+  answer: ターミナルアダプタ
+  alternativeAnswers:
+    - Terminal Adapter
+- question: バージョンが1上がるごとに転送速度が倍になるという特徴がある、マザーボードに拡張カードを接続するための高速なシリアルインターフェース規格は何でしょう？
+  minhayaQuestion: バージョンが1上がるごとに転送速度が倍になるという特徴がある、マザーボードに拡張カードを接続するための高速なシリアルインターフェース規格は「何 Express」でしょう？
+  answer: PCI Express
+  alternativeAnswers:
+    - PCI
+    - PCIe
+    - Peripheral Component Interconnect Express
+    - Peripheral Component Interconnect
+- question: ICなどの多機能な半導体パッケージを使わず、ダイオードや抵抗と言った基本的な回路部品のみを用いて設計された電子回路のことを、英語を用いて何というでしょう？
+  minhayaQuestion: ICなどの多機能な半導体パッケージを使わず、ダイオードや抵抗と言った基本的な回路部品のみを用いて設計された電子回路のことを、英語を用いて「何回路」というでしょう？
+  answer: ディスクリート回路
+  alternativeAnswers:
+    - ディスクリート
+    - discrete circuits
+    - discrete
+- question: バイポーラトランジスタの3本の端子のうち、実際の電子部品では真ん中にあることが多い端子は何でしょう？
+  answer: コレクタ
+  alternativeAnswers:
+    - collector
+- question: 2014年に発表され、サーバーなしで関数を実行するいわゆる「FaaS」のはしりとして広く普及した、AWSが提供するサーバーレスコンピューティングサービスは何でしょう？
+  minhayaQuestion: 2014年に発表され、サーバーなしで関数を実行するいわゆる「FaaS」のはしりとして広く普及した、AWSが提供するサーバーレスコンピューティングサービスは「AWS 何」でしょう？
+  answer: AWS Lambda
+  alternativeAnswers:
+    - Lambda
+    - ラムダ
+- question: C言語で確保した動的メモリをfreeし忘れるなどして、不要になったメモリ領域をプログラムが解放しないまま残し続け、システムのリソースを圧迫してしまう現象を何というでしょう？
+  answer: メモリリーク
+  alternativeAnswers:
+    - memory leak
+- question: UTF-8でエンコードした日本語の文書をこの文字コードで解釈すると「繧」「繝」といった特徴的な文字が多く出現することでも知られる、日本語の可変長エンコーディング方式は何でしょう？
+  answer: Shift_JIS
+  alternativeAnswers:
+    - シフトJIS
+    - シフトジス
+    - SJIS
+- question: 「実行可能な」という意味の英単語を略して名付けられた、Windowsにおける標準実行ファイルの拡張子といえば何でしょう？
+  minhayaQuestion: 「実行可能な」という意味の英単語を略して名付けられた、Windowsにおける標準実行ファイルの拡張子といえば「.何」でしょう？
+  answer: .exe
+  alternativeAnswers:
+    - exe
+    - ドットエグゼ
+    - エグゼ
+- question: IANAのタイムゾーンデータベースに登録されていたことのある日本の都市といえば、東京、大阪とどこでしょう？
+  answer: 札幌
+  alternativeAnswers:
+    - Asia/Sapporo
+- question: セブン銀行のATMに付属するテンキーにも同社の技術が注ぎ込まれている、高級キーボード「REALFORCE」の開発で有名な日本のIT企業は何でしょう？
+  answer: 東プレ株式会社
+  alternativeAnswers:
+    - 東プレ
+    - Topre Corporation
+    - Topre
+- question: 仕様としては後発の「UEFI」によってほぼ置き換えられている、パソコンの電源を入れて最初に動作し、ハードウェアを初期化してOSを起動する、マザーボード上の基本的なファームウェアは何でしょう？
+  answer: BIOS
+  alternativeAnswers:
+    - Basic Input/Output System
+    - バイオス
+- question: 「macOS」などというときの「マック」は、もともと何という言葉の略だったでしょう？
+  answer: マッキントッシュ
+  alternativeAnswers:
+    - Macintosh
+- question: 10以降のWindowsには標準で搭載されている、FTPやHTTPなど25種類以上のプロトコルをサポートするコマンドライン通信ユーティリティは何でしょう？
+  answer: cURL
+  alternativeAnswers:
+    - カール
+- question: 2021年以降のJavaにおいて、長期サポートバージョンのバージョン番号は、4で割った余りがいくつになる数で表されるでしょう？
+  answer: '1'
+- question: 「TLS証明書」などというときの「TLS」の「TL」はこれを略したものである、TCPやUDP、そしてTLSなどが属するとされるOSI参照モデルのレイヤーの1つは「何層」でしょう？
+  answer: トランスポート層
+  alternativeAnswers:
+    - トランスポート
+    - transport layer
+    - transport
+- question: 開発した学生たちが三角コーンを集める趣味を持っていたことから、現在でもオレンジ色の三角コーンのアイコンで知られている、非常に多くの動画・音声形式に対応するオープンソースのメディアプレーヤーといえば何でしょう？
+  minhayaQuestion: 開発した学生たちが三角コーンを集める趣味を持っていたことから、現在でもオレンジ色の三角コーンのアイコンで知られている、非常に多くの動画・音声形式に対応するオープンソースのメディアプレーヤーといえば「何 Media Player」でしょう？
+  answer: VLC Media Player
+  alternativeAnswers:
+    - VLC
+    - VideoLAN Client
