@@ -1702,8 +1702,10 @@
   answer: Genspark
   alternativeAnswers:
     - ジェンスパーク
-- question: 自然言語で指示を与え、ノーコードで「AIミニアプリ」を作成・共有することができる、Googleが2025年10月に公開したAIワークフロービルダーは「Google 何」でしょう？
+- question: 自然言語で指示を与え、ノーコードで「AIミニアプリ」を作成・共有することができる、Googleが2025年10月に公開したAIワークフロービルダーは何でしょう？
+  minhayaQuestion: 自然言語で指示を与え、ノーコードで「AIミニアプリ」を作成・共有することができる、Googleが2025年10月に公開したAIワークフロービルダーは「Google 何」でしょう？
   answer: Google Opal
   alternativeAnswers:
     - Opal
+    - グーグルオパール
     - オパール

@@ -412,7 +412,7 @@
   alternativeAnswers:
     - スーパー
     - スパコン
-- question: オーバークロック世界一を目指す大学生の一ノ瀬奏を主人公とする、2011年から『ジャンプ改』に連載された二ノ宮知子の漫画は何でしょう？
+- question: オーバークロック世界一を目指す大学生の<ruby><rb>一ノ瀬奏</rb><rp>(</rp><rt>いちのせかなで</rt><rp>)</rp></ruby>を主人公とする、2011年から『ジャンプ改』に連載された<ruby><rb>二ノ宮知子</rb><rp>(</rp><rt>にのみやともこ</rt><rp>)</rp></ruby>の漫画は何でしょう？
   answer: 『87CLOCKERS』
 - question: あるブログから別のブログを参照した際に、参照元のブログに参照先へのリンクを貼ることを要求することができる機能を何というでしょう？
   answer: トラックバック
@@ -2086,7 +2086,7 @@
     - '74'
     - '75'
   description: 正確には74分42秒。
-- question: Bit192 LabsのStaによって2021年に公開された、約1.5TBの日本語コーパスを元に機械学習を用いて小説を執筆してくれるウェブサイトは何でしょう？
+- question: Bit192 LabsのStaによって2021年に公開された、機械学習を用いて小説の続きを執筆してくれるウェブサービスは何でしょう？
   answer: AIのべりすと
   description: 作者のStaは音楽ゲーム「Tone Sphere」の開発者でもある
 - question: 黒い背広に異様な長身、パーツの無いのっぺらぼうの顔面を特徴とする、欧米圏のインターネットで語られる都市伝説のキャラクターは何でしょう？
@@ -2855,7 +2855,7 @@
   alternativeAnswers:
     - Monero
     - XMR
-- question: 日本で初めてウェブサイトを設置した団体であり、その施設には現在でも当時使われたウェブサーバーが展示されている、茨城県つくば市に本部を置く研究機関は何でしょう？
+- question: 日本で初めてウェブサイトを設置した団体であり、現在でも当時使われたウェブサーバーが施設に展示されている、茨城県つくば市に本部を置く研究機関は何でしょう？
   answer: 高エネルギー加速器研究機構
   alternativeAnswers:
     - KEK
@@ -3758,7 +3758,7 @@
   alternativeAnswers:
     - is-a
 - question: 2022年にオープンした「ボイジャー」という名前の特徴的な本社をもつ、現在時価総額ランキングで世界一のアメリカのIT企業は何でしょう？
-  answer: Nvidia
+  answer: NVIDIA
   alternativeAnswers:
     - エヌビディア
 - question: 子供の安全のために、保護者がアプリの利用やインターネットへのアクセスを管理できる機能のことを、「何コントロール」というでしょう？
@@ -5728,9 +5728,9 @@
     - '11'
   description: 10e10 = 10*10^10 = 10^11
 - question: 次期バージョンを意味する「NV」と、NVと同じ読みの「envy」のラテン語訳をかけ合わせて名付けられたアメリカの半導体製造企業は何でしょう？
-  answer: Nvidia
+  answer: NVIDIA
   alternativeAnswers:
-    - NVIDIA
+    - エヌビディア
 - question: ラテン語で「走る人」という意味がある、コンピューターの画面において現在の入力位置を指し示すための記号は何でしょう？
   answer: カーソル
   alternativeAnswers:
@@ -5783,7 +5783,7 @@
   answer: サイバーキルチェーン
   alternativeAnswers:
     - cyber kill chain
-- question: 2013年にオライリーの書籍『Team Geek』で提唱され、Qiitaのコミュニティガイドラインなどにも採用されている、エンジニアが他人に対して持つべき「謙虚」「尊敬」「信頼」の3つの心構えのことを、これらの頭文字から何というでしょう？
+- question: 2013年にオライリーの書籍『Team Geek』で提唱され、<ruby><rb>Qiita</rb><rp>(</rp><rt>キータ</rt><rp>)</rp></ruby>のコミュニティガイドラインなどにも採用されている、エンジニアが他人に対して持つべき「謙虚」「尊敬」「信頼」の3つの心構えのことを、これらの頭文字から何というでしょう？
   answer: HRT
   alternativeAnswers:
     - ハート
@@ -6422,7 +6422,8 @@
 - question: 1989年にザナドゥ計画の影響を受けて発明され、現代のインターネットの基盤となったハイパーテキストシステムを、「世界規模の蜘蛛の巣」という意味の英語で何というでしょう？
   answer: ワールド・ワイド・ウェブ
   alternativeAnswers:
-    - World Wide Web, WWW
+    - World Wide Web
+    - WWW
 - question: 彼の2人の娘の名前からそれぞれ「<ruby><rb>MySQL</rb><rp>(</rp><rt>マイエスキューエル</rt><rp>)</rp></ruby>」「<ruby><rb>MariaDB</rb><rp>(</rp><rt>マリアディービー</rt><rp>)</rp></ruby>」というデータベースエンジンが命名された、「モンティ」という愛称でも知られるフィンランド生まれのプログラマーは誰でしょう？
   answer: ミカエル・ウィデニウス
   alternativeAnswers:
@@ -6458,8 +6459,8 @@
   answer: ミートボールメニュー
   alternativeAnswers:
     - ミートボール
-    - meatball menu
-    - meatball
+    - meatballs menu
+    - meatballs
   description: 使われているか微妙だが、いちおう大辞泉に載ってるので⋯⋯
 - question: 二択の問題です。壁などに設置されたコンセントの差込口は、左右どちらの穴が大きいことが多いでしょう？
   answer: 左
@@ -7215,7 +7216,7 @@
   answer: ペイウォール
   alternativeAnswers:
     - paywall
-- question: 通常モデルに加えて、HermèsとNikeによるブランドモデルもそれぞれ同時販売されている、腕時計型のウェアラブルデバイスは何でしょう？
+- question: 通常モデルに加えて、<ruby><rb>Hermès</rb><rp>(</rp><rt>エルメス</rt><rp>)</rp></ruby>や<ruby><rb>Nike</rb><rp>(</rp><rt>ナイキ</rt><rp>)</rp></ruby>とコラボしたブランドモデルもそれぞれ販売されている、腕時計型のウェアラブルデバイスは何でしょう？
   answer: Apple Watch
   alternativeAnswers:
     - アップルウォッチ
@@ -7572,7 +7573,7 @@
   answer: '302'
   alternativeAnswers:
     - 302番
-- question: デンマークの数学者アグナーの名前から名付けられた、並列処理を特徴とする関数型プログラミング言語は何でしょう？
+- question: デンマークの数学者アグナーのファミリーネームから名付けられた、並列処理を特徴とする関数型プログラミング言語は何でしょう？
   answer: Erlang
   alternativeAnswers:
     - アーラン
@@ -11477,7 +11478,7 @@
     - Alan Kay
 - question: 組版で、一つの単語や見出しなどが複数の段やページにまたがることを俗に何というでしょう？
   answer: 泣き別れ
-- question: 特定の操作をすると表れるプログラムの隠し機能のことを、復活祭の日にアメリカで行われる遊びにたとえて何というでしょう？
+- question: 特定の操作をすると現れるプログラムの隠し機能のことを、復活祭の日にアメリカで行われる遊びにたとえて何というでしょう？
   answer: イースターエッグ
   alternativeAnswers:
     - Easter Egg
@@ -11918,7 +11919,7 @@
     - ベロシティ
     - 速度
     - 速さ
-- question: 小説家としても『サーキット・スイッチャー』などのSF作品を出版している、AIなど情報技術を活用した施策を武器に2024年7月の都知事選を戦い約15万票を獲得したエンジニアは誰でしょう？
+- question: 小説家としても『サーキット・スイッチャー』などのSF作品を出版している、AIなど情報技術を活用した施策を武器に2024年の都知事選を戦い約15万票を獲得したエンジニアは誰でしょう？
   answer: 安野貴博
   alternativeAnswers:
     - あんのたかひろ
@@ -12625,7 +12626,7 @@
   answer: プロジェクト
   alternativeAnswers:
     - project
-- question: 世界最速のスーパーコンピューター「フロンティア」にも採用されている、複数のNVidiaのGPUを専用のアダプタで接続することによりGPU間の通信速度を大幅に向上させるインターコネクト技術は何でしょう？
+- question: 世界最速のスーパーコンピューター「フロンティア」にも採用されている、複数のNVIDIAのGPUを専用のアダプタで接続することによりGPU間の通信速度を大幅に向上させるインターコネクト技術は何でしょう？
   answer: NVLink
 - question: Rubyではコロンを先頭につけることでリテラルとしても表現することができる、変更不可能でメモリ効率のいい、文字列に似たデータ型は何でしょう？
   answer: シンボル
@@ -13544,6 +13545,7 @@
     - versa-write
     - POVディスプレイ
     - POV display
+    - propeller displays
 - question: SeleniumやPuppeteerなどといったライブラリから利用することができる、GUIを持たず、ウェブページの自動テストやスクレイピングなどに利用されるブラウザを「何ブラウザ」と呼ぶでしょう？
   answer: ヘッドレスブラウザ
   alternativeAnswers:
@@ -13872,7 +13874,7 @@
   answer: バリ
   alternativeAnswers:
     - burr
-- question: NvidiaのRTX 40シリーズのアーキテクチャの名称にもなっている、解析機関のパンチカードを設計したことから「世界初のプログラマー」とも呼ばれる19世紀イギリスの女性は誰でしょう？
+- question: NVIDIAのRTX 40シリーズのアーキテクチャの名称にもなっている、解析機関のパンチカードを設計したことから「世界初のプログラマー」とも呼ばれる19世紀イギリスの女性は誰でしょう？
   answer: エイダ・ラブレス
   alternativeAnswers:
     - エイダ・ラブレイス
@@ -15378,7 +15380,7 @@
     - リーン
     - Lean3
     - Lean4
-- question: 配列を先頭と末尾でつないだように扱い、固定サイズの内で古いデータを新しいデータで上書きしながら入出力する、「先入れ先出し」の性質を持つデータ構造を英語で何というでしょう？
+- question: 配列を先頭と末尾でつないだように扱い、固定サイズの中で古いデータを新しいデータで上書きしながら入出力する、「先入れ先出し」の性質を持つデータ構造を英語で何というでしょう？
   answer: リングバッファ
   alternativeAnswers:
     - ring buffer
@@ -15427,7 +15429,7 @@
     - ディスクリート
     - discrete circuits
     - discrete
-- question: バイポーラトランジスタの3本の端子のうち、実際の電子部品では真ん中にあることが多い端子は何でしょう？
+- question: バイポーラトランジスタの3本の端子のうち、実際の電子部品で真ん中にあることが多い端子は何でしょう？
   answer: コレクタ
   alternativeAnswers:
     - collector
@@ -15441,7 +15443,7 @@
   answer: メモリリーク
   alternativeAnswers:
     - memory leak
-- question: UTF-8でエンコードした日本語の文書をこの文字コードで解釈すると「繧」「繝」といった特徴的な文字が多く出現することでも知られる、日本語の可変長エンコーディング方式は何でしょう？
+- question: UTF-8でエンコードした日本語の文書をこの文字コードで解釈すると「<ruby><rb>繧</rb><rp>(</rp><rt>うん</rt><rp>)</rp></ruby>」「<ruby><rb>繝</rb><rp>(</rp><rt>げん</rt><rp>)</rp></ruby>」といった特徴的な文字が多く出現することでも知られる、日本語の可変長エンコーディング方式は何でしょう？
   answer: Shift_JIS
   alternativeAnswers:
     - シフトJIS
