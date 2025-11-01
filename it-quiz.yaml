@@ -15493,3 +15493,104 @@
   alternativeAnswers:
     - VLC
     - VideoLAN Client
+- question: AI動画編集アプリの「CapCut」や、ライフスタイルSNSの「Lemon8」なども開発している、「世界最大のユニコーン企業」とも呼ばれる中国のIT企業は何でしょう？
+  answer: ByteDance
+  alternativeAnswers:
+    - バイトダンス
+- question: 0.1インチ間隔で穴が規則的に開けられている、用途が特定されておらずさまざまな目的で利用可能な電子基板のことを、英語を用いて「何基板」というでしょう？
+  minhayaQuestion: 0.1インチ間隔で穴が規則的に開けられている、用途が特定されておらずさまざまな目的で利用可能な電子基板のことを何というでしょう？
+  answer: ユニバーサル基板
+  alternativeAnswers:
+    - ユニバーサル
+    - universal PCB
+    - universal
+- question: 「macOS」などというときの「OS」は、何という英語の略でしょう？
+  answer: オペレーティングシステム
+  alternativeAnswers:
+    - Operating System
+- question: 「cmd.exe」や「ping.exe」といった主要なバイナリファイルが保管されている、現在ではその名に反して64ビットアプリケーションがその内容の大多数を占めるWindowsの特殊フォルダの名前は何でしょう？
+  answer: System32
+- question: コンピューターの電源を投入した時に、BIOSやUEFIが各種装置の正常性をチェックして初期化を行う処理のことを、アルファベット4文字の略語で何というでしょう？
+  answer: POST
+  alternativeAnswers:
+    - Power-On Self-Test
+    - パワーオンセルフテスト
+    - 電源投入時自己診断テスト
+- question: 本来は「本文の文字の周囲に付け加えられる小書きの文字」のことを指す、プログラミング用語としては「配列に格納された要素を先頭から数えたときの番号」を意味する二字熟語は何でしょう？
+  answer: 添字
+  alternativeAnswers:
+    - 添え字
+- question: AIの普及によって検索結果ページ上で疑問が解決されてしまい、ユーザーがどのウェブサイトにも飛ばずに離脱してしまう現象のことを、英語を用いて「何検索」というでしょう？
+  answer: ゼロクリック検索
+  alternativeAnswers:
+    - ゼロクリック
+- question: GPUチップを開発した企業によって設計される、グラフィックボードの標準モデルのことを「何モデル」というでしょう？
+  answer: リファレンスモデル
+  alternativeAnswers:
+    - リファレンス
+    - reference model
+    - reference
+- question: プログラミング言語C++において、テンプレート仮引数に特定の型が与えられた時にだけ使われる実装を明示的に定義する機能のことを、漢字三文字で何というでしょう？
+  answer: 特殊化
+  alternativeAnswers:
+    - specialization
+- question: 2025年7月に「量産型のコンテンツ」へと名称が変更されている、YouTuberの収益化を妨げる要因としてしばしば言及されるYouTubeのポリシーのかつての名称は「何の多いコンテンツ」でしょう？
+  answer: 繰り返しの多いコンテンツ
+  alternativeAnswers:
+    - 繰り返し
+- question: 「ザ・ヴォイス」の異名を持つアメリカのミュージシャンからその名がつけられた、「get」や「post」などのキーワードを用いたシンプルなAPIを特徴とするRubyのウェブアプリケーションフレームワークは何でしょう？
+  answer: Sinatra
+  alternativeAnswers:
+    - シナトラ
+- question: それぞれ広島と愛知に本社を置く企業が経営統合して生まれた経緯から、現在も同じセ・リーグの「広島東洋カープ」と「中日ドラゴンズ」の球団オフィシャルスポンサーをともに務めている、日本の家電量販店チェーンは何でしょう？
+  answer: 株式会社エディオン
+  alternativeAnswers:
+    - エディオン
+    - EDION
+- question: 大規模言語モデルにおいて次のトークンを生成する際、累積確率が一定になるまで上位のトークンから候補語を選び、それ以外のトークンを候補から外す手法を何というでしょう？
+  minhayaQuestion: 大規模言語モデルにおいて次のトークンを生成する際、累積確率が一定になるまで上位のトークンから候補語を選び、それ以外のトークンを候補から外す手法のことを、アルファベット1文字を用いて「Top-何」というでしょう？
+  answer: Top-P
+  alternativeAnswers:
+    - トップP
+    - P
+- question: 半導体開発において、機能単位で纏められた再利用可能な回路設計コードのことを、アルファベット2文字を用いて「何コア」というでしょう？
+  answer: IPコア
+  alternativeAnswers:
+    - IP
+- question: Unityなどの3Dエンジンにおいて、文字の輪郭からの距離をテクスチャとして持つことで、拡大しても輪郭が滑らかに保たれるよう描画することができるよう設計されたフォント形式のことを、アルファベット3文字を用いて「何フォント」というでしょう？
+  minhayaQuestion: Unityなどの3Dエンジンにおいて、文字の輪郭からの距離をテクスチャとして持つことで、拡大しても輪郭が滑らかに保たれるよう描画することができるよう設計されたフォント形式のことを「何フォント」というでしょう？
+  answer: SDFフォント
+  alternativeAnswers:
+    - SDF
+    - Signed Distance Field font
+    - Signed Distance Field
+- question: 「STYLE∞」「LEVEL∞」「SENSE∞」といった名称の製品シリーズを展開している、長野県の工場でメインの製品生産が行われているユニットコム社のPCブランドは何でしょう？
+  minhayaQuestion: 「STYLE∞」「LEVEL∞」「SENSE∞」といった名称の製品シリーズを展開している、長野県の工場でメインの製品生産が行われているユニットコム社のPCブランドは「何 PC」でしょう？
+  answer: iiyama PC
+  alternativeAnswers:
+    - iiyama
+    - イイヤマPC
+    - イイヤマ
+- question: 東プレ社が主催する競技タイピングの日本選手権にもその名が冠されている、静電容量無接点方式による独特の打鍵感を特徴とする同社の高級キーボードブランドは何でしょう？
+  answer: REALFORCE
+  alternativeAnswers:
+    - リアルフォース
+- question: 完全二分木において葉の個数が512個であるとき、全ての節点の個数はいくつになるでしょう？
+  answer: 1023個
+  alternativeAnswers:
+    - '1023'
+- question: 「Reader」を名前に冠する閲覧専用ソフトは無料で提供されている、ドキュメントフォーマット「PDF」を閲覧・編集するためのAdobe社の製品は何でしょう？
+  minhayaQuestion: 「Reader」を名前に冠する閲覧専用ソフトは無料で提供されている、ドキュメントフォーマット「PDF」を閲覧・編集するためのAdobe社の製品は「Adobe 何」でしょう？
+  answer: Adobe Acrobat
+  alternativeAnswers:
+    - Acrobat
+    - アドビアクロバット
+    - アクロバット
+- question: 「2進数」を意味する「binary digit」を略したものがその名前の由来とされている、2進数の数値1桁が持つ情報量の基本単位は何でしょう？
+  answer: ビット
+  alternativeAnswers:
+    - bit
+- question: 隠しファイルを出力に含める「-a」などのオプションが存在する、Linuxにおいてディレクトリの中に存在するファイルやディレクトリを一覧する基本コマンドは何でしょう？
+  answer: lsコマンド
+  alternativeAnswers:
+    - ls
