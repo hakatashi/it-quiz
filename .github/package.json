@@ -8,6 +8,7 @@
     "test": "tsx bin/test.mts"
   },
   "dependencies": {
+    "@slack/web-api": "^7.12.0",
     "@types/diff": "^8.0.0",
     "@types/fs-extra": "^11.0.4",
     "@types/js-yaml": "^4.0.9",
