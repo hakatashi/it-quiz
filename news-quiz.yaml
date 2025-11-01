@@ -1709,3 +1709,53 @@
     - Opal
     - グーグルオパール
     - オパール
+- question: 2014年に発売されたiPhone 6を更新する「史上最も薄いiPhone」として2025年9月に発売された、Appleのスマートフォン機種は何でしょう？
+  minhayaQuestion: 2014年に発売されたiPhone 6を更新する「史上最も薄いiPhone」として2025年9月に発売された、Appleのスマートフォン機種は「iPhone 何」でしょう？
+  answer: iPhone Air
+  alternativeAnswers:
+    - Air
+    - アイフォンエアー
+    - エアー
+- question: Pythonによく似た言語を用いてドローンを操作し、作業の自動化を進めていく、2025年10月にMetarootからリリースされたプログラミング自動化ゲームといえば何でしょう？
+  minhayaQuestion: Pythonによく似た言語を用いてドローンを操作し、作業の自動化を進めていく、2025年10月にMetarootからリリースされたプログラミング自動化ゲームといえば「「何」は Replace() されました」でしょう？
+  answer: 農家は Replace() されました
+  alternativeAnswers:
+    - 農家
+    - The Farmer Was Replaced
+    - The Farmer
+    - Farmer
+- question: 2025年10月に発生した「us-east-1」リージョンにおける大規模な障害によって、2500社以上のウェブサービスに影響を与えたとされる、パブリッククラウドのシェアで世界1位のサービスは何でしょう？
+  answer: AWS
+  alternativeAnswers:
+    - Amazon Web Services
+- question: ユーザーに代わってウェブページの操作を行う「エージェントモード」などが特徴的な、2025年10月に発表されたOpenAI社のAIブラウザといえば「ChatGPT 何」でしょう？
+  minhayaQuestion: ユーザーに代わってウェブページの操作を行う「エージェントモード」などが特徴的な、2025年10月に発表されたOpenAI社のAIブラウザといえば何でしょう？
+  answer: ChatGPT Atlas
+  alternativeAnswers:
+    - Atlas
+    - チャットGPTアトラス
+    - アトラス
+- question: 2025年10月に無期限活動休止を発表した、2015年にマイクロソフト社のLINEボットとして発表され、歌手としても『最高新記憶』や『snow, forest, clock』などをリリースしたAIキャラクターは誰でしょう？
+  answer: りんな
+- question: 2026年には日本市場向けに軽EV「ラッコ」の発売を予定している、「シーライオン」「ドルフィン」といったモデルを展開する中国の電気自動車メーカーは何でしょう？
+  answer: BYD Auto
+  alternativeAnswers:
+    - BYD
+    - BYD Auto Industry Company Limited
+    - 比亜迪汽車工業有限公司
+    - 比亜迪汽車
+    - 比亜迪
+- question: 2025年10月にリリースされたPython 3.14で新たに導入された、エスケープなど任意の前処理を行うことができるテンプレートを作成するための文字列リテラルの新たな記法といえば「何-strings」でしょう？
+  answer: t-strings
+  alternativeAnswers:
+    - t
+    - t文字列
+- question: 2025年10月に世界で初めて時価総額が5兆ドルを突破した、「GeForce」などの製品で知られるアメリカの半導体製造企業は何でしょう？
+  answer: NVIDIA Corporation
+  alternativeAnswers:
+    - NVIDIA
+    - エヌビディア
+- question: 2025年10月に「ベクター」「ピクセル」「レイアウト」の3つの機能を統合した完全無料版がリリースされた、Canvaが提供するプロフェッショナル向けデザインソフトスイートは何でしょう？
+  answer: Affinity
+  alternativeAnswers:
+    - アフィニティ
