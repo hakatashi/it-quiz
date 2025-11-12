@@ -21,7 +21,7 @@
     "fs-extra": "^11.3.2",
     "googleapis": "^166.0.0",
     "isomorphic-git": "^1.35.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "json-schema-to-typescript": "^15.0.4",
     "lodash-es": "^4.17.21",
     "semver": "^7.7.3",
