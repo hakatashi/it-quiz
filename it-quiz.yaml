@@ -15643,7 +15643,7 @@
     - layer
 - question: 英語では「autograd」や「autodiff」と呼ばれる、プログラムで定義された関数を解析して偏導関数の値を計算するアルゴリズムのことを漢字4文字で何というでしょう？
   answer: 自動微分
-- question: StableDiffusionなどの画像生成AIにおいて、CLIP、VAE、U-Netという画像生成に必要な3つのデータを同梱した単一パッケージファイルのことを、英語で何というでしょう？
+- question: Stable Diffusionなどの画像生成AIにおいて、CLIP、VAE、U-Netという画像生成に必要な3つのデータを同梱した単一パッケージファイルのことを、英語で何というでしょう？
   answer: checkpoints
   alternativeAnswers:
     - チェックポイント
@@ -15692,14 +15692,14 @@
   answer: レイド
   alternativeAnswers:
     - raid
-- question: Amazonの「Amazon Workspaces」やマイクロソフトの「AVD」といえば、いずれもアルファベット1文字を用いて「何aaS」と呼ばれるクラウドサービスでしょう？
+- question: Amazonの「Amazon WorkSpaces」やマイクロソフトの「AVD」といえば、いずれもアルファベット1文字を用いて「何aaS」と呼ばれるクラウドサービスでしょう？
   answer: DaaS
   alternativeAnswers:
     - Desktop as a Service
 - question: アルファベット3文字で「BOF」と略される、プログラムが確保したメモリ領域の許容量を超えるデータを書き込むことで、隣接メモリを上書きしてしまうバグを指す言葉は何でしょう？
   answer: バッファオーバーフロー
   alternativeAnswers:
-    - Buffer OverFlow
+    - Buffer Overflow
 - question: 通貨コード「XRP」で表される、時価総額でビットコイン、イーサリアムに次ぐ規模を持つ仮想通貨は何でしょう？
   answer: リップル
   alternativeAnswers:
