@@ -3,6 +3,7 @@ import {google} from 'googleapis';
 import {slice, sortBy, sum} from 'lodash-es';
 import assert from 'node:assert';
 import {WebClient} from '@slack/web-api';
+import type {Block, KnownBlock, RichTextElement, RichTextSection} from '@slack/types';
 
 interface Result {
   contest: number;
@@ -125,7 +126,7 @@ const slackClient = new WebClient(process.env.SLACK_TOKEN);
 const top20 = newRatings.slice(0, 20);
 const oldRatingsMap = new Map(oldRatings.map((r, index) => [r.name, {rating: r.rating, rank: index + 1}]));
 
-const richTextListElements: any[] = [];
+const richTextListElements: RichTextSection[] = [];
 
 for (let i = 0; i < top20.length; i++) {
   const user = top20[i];
@@ -163,7 +164,7 @@ for (let i = 0; i < top20.length; i++) {
     rankDisplay = ':third_place_medal:';
   }
 
-  const elements: any[] = [];
+  const elements: RichTextElement[] = [];
 
   // Rank
   if (rankDisplay !== '') {
@@ -221,7 +222,7 @@ for (let i = 0; i < top20.length; i++) {
   });
 }
 
-const blocks: any[] = [
+const blocks: (KnownBlock | Block)[] = [
   {
     type: 'header',
     text: {
