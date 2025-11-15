@@ -15594,3 +15594,127 @@
   answer: lsコマンド
   alternativeAnswers:
     - ls
+- question: 粘土板などに字を刻み込むために用いられたインクを使わない筆の名前に由来する、タッチパネルを操作するために設計された先の丸いペンのことを指す名称は「何ペン」でしょう？
+  answer: スタイラスペン
+  alternativeAnswers:
+    - スタイラス
+    - stylus pen
+    - stylus
+- question: 「Z890」や「B760」のように、1桁のアルファベットと3桁の数字を用いて型番が表記されることが多い、コンピューターのマザーボードにおいて各パーツの間のデータ通信を制御する役割を担う重要な電子部品のことを何というでしょう？
+  answer: チップセット
+  alternativeAnswers:
+    - chipset
+- question: かつて、パンを切るためのまな板に真空管などを突き刺して電子回路のプロトタイプを作成したことが名前の由来という説がある、電子部品を挿し込む穴が等間隔であけられた回路試作用の基板を英語で何というでしょう？
+  answer: ブレッドボード
+  alternativeAnswers:
+    - breadboard
+- question: ペルソナと呼ばれる顧客のモデルを設定し、顧客がサービスを認知し利用に至るまでの行動や感情を時系列で可視化する手法のことを、顧客の購買プロセスを旅に例えたマーケティング用語で何というでしょう？
+  answer: カスタマージャーニー
+  alternativeAnswers:
+    - カスタマージャーニーマップ
+    - customer journey
+- question: 「.exe」や「.dll」といった拡張子を持つファイルで利用されている、Windowsにおける実行プログラムの本体や周辺情報などを記録するためのファイルフォーマットを何というでしょう？
+  minhayaQuestion: 「.exe」や「.dll」といった拡張子を持つファイルで利用されている、Windowsにおける実行プログラムの本体や周辺情報などを記録するためのファイルフォーマットを、アルファベット2文字を用いて「何フォーマット」というでしょう？
+  answer: PEフォーマット
+  alternativeAnswers:
+    - PE format
+    - PE
+    - Portable Executable format
+    - Portable Executable
+- question: HTTP通信における正常な応答を表す「OK」の、ステータス番号は何番でしょう？
+  answer: '200'
+- question: Googleなどの検索エンジンの検索結果ページのことを、アルファベット4文字の略語で何というでしょう？
+  answer: SERP
+  alternativeAnswers:
+    - Search Engine Result Page
+- question: グループ内で「バリュードメイン」「ムームードメイン」「お名前.com」など複数のドメイン事業を展開し、国内のドメイン販売で1位のシェアを占めている日本のIT企業グループと言えば「何インターネット・グループ」でしょう？
+  answer: GMOインターネット・グループ
+  alternativeAnswers:
+    - GMOインターネット
+    - GMO
+- question: 放射線耐性が高いことなどから、宇宙開発などに利用される「究極の半導体」の材料としても近年注目を集めている、炭素が結晶化してできた、地球上で最も硬いとされる宝石は何でしょう？
+  answer: ダイヤモンド
+  alternativeAnswers:
+    - diamond
+- question: 2023年からはWindows標準の「ペイント」アプリにも搭載されている、画像を複数の層の重ね合わせとして編集することでさまざまな要素を独立して扱えるようにする、画像編集ソフトの基本機能は何でしょう？
+  answer: レイヤー機能
+  alternativeAnswers:
+    - レイヤー
+    - layer
+- question: 英語では「autograd」や「autodiff」と呼ばれる、プログラムで定義された関数を解析して偏導関数の値を計算するアルゴリズムのことを漢字4文字で何というでしょう？
+  answer: 自動微分
+- question: StableDiffusionなどの画像生成AIにおいて、CLIP、VAE、U-Netという画像生成に必要な3つのデータを同梱した単一パッケージファイルのことを、英語で何というでしょう？
+  answer: checkpoints
+  alternativeAnswers:
+    - チェックポイント
+- question: 日本Linux協会の創設者である佐渡秀治によって用語が広められたとされる、日本の製品が国内で独自の進化を遂げた結果、国際競争力を失ってしまう現象を、赤道直下の諸島に例えて「何化」というでしょう？
+  answer: ガラパゴス化
+  alternativeAnswers:
+    - ガラパゴス
+    - Galápagosization
+    - Galápagos
+- question: NAT配下のLAN内にある端末が、同じLAN内の別の端末に対してグローバルIPアドレスでアクセスできるようにするため、ルーターがパケットを一度受け取り再びLAN内に折り返す技術を、ある装飾品に例えて「何NAT」というでしょう？
+  answer: ヘアピンNAT
+  alternativeAnswers:
+    - ヘアピン
+    - hairpin NAT
+    - hairpin
+- question: 別名を「情報窃取型マルウェア」という、マルウェアの中でも感染するとパソコンに保存してある認証情報などを盗み出すタイプのことを指す用語は何でしょう？
+  answer: インフォスティーラー
+  alternativeAnswers:
+    - infostealer
+- question: 無料版ではノートブックを3冊まで作成することができる、2016年のリリース以来iPad向けのノートアプリとして圧倒的な人気を博すオーストラリア発のメモ記録サービスは何でしょう？
+  answer: Goodnotes
+  alternativeAnswers:
+    - グッドノート
+    - グッドノーツ
+- question: 開発が完了したソフトウェアを本番環境に配置して稼働可能な状態にすることを、「配備する」などを意味する英語から何というでしょう？
+  answer: デプロイ
+  alternativeAnswers:
+    - デプロイメント
+    - deploy
+    - deployment
+- question: 「x86」や「ARM」など、CPUが実行することができる一連の命令セットなどを定めた仕様のことを、アルファベット3文字の略称で何というでしょう？
+  answer: ISA
+  alternativeAnswers:
+    - Instruction Set Architecture
+    - 命令セットアーキテクチャ
+- question: 本来の英語では「ブーツの上端のかかと側に付けられたつまみ」のことを指す、当初はTwitter社からリリースされ、現在でも多くのウェブサイトで利用されているオープンソースのウェブUIフレームワークは何でしょう？
+  answer: Bootstrap
+  alternativeAnswers:
+    - ブートストラップ
+- question: デフォルトでは「total」「used」から始まる6つの列が存在する、物理メモリやスワップの使用状況を表形式で簡潔に表示するLinuxの標準的なコマンドは何でしょう？
+  answer: freeコマンド
+  alternativeAnswers:
+    - free
+    - フリー
+- question: 急激なユーザーの増加を検知するDiscordの機能の名前にも冠されている、掲示板などのオンラインコミュニティにおいて大量のアカウントを用いて多くのメッセージを一箇所に送信するスパム行為を指す英語は何でしょう？
+  answer: レイド
+  alternativeAnswers:
+    - raid
+- question: Amazonの「Amazon Workspaces」やマイクロソフトの「AVD」といえば、いずれもアルファベット1文字を用いて「何aaS」と呼ばれるクラウドサービスでしょう？
+  answer: DaaS
+  alternativeAnswers:
+    - Desktop as a Service
+- question: アルファベット3文字で「BOF」と略される、プログラムが確保したメモリ領域の許容量を超えるデータを書き込むことで、隣接メモリを上書きしてしまうバグを指す言葉は何でしょう？
+  answer: バッファオーバーフロー
+  alternativeAnswers:
+    - Buffer OverFlow
+- question: 通貨コード「XRP」で表される、時価総額でビットコイン、イーサリアムに次ぐ規模を持つ仮想通貨は何でしょう？
+  answer: リップル
+  alternativeAnswers:
+    - ripple
+- question: 鉄道などの「末端」や電子機器の「端末」をともに意味する英単語は何でしょう？
+  answer: ターミナル
+  alternativeAnswers:
+    - terminal
+- question: Googleの電子メールサービス「Gmail」のロゴにおいて、かつて封筒のような形にデザインされ、現在でもサービスアイコンにその名残が残されているアルファベット1文字は何でしょう？
+  answer: m
+- question: 戦前から戦時中にかけては、研究機関などで科学的な計算を担当する「計算手」という職業のことを指す言葉だった、現在ではトランジスタを主体とし主に計算を行う装置全般を指す英単語は何でしょう？
+  answer: コンピューター
+  alternativeAnswers:
+    - computer
+- question: 「USBメモリ」などというときの「USB」は、何という英語の略でしょう？
+  answer: ユニバーサル・シリアル・バス
+  alternativeAnswers:
+    - Universal Serial Bus
