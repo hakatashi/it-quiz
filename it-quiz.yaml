@@ -15721,3 +15721,120 @@
   answer: ユニバーサル・シリアル・バス
   alternativeAnswers:
     - Universal Serial Bus
+- question: 「USB」というアルファベット3文字を並び替えることでできる、USBのように、データをやり取りするために信号線をまとめた仕組み全般を指す英単語は何でしょう？
+  answer: bus
+  alternativeAnswers:
+    - バス
+- question: 半導体をPNPNの4層構造で積層した構造を持ち、電流を一度流し始めるとゲート信号を切っても流れ続ける機能を持つ、パワーエレクトロニクス分野で使われる半導体素子は何でしょう？
+  answer: サイリスタ
+  alternativeAnswers:
+    - SCR
+    - Thyristor
+- question: スロットマシンを意味する「片腕の盗賊」という英語の表現に由来する、限られた試行回数で報酬を最大化するための「探索と活用のジレンマ」を表した強化学習の古典的な問題を「何問題」というでしょう？
+  answer: 多腕バンディット問題
+  alternativeAnswers:
+    - 多腕バンディット
+    - Multi-armed bandit problem
+    - Multi-armed bandit
+- question: 「ソフトウェア3.0」や「バイブコーディング」といった用語を世界に広めたことでも知られる、サム・アルトマンなどとともにOpenAIを創業したスロバキア出身の人工知能研究者は誰でしょう？
+  answer: アンドレイ・カーパシー
+  alternativeAnswers:
+    - アンドレイ・カルパシー
+    - Andrej Karpathy
+- question: その規模に応じて「マイナー」と「メジャー」の2種類が存在する、プログラムが物理メモリにマッピングされていない仮想アドレスにアクセスした際に発生する割り込みは何でしょう？
+  answer: ページフォールト
+  alternativeAnswers:
+    - ページフォルト
+    - ハードフォールト
+- question: 現在では画像生成AIにおける明確な異常出力のことを指すのにも用いられる、コンピューターグラフィックスにおいて画像の視覚的な異常やノイズ全般を指す英単語は何でしょう？
+  answer: アーティファクト
+  alternativeAnswers:
+    - artifact
+- question: 正面からの音を強く拾い、背面は大きく減衰させる単一指向性のマイクのことを、その収音パターンを図示したときの形状がある図形に似ていることから「何型マイク」というでしょう？
+  answer: カーディオイド型マイク
+  alternativeAnswers:
+    - カーディオイド型
+    - カーディオイド
+    - cardioid microphone
+    - cardioid
+  description: 「スーパーカーディオイド」「ハイパーカーディオイド」は背面の音も拾う
+- question: x86アーキテクチャの複雑性を象徴する設計の1つとしてしばしば言及される、オペコード「0x37」によって表される1バイト命令は何でしょう？
+  answer: AAA
+  alternativeAnswers:
+    - ASCII Adjust After Addition
+- question: AOSSなどの後継規格として開発され現在も広く普及している、2006年にWi-Fi Allianceによって策定されたWi-Fiの簡易接続規格をアルファベット3文字で何というでしょう？
+  answer: WPS
+  alternativeAnswers:
+    - Wi-Fi Protected Setup
+- question: インコム・ジャパン株式会社の登録商標となっている、店頭で購入したプリペイドカードをレジでの決済と同時に有効化する技術を指すアルファベット4文字の用語は何でしょう？
+  answer: POSA
+  alternativeAnswers:
+    - Point of Sales Activation
+- question: パスワードをハッシュ化する際に加えることでレインボーテーブル攻撃などからの耐性を高める、ユーザーごとにランダムに生成されるデータを何というでしょう？
+  answer: ソルト
+  alternativeAnswers:
+    - salt
+- question: CSVから派生して生まれたファイル形式「TSV」では、値と値の間を何という文字で区切って表現するでしょう？
+  answer: タブ
+  alternativeAnswers:
+    - Tab
+- question: テキストと画像を同一の埋め込み空間で学習することで相互理解能力を高め、現在のマルチモーダルAIの基礎技術となっている、OpenAI社が2021年に公開したディープラーニング技術は何でしょう？
+  answer: CLIP
+  alternativeAnswers:
+    - Contrastive Language-Image Pre-training
+- question: 初代デジタル大臣の平井卓也の発言に由来する、IT分野において日本が米国や中国に対して国際競争力を失い、後れをとっている状況を戦争に例えて言った有名な言葉は何でしょう？
+  answer: デジタル敗戦
+- question: IT業界において自社製品や技術を社内外に分かりやすく説明し啓蒙する専門職のことを、キリスト教に由来する用語で何というでしょう?
+  answer: エバンジェリスト
+  alternativeAnswers:
+    - エヴァンジェリスト
+    - evangelist
+- question: 法律上、内閣総理大臣がその長を務めることとなっている日本の行政機関は、内閣、内閣府、復興庁と何でしょう？
+  answer: デジタル庁
+  description: 内閣直属の3庁のうち、復興庁とデジタル庁は内閣総理大臣がその長を務め、復興大臣・デジタル大臣がそれぞれその補佐を務める。残りの1つ、2023年発足のこども家庭庁はこども家庭庁長官がその長を務める。
+- question: 英語では「gamut」と呼ばれる、ディスプレイなどの映像機器が正確に表現できる色の範囲を表す二字熟語は何でしょう？
+  answer: 色域
+- question: Bashでは「コマンドの入力が開始される前に表示されるプライマリプロンプトの内容を制御する環境変数」を、PowerShellでは「スクリプトファイルの標準拡張子」を表す3文字の英数字は何でしょう？
+  answer: PS1
+- question: 単に「光学式マウス」といったとき、一般的には何色の光を放つセンサーを用いたマウスのことを指すでしょう？
+  answer: 赤色
+  alternativeAnswers:
+    - 赤
+    - レッド
+    - red
+- question: 18世紀ロシアで女帝の視察のために張りぼての村を作ったという逸話に由来する、生成AIが物事を教科書的には説明できるけど応用や推論はできない状態を表す言葉は「何理解」でしょう？
+  answer: ポチョムキン理解
+  alternativeAnswers:
+    - ポチョムキン
+    - Potemkin Understanding
+    - Potemkin
+- question: 主に寄付金によって運営され、オープンソースソフトウェアのみが利用可能という特徴を持つ、2019年に「TeaHub」から名前を変更したベルリン発のコードホスティングサービスは何でしょう？
+  answer: Codeberg
+- question: 最大6つの生成AIモデルを同時に実行できる機能を持つ、GMOインターネットグループが提供する生成AI比較サービスは何でしょう？
+  answer: 天秤AI
+- question: LinuxではプロセスにSIGINTというシグナルが送られる、WindowsやLinuxなどのシェルプログラムにおいて実行中のプロセスを強制的に停止するためのショートカットは「Ctrl-何」でしょう？
+  answer: Ctrl-C
+  alternativeAnswers:
+    - C
+- question: 「うろこ」と呼ばれる三角形の突起などを特徴とする、コンピューターフォントとしても広く使われている漢字圏の書体を「何体」というでしょう？
+  answer: 明朝体
+  alternativeAnswers:
+    - 明朝
+    - 明体
+    - 明
+    - 宋体
+    - 宋
+- question: 本来の英語では「編纂する」などといった意味がある、ソースコードを機械語、あるいはそれに近いものに変換することを表す英単語は何でしょう？
+  answer: コンパイル
+  alternativeAnswers:
+    - compile
+- question: インターネットで通信販売を行う事業者に対して、返品等についての特約や事業者の氏名などの表示を行うことを求める日本の法律は「何法」でしょう？
+  answer: 特定商取引法
+  alternativeAnswers:
+    - 特商法
+    - 特定商取引に関する法律
+    - 特定商取引
+- question: Excelにおいて、指定した範囲に含まれる値の総和を求める基本的な関数は「何関数」でしょう？
+  answer: SUM関数
+  alternativeAnswers:
+    - SUM
