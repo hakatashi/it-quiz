@@ -1767,3 +1767,20 @@
   answer: Pommu
   alternativeAnswers:
     - ポミュ
+- question: 2025年11月にリリースされた、Googleの生成AI「Gemini」の最新バージョンは「Gemini いくつ」でしょう？
+  answer: Gemini 3
+  alternativeAnswers:
+    - '3'
+- question: 人間の介入を最小限に抑えた「エージェント・ファースト」な設計がされている、2025年11月にGoogleが発表したVSCodeフォークの統合開発環境は「Google 何」でしょう？
+  answer: Google Antigravity
+  alternativeAnswers:
+    - Antigravity
+    - グーグルアンチグラビティ
+    - アンチグラビティ
+- question: RやElixirといったプログラミング言語のほか、2025年11月にリリースされたPHP 8.5でも新たに利用可能となった、左側の値を右側の関数に適用することを表す「|>」という演算子を「何演算子」というでしょう？
+  answer: パイプ演算子
+  alternativeAnswers:
+    - パイプ
+    - pipe operator
+    - pipe
+
