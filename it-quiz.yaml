@@ -15939,7 +15939,8 @@
   alternativeAnswers:
     - ライファイ
     - Light Fidelity
-- question: アップロードしたさまざまなソースから「音声解説」「動画解説」「フラッシュカード」など様々なコンテンツを作成する機能が備わっている、GoogleのAIリサーチアシスタントツールは「Google 何」でしょう？
+- question: アップロードしたさまざまなソースから「音声解説」「動画解説」「フラッシュカード」などといったコンテンツを作成する機能が備わっている、GoogleのAIリサーチアシスタントツールは何でしょう？
+  minhayaQuestion: アップロードしたさまざまなソースから「音声解説」「動画解説」「フラッシュカード」などといったコンテンツを作成する機能が備わっている、GoogleのAIリサーチアシスタントツールは「Google 何」でしょう？
   answer: Google NotebookLM
   alternativeAnswers:
     - NotebookLM
