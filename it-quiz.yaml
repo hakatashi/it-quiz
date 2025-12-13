@@ -15844,3 +15844,131 @@
   answer: SUM関数
   alternativeAnswers:
     - SUM
+- question: C言語において、ある値が存在するメモリ上のアドレスを扱うデータ型のことを何というでしょう？
+  answer: ポインタ
+  alternativeAnswers:
+    - pointer
+- question: 文字や記号を使用して描かれるテキストデータのイラストのことを、「半角英数字」とほぼ同じ意味で使われる用語を用いて何というでしょう？
+  answer: アスキーアート
+  alternativeAnswers:
+    - ASCII art
+- question: ウェブブラウザ「Chrome」のロゴの、中央に位置する丸の色は何色でしょう？
+  answer: 青色
+  alternativeAnswers:
+    - 青
+    - 水色
+    - 水
+- question: 開発工数を見積もる手法として特に古くから用いられている、ソースコードの分量を基準にプログラムの規模を測る方法を、「コードの行数」を意味する単位を用いて「何法」というでしょう？
+  answer: LOC法
+  alternativeAnswers:
+    - LOC
+    - Lines Of Code method
+    - プログラムステップ法
+    - プログラムステップ
+- question: 多くのLinuxシステムにおいて最初に起動しプロセスID「1」を割り当てられる、システムのランレベルの管理やデーモンの起動などを行うマスタープロセスを何というでしょう？
+  answer: init
+- question: 地上デジタル放送の音声信号のコーデックとしても採用されている、MP3の後継として策定され、現在も多くの動画ファイルに利用されている音声コーデックを、アルファベット3文字の略称で何というでしょう？
+  answer: AAC
+  alternativeAnswers:
+    - Advanced Audio Coding
+- question: モバイルバッテリーを充電しながら、モバイルバッテリーに接続したスマホなどの機器を同時に充電できる機能のことを、英語を用いて「何充電」というでしょう？
+  answer: パススルー充電
+  alternativeAnswers:
+    - パススルー
+    - pass-through charging
+    - pass-through
+- question: 航空機など宇宙線の多い環境でしばしば利用される、メモリ上で発生したビット反転エラーを自発的に検出して訂正することができるメモリ部品のことを、アルファベット3文字を用いて「何メモリ」というでしょう？
+  answer: ECCメモリ
+  alternativeAnswers:
+    - Error-Correcting Code memory
+    - Error Checking and Correction memory
+    - Error Check and Correct memory
+- question: Linuxにおいて、メモリが不足した際などに備えてストレージの一部をメモリとして使用できるよう予約しておくシステムのことを、何というでしょう？
+  answer: スワップ
+  alternativeAnswers:
+    - スワップ領域
+    - swap
+- question: ランサムウェアの中でも、データを暗号化して身代金を要求したあと、さらに窃取したデータをダークウェブで公開すると脅して二度目の身代金を要求するものを「何型ランサムウェア」というでしょう？
+  answer: 二重脅迫型ランサムウェア
+  alternativeAnswers:
+    - 二重脅迫型
+    - 二重脅迫
+- question: 電気回路において、1つのスイッチで1箇所の開閉を制御する、最も基本的なスイッチのタイプのことを、アルファベット4文字の略称で何というでしょう？
+  answer: SPST
+  alternativeAnswers:
+    - Single Pole Single Throw
+- question: デフォルトでは16ピクセルを1とすることが多い、ドキュメントのルート要素のフォントサイズを基準に長さを記述するCSSの相対単位は何でしょう？
+  answer: rem
+  alternativeAnswers:
+    - root em
+- question: バージョン管理システムGitにおいて、リポジトリにチェックインされていないファイルやフォルダを管理から除外するために、対象のファイル名などを記載する特殊なファイルを何というでしょう？
+  answer: .gitignore
+- question: IBMの「Z」シリーズなどがその代表である、企業の基幹情報システムなどに使用され、膨大なトランザクション処理を高信頼で行う大型汎用コンピュータを何というでしょう？
+  answer: メインフレーム
+  alternativeAnswers:
+    - main frame
+- question: SAMLやOpenID Connectといった規格がよく使用される、一度の認証で連携した複数のシステムを利用できるようにする仕組みを何というでしょう？
+  answer: シングルサインオン
+  alternativeAnswers:
+    - Single Sign-On
+    - SSO
+- question: 半導体試験装置の世界シェアをアメリカのテラダイン社と分け合っている、日経平均株価の構成比率で3位に位置する日本の巨大IT企業は何でしょう？
+  answer: 株式会社アドバンテスト
+  alternativeAnswers:
+    - アドバンテスト
+    - Advantest Corporation
+    - Advantest
+- question: Illustratorなどのグラフィックソフトウェアで、フォント情報を持つ文字オブジェクトを点と線で構成される図形データに変換することを「何化」というでしょう？
+  answer: アウトライン化
+  alternativeAnswers:
+    - アウトライン
+    - outline
+- question: 「毎々お世話になっております」や「拝承」といった独自の用語を用いる文化で知られる、日本の「5大SIer企業」の1つに数えられるIT企業は何でしょう？
+  answer: 日立製作所
+  alternativeAnswers:
+    - 日立
+    - HITACHI
+- question: そのアルゴリズムの挙動から「マージ挿入ソート」という別名も存在する、nが22以下のケースでは比較回数が最小となることが知られているソートアルゴリズムを、1959年にこれを発表した2人の科学者の名前から「何アルゴリズム」というでしょう？
+  answer: フォード-ジョンソンアルゴリズム
+  alternativeAnswers:
+    - フォード-ジョンソン
+    - Ford-Johnson algorithm
+    - Ford-Johnson
+- question: 2023年に「IEEE802.11bb」として規格化された、部屋のLED照明の点滅などを利用して無線通信を実現する次世代通信技術を、電波を用いて通信する「Wi-Fi」に対して何というでしょう？
+  answer: Li-Fi
+  alternativeAnswers:
+    - ライファイ
+    - Light Fidelity
+- question: アップロードしたさまざまなソースから「音声解説」「動画解説」「フラッシュカード」など様々なコンテンツを作成する機能が備わっている、GoogleのAIリサーチアシスタントツールは「Google 何」でしょう？
+  answer: Google NotebookLM
+  alternativeAnswers:
+    - NotebookLM
+    - グーグルノートブックLM
+    - ノートブックLM
+- question: 3Dゲームのグラフィック設定などでもおなじみの、過去のフレーム情報を利用してレンダリング時のジャギーを軽減するアンチエイリアシング技術を、アルファベット3文字の略称で何というでしょう？
+  answer: TAA
+  alternativeAnswers:
+    - テンポラルアンチエイリアシング
+    - Temporal Anti-Aliasing
+- question: 2025年に廃止された「ブルースクリーン」に代わって導入されている、Windowsに致命的なエラーが発生した際に表示される再起動のための画面のことを、その色から「何スクリーン」というでしょう？
+  answer: ブラックスクリーン
+  alternativeAnswers:
+    - ブラック
+    - black screen
+    - black
+- question: 暗号通貨の「ビルドアンドビルド」を発行していることでも知られている、1日の取引量で世界最大の規模を持つ中国発の暗号通貨取引所は何でしょう？
+  answer: バイナンス
+  alternativeAnswers:
+    - Binance
+- question: 一説によると、投手が短い間に大量失点することを表す野球用語から派生して生まれたとされる、インターネット上で多数のユーザーからの批判や中傷が殺到することを表す二字熟語は何でしょう？
+  answer: 炎上
+- question: 「説明可能なAI」「エクストリームプログラミング」「ユーザーエクスペリエンス」「クロスサイトスクリプティング」をアルファベットで略したとき、共通して用いられるアルファベットは何でしょう？
+  answer: X
+- question: 「与えられたもの」を意味するラテン語に由来する、単数形を「datum」という英語の単語の複数形を、一般的なカタカナ表記では何というでしょう？
+  answer: データ
+  alternativeAnswers:
+    - data
+- question: プログラミングで使われる英語で、「変数」のことはvariableといいますが、「定数」のことは何というでしょう？
+  answer: constant
+  alternativeAnswers:
+    - コンスタント
