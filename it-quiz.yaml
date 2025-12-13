@@ -842,7 +842,7 @@
   answer: Doodle
   alternativeAnswers:
     - Google Doodle
-- question: 青と黄緑色で描かれた「N」という文字をロゴマークとする、使い勝手の向上と開発の高速化をターゲットにVimの後継を目指しているテキストエディタは何でしょう？
+- question: 青と黄緑色で描かれた「N」という文字をロゴマークとする、Vimの後継として開発され、使い勝手の向上と開発の高速化を目指しているテキストエディタは何でしょう？
   answer: Neovim
   alternativeAnswers:
     - ネオヴィム
@@ -6635,7 +6635,7 @@
   answer: pinterest
   alternativeAnswers:
     - ピンタレスト
-- question: ゲーム「HALO」に登場する人工知能の名前から名付けられた、Windowsなどの製品に標準で付属するマイクロソフト社のAIアシスタントは何でしょう？
+- question: ゲーム「HALO」に登場する人工知能の名前から名付けられた、かつてWindowsなどの製品に標準で付属していたマイクロソフト社のAIアシスタントは何でしょう？
   answer: Cortana
   alternativeAnswers:
     - コルタナ
@@ -7082,7 +7082,7 @@
     - オーバーレイ
     - overlay advertisement
     - overlay
-- question: テキストエディタVimにおいて、エディタがクラッシュしたときに備えてファイルを開いている間に作成されるファイルを何というでしょう？
+- question: テキストエディタVimにおいてファイルを開いている間、エディタがクラッシュした場合に備えて作成される予備ファイルを何というでしょう？
   answer: スワップファイル
   alternativeAnswers:
     - スワップ
@@ -9473,7 +9473,7 @@
   answer: MOOC
   alternativeAnswers:
     - ムーク
-- question: 「アレゲなニュースと雑談サイト」というスローガンが掲げられている、米掲示板「Slashdot」の日本語版を前身とする日本のニュース掲示板は何でしょう？
+- question: 「アレゲなニュースと雑談サイト」というスローガンが掲げられている、アメリカの掲示板「Slashdot」の日本語版を前身とする日本のニュース掲示板は何でしょう？
   answer: スラド
   alternativeAnswers:
     - Srad
@@ -11303,7 +11303,7 @@
   answer: ラクダ本
   alternativeAnswers:
     - ラクダ
-- question: 0.0.0.0のように、インターネットにおいて経路広告可能なアドレスとして登録されていないIPアドレスのことを何というでしょう？
+- question: 「0.0.0.0」のように、インターネットにおいて経路広告可能なアドレスとして登録されていないIPアドレスのことを何というでしょう？
   answer: ボーゴン
   alternativeAnswers:
     - bogon
@@ -13285,6 +13285,8 @@
     - L3
 - question: 停電の際にサーバーに電源を供給する「無停電電源装置」を、アルファベット3文字の略称で何というでしょう？
   answer: UPS
+  alternativeAnswers:
+    - Uninterruptible Power Supply
 - question: 1979年にIBMのアラン・アルブレクトによって考案された、開発したいソフトウェアの複雑さによって点数を付け、定量的な工数の算出を行う見積もり手法を「何法」というでしょう？
   answer: ファンクションポイント法
   alternativeAnswers:
@@ -13429,7 +13431,7 @@
   alternativeAnswers:
     - デジタル
     - デジタルサービス税
-- question: Googleのとあるガイドラインでは「依存関係のアップグレードなどの日常的/自動的なタスクを完了するコミット」に対して用いるとされている、コミットメッセージの中でよく用いられる「雑用」といった意味の英単語は何でしょう？
+- question: Googleのとあるガイドラインでは「依存関係のアップグレードなどの日常的/自動的なタスクを完了するコミット」に対して用いるとされている、コミットメッセージでよく用いられる「雑用」といった意味の英単語は何でしょう？
   answer: chore
   description: https://developers.google.com/blockly/guides/contribute/get-started/commits
 - question: 2021以降のExcelで利用することができる、複数の行や列を含むデータを返す数式をセルに入力することで、数式を入力していないセルにもデータを表示させることができる機能を何というでしょう？
@@ -15819,7 +15821,8 @@
   answer: Ctrl-C
   alternativeAnswers:
     - C
-- question: 「うろこ」と呼ばれる三角形の突起などを特徴とする、コンピューターフォントとしても広く使われている漢字圏の書体を「何体」というでしょう？
+- question: 「うろこ」と呼ばれる三角形の突起などを特徴とする、コンピューターフォントとしても広く使われている漢字圏の書体は何でしょう？
+  minhayaQuestion: 「うろこ」と呼ばれる三角形の突起などを特徴とする、コンピューターフォントとしても広く使われている漢字圏の書体を「何体」というでしょう？
   answer: 明朝体
   alternativeAnswers:
     - 明朝
