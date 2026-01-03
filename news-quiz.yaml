@@ -1792,3 +1792,26 @@
   answer: Crucial
   alternativeAnswers:
     - クルーシャル
+- question: 2025年12月にAnthropic社がオープンスタンダードとして公開した、AIエージェントに対して特定のタスクを実行するための手順書を提供する標準規格を何というでしょう？
+  answer: Agent Skills
+  alternativeAnswers:
+    - エージェントスキル
+- question: 2025年の新語・流行語大賞にもノミネートされた、OpenAI社の生成AIサービス「ChatGPT」の日本における愛称は何でしょう？
+  answer: チャッピー
+- question: 「ITエンジニア本大賞2025」の技術書部門で大賞を受賞した書籍のテーマにもなっている、260万人以上が登録する世界最大級のサイバーセキュリティ学習プラットフォームは何でしょう？
+  answer: TryHackMe
+- question: 2025年12月に発表された国家戦略「AI基本計画」で日本のAI開発の追求方針として取り上げられた、頑健性や解釈可能性といった性質を兼ね備えた安全なAIのことを指す用語は「何できるAI」でしょう？
+  answer: 信頼できるAI
+  alternativeAnswers:
+    - 信頼できる
+    - 信頼
+    - trustworthy AI
+    - trustworthy
+- question: 2025年12月にバージョン4.0を公開し、新機能の「Box」やJITコンパイラの「ZJIT」を導入したプログラミング言語は何でしょう？
+  answer: Ruby
+  alternativeAnswers:
+    - ルビー
+- question: 「世界初の汎用AIエージェント」という宣伝文句によっても注目を集めている、中国のMonica社によって2025年3月に発表された完全自律型AIエージェントは何でしょう？
+  answer: Manus
+  alternativeAnswers:
+    - マナス
