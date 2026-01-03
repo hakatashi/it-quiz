@@ -52,6 +52,7 @@ jobs:
           REPOSITORY: '${{ github.repository }}'
           ADDITIONAL_CONTEXT: '${{ inputs.additional_context }}'
         with:
+          gemini_cli_version: '0.19.0'
           gcp_location: '${{ vars.GOOGLE_CLOUD_LOCATION }}'
           gcp_project_id: '${{ vars.GOOGLE_CLOUD_PROJECT }}'
           gcp_service_account: '${{ vars.SERVICE_ACCOUNT_EMAIL }}'
