@@ -15991,7 +15991,7 @@
     - Multi-Factor Authentication
 - question: JavaやC++などのプログラミング言語で、クラスを継承できなくしたり、変数の値を変更できなくするためのキーワードは何でしょう？
   answer: final
-- question: 別名を「シングルコーンスピーカー」などという、低音から高音までの全音域を単一のユニットで再生するスピーカーのことを指す用語は「何スピーカー」でしょう?
+- question: 別名を「シングルコーンスピーカー」などという、低音から高音までの全音域を単一のユニットで再生するスピーカーのことを指す用語は「何スピーカー」でしょう？
   answer: フルレンジスピーカー
   alternativeAnswers:
     - フルレンジ
@@ -16022,7 +16022,7 @@
     - diacritical
     - ダイアクリティック
     - diacritic
-- question: 拡張子「.sv」のファイルに標準でソースコードを保存する、Verilogにenumなどのstructといった機能を追加したハードウェア記述言語は「何Verilog」でしょう？
+- question: 拡張子「.sv」のファイルに標準でソースコードを保存する、Verilogにenumやstructといった機能を追加したハードウェア記述言語は「何Verilog」でしょう？
   answer: SystemVerilog
   alternativeAnswers:
     - System
