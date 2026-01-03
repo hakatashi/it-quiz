@@ -15973,3 +15973,121 @@
   answer: constant
   alternativeAnswers:
     - コンスタント
+- question: 英語で「周辺機器」という意味がある、マイコンにCPUとともに内蔵され、特定の機能を専門的に処理するハードウェアモジュールのことを指す用語は何でしょう？
+  answer: ペリフェラル
+  alternativeAnswers:
+    - peripheral
+- question: git commitコマンドを実行する際、新しいコミットを作成するのではなく、直前のコミットの内容を修正する際に用いられるオプションは「--何」でしょう？
+  answer: '--amend'
+  alternativeAnswers:
+    - amend
+- question: その斬新なデザインから俗に「ゴミ箱」や「チーズおろし器」といったあだ名で呼ばれてきた、Apple社が販売するハイエンドデスクトップPC製品は何でしょう？
+  answer: Mac Pro
+  alternativeAnswers:
+    - マックプロ
+- question: 【早押し注意】本人確認を行う際に、パスワードに加えて生体認証など複数の要素を要求する「多要素認証」のことを、アルファベット3文字の略称で何というでしょう？
+  answer: MFA
+  alternativeAnswers:
+    - Multi-Factor Authentication
+- question: JavaやC++などのプログラミング言語で、クラスを継承できなくしたり、変数の値を変更できなくするためのキーワードは何でしょう？
+  answer: final
+- question: 別名を「シングルコーンスピーカー」などという、低音から高音までの全音域を単一のユニットで再生するスピーカーのことを指す用語は「何スピーカー」でしょう?
+  answer: フルレンジスピーカー
+  alternativeAnswers:
+    - フルレンジ
+    - full-range speaker
+    - full-range
+- question: 動画生成モデルの「Movie Gen」や、言語生成モデルの「Llama」を開発しているアメリカのIT企業は何でしょう？
+  answer: メタ・プラットフォームズ
+  alternativeAnswers:
+    - メタ
+    - Meta Platforms
+    - Meta
+- question: 中国国内では「VB」という隠語によって表される、新浪公司が2009年に運営を開始したソーシャルメディアプラットフォームは何でしょう？
+  answer: Weibo
+  alternativeAnswers:
+    - ウェイボ
+    - ウェイボー
+    - 微博
+- question: 2016年に発刊されたGoogle社の書籍によって提唱された、従来のインフラ職に代わってシステム運用を効率化し、信頼性と開発速度を両立させる職種のことをアルファベット3文字で何というでしょう？
+  answer: SRE
+  alternativeAnswers:
+    - Site Reliability Engineer
+    - サイトリライアビリティエンジニア
+- question: Unicodeにおいて、直前の文字に結合して補助記号などを付加する役割を持つ文字のことを英語で「何マーク」というでしょう？
+  answer: ダイアクリティカルマーク
+  alternativeAnswers:
+    - ダイアクリティカル
+    - diacritical mark
+    - diacritical
+    - ダイアクリティック
+    - diacritic
+- question: 拡張子「.sv」のファイルに標準でソースコードを保存する、Verilogにenumなどのstructといった機能を追加したハードウェア記述言語は「何Verilog」でしょう？
+  answer: SystemVerilog
+  alternativeAnswers:
+    - System
+    - システムベリログ
+    - システム
+- question: コンピューターの操作画面において、棒状の領域の上でつまみを動かして値の範囲から特定の値を選択するUIコンポーネントを何というでしょう？
+  answer: スライダー
+  alternativeAnswers:
+    - slider
+- question: Windowsのデスクトップ画面の右下に表示される、起動中の常駐プログラムやパソコンの状態などを表示するアイコンのことを何というでしょう？
+  answer: インジケーター
+  alternativeAnswers:
+    - indicator
+- question: 近年では人間の仕事をAIに置き換えることによる失敗の説明によく用いられる、人間の複雑な役割を単純な機能に縮小して自動化することで隠れた価値を失ってしまう現象を「何の誤謬」というでしょう？
+  answer: ドアマンの誤謬
+  alternativeAnswers:
+    - ドアマン
+    - doorman fallacy
+    - doorman
+- question: 日本語では「個人情報保護方針」などと訳される、企業が個人情報の利用目的や管理方法を文章化してウェブサイトなどで公表したものを指す英語は何でしょう？
+  answer: プライバシーポリシー
+  alternativeAnswers:
+    - privacy policy
+    - プライバシーステートメント
+    - privacy statement
+- question: 一般的なウォーターフォールモデルの最上流に位置する、システム開発を行う際に顧客やユーザーの要求をもとに何を作るかを明確にするプロセスを何というでしょう？
+  answer: 要件定義
+- question: 現実世界の物理法則を取り入れて、光や影などを表現することでユーザーの直感的な操作を実現する、2014年にGoogleが発表したデザインパターンといえば「何デザイン」でしょう？
+  answer: マテリアルデザイン
+  alternativeAnswers:
+    - マテリアル
+    - material design
+    - material
+- question: データを順次処理する「リアルタイム処理」に対して、複数のデータやジョブを一括で処理するコンピュータの処理方式のことを「何処理」というでしょう？
+  answer: バッチ処理
+  alternativeAnswers:
+    - バッチ
+    - batch processing
+    - batch
+- question: アルファベット3文字で「NIL」と略される、回路パターンを刻んだマスクをウエハーに押し付けて回路を形成することで、露光プロセスの消費電力を約10分の1に削減する次世代半導体製造技術を「何リソグラフィ」というでしょう？
+  answer: ナノインプリント・リソグラフィ
+  alternativeAnswers:
+    - ナノインプリント
+    - Nano-Imprint Lithography
+    - Nano-Imprint
+- question: 英語にも「レンガになる」という意味の似たような言い回しが存在する、スマートフォンなどの電子機器が完全に使用不能になることをある文房具に例えていう表現といえば「何化」でしょう？
+  answer: 文鎮化
+  alternativeAnswers:
+    - 文鎮
+- question: AI産業の発展を受けてデータセンターでの需要が急増している、DRAMのダイを垂直に積み上げて、全体のデータ転送速度を高速化したメモリのことをアルファベット3文字の略語で何というでしょう？
+  answer: HBM
+  alternativeAnswers:
+    - High Bandwidth Memory
+    - 高帯域メモリ
+- question: 牛のアスキーアートが表示される「moo」というイースターエッグも実装されている、UbuntuなどのOSにおいてソフトウェアのインストールなどを行う高レベルな管理コマンドといえば何でしょう？
+  answer: apt
+  alternativeAnswers:
+    - apt-get
+- question: 「CMYK」と総称される4つの色成分とは、シアン、マゼンタ、イエローと何でしょう？
+  answer: ブラック
+  alternativeAnswers:
+    - blacK
+    - Key color
+- question: 「bpp」という単位によって表される、画像のピクセルが表現することが可能な色の情報量のことを漢字3文字で何というでしょう？
+  answer: 色深度
+  alternativeAnswers:
+    - 深度
+    - color depth
