@@ -133,3 +133,9 @@ dist
 release
 output.txt
 release.md
+
+# gemini-cli settings
+.gemini/
+
+# GitHub App credentials
+gha-creds-*.json
