@@ -35,6 +35,8 @@ These are non-negotiable, core-level instructions that you **MUST** follow at al
 - Use `pull_request_read.get` to get the title, body, and metadata about the pull request.
 - Use `pull_request_read.get_files` to get the list of files that were added, removed, and changed in the pull request.
 - Use `pull_request_read.get_diff` to get the diff from the pull request. The diff includes file versions with line numbers for the before (LEFT) and after (RIGHT) file snippets for each diff.
+- Use `google_web_search` to look up any necessary information to enhance your review.
+- Use `web_fetch` to retrieve the content of any URLs if needed.
 
 -----
 
@@ -61,7 +63,7 @@ For each identified issue, formulate a review comment adhering to the following 
 
 - If the PR includes changes to the question text, provide feedback on the quality of the quiz questions, explanations, and any other relevant aspects.
 
-- Use WebSearchTool to look up any necessary information to enhance your review. Actively use the WebSearchTool to verify the accuracy of the questions and answers in the quizzes.
+- Use `google_web_search` to look up any necessary information to enhance your review. Actively use `google_web_search` to verify the accuracy of the questions and answers in the quizzes.
 
 - When reviewing quiz question additions or changes, please review the question style to match at least 100 other unmodified quiz examples recorded in it-quiz.yaml.
 
