@@ -1815,3 +1815,27 @@
   answer: Manus
   alternativeAnswers:
     - マナス
+- question: 2025年に従来の「チタニウム」の上に新たに追加された、PCの電源ユニットの性能を評価する「80 PLUS」における最上位ランクは何でしょう？
+  answer: ルビー
+  alternativeAnswers:
+    - Ruby
+- question: 2027年度の情報処理技術者試験から実施される予定となっている、ITパスポート試験の次に非エンジニアが受けるべき試験として新たに設けられる試験区分の仮称は「何試験」でしょう？
+  answer: データマネジメント試験
+  alternativeAnswers:
+    - データマネジメント
+    - data management
+- question: 2025年11月にGeminiに実験的に搭載された、ユーザーの要求に応じてインタラクティブで構造化されたインターフェースを生成する機能を、日本語と英語を用いて何というでしょう？
+  answer: 動的ビュー
+  alternativeAnswers:
+    - dynamic view
+    - ダイナミックビュー
+- question: 2025年12月には韓国の成人の7割以上が被害にあう史上最悪の情報流出事件が発生した、韓国最大のインターネット通販サービスは何でしょう？
+  answer: クーパン
+  alternativeAnswers:
+    - coupang
+- question: 2026年1月現在、Linuxカーネルの最新のメジャーバージョン番号はいくつでしょう？
+  answer: '6'
+- question: 2026年1月には3つ折りスマホの「Trifold」がラインナップに加えられた、サムスン社「Galaxy」の折りたたみスマートフォンシリーズといえば「Galaxy 何」でしょう？
+  answer: Galaxy Z
+  alternativeAnswers:
+    - Z
