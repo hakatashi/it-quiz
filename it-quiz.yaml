@@ -546,7 +546,7 @@
   answer: Haskell
   alternativeAnswers:
     - ハスケル
-- question: ハイパーテキスト管理システム「ENQUIRE」の開発や、分散ネットワーク「ワールドワイドウェブ」の考案で知られ、今日のインターネットの基礎を築いたイギリスの情報工学者は誰でしょう？
+- question: ハイパーテキスト管理システム「<ruby><rb>ENQUIRE</rb><rp>(</rp><rt>エンクワイア</rt><rp>)</rp></ruby>」の開発や、分散ネットワーク「ワールドワイドウェブ」の考案で知られる、<ruby><rb>今日</rb><rp>(</rp><rt>こんにち</rt><rp>)</rp></ruby>のインターネットの基礎を築いたイギリスの情報工学者は誰でしょう？
   answer: ティム・バーナーズ=リー
   minhayaQuestion: 【最も一般に知られているフルネームで解答】ハイパーテキスト管理システム「ENQUIRE」の開発や、分散ネットワーク「ワールドワイドウェブ」の考案で知られ、今日のインターネットの基礎を築いたイギリスの情報工学者は誰でしょう？
   alternativeAnswers:
@@ -1423,7 +1423,8 @@
   answer: '0'
   alternativeAnswers:
     - ゼロ
-- question: 英語で「むき出しの骨」という意味がある、電源、PCケース、マザーボードがセットになった自作PCの組み立てキットは「何キット」でしょう？
+- question: 英語で「むき出しの骨」という意味がある、電源、PCケース、マザーボードがセットになった自作PCの組み立てキットは何でしょう？
+  minhayaQuestion: 英語で「むき出しの骨」という意味がある、電源、PCケース、マザーボードがセットになった自作PCの組み立てキットは「何キット」でしょう？
   answer: ベアボーンキット
   alternativeAnswers:
     - ベアボーン
@@ -1919,10 +1920,9 @@
   answer: B言語
   alternativeAnswers:
     - B
-- question: 2025年に従来の「チタニウム」の上に新たに追加された、PCの電源ユニットの性能を評価する「80 PLUS」における最上位ランクは何でしょう？
-  answer: ルビー
-  alternativeAnswers:
-    - Ruby
+- removed:
+    type: moved
+    reason: 時事問題に移動
 - question: 旧東京工業大学の豊田正史によって実装されたものが現在では普及している、あるコマンドの打ち間違えを防ぐために開発された「画面に機関車を走らせる」UNIXプログラムは何でしょう？
   answer: slコマンド
   alternativeAnswers:
@@ -2178,11 +2178,9 @@
   answer: TikTok
   alternativeAnswers:
     - ティックトック
-- question: PayPay、ZOZO、ヤフー、LINEなど多くのIT企業を連結子会社に持つ、日本の持株会社は何でしょう？
-  answer: Zホールディングス株式会社
-  alternativeAnswers:
-    - Zホールディングス
-    - Z Holdings
+- removed:
+    type: deleted
+    reason: 事実関係の変化による
 - question: 1987年にエイコーン社が発売した、RISCアーキテクチャが採用された世界で最初のパーソナルコンピューターは何でしょう？
   answer: Acorn Archimedes
   alternativeAnswers:
@@ -2462,10 +2460,11 @@
     - Kuki
     - ミツク
     - クキ
-- question: 加入することでクラウドストレージ容量を増やすことができる、Googleアカウントの有料メンバーシッププログラムは「Google 何」でしょう？
+- question: 加入することでクラウドストレージ容量を増やすことができる、Googleアカウントの有料メンバーシッププログラムといえば「Google 何」でしょう？
   answer: Google One
   alternativeAnswers:
     - One
+    - グーグルワン
     - ワン
 - question: 1995年に<ruby><rb>杜奕瑾</rb><rp>(</rp><rt>トゥイーチン</rt><rp>)</rp></ruby>が設立した、台湾最大のインターネット掲示板は何でしょう？
   answer: PTT
@@ -6362,7 +6361,7 @@
   answer: mkdirコマンド
   alternativeAnswers:
     - mkdir
-- question: 2024年1月に提供終了予定となっている、夜23時から翌日8時までのあいだ通話時間に関わらず料金が一定料金となるNTTの料金サービスは何でしょう？
+- question: 2024年に惜しまれつつも提供終了した、夜23時から翌日8時までのあいだ通話時間に関わらず料金が一定料金となるNTTの料金サービスは何でしょう？
   answer: テレホーダイ
   description: 「テレホタイム」はテレホーダイを利用できる時間帯を指す俗語。この問題ではサービスを聞いているので不可
 - question: 英語では「disambiguation」と呼ばれる、Wikipediaにおいて一つの単語に複数の意味がある際の案内として作成される記事を、日本語版Wikipediaでは何というでしょう？
@@ -10298,7 +10297,7 @@
   answer: MDM
   alternativeAnswers:
     - Mobile Device Management
-- question: 「ポケットリファレンスシリーズ」や「WEB+DB PRESS」など多くのプログラミング関連書籍を出版している、「gihyo」の略称で有名な日本の出版社は何でしょう？
+- question: 「ポケットリファレンスシリーズ」や「<ruby><rb>WEB+DB</rb><rp>(</rp><rt>ウェブディービー</rt><rp>)</rp></ruby> PRESS」など多くのプログラミング関連書籍を出版している、「<ruby><rb>gihyo</rb><rp>(</rp><rt>ギヒョー</rt><rp>)</rp></ruby>」の略称で有名な日本の出版社は何でしょう？
   answer: 技術評論社
 - question: 海外など、現在契約している携帯回線の外でも、他の携帯回線を使ってデータ通信ができるサービスのことを英語で何というでしょう？
   answer: ローミング
@@ -13110,7 +13109,7 @@
     - tapple
 - question: REPL環境などにおいてLaTeXの記法から対応するUnicode文字に変換できるなど、科学計算の分野に特化した機能を多く備えている、高速な実行性能と使いやすさを兼ね備えたMIT発のプログラミング言語は何でしょう？
   answer: Julia
-- question: IOWN構想の一部として2023年にサービスを開始した、通信ネットワークの全区間で光波長を専有しネットワーク遅延を1/200に削減することをうたうNTT東西のネットワーキングサービスを、アルファベット3文字で何と言うでしょう？
+- question: <ruby><rb>IOWN</rb><rp>(</rp><rt>アイオン</rt><rp>)</rp></ruby>構想の一部として2023年にサービスを開始した、通信ネットワークの全区間で光波長を専有しネットワーク遅延を1/200に削減することをうたうNTT東西のネットワーキングサービスを、アルファベット3文字で何と言うでしょう？
   answer: APN
   alternativeAnswers:
     - All-Photonics Network
@@ -13760,7 +13759,7 @@
   alternativeAnswers:
     - マルツエレック
     - マルツパーツ館
-- question: Softbank AirやRakuten Turboなどのサービスで利用することができる、モバイル通信回線を利用した据え置き型のWi-Fiルーターを何というでしょう？​
+- question: Softbank AirやRakuten Turboなどのサービスで利用することができる、モバイル通信回線を利用した据え置き型のWi-Fiルーターを何というでしょう？
   answer: ホームルーター
   alternativeAnswers:
     - home router
@@ -16009,7 +16008,8 @@
     - ウェイボ
     - ウェイボー
     - 微博
-- question: 2016年に発刊されたGoogle社の書籍によって提唱された、従来のインフラ職に代わってシステム運用を効率化し、信頼性と開発速度を両立させる職種のことをアルファベット3文字で何というでしょう？
+- question: 2016年に発刊されたGoogle社の書籍によって提唱された、従来のインフラ職に代わってシステム運用を効率化し、信頼性と開発速度を両立させる職種のことを何というでしょう？
+  minhayaQuestion: 2016年に発刊されたGoogle社の書籍によって提唱された、従来のインフラ職に代わってシステム運用を効率化し、信頼性と開発速度を両立させる職種のことをアルファベット3文字で何というでしょう？
   answer: SRE
   alternativeAnswers:
     - Site Reliability Engineer
@@ -16091,3 +16091,119 @@
   alternativeAnswers:
     - 深度
     - color depth
+- question: Unicodeにおいて、収録元となった規格との相互運用性のために追加され、新たに使用することが基本的に推奨されない文字のことを、日本語で「何文字」というでしょう？
+  answer: 互換文字
+  alternativeAnswers:
+    - 互換
+    - compatibility character
+    - compatibility
+- question: RubyやPythonなどのプログラミング言語において、文字列の配列を特定の区切り文字で結合するメソッドの名前は何でしょう？
+  answer: join
+- question: ずばり、中国語で「安卓」と表記されるOSは何でしょう？
+  answer: Android
+  alternativeAnswers:
+    - アンドロイド
+- question: NoSQLと呼ばれるデータベースの中でも、MongoDBやCouchDBなど、JSONのようなスキーマレスな形式でデータを保存するデータベースのことを「何データベース」というでしょう？
+  answer: ドキュメントデータベース
+  alternativeAnswers:
+    - ドキュメント
+    - document database
+    - document
+- question: 射撃ゲームを通して正しい指の動かし方を学ぶことができる、1997年から発売されているソースネクスト社のロングセラータイピング練習ソフトシリーズは何でしょう？
+  answer: 特打
+  alternativeAnswers:
+    - とくうち
+- question: 2011年にDeNAが横浜ベイスターズを買収した際には有力な対抗馬でもあった、現在も定期的に同球団の応援セールを開催している神奈川創業の家電量販店は何でしょう？
+  answer: ノジマ
+  alternativeAnswers:
+    - Nojima
+- question: 外部操作を用いてAndroidスマートフォンの管理者権限を取得し、システムファイルの書き換えなどを可能にする行為のことを俗に「何化」というでしょう？
+  answer: root化
+  alternativeAnswers:
+    - root
+    - ルート化
+    - ルート
+- question: 企業がこれまで外部の業者に依頼していた業務やサービスの提供や開発を、自社内部の体制で行うようにすることを日本語で「何化」というでしょう？
+  answer: 内製化
+  alternativeAnswers:
+    - 内製
+- question: 世界各地の拠点に存在するカラフルな「乱数発生器」はオフィスツアーの名所にもなっている、世界のインターネット通信の2割以上を占めるCDNサービスを提供するアメリカのIT企業は何でしょう？
+  answer: Cloudflare
+  alternativeAnswers:
+    - クラウドフレア
+- question: 1930年代に最初期の機械式コンピューターである「Z1」や「Z3」を発明した、ベルリン生まれの発明家は誰でしょう？
+  answer: コンラート・ツーゼ
+  alternativeAnswers:
+    - Konrad Zuse
+  description: 英語版 wikipedia だと "Z1 (computer)" だが、日本語版 wikipedia では "Zuse Z1" という記事名になっている…
+- question: 1バイトの情報量で表現可能な情報は、何通り存在するでしょう？
+  answer: 256通り
+  alternativeAnswers:
+    - '256'
+- question: 理化学研究所が開発したスーパーコンピューター「京」と量子コンピューター「叡」は、英語で表記するとともに何文字で書かれるでしょう？
+  answer: 1文字
+  alternativeAnswers:
+    - '1'
+- question: 特にゲーミングキーボードでは短く設計されている、キーボードのキーを押し始めてからPCがその入力を認識するまでの深さのことを「何ポイント」というでしょう？
+  answer: アクチュエーションポイント
+  alternativeAnswers:
+    - アクチュエーション
+    - actuation point
+    - actuation
+- question: 「Space Simulator」や「Train Simulator」といったシミュレーションゲームをかつてリリースしていたほか、現在も個人向けシェア1位の「Flight Simulator」で人気を博す有名なIT企業は何でしょう？
+  answer: マイクロソフト
+  alternativeAnswers:
+    - Microsoft
+- question: 印刷物の「誤植」を意味する単語に由来する、キーボードの入力ミスなどを指す英語の俗語は何でしょう？
+  answer: typo
+  alternativeAnswers:
+    - タイポ
+- question: コンバータ回路と組み合わせて交流電流の周波数を変換するのにも用いられる、直流電流を交流電流に変換する回路を「何回路」というでしょう？
+  answer: インバータ回路
+  alternativeAnswers:
+    - インバーター回路
+    - インバータ
+    - インバーター
+    - 逆変換回路
+    - 逆変換
+    - inverter
+- question: トゥーンレンダリングなど、現実世界の物理法則に基づかない3D表現を可能にする「非写実的レンダリング」のことを、アルファベット3文字の略称で何と言うでしょう？
+  answer: NPR
+  alternativeAnswers:
+    - Non-Photorealistic Rendering
+- question: NVIDIA Cosmosなどに代表される、現実世界の環境を高度に知覚・推論してロボットなどの制御を行うAI技術のことを、英語を用いて「何AI」というでしょう？
+  answer: フィジカルAI
+  alternativeAnswers:
+    - フィジカル
+    - physical AI
+    - physical
+- question: XMLやHTMLなど、特殊な文字列を用いて文書の構造や体裁を記述するデータ記述言語のことを、英語を用いて「何言語」というでしょう？
+  answer: マークアップ言語
+  alternativeAnswers:
+    - マークアップ
+    - markup language
+    - markup
+- question: 現在広く使われているバージョン2は日本の未踏プロジェクトで開発されたものが元となっている、起動時にメニューで複数のOSから選択できる機能が特徴的なGNUプロジェクトのブートローダーは何でしょう？
+  answer: GRUB
+  alternativeAnswers:
+    - GNU GRUB
+- question: Windowsではデフォルトで非表示となっている、ファイル名の末尾についてそのファイルの種類を示すために使われる識別用の文字列を日本語で何というでしょう？
+  answer: 拡張子
+  alternativeAnswers:
+    - extension
+- question: メールソフトの機能の1つ「BCC」の「B」は、何という英語を略したものでしょう？
+  answer: ブラインド
+  alternativeAnswers:
+    - Blind
+- question: AtCoderなど多くの競技プログラミングサイトにおいて、提出したコードが問題に正答し得点を獲得したことを表すアルファベット2文字の文字列は何でしょう？
+  answer: AC
+- question: 「クラサバ」といえば、何という名前のシステムを俗に略して呼ぶ言葉でしょう？
+  answer: クライアントサーバシステム
+  alternativeAnswers:
+    - クライアントサーバ
+    - client-server system
+    - client-server
+- question: 情報科学においてはグラフの節点のことを、通信ネットワークにおいては通信の主体となる個々の機器のことを指す英単語は何でしょう？
+  answer: ノード
+  alternativeAnswers:
+    - node
