@@ -23,7 +23,7 @@
     "isomorphic-git": "^1.36.1",
     "js-yaml": "^4.1.1",
     "json-schema-to-typescript": "^15.0.4",
-    "lodash-es": "^4.17.22",
+    "lodash-es": "^4.17.23",
     "semver": "^7.7.3",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
