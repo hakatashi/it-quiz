@@ -1839,3 +1839,29 @@
   answer: Galaxy Z
   alternativeAnswers:
     - Z
+- question: 月に1回紹介される活動のまとめ投稿などが人気を博し、インスタグラムのアカウント作成からわずか1年でフォロワー数200万人を突破した、日本の中央省庁は何でしょう？
+  answer: 宮内庁
+- question: 手書きの数式をLaTeXコードへ変換する機能など、科学者の論文執筆を助ける機能が多く搭載されている、OpenAI社が2026年1月に発表した科学論文執筆補助ツールは何でしょう？
+  minhayaQuestion: 手書きの数式をLaTeXコードへ変換する機能など、科学者の論文執筆を助ける機能が多く搭載されている、OpenAI社が2026年1月に発表した科学論文執筆補助ツールは「OpenAI 何」でしょう？
+  answer: OpenAI Prism
+  alternativeAnswers:
+    - Prism
+    - オープンAIプリズム
+    - プリズム
+- question: 2026年2月にはGeminiを基盤とする最新バージョンが発表されると見込まれている、Apple社のデバイスに搭載されている会話型AIアシスタントは何でしょう？
+  answer: Siri
+  alternativeAnswers:
+    - シリ
+- question: 10兆パラメーターを超える「K2」や「K2.5」といったモデルがこれまでにリリースされている、Moonshot AI社が提供するオープンソースのチャットAIモデルシリーズは何でしょう？
+  answer: Kimi
+  alternativeAnswers:
+    - キミ
+- question: メリアム・ウェブスター英語辞典が選ぶ2025年の「今年の単語」にも選ばれた、生成AI技術を用いて量産された、質が低く、中身の薄いデジタルコンテンツを指す用語は何でしょう？
+  answer: スロップ
+  alternativeAnswers:
+    - slop
+- question: 2025年12月にNTT東日本が発表した、従来の最高速回線である「フレッツ 光クロス」を超える通信速度を提供する光回線サービスの名前は何でしょう？
+  minhayaQuestion: 2025年12月にNTT東日本が発表した、従来の最高速回線である「フレッツ 光クロス」を超える通信速度を提供する光回線サービスの名前は「フレッツ 何」でしょう？
+  answer: フレッツ 光25G
+  alternativeAnswers:
+    - 25G
