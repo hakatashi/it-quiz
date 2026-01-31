@@ -105,7 +105,7 @@ const calculateRatings = (results: Result[]) => {
 
   finalRatings.sort((a, b) => b.rating - a.rating);
 
-  console.log(`Calculated ratings (${finalRatings.length}):`);
+  console.log('Calculated ratings:');
   for (const {name, rating, topRatings} of finalRatings.slice(0, 20)) {
     // console.log(`${name}: ${rating.toFixed(2)} [${topRatings.map((r) => r.rating.toFixed(2) + ' (#' + r.contest + ')').join(', ')}]`);
     console.log(`${name}: ${rating.toFixed(2)}`);
@@ -123,7 +123,7 @@ const newRatings = calculateRatings(results);
 // Post top 20 users to Slack
 const slackClient = new WebClient(process.env.SLACK_TOKEN);
 
-const top20 = newRatings.slice(0, 200);
+const top20 = newRatings.slice(0, 20);
 const oldRatingsMap = new Map(oldRatings.map((r, index) => [r.name, {rating: r.rating, rank: index + 1}]));
 
 const richTextListElements: RichTextSection[] = [];
@@ -252,12 +252,10 @@ const blocks: (KnownBlock | Block)[] = [
   },
 ];
 
-/*
 await slackClient.chat.postMessage({
   channel: process.env.SIG_QUIZ_CHANNEL_ID!,
   text: 'レーティング トップ20',
   blocks,
 });
-*/
 
 console.log('Posted top 20 ratings to Slack');
