@@ -1318,7 +1318,7 @@
     - Nest
     - グーグルネスト
     - ネスト
-- question: iOSでは「なぞり入力」などと呼ばれる、スクリーンのキーボード上をなぞるように移動させることで英単語を入力することができるAndroidスマートフォンにおける入力方式を「何入力」というでしょう？
+- question: iOSでは「なぞり入力」などと呼ばれる、スクリーンのキーボード上をなぞるように移動させることで英単語を入力することができるAndroidスマートフォンの入力方式を「何入力」というでしょう？
   answer: グライド入力
   alternativeAnswers:
     - グライド
@@ -16099,7 +16099,8 @@
     - compatibility
 - question: RubyやPythonなどのプログラミング言語において、文字列の配列を特定の区切り文字で結合するメソッドの名前は何でしょう？
   answer: join
-- question: ずばり、中国語で「安卓」と表記されるOSは何でしょう？
+- question: ずばり、中国語で「安心の安に電卓の卓」と表記されるOSは何でしょう？
+  paperQuestion: ずばり、中国語で「安卓」と表記されるOSは何でしょう？
   answer: Android
   alternativeAnswers:
     - アンドロイド
@@ -16167,7 +16168,7 @@
     - 逆変換回路
     - 逆変換
     - inverter
-- question: トゥーンレンダリングなど、現実世界の物理法則に基づかない3D表現を可能にする「非写実的レンダリング」のことを、アルファベット3文字の略称で何と言うでしょう？
+- question: トゥーンレンダリングなど、現実世界の物理法則に基づかない3D表現を可能にする「非写実的レンダリング」のことを、アルファベット3文字の略称で何というでしょう？
   answer: NPR
   alternativeAnswers:
     - Non-Photorealistic Rendering
@@ -16197,7 +16198,7 @@
     - Blind
 - question: AtCoderなど多くの競技プログラミングサイトにおいて、提出したコードが問題に正答し得点を獲得したことを表すアルファベット2文字の文字列は何でしょう？
   answer: AC
-- question: 「クラサバ」といえば、何という名前のシステムを俗に略して呼ぶ言葉でしょう？
+- question: 俗に「クラサバ」といえば、何という名前のシステムを略して呼ぶ言葉でしょう？
   answer: クライアントサーバシステム
   alternativeAnswers:
     - クライアントサーバ
@@ -16207,3 +16208,122 @@
   answer: ノード
   alternativeAnswers:
     - node
+- question: アルファベット3文字で「PEC」と略される、NTTが主導するチップ間通信の消費電力削減・大容量化技術を漢字4文字で何というでしょう？
+  answer: 光電融合
+- question: Linuxシステムでは/bootディレクトリからその内容を確認することができる、コンピューターが起動するときに最初に読み込まれるプログラムのことを何というでしょう？
+  answer: ブートローダー
+  alternativeAnswers:
+    - boot loader
+- question: 一般的なユニーバーサル基盤やブレッドボードの穴の間隔は、何分の1インチでしょう？
+  minhayaQuestion: 【早押し注意】一般的なユニーバーサル基盤やブレッドボードの穴の間隔は、何分の1インチでしょう？
+  answer: 10分の1インチ
+- question: 次世代半導体製造を支える技術の開発を進める「テクセンドフォトマスク株式会社」を子会社に持つ、日本を代表する印刷企業は何でしょう？
+  answer: TOPPANホールディングス株式会社
+  alternativeAnswers:
+    - TOPPANホールディングス
+    - TOPPAN
+    - トッパンホールディングス株式会社
+    - トッパンホールディングス
+    - トッパン
+    - 凸版印刷株式会社
+    - 凸版印刷
+    - 凸版
+- question: Windowsにおいてウィンドウアプリケーションがフリーズし、ユーザーの入力を受け付けなくなった際に、ウィンドウのタイトルバーに表示される日本語の文字列は何でしょう？
+  answer: (応答なし)
+  alternativeAnswers:
+    - 応答なし
+    - (not responding)
+    - not responding
+- question: かつて存在した「Zap 2」の次世代バージョンにあたることから名付けられた、算術演算や論理式の解を自動で求める「SMTソルバ」の代表的ソフトウェアは何でしょう？
+  answer: Z3
+- question: ソースコードが公開される「オープンソース」に対して、企業や開発者がソースコードなどを公開せず自由な利用に制限をかけている状態のことを、「所有」などを意味する英語から何というでしょう？
+  answer: プロプライエタリ
+  alternativeAnswers:
+    - proprietary
+- question: 英語圏では「numeric keypad」を略して「numpad」と呼ばれることが多い、数字の入力に特化した片手用キーボードのことを、その主要なキーの数から何というでしょう？
+  answer: テンキー
+  alternativeAnswers:
+    - tenkey
+- question: その値はワットと等価である、交流電流における無効電力を表すのに用いられる電力の単位は何でしょう？
+  answer: Var
+  alternativeAnswers:
+    - バール
+    - ヴァール
+- question: 「ACアダプタ」などというときの「AC」の「A」は、何という英単語の略でしょう？
+  answer: オルタネイティング
+  alternativeAnswers:
+    - Alternating
+- question: 2024年に策定されたCSSの公式ロゴの色の1つとしても採用されている、CSSに大きく貢献したエリック・メイヤーの娘を悼んで命名されたCSSのカラーキーワードは何でしょう？
+  answer: rebeccapurple
+  alternativeAnswers:
+    - レベッカパープル
+- question: 音や信号の周波数成分が時間とともにどう変化するかを、平面上の色や濃淡で可視化したグラフのことを、英語で何というでしょう？
+  answer: スペクトログラム
+  alternativeAnswers:
+    - spectrogram
+- question: コンピューターの数値が上限に到達することを意味する「カンスト」は、何という言葉の略でしょう？
+  answer: カウンターストップ
+  alternativeAnswers:
+    - counter stop
+- question: かつてのMS-DOSシステムにおいて、拡張子を除いたファイル名の長さは最大で何文字とされていたでしょう？
+  answer: 8文字
+  alternativeAnswers:
+    - '8'
+- question: 現在販売されているネットワークハブの大半を占めている、通信相手を識別して特定の宛先のみにデータを転送する機能を持ったハブのことを特に「何ハブ」というでしょう？
+  answer: スイッチングハブ
+  alternativeAnswers:
+    - スイッチング
+    - switching hub
+    - switching
+    - ブリッジングハブ
+    - bridging hub
+    - ネットワークスイッチ
+    - network switch
+- question: 「WhatsApp」「Instagram」「Facebook」といった巨大なソーシャルメディアプラットフォームを多く提供している、アメリカのビッグテック企業は何でしょう？
+  answer: メタ・プラットフォームズ
+  alternativeAnswers:
+    - メタ
+    - Meta Platforms
+    - Meta
+- question: 昔のMacにはこれを行う専用のキーが右上に存在した、CDやDVDをドライブから取り出す行為のことを、英語で特に何というでしょう？
+  answer: イジェクト
+  alternativeAnswers:
+    - eject
+- question: AIの進化により知的労働が代替される一方で、高度な熟練技術を持つ現場職が高収入を得て富裕層化する現象のことを、英語で何というでしょう？
+  answer: ブルーカラーミリオネア
+  alternativeAnswers:
+    - ブルーカラービリオネア
+    - blue collar millionaire
+    - blue collar billionaire
+- question: 既存の暗号が量子コンピューターによって破られ、通信が脆弱になるタイムリミットとなる日付のことを、作戦決行日を意味する「Dデイ」になぞらえた表現で何というでしょう？
+  answer: Qデイ
+  alternativeAnswers:
+    - Qデー
+    - Q-Day
+- question: Googleマップの「経路案内」ボタンや、Xの「ポストする」ボタンのように、モバイルアプリの右下に表示される強調度の高いアクションボタンのことを、Androidの用語で「何アクションボタン」というでしょう？
+  minhayaQuestion: Googleマップの「経路案内」ボタンや、Xの「ポストする」ボタンのように、モバイルアプリの右下に表示される強調度の高いアクションボタンのことを、Androidの用語で何というでしょう？
+  answer: フローティングアクションボタン
+  alternativeAnswers:
+    - floating action button
+    - FAB
+- question: 現在もLinuxカーネルなど主要なソフトウェアのドキュメントを記述するのに利用されている、拡張子「.rst」のファイルに保存される軽量マックアップ言語は何でしょう？
+  minhayaQuestion: 現在もLinuxカーネルなど主要なソフトウェアのドキュメントを記述するのに利用されている、拡張子「.rst」のファイルに保存される軽量マックアップ言語は「何Text」でしょう？
+  answer: reStructuredText
+  alternativeAnswers:
+    - reStructured
+    - リストラクチャードテキスト
+    - リストラクチャード
+    - ReST
+    - RST
+- question: アメリカの園芸業界ではMGK社が販売する殺虫剤のブランド名としても知られている、プログラムの誤りを取り除き正常に動くようにする作業のことを表す英単語は何でしょう？
+  answer: デバッグ
+  alternativeAnswers:
+    - debug
+- question: 「ファンディング」や「ソーシング」といった単語の前につくと別の言葉になる、英語で「群衆」などといった意味を持つ言葉は何でしょう？
+  answer: クラウド
+  alternativeAnswers:
+    - crowd
+- question: 略して「スクショ」と呼ばれることも多い、コンピュータなどの操作画面に表示されている内容をそのまま画像として保存する機能は何でしょう？
+  answer: スクリーンショット
+  alternativeAnswers:
+    - screen shot
