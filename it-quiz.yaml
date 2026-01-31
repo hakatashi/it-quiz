@@ -16214,8 +16214,8 @@
   answer: ブートローダー
   alternativeAnswers:
     - boot loader
-- question: 一般的なユニーバーサル基盤やブレッドボードの穴の間隔は、何分の1インチでしょう？
-  minhayaQuestion: 【早押し注意】一般的なユニーバーサル基盤やブレッドボードの穴の間隔は、何分の1インチでしょう？
+- question: 一般的なユニバーサル基盤やブレッドボードの穴の間隔は、何分の1インチでしょう？
+  minhayaQuestion: 【早押し注意】一般的なユニバーサル基盤やブレッドボードの穴の間隔は、何分の1インチでしょう？
   answer: 10分の1インチ
 - question: 次世代半導体製造を支える技術の開発を進める「テクセンドフォトマスク株式会社」を子会社に持つ、日本を代表する印刷企業は何でしょう？
   answer: TOPPANホールディングス株式会社
@@ -16306,8 +16306,8 @@
   alternativeAnswers:
     - floating action button
     - FAB
-- question: 現在もLinuxカーネルなど主要なソフトウェアのドキュメントを記述するのに利用されている、拡張子「.rst」のファイルに保存される軽量マックアップ言語は何でしょう？
-  minhayaQuestion: 現在もLinuxカーネルなど主要なソフトウェアのドキュメントを記述するのに利用されている、拡張子「.rst」のファイルに保存される軽量マックアップ言語は「何Text」でしょう？
+- question: 現在もLinuxカーネルなど主要なソフトウェアのドキュメントを記述するのに利用されている、拡張子「.rst」のファイルに保存される軽量マークアップ言語は何でしょう？
+  minhayaQuestion: 現在もLinuxカーネルなど主要なソフトウェアのドキュメントを記述するのに利用されている、拡張子「.rst」のファイルに保存される軽量マークアップ言語は「何Text」でしょう？
   answer: reStructuredText
   alternativeAnswers:
     - reStructured
