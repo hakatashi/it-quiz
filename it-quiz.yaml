@@ -16400,7 +16400,7 @@
   answer: ACP
   alternativeAnswers:
     - Agent Client Protocol
-- question: プルリクエストの生存期間を1～2日以内に収めるなどして、メインブランチにバッチを細かくコミットしていく開発モデルのことを、「何ベース開発」というでしょう？
+- question: プルリクエストの生存期間を1～2日以内に収めるなどして、メインブランチにパッチを細かくコミットしていく開発モデルのことを、「何ベース開発」というでしょう？
   answer: トランクベース開発
   alternativeAnswers:
     - トランクベース
@@ -16417,7 +16417,7 @@
   answer: ATS
   alternativeAnswers:
     - Applicant Tracking System
-- question: マルウェアの中でも、自らを複製して他のコンピューターに送り込み、自律的に活動範囲を広げていくもののことを、感染症に例えたカナ4文字の表現で何というでしょう？
+- question: マルウェアの中でも、宿主となるプログラムに寄生し、自らを複製して自律的に活動範囲を広げていくもののことを、感染症に例えたカナ4文字の表現で何というでしょう？
   answer: ウイルス
   alternativeAnswers:
     - コンピューターウイルス
@@ -16505,7 +16505,7 @@
   alternativeAnswers:
     - 3年
     - '3'
-- question: バージニア北部の「us-east-1」や、東京の「ap-northeast-1」などが存在する、AWSにおけるデーターセンターの地理的拠点のことを指す用語は何でしょう？
+- question: バージニア北部の「us-east-1」や、東京の「ap-northeast-1」などが存在する、AWSにおけるデータセンターの地理的拠点のことを指す用語は何でしょう？
   answer: リージョン
   alternativeAnswers:
     - region
