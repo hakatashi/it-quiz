@@ -1865,3 +1865,37 @@
   answer: フレッツ 光25G
   alternativeAnswers:
     - 25G
+- question: 2025年12月に、16歳未満の子どもが主要なSNSを使うことを禁止する法律が世界で初めて施行された国はどこでしょう？
+  answer: オーストラリア
+- question: 2025/2026大会から、従来の日本大会の本戦を「セミファイナルステージ」とするなどのシステム変更が行われている、高校生以下を対象とする世界的な競技プログラミングの大会といえば「何オリンピック」でしょう？
+  answer: 情報オリンピック
+  alternativeAnswers:
+    - International Olympiad in Informatics
+    - IOI
+- question: IPAが毎年発表する「情報セキュリティ10大脅威」において、2026年版で初めてランクインした情報セキュリティにおける脅威といえば「何の利用をめぐるサイバーリスク」でしょう？
+  answer: AIの利用をめぐるサイバーリスク
+  alternativeAnswers:
+    - AI
+- question: 2026年1月に提供が開始された、従来の「ChatGPT Plus」の廉価版となるChatGPTの有料サブスクリプションプランは「ChatGPT 何」でしょう？
+  answer: ChatGPT Go
+  alternativeAnswers:
+    - Go
+    - チャットGPTゴー
+    - ゴー
+- question: 2026年にリリース予定のバージョン7.0から、Goによるコンパイラの完全書き換えを予定している、2012年に発表されたMicrosoftのプログラミング言語は何でしょう？
+  answer: TypeScript
+  alternativeAnswers:
+    - タイプスクリプト
+- question: 2026年2月に、日本の自治体として初めてNVIDIA社との連携協定を締結することを発表した都道府県はどこでしょう？
+  answer: 香川県
+  alternativeAnswers:
+    - 香川
+- question: その日本法人は東証プライム上場企業を除いた日本の上場企業で最も時価総額が高い、2026年にTikTokの米国事業を買収した企業連合の一角としても名を上げているアメリカのIT企業は何でしょう？
+  answer: オラクル
+  alternativeAnswers:
+    - Oracle Corporation
+    - Oracle
+- question: 2026年2月に公開80周年を迎え、実物大のレプリカの製作などの記念行事が行われた、約18,000本の真空管によって構成された世界初の電子式コンピュータといえば何でしょう？
+  answer: ENIAC
+  alternativeAnswers:
+    - エニアック
