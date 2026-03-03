@@ -16328,3 +16328,246 @@
   answer: スクリーンショット
   alternativeAnswers:
     - screen shot
+- question: Windowsなどの音量ミキサーにおいて、最終的に出力される音声の大きさを調整し、全体の音量をコントロールするパラメーターのことを「何ボリューム」というでしょう？
+  answer: マスターボリューム
+  alternativeAnswers:
+    - マスター
+    - master volume
+    - master
+- question: ロシア当局の検閲を回避するための手段として長らく利用されている、世界中に10億人以上のアクティブユーザーを持つロシア発のメッセージアプリは何でしょう？
+  answer: Telegram
+  alternativeAnswers:
+    - テレグラム
+- question: 「.csx」や「.cs」といった拡張子のファイルに標準でソースコードを保存する、ゲームエンジン「Unity」での開発にも用いられることで有名なプログラミング言語は何でしょう？
+  answer: C#
+  alternativeAnswers:
+    - Cシャープ
+- question: 音声のみを記録したファイルでは「.m4a」という拡張子が使用されることもある、音声や映像などを格納するフォーマットとして現在も広く使われているファイルフォーマットは何でしょう？
+  answer: MP4
+  alternativeAnswers:
+    - MPEG-4 Part 14
+- question: 日本語では「加盟店管理会社」などと呼ばれる、クレジットカード決済において決済を利用できる環境を提供し、加盟店の開拓や審査を行う事業者のことを英語で何というでしょう？
+  answer: アクワイアラ
+  alternativeAnswers:
+    - アクワイアラー
+    - acquirer
+- question: 自然言語処理において、文をそこに出現する単語の集合として表現したもののことを、アルファベット3文字の略称で何というでしょう？
+  answer: BoW
+  alternativeAnswers:
+    - Bag of Words
+- question: 中島健人が「10ティー」に扮するユーモラスなCMや、「だから私は」という印象的なキャッチコピーのCMなどでも人気を博した、ソニーが展開するスマートフォン機種ブランドは何でしょう？
+  answer: Xperia
+  alternativeAnswers:
+    - エクスペリア
+- question: 振動する部分の口径が大きいほど低音再生に有利とされる、スピーカーなどの音声再生機器において電気信号を振動に変換するユニットのことを「何ユニット」というでしょう？
+  answer: ドライバーユニット
+  alternativeAnswers:
+    - ドライバー
+    - driver unit
+    - driver
+- question: 多くのAndroidスマートフォンにおいて、「電源ボタン」と「音量を下げるボタン」を同時に押すことで起動することができる機能は何でしょう？
+  answer: スクリーンショット
+  alternativeAnswers:
+    - 画面撮影
+- question: 日本を囲う4つの海のうち、海底ケーブル網が特に未整備であり、災害時への備えとなる「日本周回ケーブル」の実現のために整備が急務とされているのはどの海でしょう？
+  answer: 日本海
+- question: Excelにおいて、ある日付が1900年の元日から数えて何日目にあたるかという数値で表したものを「何値」というでしょう？
+  answer: シリアル値
+  alternativeAnswers:
+    - シリアル
+    - serial number
+    - serial
+- question: インターネット掲示板などでかつて使われていたスラングで「ろだ」といえば、何というウェブサイトを略して呼んだ言葉でしょう？
+  answer: アップローダー
+  alternativeAnswers:
+    - アップローダ
+    - uploader
+- question: 「コンピューティング」や「ストレージ」といった言葉の前につくと別のIT用語になる、英語で「雲」などという意味を持つ言葉は何でしょう？
+  answer: クラウド
+  alternativeAnswers:
+    - cloud
+- question: 阪神タイガースのオフィシャルスポンサーを務め、リーグ優勝の際には大規模な優勝セールが開催されることでも知られる、本社を大阪に置く家電量販店は何でしょう？
+  answer: ジョーシン
+  alternativeAnswers:
+    - 上新電機株式会社
+    - 上新電機
+    - Joshin
+    - Joshin Denki
+- question: esbuildと呼ばれるバンドラーを利用した高速なビルドなどを特徴とする、Vue.jsの作者によって開発されたフロントエンド向けビルドツールは何でしょう？
+  answer: Vite
+  alternativeAnswers:
+    - ヴィート
+- question: エディタに統合するAIエージェントを自由に選択可能にする仕組みとしても注目を集めている、JetBrainsなどによって策定された、エージェント間のコミュニケーションなどを規定するプロトコルは何でしょう？
+  answer: ACP
+  alternativeAnswers:
+    - Agent Client Protocol
+- question: プルリクエストの生存期間を1～2日以内に収めるなどして、メインブランチにパッチを細かくコミットしていく開発モデルのことを、「何ベース開発」というでしょう？
+  answer: トランクベース開発
+  alternativeAnswers:
+    - トランクベース
+    - トランク
+    - trunk-based development
+    - TBD
+- question: チャットAIの「Seed」、画像生成AIの「Seedream」、動画生成AIの「Seedance」を開発している中国のIT企業は何でしょう？
+  answer: ByteDance
+  alternativeAnswers:
+    - バイトダンス
+- question: pingやtracerouteなどといったプログラムによって利用されている、IP通信に関する情報の交換を目的とする通信プロトコルの一種は何でしょう？
+  answer: ICMP
+- question: 「HERP Hire」や「HRMOS」などに代表される企業向けの「採用管理システム」のことを、アルファベット3文字の略称で何というでしょう？
+  answer: ATS
+  alternativeAnswers:
+    - Applicant Tracking System
+- question: マルウェアの中でも、宿主となるプログラムに寄生し、自らを複製して自律的に活動範囲を広げていくもののことを、感染症に例えたカナ4文字の表現で何というでしょう？
+  answer: ウイルス
+  alternativeAnswers:
+    - コンピューターウイルス
+    - ワーム
+    - virus
+    - computer virus
+    - worm
+- question: 本来の企業が開発した「純正品」に対して、その製品と互換性をもつ他の企業の製品のことを、「第三者」を意味する英語を用いて「何製品」というでしょう？
+  answer: サードパーティ製品
+  alternativeAnswers:
+    - サードパーティ
+    - third party
+- question: OSI参照モデルにおける最も下位の層にあたる、信号の変調や複調など、通信をどのような媒体を用いて伝達するかを規定する層のことを日本語で「何層」というでしょう？
+  answer: 物理層
+  alternativeAnswers:
+    - 物理
+    - physical layer
+    - physical
+- question: C言語など多くのプログラミング言語において、for文の初期化式・条件式・変化式の間を区切るのに用いられる記号は何でしょう？
+  answer: ;
+  alternativeAnswers:
+    - セミコロン
+    - semicolon
+- question: 独自のAIモデル「Sonar」の開発でも知られる、2022年にGoogleの元エンジニアによって創業された対話型AI検索エンジンのスタートアップは何でしょう？
+  answer: Perplexity AI, Inc.
+  alternativeAnswers:
+    - Perplexity
+    - パープレキシティ
+- question: 現在の建物は2014年の改築によって建てられたものである、秋葉原電気街のシンボルとして長年のあいだ知られ、「ラジカン」の愛称で親しまれる商業ビルは何でしょう？
+  answer: ラジオ会館
+- question: AMDでは同様の企業を「AIBパートナー」と呼ぶことが多い、メーカーからGPUチップの供給を受け、独自のグラフィックスカードを製造・販売する企業のことを、NVIDIAの用語では「何パートナー」というでしょう？
+  answer: AICパートナー
+  alternativeAnswers:
+    - AIC
+    - AIC partner
+    - Add In Card
+- question: 「身分証明」などを意味する英単語に由来する、パスワードとともにインターネットサービスの認証情報として入力されることが多い識別情報のことを、アルファベット2文字の略語で何というでしょう？
+  answer: ID
+- question: 「MDC Web」や「MUI」といったUIフレームワークを用いてウェブサイトにも実装することができる、2014年にGoogleが発表したデザインパターンといえば「何デザイン」でしょう？
+  answer: マテリアルデザイン
+  alternativeAnswers:
+    - マテリアル
+    - material design
+    - material
+- question: 「bitchat」や「Bluesky」といった分散型のウェブサービスをこれまでに発表してきた、かつてのTwitterの共同創業者の一人は誰でしょう？
+  answer: ジャック・ドーシー
+  alternativeAnswers:
+    - Jack Dorsey
+- question: いわゆる「クリック課金型広告」の指標として用いられる、ユーザーがウェブ広告を1回クリックするごとに発生する広告料金のことをアルファベット3文字で何というでしょう？
+  answer: CPC
+  alternativeAnswers:
+    - Cost Per Click
+- question: 「頭にあるアイデアをパッとかたちに」をキャッチコピーに、画像やシーン指定などを入力とする直感的な画像生成をサポートする、Googleが提供するAIサービスは何でしょう？
+  answer: Whisk
+  alternativeAnswers:
+    - ウィスク
+- question: 可愛いキャラクターをあしらった「Aoi Edition」や「Shizuku Edition」などの派生バージョンでも知られている、ディスクドライブの健康状態などをチェックすることができる日本のフリーソフトは「何DiskInfo」でしょう？
+  answer: CrystalDiskInfo
+  alternativeAnswers:
+    - Crystal
+    - クリスタルディスクインフォ
+    - クリスタル
+- question: 「有機EL」の別名である「OLED」の「O」は、何という英単語の略でしょう？
+  answer: Organic
+  alternativeAnswers:
+    - オーガニック
+- question: 金属を加工する旋盤の中でも、コンピュータ制御装置によって入力されたデータを基に自動加工する機能を持ったもののことを、アルファベット3文字を用いて「何旋盤」というでしょう？
+  answer: CNC旋盤
+  alternativeAnswers:
+    - CNC
+    - Computer Numerical Control
+- question: 【略称で回答】特にスマートフォンアプリの売り上げについて言うことが多い、特定の期間における商品・サービスの売り上げランキングを指すカナ四文字の言葉は何でしょう？
+  answer: セルラン
+  alternativeAnswers:
+    - セールスランキング
+    - sales ranking
+- question: iPadの側面に磁石で貼り付けることができる「第2世代」でも人気を博している、Apple社のiPad向けワイヤレス入力デバイスは「Apple 何」でしょう？
+  answer: Apple Pencil
+  alternativeAnswers:
+    - Pencil
+    - アップルペンシル
+    - ペンシル
+- question: 2011年以降、プログラミング言語C++の標準仕様は、何年ごとにリリースされているでしょう？
+  answer: 3年ごと
+  alternativeAnswers:
+    - 3年
+    - '3'
+- question: バージニア北部の「us-east-1」や、東京の「ap-northeast-1」などが存在する、AWSにおけるデータセンターの地理的拠点のことを指す用語は何でしょう？
+  answer: リージョン
+  alternativeAnswers:
+    - region
+- question: 「最期は毒リンゴをかじって自殺した」という説もしばしば語られる、現代コンピュータの基礎を築いたイギリスの科学者は誰でしょう？
+  answer: アラン・チューリング
+  alternativeAnswers:
+    - Alan Turing
+- question: 特定の周波数で共振を行う「共振回路」の代表例としてよく挙げられる、コイルとコンデンサによって構成される基本的な電気回路の構造のことを、これらを表す頭文字を順に取って「何回路」というでしょう？
+  answer: LC回路
+  alternativeAnswers:
+    - LC
+- question: アルファベット2文字で「AO」と略される、3DCGにおいて物体のくぼみなどの狭い場所にソフトな影を擬似的に表現する技術は「何オクルージョン」でしょう？
+  answer: アンビエントオクルージョン
+  alternativeAnswers:
+    - アンビエント
+    - Ambient Occlusion
+    - Ambient
+- question: Wordでは文書中にサンプルテキストを挿入する関数の名前になっている、CやRubyなどのプログラミング言語においては疑似乱数を生成するのに用いられる標準関数の名前は何でしょう？
+  answer: RAND
+- question: CLIコマンドの「jj」を用いて操作を行い、ファイルの変更を自動でスナップショットとして扱うなどの特徴を持つ、Googleによって開発されているGit互換のバージョン管理システム操作ツールは何でしょう？
+  answer: Jujutsu
+  alternativeAnswers:
+    - ジュージュツ
+    - ジュジュツ
+- question: 6G通信において主力通信帯になると見込まれている「7GHz帯」などの周波数帯で送られる電磁波のことを、その波長から別名「何波」と呼ぶでしょう？
+  answer: センチメートル波
+  alternativeAnswers:
+    - センチメートル
+- question: 7つの重点分野で構成される事業ブランド「Uvance」の推進で知られる、神奈川県川崎市に本社を置く日本のIT企業は何でしょう？
+  answer: 富士通株式会社
+  alternativeAnswers:
+    - 富士通
+    - Fujitsu Limited
+    - Fujitsu
+- question: 多くのLinuxシステムにおいて起動時にその中身が削除される、短期間の一時データを格納するために使われるルートディレクトリ直下の標準ディレクトリは何でしょう？
+  answer: /tmp
+  alternativeAnswers:
+    - tmp
+- question: フラッシュメモリの記録方式の1つ「MLC」では、1つのセルにつき通常何ビットのデータを書き込むことができるでしょう？
+  answer: 2ビット
+  alternativeAnswers:
+    - '2'
+    - 2 bits
+- question: AIシステムが複雑で高性能になる中で、AIの動作を人間の嗜好や倫理原則に合致させることを目的とする取り組みのことを、英語を用いて「AIの何問題」というでしょう？
+  answer: AIのアライメント問題
+  alternativeAnswers:
+    - アライメント問題
+    - アライメント
+    - alignment problem
+    - alignment
+- question: 無料の基本プランに「通話かけ放題」「データ使い放題」などの「トッピング」を追加する特徴的な料金プランを持つ、auが2021年から提供しているモバイル通信プランのブランド名は何でしょう？
+  answer: povo
+  alternativeAnswers:
+    - ポヴォ
+- question: かつて主流だった「ドットインパクト」や、現在も使われる「レーザー」「インクジェット」といえば、どのような電子機器の動作方式を表す言葉でしょう？
+  answer: プリンター
+  alternativeAnswers:
+    - プリンタ
+    - 印刷機
+    - printer
+- question: テキストエディタVimにおいて、ノーマルモードの状態から「help」や「q」といったコマンドを実行する前に入力する必要がある文字は何でしょう？
+  answer: ':'
+  alternativeAnswers:
+    - コロン
