@@ -1101,7 +1101,8 @@
   alternativeAnswers:
     - 2年
     - '2'
-- question: remove、fopen、gets、printfなどの関数が定義されている、主に入出力を行うための処理が記されたC言語の標準ヘッダファイルは「何.h」でしょう？
+- question: <ruby><rb>remove</rb><rp>(</rp><rt>リムーブ</rt><rp>)</rp></ruby>、<ruby><rb>fopen</rb><rp>(</rp><rt>エフオープン</rt><rp>)</rp></ruby>、<ruby><rb>gets</rb><rp>(</rp><rt>ゲットエス</rt><rp>)</rp></ruby>、<ruby><rb>printf</rb><rp>(</rp><rt>プリントエフ</rt><rp>)</rp></ruby>などの関数が定義されている、主に入出力を行うための処理が記されたC言語の標準ヘッダファイルは何でしょう？
+  minhayaQuestion: remove、fopen、gets、printfなどの関数が定義されている、主に入出力を行うための処理が記されたC言語の標準ヘッダファイルは「何.h」でしょう？
   answer: stdio.h
   alternativeAnswers:
     - stdio
@@ -4968,7 +4969,7 @@
   answer: Alienware
   alternativeAnswers:
     - エイリアンウェア
-- question: Bitcoinなどの仮想通貨に対して、円やドルなどの国が発行する通常の通貨のことを「何通貨」というでしょう？
+- question: Bitcoinなどの仮想通貨に対して、円やドルなどの、国が発行する通常の通貨のことを「何通貨」というでしょう？
   answer: 法定通貨
   alternativeAnswers:
     - 法定
@@ -4984,7 +4985,7 @@
     - ノーコード
     - no-code development
     - no-code
-- question: キヤノンのimageFORMULA、ブラザーのジャスティオ、PFUのScanSnapといえば、どんな電子機器でしょう？
+- question: キヤノンの<ruby><rb>imageFORMULA</rb><rp>(</rp><rt>イメージフォーミュラ</rt><rp>)</rp></ruby>、ブラザーのジャスティオ、PFUの<ruby><rb>ScanSnap</rb><rp>(</rp><rt>スキャンスナップ</rt><rp>)</rp></ruby>といえば、どんな電子機器でしょう？
   answer: スキャナー
   alternativeAnswers:
     - scanner
@@ -7781,7 +7782,7 @@
   answer: ファーストペンギン
   alternativeAnswers:
     - first penguin
-- question: 略称を「登録セキスペ」などという、情報セキュリティスペシャリストの後継として設置された、企業などでのサイバーセキュリティーの支援を業とする日本の国家資格は何でしょう？
+- question: 略称を「登録セキスペ」などという、情報セキュリティスペシャリストの後継として設置された、企業などでのサイバーセキュリティーの支援を<ruby><rb>業</rb><rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>とする日本の国家資格は何でしょう？
   answer: 情報処理安全確保支援士
 - question: コンピューターの画面に表示される部分を上下左右に動かすことで画面に収まりきらない部分を表示させることを、「巻物」を意味する英語から何というでしょう？
   answer: スクロール
@@ -9348,7 +9349,7 @@
     - dark net
 - question: NTTドコモの「IoTプラン」などで取得することができる、主にマシン間のデータ通信に用いられる携帯電話番号の最初の3桁は何でしょう？
   answer: '020'
-- question: 日本語では「圧電素子」と呼ばれ、インクジェットプリンターやスピーカーなど様々な用途で用いられる、圧力と電圧を変換するための電子部品をその英語名から一般に「何素子」というでしょう？
+- question: 日本語では「圧電素子」と呼ばれ、インクジェットプリンターやスピーカーなど様々な用途で用いられる、圧力と電圧を相互に変換するための電子部品をその英語名から一般に「何素子」というでしょう？
   answer: ピエゾ素子
   alternativeAnswers:
     - ピエゾ
@@ -9769,7 +9770,7 @@
     - deep learning
 - question: ソーシャルゲームにおいて、ガチャなどで期間を限らず入手することができるキャラクターのことを、期間限定であることを表す「限定」に対して何というでしょう？
   answer: 恒常
-- question: Q学習、SARSA、PPOなどの手法に代表される、学習システムが試行錯誤を繰り返しながら適切な制御方法を学習していく機械学習の学習手法を「何学習」というでしょう？
+- question: Q学習、<ruby><rb>SARSA</rb><rp>(</rp><rt>サルサ</rt><rp>)</rp></ruby>、PPOなどの手法に代表される、学習システムが試行錯誤を繰り返しながら適切な制御方法を学習していく機械学習の学習手法を「何学習」というでしょう？
   answer: 強化学習
   alternativeAnswers:
     - 強化
@@ -11868,7 +11869,7 @@
   alternativeAnswers:
     - Read Only Member
     - リードオンリーメンバー
-- question: Neuron、Sinequa、QuickSolutionなどの製品に代表される、会社の内外のデータを統合検索できるようにするためのコンピューターシステムのことを総称して何というでしょう？
+- question: Neuron、<ruby><rb>Sinequa</rb><rp>(</rp><rt>シネクア</rt><rp>)</rp></ruby>、QuickSolutionなどの製品に代表される、会社の内外のデータを統合検索できるようにするためのコンピューターシステムのことを総称して何というでしょう？
   answer: エンタープライズサーチ
   alternativeAnswers:
     - enterprise search
