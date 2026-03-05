@@ -14089,9 +14089,9 @@
   alternativeAnswers:
     - icon
 - question: 「ゆる言語学ラジオ」の2人のパーソナリティーが普段と逆の立場でトークを繰り広げ、さまざまなIT技術の仕組みについて解説していく、<ruby><rb>堀元見</rb><rp>(</rp><rt>ほりもとけん</rt><rp>)</rp></ruby>と<ruby><rb>水野太貴</rb><rp>(</rp><rt>みずのだいき</rt><rp>)</rp></ruby>によるYouTubeチャンネル・ポッドキャストは「何ラジオ」でしょう？
-  answer: ゆるコンピューター科学ラジオ
+  answer: ゆるコンピュータ科学ラジオ
   alternativeAnswers:
-    - ゆるコンピューター科学
+    - ゆるコンピュータ科学
 - question: デフォルトでは入力の最初の10行のみを表示するという挙動を行う、Linuxにおいて入力の先頭の指定した行数またはバイト数を出力に書き出すコマンドといえば「何コマンド」でしょう？
   answer: headコマンド
   alternativeAnswers:
