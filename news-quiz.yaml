@@ -1899,3 +1899,43 @@
   answer: ENIAC
   alternativeAnswers:
     - エニアック
+- question: Linuxディストリビューションのポータルサイト「DistroWatch」の人気ランキングで2025年4月以来首位をキープし続けている、高速な動作を特徴とするArchベースのLinuxディストリビューションは「何OS」でしょう？
+  answer: CachyOS
+  alternativeAnswers:
+    - Cachy
+    - キャシーOS
+    - キャシー
+- question: 2026年3月にはWindows版が一般提供された、OpenAI社が開発者向けに提供する自律コーディングエージェントは何でしょう？
+  answer: Codex
+  alternativeAnswers:
+    - コーデックス
+- question: その発表は「アンソロピック・ショック」と呼ばれる世界的な株価の急落現象を引き起こしたとされる、Claude Desktopに搭載された一般ユーザー向けのAIエージェント機能は「Claude 何」でしょう？
+  answer: Claude Cowork
+  alternativeAnswers:
+    - Cowork
+    - クロードコワーク
+    - コワーク
+- question: 2026年3月に惜しまれつつも亡くなった、プロセス計算のCSPやソートアルゴリズムのクイックソートを発明したことで知られるイギリスの計算機科学者は誰でしょう？
+  answer: トニー・ホーア
+  alternativeAnswers:
+    - アントニー・ホーア
+    - C・A・R・ホーア
+    - チャールズ・アントニー・リチャード・ホーア
+    - Sir Charles Antony Richard Hoare
+    - Antony Hoare
+    - Tony Hoare
+- question: 2026年3月にロゴマークをGeminiをイメージしたものに変更し、「Immersive Navigation」などGeminiを統合した機能を相次いで発表した、Googleが提供するウェブサービスは何でしょう？
+  minhayaQuestion: 【早押し注意】2026年3月にロゴマークをGeminiをイメージしたものに変更し、「Immersive Navigation」などGeminiを統合した機能を相次いで発表した、Googleが提供するウェブサービスは「Google 何」でしょう？
+  answer: Google マップ
+  alternativeAnswers:
+    - マップ
+    - Google Maps
+    - Maps
+- question: 2026年3月にMeta社によって買収された、AI同士の議論やコミュニティ形成を観察することができるAI専用SNSは何でしょう？
+  answer: Moltbook
+  alternativeAnswers:
+    - モルトブック
+- question: まるまると太ったロブスターをマスコットとする、2026年3月にGitHubで30万以上のスターを獲得したオープンソースのパーソナルAIアシスタントプラットフォームは何でしょう？
+  answer: OpenClaw
+  alternativeAnswers:
+    - オープンクロー
