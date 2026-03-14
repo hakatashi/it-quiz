@@ -16573,7 +16573,7 @@
   answer: ':'
   alternativeAnswers:
     - コロン
-- question: ElasticSearchの可視化ツール「Kibana」のUIを参考に設計されたことからその名がつけられた、世界中に2500万人以上のユーザーを持つとされるオープンソースのデータ可視化ツールは何でしょう？
+- question: Elasticsearchの可視化ツール「Kibana」のUIを参考に設計されたことからその名がつけられた、世界中に2500万人以上のユーザーを持つとされるオープンソースのデータ可視化ツールは何でしょう？
   answer: Grafana
   alternativeAnswers:
     - グラファナ
