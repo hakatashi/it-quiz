@@ -16573,3 +16573,110 @@
   answer: ':'
   alternativeAnswers:
     - コロン
+- question: ElasticSearchの可視化ツール「Kibana」のUIを参考に設計されたことからその名がつけられた、世界中に2500万人以上のユーザーを持つとされるオープンソースのデータ可視化ツールは何でしょう？
+  answer: Grafana
+  alternativeAnswers:
+    - グラファナ
+  description: https://grafana.com/success/
+- question: NVIDIAのRTX 20以降のGPUシリーズに搭載されている3種類のコアとは、レイトレーシング用の「RTコア」、ディープラーニング用の「Tensorコア」と、汎用グラフィクス処理用の「何コア」でしょう？
+  answer: CUDAコア
+  alternativeAnswers:
+    - CUDA
+    - クーダコア
+    - クーダ
+- question: 旧社名を「大日本インキ化学工業」という、印刷用インキの生産で世界一のシェアを持つ日本の企業は何でしょう？
+  answer: DIC株式会社
+  alternativeAnswers:
+    - DIC Corporation
+    - DIC
+- question: 特に広く使われている勤怠管理システムでは日本シェア1位の座をマネーフォワードと競い合っている、株式会社DONUTSによって提供される業務支援サービス群は何でしょう？
+  answer: ジョブカン
+- question: アルファベット2文字で「RL」と略される、行動から得られる報酬をもとに試行錯誤を繰り返し、長期的に報酬を最大化する機械学習の手法を日本語で「何学習」というでしょう？
+  answer: 強化学習
+  alternativeAnswers:
+    - Reinforcement Learning
+- question: 2000年代にDVDの後継規格の座を東芝の「HD DVD」と争って勝利した経歴を持つ、ソニーやパナソニックなどによって開発された第3世代光ディスク規格は何でしょう？
+  answer: ブルーレイ
+  alternativeAnswers:
+    - Blu-ray
+- question: 100満ボルト、石丸電気、ミドリ電化といった家電量販店をこれまでに買収しグループの一員に加えてきた、2002年にエイデンとデオデオの経営統合によって誕生した家電量販店チェーンは何でしょう？
+  answer: エディオン
+  alternativeAnswers:
+    - EDION
+- question: 既存のシステムをクラウド向けに再設計する「クラウドシフト」に対して、既存のシステムをそのままクラウドへ移行する手法のことを英語で何というでしょう？
+  answer: クラウドリフト
+  alternativeAnswers:
+    - cloud lift
+- question: 現在もアルファベット社の社員行動規範の最後でその存在が言及されている、Googleのモットーとして長らく使用されてきたとされるシンプルな英語のフレーズは何でしょう？
+  minhayaQuestion: 【早押し注意】現在もアルファベット社の社員行動規範の最後でその存在が言及されている、Googleのモットーとして長らく使用されてきたとされるシンプルな英語のフレーズは「Don't be 何.」でしょう？
+  answer: Don't be evil.
+  alternativeAnswers:
+    - evil
+    - 邪悪になるな
+    - 邪悪
+- question: 3DCGでは「シーン内に登場する小道具などのアセット」のことを、ReactやVueなどのウェブフレームワークでは「親コンポーネントから子コンポーネントに受け渡されるデータ」のことを指す英単語は何でしょう？
+  answer: prop
+  alternativeAnswers:
+    - props
+- question: 右ビットシフトと左ビットシフトのうち、その挙動からJavaやJavaScriptなどの言語においては算術シフトと論理シフトの2種類が利用可能なのはどちらのビットシフトでしょう？
+  answer: 右ビットシフト
+  alternativeAnswers:
+    - 右
+    - right bit shift
+    - right
+- question: 英語圏では「制御不能なAI」のメタファーとしてもよく用いられる、映画『ターミネーター』シリーズで核戦争を引き起こした軍用人工知能コンピュータシステムの名前は何でしょう？
+  answer: スカイネット
+  alternativeAnswers:
+    - Skynet
+- question: イーロン・マスクとともにPayPal社を設立したほか、OpenAIやパランティアなど多くの巨大AI企業の設立に関与してきた、その影響力の大きさから「影のアメリカ大統領」の異名を取るアメリカの投資家は誰でしょう？
+  answer: ピーター・ティール
+  alternativeAnswers:
+    - Peter Thiel
+- question: WorkflowyやDynalistなどに代表される、情報を階層構造の箇条書きで整理・管理することができるテキスト編集ツールのことを英語で何というでしょう？
+  answer: アウトライナー
+  alternativeAnswers:
+    - outliner
+- question: コーディングエージェントが作業をする環境を整え、なるべく人間の介入なしで安定した出力をするようにするエンジニアリングの作業のことを、HashiCorpの創業者が提唱した用語から「何エンジニアリング」というでしょう？
+  answer: ハーネスエンジニアリング
+  alternativeAnswers:
+    - ハーネス
+    - harness engineering
+    - harness
+- question: iPhone向けのAシリーズチップを搭載することで低価格化を実現している、2026年3月にAppleが発表したMacBookの廉価版モデルの名前は何でしょう？
+  minhayaQuestion: iPhone向けのAシリーズチップを搭載することで低価格化を実現している、2026年3月にAppleが発表したMacBookの廉価版モデルの名前は「MacBook 何」でしょう？
+  answer: MacBook Neo
+  alternativeAnswers:
+    - Neo
+    - マックブックネオ
+    - ネオ
+- question: 1台の親機と複数台の子機を用いて網目状のネットワークをつくることで、広い範囲をカバーできるようにしたWi-Fiネットワークのことを「何Wi-Fi」というでしょう？
+  answer: メッシュWi-Fi
+  alternativeAnswers:
+    - メッシュワイファイ
+    - メッシュ
+    - mesh Wi-Fi
+    - mesh
+- question: フロア、クリーナー、機器といった言葉の前について別のIT用語になる、本来は「事務作業の自動化」を意味するアルファベット2文字の用語は何でしょう？
+  answer: OA
+  alternativeAnswers:
+    - Office Automation
+- question: ベトナムを表す「V」が最後に足されることもある、コンピューターによる文字処理の文脈において、漢字使用圏の国々をまとめて呼ぶアルファベット3文字の略称は何でしょう？
+  answer: CJK
+  alternativeAnswers:
+    - China Japan Korea
+- question: 初期のバージョンは「Phoenix」という名前でリリースされていた、Netscapeブラウザのソースコードから派生して誕生したオープンソースのウェブブラウザは何でしょう？
+  answer: Firefox
+  alternativeAnswers:
+    - ファイアフォックス
+    - ファイヤフォックス
+  description: https://www.mozilla.org/en-US/about/history/
+- question: 英語の「free」が「自由」と「無料」の2つの意味を持つことから、自由ソフトウェア運動などの文脈で特に「自由」の意味のみを表す際に用いられるフランス語の単語は何でしょう？
+  answer: libre
+  alternativeAnswers:
+    - リブレ
+- question: 一般的に使用されるメカニカルキーボードのスイッチの中でも、マウスクリックのような音と強いタイピング感を特徴とするもののことを、その色から「何軸」というでしょう？
+  answer: 青軸
+  alternativeAnswers:
+    - 青
+- question: 現在正式に登録されたHTTPステータスコードの中で最も新しい、TLSの0-RTT機能におけるリプレイ攻撃を防ぐために2019年に追加されたステータスコード「Too Early」のステータス番号は何番でしょう？
+  answer: '425'
