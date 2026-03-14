@@ -838,7 +838,7 @@
     - くりたしげたか
 - question: 主にソーシャルゲームにおいて、ガチャなどに使えるゲーム内通貨を消費してスタミナを回復することを俗に何というでしょう？
   answer: 石割り
-- question: 英語で「落書き」という意味がある、記念日や誕生日などに1日限定で変更されるGoogleの特殊なロゴマークは何でしょう？
+- question: 英語で「落書き」という意味がある、記念日や誕生日などに1日限定で変更されるGoogleの特殊なロゴマークの名前は何でしょう？
   answer: Doodle
   alternativeAnswers:
     - Google Doodle
@@ -2147,7 +2147,7 @@
   answer: (PRODUCT)RED
   alternativeAnswers:
     - プロダクトレッド
-- question: その名称は開発者である工藤拓の好物から名付けられた、日本語自然言語処理で広く用いられているオープンソースの形態素解析エンジンは何でしょう？
+- question: その名称は開発者である<ruby><rb>工藤拓</rb><rp>(</rp><rt>くどうたく</rt><rp>)</rp></ruby>の好物から名付けられた、日本語自然言語処理で広く用いられているオープンソースの形態素解析エンジンは何でしょう？
   answer: MeCab
 - question: CVE番号ではCVE-2014-6271にあたる、Bashの実行時に環境変数を定義することにより任意コードが実行可能となる脆弱性は何でしょう？
   answer: Shellshock
@@ -5609,7 +5609,7 @@
   answer: フルビット
   alternativeAnswers:
     - フルビット免許
-- question: 自作PCの愛好家からは「石」とも呼ばれている、コンピューターにおいて演算処理の中心となる部品は何でしょう？
+- question: 自作PCの愛好家からは「<ruby><rb>石</rb><rp>(</rp><rt>いし</rt><rp>)</rp></ruby>」とも呼ばれている、コンピューターにおいて演算処理の中心となる部品は何でしょう？
   answer: CPU
   alternativeAnswers:
     - Central Processing Unit
@@ -6266,7 +6266,7 @@
 - question: 一般的には「ハイバネーション」と呼ばれる、Windowsを終了する際に現在のメモリの内容をドライブに退避させてから電源を落とすOSの機能を日本語で何というでしょう？
   answer: 休止状態
   description: 電源を落とさないハイバネーションの亜種機能は「スタンバイ」
-- question: SSDの寿命を伸ばすため、記憶装置への書き込み位置がなるべく一箇所に集中しないようにする技術を英語で何というでしょう？
+- question: SSDの寿命を伸ばすため、データの書き込み位置がなるべく一箇所に集中しないようにする技術を英語で何というでしょう？
   answer: ウェアレベリング
   alternativeAnswers:
     - wear leveling
@@ -7871,7 +7871,7 @@
   answer: オンプレミス
   alternativeAnswers:
     - on-premise
-- question: 情報量の単位で、<em>小文字の</em>bはビットですが、大文字のBは何という単位を表すでしょう？
+- question: 情報量の単位で、<em>小文字の</em>bはビットですが、<ruby><rb>大文字</rb><rp>(</rp><rt>おおもじ</rt><rp>)</rp></ruby>のBは何という単位を表すでしょう？
   answer: バイト
   alternativeAnswers:
     - byte
@@ -11743,11 +11743,13 @@
   answer: ページビュー
   alternativeAnswers:
     - Page View
-- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
+- question: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で何というでしょう？
+  minhayaQuestion: <ruby><rb>IEEE</rb><rp>(</rp><rt>アイトリプルイー</rt><rp>)</rp></ruby>方式の浮動小数点数では最も大きい情報量を占める、数値を指数表記する際に、冪乗数に乗算する形で左側に書く数値のことを日本語で「何部」というでしょう？
   answer: 仮数部
   alternativeAnswers:
     - 仮数
     - mantissa
+    - fraction
 - question: 初心者でも専門家と同じレベルの問題解決が可能となるよう、その領域の専門知識をもとに動作するコンピュータシステムのことを英語で「何システム」というでしょう？
   answer: エキスパートシステム
   alternativeAnswers:
@@ -11915,10 +11917,9 @@
   answer: アラン
   alternativeAnswers:
     - Alan
-- question: ChromeやFirefoxなどのウェブブラウザのメジャーバージョン更新は、原則として何週間に1回行われるでしょう？
-  answer: 4週間
-  alternativeAnswers:
-    - '4'
+- removed:
+    type: deleted
+    reason: 事実関係の変化による
 - question: いわゆる「ビッグデータの3V」とは、Volume、Varietyと何でしょう？
   answer: Velocity
   alternativeAnswers:
@@ -12027,7 +12028,7 @@
   answer: アルゴリズム
   alternativeAnswers:
     - algorithm
-- question: GREEの田中良和、mixiの笠原健治、はてなの近藤淳也などの創業者に代表される、青年時代をパソコンブームの中で過ごしたいわゆる「第3世代」のネット起業家のことを、その誕生年から「何世代」と呼ぶでしょう？
+- question: GREEの<ruby><rb>田中良和</rb><rp>(</rp><rt>たなかよしかず</rt><rp>)</rp></ruby>、mixiの<ruby><rb>笠原健治</rb><rp>(</rp><rt>かさはらけんじ</rt><rp>)</rp></ruby>、はてなの<ruby><rb>近藤淳也</rb><rp>(</rp><rt>こんどうじゅんや</rt><rp>)</rp></ruby>などの創業者に代表される、青年時代をパソコンブームの中で過ごしたいわゆる「第3世代」のネット起業家のことを、その誕生年から「何世代」と呼ぶでしょう？
   answer: ナナロク世代
   alternativeAnswers:
     - ナナロク
@@ -13224,7 +13225,7 @@
   alternativeAnswers:
     - fail safe
     - フェイルセーフ
-- question: アルファベット4文字で「HCAI」と略されることもある、2018年に日本政府が策定したAI開発の7つの原則においては根本原則にもなっているAIの基本開発指針といえば、「何中心のAI」でしょう？
+- question: アルファベット4文字で「HCAI」と略されることもある、2018年に日本政府が策定したAI開発の7原則においては根本原則にもなっているAIの基本開発指針といえば、「何中心のAI」でしょう？
   answer: 人間中心のAI
   alternativeAnswers:
     - 人間
@@ -13507,7 +13508,7 @@
   answer: Hugging Face
   alternativeAnswers:
     - ハギングフェイス
-- question: 共同創業者の名前である「ミッチェル・ハシモト」が社名の由来となっている、TerraformやVaultなどインフラを支える製品を多く開発していることで知られるアメリカの企業は何でしょう？
+- question: 共同創業者の名前である「ミッチェル・ハシモト」が社名の由来となっている、TerraformやVaultなどインフラを支える製品を多く開発するアメリカの企業は何でしょう？
   answer: HashiCorp
   alternativeAnswers:
     - ハシコープ
@@ -13815,7 +13816,7 @@
     - S3
     - Amazon Simple Storage Service
     - Simple Storage Service
-- question: 現在のGUIの基礎となっている「WIMP」ユーザーインターフェースを構成する4つの要素とは、ウィンドウ・アイコン・メニューと何でしょう？
+- question: 現在のGUIの基礎となっている「WIMP」ユーザーインターフェースを構成する4つの要素とは、ウィンドウ、アイコン、メニューと何でしょう？
   answer: ポインター
   alternativeAnswers:
     - ポインタ
@@ -14001,10 +14002,10 @@
     - squiggle maximizer problem
     - squiggle maximizer
     - squiggle
-- question: 北海道<ruby><rb>美唄市</rb><rp>(</rp><rt>びばいし</rt><rp>)</rp></ruby>が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から行っていることが名前の由来です。その「あるもの」とは何でしょう？
+- question: 北海道<ruby><rb>美唄市</rb><rp>(</rp><rt>びばいし</rt><rp>)</rp></ruby>が推進する「ホワイトデータセンター構想」は、データセンターの運用に「あるもの」を活用する世界初の実証実験を2010年から<ruby><rb>行</rb><rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>っていることが名前の由来です。その「あるもの」とは何でしょう？
   answer: 雪
   description: https://www.city.bibai.hokkaido.jp/soshiki/13/417.html
-- question: Ruby・Kotlin・Groovyなどの言語では暗黙の引数を表すのに用いられ、RSpec・Jest・Mochaなどのテストフレームワークではテストケースの記述に用いられる、ある英語の代名詞に由来するキーワードは何でしょう？
+- question: Ruby・Kotlin・Groovyなどの言語では暗黙の引数を表すのに用いられ、<ruby><rb>RSpec</rb><rp>(</rp><rt>アールスペック</rt><rp>)</rp></ruby>・<ruby><rb>Jest</rb><rp>(</rp><rt>ジェスト</rt><rp>)</rp></ruby>・<ruby><rb>Mocha</rb><rp>(</rp><rt>モカ</rt><rp>)</rp></ruby>などのテストフレームワークではテストケースの記述に用いられる、ある英語の代名詞に由来するキーワードは何でしょう？
   answer: it
 - question: 英語圏では「BSoD」と略されることもある、Windowsで重大なエラーが発生して強制終了した際に表示される画面のことを、日本では特に何というでしょう？
   answer: ブルースクリーン
@@ -16355,7 +16356,7 @@
   answer: BoW
   alternativeAnswers:
     - Bag of Words
-- question: 中島健人が「10ティー」に扮するユーモラスなCMや、「だから私は」という印象的なキャッチコピーのCMなどでも人気を博した、ソニーが展開するスマートフォン機種ブランドは何でしょう？
+- question: 中島健人が「<ruby><rb>10</rb><rp>(</rp><rt>テン</rt><rp>)</rp></ruby>ティー」に扮するユーモラスなCMや、「だから私は」という印象的なキャッチコピーのCMなどでも人気を博した、ソニーが展開するスマートフォン機種ブランドは何でしょう？
   answer: Xperia
   alternativeAnswers:
     - エクスペリア
@@ -16377,7 +16378,7 @@
     - シリアル
     - serial number
     - serial
-- question: インターネット掲示板などでかつて使われていたスラングで「ろだ」といえば、何というウェブサイトを略して呼んだ言葉でしょう？
+- question: インターネット掲示板などでかつて使われていたスラングで「ろだ」といえば、どんな種類のウェブサイトを略して呼んだ言葉でしょう？
   answer: アップローダー
   alternativeAnswers:
     - アップローダ
@@ -16414,7 +16415,7 @@
     - バイトダンス
 - question: pingやtracerouteなどといったプログラムによって利用されている、IP通信に関する情報の交換を目的とする通信プロトコルの一種は何でしょう？
   answer: ICMP
-- question: 「HERP Hire」や「HRMOS」などに代表される企業向けの「採用管理システム」のことを、アルファベット3文字の略称で何というでしょう？
+- question: 「<ruby><rb>HERP Hire</rb><rp>(</rp><rt>ハープ・ハイア</rt><rp>)</rp></ruby>」や「<ruby><rb>HRMOS</rb><rp>(</rp><rt>ハーモス</rt><rp>)</rp></ruby>」などに代表される企業向けの「採用管理システム」のことを、アルファベット3文字の略称で何というでしょう？
   answer: ATS
   alternativeAnswers:
     - Applicant Tracking System
@@ -16471,11 +16472,12 @@
   answer: CPC
   alternativeAnswers:
     - Cost Per Click
-- question: 「頭にあるアイデアをパッとかたちに」をキャッチコピーに、画像やシーン指定などを入力とする直感的な画像生成をサポートする、Googleが提供するAIサービスは何でしょう？
+- question: 「頭にあるアイデアをパッとかたちに」をキャッチコピーに、画像やシーン指定などを入力とする直感的な画像生成をサポートする、GoogleのAIサービスは何でしょう？
   answer: Whisk
   alternativeAnswers:
     - ウィスク
-- question: 可愛いキャラクターをあしらった「Aoi Edition」や「Shizuku Edition」などの派生バージョンでも知られている、ディスクドライブの健康状態などをチェックすることができる日本のフリーソフトは「何DiskInfo」でしょう？
+- question: 可愛いキャラクターをあしらった「Aoi Edition」や「Shizuku Edition」などの派生バージョンでも知られている、ディスクドライブの健康状態などをチェックすることができる日本のフリーソフトは何でしょう？
+  minhayaQuestion: 可愛いキャラクターをあしらった「Aoi Edition」や「Shizuku Edition」などの派生バージョンでも知られている、ディスクドライブの健康状態などをチェックすることができる日本のフリーソフトは「何DiskInfo」でしょう？
   answer: CrystalDiskInfo
   alternativeAnswers:
     - Crystal
@@ -16485,7 +16487,7 @@
   answer: Organic
   alternativeAnswers:
     - オーガニック
-- question: 金属を加工する旋盤の中でも、コンピュータ制御装置によって入力されたデータを基に自動加工する機能を持ったもののことを、アルファベット3文字を用いて「何旋盤」というでしょう？
+- question: 金属を加工する旋盤の中でも、コンピュータ制御装置によって入力されたデータを<ruby><rb>基</rb><rp>(</rp><rt>もと</rt><rp>)</rp></ruby>に自動加工する機能を持ったもののことを、アルファベット3文字を用いて「何旋盤」というでしょう？
   answer: CNC旋盤
   alternativeAnswers:
     - CNC
@@ -16495,7 +16497,7 @@
   alternativeAnswers:
     - セールスランキング
     - sales ranking
-- question: iPadの側面に磁石で貼り付けることができる「第2世代」でも人気を博している、Apple社のiPad向けワイヤレス入力デバイスは「Apple 何」でしょう？
+- question: iPadの側面に磁石で貼り付けることができる「第2世代」でも人気を博している、Apple社のiPad向けワイヤレス入力デバイスは何でしょう？
   answer: Apple Pencil
   alternativeAnswers:
     - Pencil
@@ -16514,7 +16516,7 @@
   answer: アラン・チューリング
   alternativeAnswers:
     - Alan Turing
-- question: 特定の周波数で共振を行う「共振回路」の代表例としてよく挙げられる、コイルとコンデンサによって構成される基本的な電気回路の構造のことを、これらを表す頭文字を順に取って「何回路」というでしょう？
+- question: 特定の周波数で共振を行う「共振回路」の代表例としてよく挙げられる、コイルとコンデンサによって構成される基本的な電気回路の構造のことを、これらを表すアルファベットを順に取って「何回路」というでしょう？
   answer: LC回路
   alternativeAnswers:
     - LC
@@ -16535,7 +16537,7 @@
   answer: センチメートル波
   alternativeAnswers:
     - センチメートル
-- question: 7つの重点分野で構成される事業ブランド「Uvance」の推進で知られる、神奈川県川崎市に本社を置く日本のIT企業は何でしょう？
+- question: 7つの重点分野で構成される事業ブランド「<ruby><rb>Uvance</rb><rp>(</rp><rt>ユーバンス</rt><rp>)</rp></ruby>」の推進で知られる、神奈川県川崎市に本社を置く日本のIT企業は何でしょう？
   answer: 富士通株式会社
   alternativeAnswers:
     - 富士通
